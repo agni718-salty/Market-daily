@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>데일리 마켓 대시보드</title>
-  <script src="https://unpkg.com/lightweight-charts@4.0.1/dist/lightweight-charts.standalone.production.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightweight-charts/4.0.1/lightweight-charts.standalone.production.js"></script>
   <style>
     :root {
       --bg-color: #121212;
@@ -27,7 +27,7 @@
     }
     header {
       text-align: center;
-      padding: 12px 0 20px 0;
+      padding: 12px 0 16px 0;
       border-bottom: 1px solid var(--border-color);
       margin-bottom: 16px;
     }
@@ -51,29 +51,45 @@
       border: 1px solid var(--border-color);
     }
     
-    .time-selector {
+    .tab-selector {
       display: flex;
       gap: 6px;
+      flex-wrap: wrap;
+      margin-bottom: 10px;
     }
-    .time-btn {
+    .tab-btn, .time-btn {
       background: #2a2a2a;
       color: var(--text-sub);
-      border: none;
-      padding: 4px 10px;
+      border: 1px solid #3a3a3a;
+      padding: 5px 10px;
       border-radius: 6px;
       font-size: 0.8rem;
       cursor: pointer;
     }
-    .time-btn.active {
+    .tab-btn.active, .time-btn.active {
       background: #444;
       color: #fff;
       font-weight: bold;
+      border-color: #666;
     }
     
+    .chart-header-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 6px;
+      margin-bottom: 6px;
+    }
+    .chart-name {
+      font-size: 0.95rem;
+      font-weight: 700;
+      color: #ffd54f;
+    }
+
     .chart-container {
       width: 100%;
-      height: 260px;
-      margin-top: 14px;
+      height: 250px;
+      margin-top: 6px;
     }
     
     .indicator-row {
@@ -89,30 +105,42 @@
     .up { color: var(--up-color); }
     .down { color: var(--down-color); }
 
+    /* 뉴스 요청 포맷 */
     .news-item {
-      margin-bottom: 16px;
+      margin-bottom: 20px;
       padding-bottom: 16px;
       border-bottom: 1px solid var(--border-color);
     }
     .news-item:last-child { margin-bottom: 0; padding-bottom: 0; border-bottom: none; }
-    .news-header {
-      font-weight: 600;
-      font-size: 0.95rem;
-      margin-bottom: 6px;
-      display: flex;
-      flex-wrap: wrap;
-      gap: 6px;
+    .news-title {
+      font-weight: 700;
+      font-size: 0.98rem;
+      color: #fff;
+      margin-bottom: 4px;
+      line-height: 1.4;
+    }
+    .news-link-box {
+      margin-bottom: 8px;
     }
     .news-link {
       color: #82B1FF;
       text-decoration: none;
-      font-size: 0.85rem;
+      font-size: 0.82rem;
+      display: inline-block;
+      border: 1px solid rgba(130, 177, 255, 0.4);
+      padding: 2px 8px;
+      border-radius: 4px;
+      background: rgba(130, 177, 255, 0.05);
     }
     .news-summary {
       font-size: 0.88rem;
-      color: #ccc;
-      line-height: 1.55;
+      color: #bbb;
+      line-height: 1.6;
       text-align: justify;
+      background: rgba(0,0,0,0.2);
+      padding: 10px 12px;
+      border-radius: 6px;
+      border-left: 3px solid #82B1FF;
     }
     
     .schedule-item {
@@ -126,134 +154,155 @@
 
   <header>
     <h1>📊 데일리 마켓 대시보드</h1>
-    <p id="updated-time">데이터 동기화 중...</p>
+    <p id="updated-time">동기화 중...</p>
   </header>
 
-  <!-- 1. 주요 지수 캔들 차트 -->
+  <!-- 1. 주요 시장 지수 -->
   <div class="section-title">
-    <span>📈 주요 시장 지수 (캔들차트)</span>
-    <div class="time-selector">
-      <button class="time-btn active" onclick="changeRange('3M')">3M</button>
-      <button class="time-btn" onclick="changeRange('6M')">6M</button>
-      <button class="time-btn" onclick="changeRange('1Y')">1Y</button>
-      <button class="time-btn" onclick="changeRange('3Y')">3Y</button>
-    </div>
+    <span>📈 주요 시장 지수</span>
   </div>
   <div class="card">
-    <div id="index-prices"></div>
-    <div id="candle-chart" class="chart-container"></div>
+    <div id="index-prices">불러오는 중...</div>
+    
+    <div style="margin-top: 14px; border-top: 1px solid var(--border-color); padding-top: 12px;">
+      <!-- 지수 선택 탭 -->
+      <div class="tab-selector" id="index-tabs">
+        <button class="tab-btn active" onclick="selectIndexChart('S&P 500')">S&P 500</button>
+        <button class="tab-btn" onclick="selectIndexChart('나스닥')">나스닥</button>
+        <button class="tab-btn" onclick="selectIndexChart('다우 존스')">다우 존스</button>
+        <button class="tab-btn" onclick="selectIndexChart('코스피')">코스피</button>
+      </div>
+
+      <!-- 차트 기간 선택기 -->
+      <div class="chart-header-row">
+        <span class="chart-name" id="current-index-title">S&P 500 캔들차트</span>
+        <div class="tab-selector" style="margin-bottom:0;">
+          <button class="time-btn active" onclick="changeRange('3M')">3M</button>
+          <button class="time-btn" onclick="changeRange('6M')">6M</button>
+          <button class="time-btn" onclick="changeRange('1Y')">1Y</button>
+          <button class="time-btn" onclick="changeRange('3Y')">3Y</button>
+        </div>
+      </div>
+      <div id="candle-chart" class="chart-container"></div>
+    </div>
   </div>
 
-  <!-- 2. 통화 & 거시 금리 라인 차트 -->
+  <!-- 2. 통화 & 거시 금리 -->
   <div class="section-title">
     <span>💵 통화 & 거시 금리 (최근 3개월)</span>
   </div>
   <div class="card">
-    <div id="macro-prices"></div>
-    <div id="line-chart" class="chart-container"></div>
+    <div id="macro-prices">불러오는 중...</div>
+
+    <div style="margin-top: 14px; border-top: 1px solid var(--border-color); padding-top: 12px;">
+      <!-- 거시 지표 선택 탭 -->
+      <div class="tab-selector" id="macro-tabs">
+        <button class="tab-btn active" onclick="selectMacroChart('원/달러 환율')">원/달러 환율</button>
+        <button class="tab-btn" onclick="selectMacroChart('미국채 10년물 금리')">미국채 10년물</button>
+        <button class="tab-btn" onclick="selectMacroChart('미국채 30년물 금리')">미국채 30년물</button>
+      </div>
+      <div class="chart-header-row">
+        <span class="chart-name" id="current-macro-title">원/달러 환율 추이</span>
+      </div>
+      <div id="line-chart" class="chart-container"></div>
+    </div>
   </div>
 
   <!-- 3. 국내 언론사 핵심 뉴스 10선 -->
   <div class="section-title">
     <span>📰 국내 핵심 경제 뉴스 10선</span>
   </div>
-  <div class="card" id="news-list"></div>
+  <div class="card" id="news-list">불러오는 중...</div>
 
   <!-- 4. 경제 지표 일정 -->
   <div class="section-title">
     <span>📅 핵심 경제 지표 결과 & 일정</span>
   </div>
-  <div class="card" id="calendar-info"></div>
+  <div class="card" id="calendar-info">불러오는 중...</div>
 
   <script>
     let globalData = null;
     let candleChart = null;
+    let candleSeries = null;
+    let currentIndex = 'S&P 500';
+    let currentRange = '3M';
 
-    fetch('./data.json?t=' + Date.now())
+    let lineChart = null;
+    let lineSeries = null;
+    let currentMacro = '원/달러 환율';
+
+    fetch('data.json?t=' + Date.now())
       .then(res => res.json())
       .then(data => {
         globalData = data;
-        document.getElementById('updated-time').innerText = `최종 업데이트: ${data.updated_at || '확인됨'}`;
-        
-        // 지표 요약
-        try {
-          const idxDiv = document.getElementById('index-prices');
-          if (data.indices && data.indices.summary) {
-            idxDiv.innerHTML = data.indices.summary.map(item => {
-              const isUp = String(item.change).indexOf('-') === -1;
-              return `
-                <div class="indicator-row">
-                  <span class="indicator-title">${item.name}</span>
-                  <span class="indicator-val ${isUp ? 'up' : 'down'}">
-                    ${item.price} (${isUp ? '▲ +' : '▼ '}${item.change_pct}%)
-                  </span>
-                </div>
-              `;
-            }).join('');
-          }
+        document.getElementById('updated-time').innerText = "최종 업데이트: " + (data.updated_at || "완료");
 
-          const macroDiv = document.getElementById('macro-prices');
-          if (data.macro && data.macro.summary) {
-            macroDiv.innerHTML = data.macro.summary.map(item => {
-              const isUp = String(item.change).indexOf('-') === -1;
-              return `
-                <div class="indicator-row">
-                  <span class="indicator-title">${item.name}</span>
-                  <span class="indicator-val ${isUp ? 'up' : 'down'}">
-                    ${item.value} (${isUp ? '▲ +' : '▼ '}${item.change_str})
-                  </span>
-                </div>
-              `;
-            }).join('');
-          }
-        } catch(e) { console.error('요약 렌더링 에러:', e); }
-
-        // 뉴스
-        try {
-          const nDiv = document.getElementById('news-list');
-          if (data.news) {
-            nDiv.innerHTML = data.news.map((n, idx) => `
-              <div class="news-item">
-                <div class="news-header">
-                  <span>${idx + 1}. ${n.title}</span>
-                  <a href="${n.link}" target="_blank" rel="noopener noreferrer" class="news-link">[원문 보기]</a>
-                </div>
-                <div class="news-summary">${n.summary}</div>
+        // 지수 요약 테이블 렌더링
+        if (data.indices && data.indices.summary) {
+          document.getElementById('index-prices').innerHTML = data.indices.summary.map(item => {
+            const isDown = String(item.change).startsWith('-');
+            const sign = isDown ? '▼ ' : '▲ +';
+            return `
+              <div class="indicator-row">
+                <span class="indicator-title">${item.name}</span>
+                <span class="indicator-val ${isDown ? 'down' : 'up'}">
+                  ${item.price} (${sign}${item.change_pct.replace('+', '')}%)
+                </span>
               </div>
-            `).join('');
-          }
-        } catch(e) { console.error('뉴스 렌더링 에러:', e); }
+            `;
+          }).join('');
+        }
 
-        // 일정
-        try {
-          const sDiv = document.getElementById('calendar-info');
-          if (data.schedules) {
-            sDiv.innerHTML = data.schedules.map(item => `
-              <div class="schedule-item">
-                <strong>• ${item.title}:</strong> ${item.desc}
+        // 거시 지표 요약 렌더링
+        if (data.macro && data.macro.summary) {
+          document.getElementById('macro-prices').innerHTML = data.macro.summary.map(item => {
+            const isDown = String(item.change).startsWith('-');
+            const sign = isDown ? '▼ ' : '▲ +';
+            return `
+              <div class="indicator-row">
+                <span class="indicator-title">${item.name}</span>
+                <span class="indicator-val ${isDown ? 'down' : 'up'}">
+                  ${item.value} (${sign}${item.change_str.replace('+', '')})
+                </span>
               </div>
-            `).join('');
-          }
-        } catch(e) { console.error('일정 렌더링 에러:', e); }
+            `;
+          }).join('');
+        }
 
-        // 차트 렌더링
-        try {
-          if (data.indices && data.indices.sp500_candles) {
-            renderCandleChart(data.indices.sp500_candles, '3M');
-          }
-          if (data.macro && data.macro.usdkrw_series) {
-            renderLineChart(data.macro.usdkrw_series);
-          }
-        } catch(e) { console.error('차트 렌더링 에러:', e); }
+        // 10대 뉴스 개편 렌더링
+        if (data.news) {
+          document.getElementById('news-list').innerHTML = data.news.map((n, idx) => `
+            <div class="news-item">
+              <div class="news-title">${idx + 1}. ${n.title}</div>
+              <div class="news-link-box">
+                <a href="${n.link}" target="_blank" rel="noopener noreferrer" class="news-link">🔗 [원문 링크]</a>
+              </div>
+              <div class="news-summary">${n.summary}</div>
+            </div>
+          `).join('');
+        }
 
+        // 일정 렌더링
+        if (data.schedules) {
+          document.getElementById('calendar-info').innerHTML = data.schedules.map(item => `
+            <div class="schedule-item">
+              <strong>• ${item.title}:</strong> ${item.desc}
+            </div>
+          `).join('');
+        }
+
+        // 초기 차트 로딩
+        initCandleChart();
+        initLineChart();
       })
       .catch(err => {
-        document.getElementById('updated-time').innerText = '데이터를 불러오는 중입니다. 새로고침해 주세요.';
-        console.error('Fetch 에러:', err);
+        document.getElementById('updated-time').innerText = "데이터 로딩 오류: " + err.message;
       });
 
-    function renderCandleChart(candles, defaultRange) {
+    // 캔들차트 초기화 및 지수 전환
+    function initCandleChart() {
       const container = document.getElementById('candle-chart');
+      container.innerHTML = '';
       candleChart = LightweightCharts.createChart(container, {
         layout: { background: { color: '#1e1e1e' }, textColor: '#d1d4dc' },
         grid: { vertLines: { color: '#2b2b43' }, horzLines: { color: '#2b2b43' } },
@@ -262,7 +311,7 @@
         autoSize: true,
       });
 
-      const series = candleChart.addCandlestickSeries({
+      candleSeries = candleChart.addCandlestickSeries({
         upColor: '#E57373',
         downColor: '#64B5F6',
         borderVisible: false,
@@ -270,45 +319,74 @@
         wickDownColor: '#64B5F6',
       });
 
-      series.setData(candles);
-      changeRange(defaultRange);
+      selectIndexChart('S&P 500');
+    }
+
+    function selectIndexChart(indexName) {
+      currentIndex = indexName;
+      document.querySelectorAll('#index-tabs .tab-btn').forEach(b => {
+        b.classList.toggle('active', b.innerText === indexName);
+      });
+      document.getElementById('current-index-title').innerText = `${indexName} 캔들차트`;
+
+      if (!globalData || !globalData.indices.candles_dict) return;
+      const candles = globalData.indices.candles_dict[indexName] || [];
+      candleSeries.setData(candles);
+      changeRange(currentRange);
     }
 
     function changeRange(range) {
+      currentRange = range;
       document.querySelectorAll('.time-btn').forEach(btn => {
         btn.classList.toggle('active', btn.innerText === range);
       });
-      if (!candleChart || !globalData || !globalData.indices || !globalData.indices.sp500_candles) return;
-
-      const totalBars = globalData.indices.sp500_candles.length;
-      let barsToShow = 65;
-      if (range === '6M') barsToShow = 130;
-      if (range === '1Y') barsToShow = 250;
-      if (range === '3Y') barsToShow = 750;
+      if (!candleChart || !globalData || !globalData.indices.candles_dict) return;
+      const candles = globalData.indices.candles_dict[currentIndex] || [];
+      const totalBars = candles.length;
+      let bars = 65;
+      if (range === '6M') bars = 130;
+      if (range === '1Y') bars = 250;
+      if (range === '3Y') bars = 750;
 
       candleChart.timeScale().setVisibleLogicalRange({
-        from: Math.max(0, totalBars - barsToShow),
+        from: Math.max(0, totalBars - bars),
         to: totalBars
       });
     }
 
-    function renderLineChart(lineData) {
+    // 거시지표 라인차트 초기화 및 지표 전환
+    function initLineChart() {
       const container = document.getElementById('line-chart');
-      const chart = LightweightCharts.createChart(container, {
+      container.innerHTML = '';
+      lineChart = LightweightCharts.createChart(container, {
         layout: { background: { color: '#1e1e1e' }, textColor: '#d1d4dc' },
         grid: { vertLines: { color: '#2b2b43' }, horzLines: { color: '#2b2b43' } },
         rightPriceScale: { borderColor: '#485c7b' },
         timeScale: { borderColor: '#485c7b' },
         autoSize: true,
       });
-      const areaSeries = chart.addAreaSeries({
+
+      lineSeries = lineChart.addAreaSeries({
         topColor: 'rgba(100, 181, 246, 0.4)',
         bottomColor: 'rgba(100, 181, 246, 0.0)',
         lineColor: '#64B5F6',
         lineWidth: 2,
       });
-      areaSeries.setData(lineData);
-      chart.timeScale().fitContent();
+
+      selectMacroChart('원/달러 환율');
+    }
+
+    function selectMacroChart(macroName) {
+      currentMacro = macroName;
+      document.querySelectorAll('#macro-tabs .tab-btn').forEach(b => {
+        b.classList.toggle('active', b.innerText.includes(macroName.split(' ')[0]));
+      });
+      document.getElementById('current-macro-title').innerText = `${macroName} 추이 (3개월)`;
+
+      if (!globalData || !globalData.macro.series_dict) return;
+      const series = globalData.macro.series_dict[macroName] || [];
+      lineSeries.setData(series);
+      lineChart.timeScale().fitContent();
     }
   </script>
 </body>

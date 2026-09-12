@@ -4,6 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>데일리 마켓 대시보드</title>
+  <!-- 가장 안정적이고 글로벌 호환성이 뛰어난 v3.8.0 고정 -->
+  <script src="https://unpkg.com/lightweight-charts@3.8.0/dist/lightweight-charts.standalone.production.js"></script>
   <style>
     :root {
       --bg-color: #121212;
@@ -180,7 +182,7 @@
           <button class="time-btn" onclick="changeRange('3Y')">3Y</button>
         </div>
       </div>
-      <div id="candle-chart" class="chart-container">차트를 로딩하는 중입니다...</div>
+      <div id="candle-chart" class="chart-container"></div>
     </div>
   </div>
 
@@ -200,7 +202,7 @@
       <div class="chart-header-row">
         <span class="chart-name" id="current-macro-title">원/달러 환율 추이</span>
       </div>
-      <div id="line-chart" class="chart-container">차트를 로딩하는 중입니다...</div>
+      <div id="line-chart" class="chart-container"></div>
     </div>
   </div>
 
@@ -227,36 +229,18 @@
     let lineSeries = null;
     let currentMacro = '원/달러 환율';
 
-    // 1. 차트 라이브러리를 비동기로 확실하게 불러오는 헬퍼 함수
-    function loadTradingViewLibrary() {
-      return new Promise((resolve, reject) => {
-        if (window.LightweightCharts) {
-          resolve();
-          return;
-        }
-        const script = document.createElement('script');
-        script.src = 'https://unpkg.com/lightweight-charts@4.0.1/dist/lightweight-charts.standalone.production.js';
-        script.onload = () => resolve();
-        script.onerror = () => {
-          // 백업 CDN 시도
-          const fallback = document.createElement('script');
-          fallback.src = 'https://cdn.jsdelivr.net/npm/lightweight-charts@4.0.1/dist/lightweight-charts.standalone.production.js';
-          fallback.onload = () => resolve();
-          fallback.onerror = () => reject(new Error('차트 라이브러리 로드 실패'));
-          document.head.appendChild(fallback);
-        };
-        document.head.appendChild(script);
-      });
+    // 라이브러리 객체 안전 참조
+    function getLib() {
+      return window.LightweightCharts || null;
     }
 
-    // 2. 데이터 가져오기 및 화면 출력
     fetch('data.json?t=' + Date.now())
       .then(res => res.json())
       .then(data => {
         globalData = data;
         document.getElementById('updated-time').innerText = "최종 업데이트: " + (data.updated_at || "완료");
 
-        // [A] 지수 요약 테이블 렌더링
+        // [1] 지표 요약
         if (data.indices && data.indices.summary) {
           document.getElementById('index-prices').innerHTML = data.indices.summary.map(item => {
             const isDown = String(item.change).startsWith('-');
@@ -272,7 +256,7 @@
           }).join('');
         }
 
-        // [B] 거시 지표 요약 렌더링
+        // [2] 거시 지표 요약
         if (data.macro && data.macro.summary) {
           document.getElementById('macro-prices').innerHTML = data.macro.summary.map(item => {
             const isDown = String(item.change).startsWith('-');
@@ -288,7 +272,7 @@
           }).join('');
         }
 
-        // [C] 10대 뉴스 렌더링 (차트와 무관하게 1순위 출력)
+        // [3] 뉴스 10선
         if (data.news && data.news.length > 0) {
           document.getElementById('news-list').innerHTML = data.news.map((n, idx) => `
             <div class="news-item">
@@ -301,7 +285,7 @@
           `).join('');
         }
 
-        // [D] 일정 렌더링
+        // [4] 일정
         if (data.schedules) {
           document.getElementById('calendar-info').innerHTML = data.schedules.map(item => `
             <div class="schedule-item">
@@ -310,30 +294,36 @@
           `).join('');
         }
 
-        // [E] 차트 라이브러리 준비 완료 후 차트 생성
-        loadTradingViewLibrary().then(() => {
-          initCandleChart();
-          initLineChart();
-        }).catch(err => {
-          document.getElementById('candle-chart').innerText = '차트 모듈을 불러오지 못했습니다.';
-          document.getElementById('line-chart').innerText = '차트 모듈을 불러오지 못했습니다.';
-        });
+        // [5] 차트 초기화 (라이브러리 로드 대기 후 실행)
+        waitForLibAndInit();
 
       })
       .catch(err => {
         document.getElementById('updated-time').innerText = "데이터 로딩 오류: " + err.message;
       });
 
-    // 캔들차트 초기화
-    function initCandleChart() {
+    function waitForLibAndInit(retryCount = 0) {
+      const lib = getLib();
+      if (lib) {
+        initCandleChart(lib);
+        initLineChart(lib);
+      } else if (retryCount < 20) {
+        setTimeout(() => waitForLibAndInit(retryCount + 1), 100);
+      } else {
+        document.getElementById('candle-chart').innerHTML = '<p style="color:#aaa;padding:20px;text-align:center;">차트 모듈을 불러오지 못했습니다.</p>';
+      }
+    }
+
+    function initCandleChart(lib) {
       const container = document.getElementById('candle-chart');
       container.innerHTML = '';
-      candleChart = LightweightCharts.createChart(container, {
-        layout: { background: { color: '#1e1e1e' }, textColor: '#d1d4dc' },
+      candleChart = lib.createChart(container, {
+        width: container.clientWidth || 340,
+        height: 250,
+        layout: { backgroundColor: '#1e1e1e', textColor: '#d1d4dc' },
         grid: { vertLines: { color: '#2b2b43' }, horzLines: { color: '#2b2b43' } },
         rightPriceScale: { borderColor: '#485c7b' },
         timeScale: { borderColor: '#485c7b' },
-        autoSize: true,
       });
 
       candleSeries = candleChart.addCandlestickSeries({
@@ -354,7 +344,7 @@
       });
       document.getElementById('current-index-title').innerText = `${indexName} 캔들차트`;
 
-      if (!globalData || !globalData.indices || !globalData.indices.candles_dict) return;
+      if (!globalData || !globalData.indices || !globalData.indices.candles_dict || !candleSeries) return;
       const candles = globalData.indices.candles_dict[indexName] || [];
       candleSeries.setData(candles);
       changeRange(currentRange);
@@ -379,16 +369,16 @@
       });
     }
 
-    // 거시지표 라인차트 초기화
-    function initLineChart() {
+    function initLineChart(lib) {
       const container = document.getElementById('line-chart');
       container.innerHTML = '';
-      lineChart = LightweightCharts.createChart(container, {
-        layout: { background: { color: '#1e1e1e' }, textColor: '#d1d4dc' },
+      lineChart = lib.createChart(container, {
+        width: container.clientWidth || 340,
+        height: 250,
+        layout: { backgroundColor: '#1e1e1e', textColor: '#d1d4dc' },
         grid: { vertLines: { color: '#2b2b43' }, horzLines: { color: '#2b2b43' } },
         rightPriceScale: { borderColor: '#485c7b' },
         timeScale: { borderColor: '#485c7b' },
-        autoSize: true,
       });
 
       lineSeries = lineChart.addAreaSeries({
@@ -408,7 +398,7 @@
       });
       document.getElementById('current-macro-title').innerText = `${macroName} 추이 (3개월)`;
 
-      if (!globalData || !globalData.macro || !globalData.macro.series_dict) return;
+      if (!globalData || !globalData.macro || !globalData.macro.series_dict || !lineSeries) return;
       const series = globalData.macro.series_dict[macroName] || [];
       lineSeries.setData(series);
       lineChart.timeScale().fitContent();

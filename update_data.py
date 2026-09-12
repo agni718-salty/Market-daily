@@ -10,15 +10,21 @@ def clean_html(text):
     return re.sub(clean, '', text).strip()
 
 def safe_num(val, default=0.0):
-    if val is None or math.isnan(val):
+    if val is None:
         return default
-    return float(val)
+    try:
+        f = float(val)
+        if math.isnan(f) or math.isinf(f):
+            return default
+        return f
+    except:
+        return default
 
 def fetch_market_data():
     now_kst = datetime.datetime.utcnow() + datetime.timedelta(hours=9)
     updated_at_str = now_kst.strftime("%Y-%m-%d %H:%M KST")
 
-    # 1. 지수 데이터 수집 (최대 3년치)
+    # 1. 주요 지수 데이터 (최대 3년치)
     tickers = {
         'S&P 500': '^GSPC',
         '나스닥': '^IXIC',
@@ -45,7 +51,7 @@ def fetch_market_data():
                 "change_pct": f"{safe_num(change_pct):+.2f}"
             })
 
-            # S&P 500 인터랙티브 캔들 차트
+            # S&P 500 인터랙티브 캔들 차트 데이터
             if symbol == '^GSPC':
                 for idx, row in df.iterrows():
                     o = safe_num(row['Open'])
@@ -61,7 +67,7 @@ def fetch_market_data():
                             "close": round(c, 2)
                         })
 
-    # 2. 환율 및 국채 금리 수집 (최근 3개월)
+    # 2. 환율 및 국채 금리 (최근 3개월)
     macro_tickers = {
         '원/달러 환율': 'KRW=X',
         '미국채 10년물 금리': '^TNX',
@@ -95,7 +101,7 @@ def fetch_market_data():
                             "value": round(val, 2)
                         })
 
-    # 3. 국내 10대 뉴스 수집
+    # 3. 국내 핵심 10대 뉴스 수집
     feed_url = "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=ko&gl=KR&ceid=KR:ko"
     feed = feedparser.parse(feed_url)
     
@@ -115,7 +121,7 @@ def fetch_market_data():
 
         summary_text = clean_html(entry.get('summary', ''))
         if not summary_text or len(summary_text) < 30:
-            summary_text = f"{title}에 대한 상세 취재 내용과 시장 파급 효과를 다룬 기사입니다. 거시 금융 환경 및 국내 산업 전반에 미칠 주요 변수를 포함하고 있습니다."
+            summary_text = f"{title}에 대한 상세 동향 및 주요 시장 영향 분석 기사입니다. 거시 금융 환경 및 국내외 관련 산업 이슈를 포괄하고 있습니다."
 
         sentences = [s.strip() for s in summary_text.replace('\n', ' ').split('. ') if s.strip()]
         if len(sentences) > 4:
@@ -131,7 +137,7 @@ def fetch_market_data():
             "summary": paragraph
         })
 
-    # 4. 주요 일정
+    # 4. 주요 지표 일정
     schedules = [
         {"title": "미국 8월 생산자물가지수 (PPI)", "desc": "발표 완료 (원자재·에너지 반등으로 도매물가 상승 흐름 확인)"},
         {"title": "미국 8월 소비자물가지수 (CPI / Core CPI)", "desc": "헤드라인 3.4%(예상 부합), 근원 물가 2.4% 수준 유지"},

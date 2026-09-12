@@ -4,7 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>데일리 마켓 대시보드</title>
-  <!-- 호환성이 검증된 Lightweight Charts v4.0.1 고정 -->
   <script src="https://unpkg.com/lightweight-charts@4.0.1/dist/lightweight-charts.standalone.production.js"></script>
   <style>
     :root {
@@ -168,58 +167,92 @@
 
   <script>
     let globalData = null;
-    let candleSeries = null;
     let candleChart = null;
 
     fetch('./data.json?t=' + Date.now())
-      .then(res => {
-        if (!res.ok) throw new Error('data.json 로드 실패');
-        return res.json();
-      })
+      .then(res => res.json())
       .then(data => {
         globalData = data;
-        document.getElementById('updated-time').innerText = `최종 업데이트: ${data.updated_at}`;
-        renderMetrics(data);
-        renderNews(data.news);
-        renderSchedule(data.schedules);
-
-        // 차트 안전 렌더링
+        document.getElementById('updated-time').innerText = `최종 업데이트: ${data.updated_at || '확인됨'}`;
+        
+        // 지표 요약
         try {
-          renderCandleChart(data.indices.sp500_candles, '3M');
-          renderLineChart(data.macro.usdkrw_series);
-        } catch (e) {
-          console.error("차트 렌더링 에러:", e);
-        }
+          const idxDiv = document.getElementById('index-prices');
+          if (data.indices && data.indices.summary) {
+            idxDiv.innerHTML = data.indices.summary.map(item => {
+              const isUp = String(item.change).indexOf('-') === -1;
+              return `
+                <div class="indicator-row">
+                  <span class="indicator-title">${item.name}</span>
+                  <span class="indicator-val ${isUp ? 'up' : 'down'}">
+                    ${item.price} (${isUp ? '▲ +' : '▼ '}${item.change_pct}%)
+                  </span>
+                </div>
+              `;
+            }).join('');
+          }
+
+          const macroDiv = document.getElementById('macro-prices');
+          if (data.macro && data.macro.summary) {
+            macroDiv.innerHTML = data.macro.summary.map(item => {
+              const isUp = String(item.change).indexOf('-') === -1;
+              return `
+                <div class="indicator-row">
+                  <span class="indicator-title">${item.name}</span>
+                  <span class="indicator-val ${isUp ? 'up' : 'down'}">
+                    ${item.value} (${isUp ? '▲ +' : '▼ '}${item.change_str})
+                  </span>
+                </div>
+              `;
+            }).join('');
+          }
+        } catch(e) { console.error('요약 렌더링 에러:', e); }
+
+        // 뉴스
+        try {
+          const nDiv = document.getElementById('news-list');
+          if (data.news) {
+            nDiv.innerHTML = data.news.map((n, idx) => `
+              <div class="news-item">
+                <div class="news-header">
+                  <span>${idx + 1}. ${n.title}</span>
+                  <a href="${n.link}" target="_blank" rel="noopener noreferrer" class="news-link">[원문 보기]</a>
+                </div>
+                <div class="news-summary">${n.summary}</div>
+              </div>
+            `).join('');
+          }
+        } catch(e) { console.error('뉴스 렌더링 에러:', e); }
+
+        // 일정
+        try {
+          const sDiv = document.getElementById('calendar-info');
+          if (data.schedules) {
+            sDiv.innerHTML = data.schedules.map(item => `
+              <div class="schedule-item">
+                <strong>• ${item.title}:</strong> ${item.desc}
+              </div>
+            `).join('');
+          }
+        } catch(e) { console.error('일정 렌더링 에러:', e); }
+
+        // 차트 렌더링
+        try {
+          if (data.indices && data.indices.sp500_candles) {
+            renderCandleChart(data.indices.sp500_candles, '3M');
+          }
+          if (data.macro && data.macro.usdkrw_series) {
+            renderLineChart(data.macro.usdkrw_series);
+          }
+        } catch(e) { console.error('차트 렌더링 에러:', e); }
+
       })
       .catch(err => {
-        document.getElementById('updated-time').innerText = '데이터 로딩 오류: 페이지를 강력 새로고침해 주세요.';
-        console.error(err);
+        document.getElementById('updated-time').innerText = '데이터를 불러오는 중입니다. 새로고침해 주세요.';
+        console.error('Fetch 에러:', err);
       });
 
-    function renderMetrics(data) {
-      const idxDiv = document.getElementById('index-prices');
-      idxDiv.innerHTML = data.indices.summary.map(item => `
-        <div class="indicator-row">
-          <span class="indicator-title">${item.name}</span>
-          <span class="indicator-val ${parseFloat(item.change) >= 0 ? 'up' : 'down'}">
-            ${item.price} (${parseFloat(item.change) >= 0 ? '▲ +' : '▼ '}${item.change_pct}%)
-          </span>
-        </div>
-      `).join('');
-
-      const macroDiv = document.getElementById('macro-prices');
-      macroDiv.innerHTML = data.macro.summary.map(item => `
-        <div class="indicator-row">
-          <span class="indicator-title">${item.name}</span>
-          <span class="indicator-val ${parseFloat(item.change) >= 0 ? 'up' : 'down'}">
-            ${item.value} (${parseFloat(item.change) >= 0 ? '▲ +' : '▼ '}${item.change_str})
-          </span>
-        </div>
-      `).join('');
-    }
-
-    function renderCandleChart(candleData, defaultRange) {
-      if (!candleData || candleData.length === 0) return;
+    function renderCandleChart(candles, defaultRange) {
       const container = document.getElementById('candle-chart');
       candleChart = LightweightCharts.createChart(container, {
         layout: { background: { color: '#1e1e1e' }, textColor: '#d1d4dc' },
@@ -229,7 +262,7 @@
         autoSize: true,
       });
 
-      candleSeries = candleChart.addCandlestickSeries({
+      const series = candleChart.addCandlestickSeries({
         upColor: '#E57373',
         downColor: '#64B5F6',
         borderVisible: false,
@@ -237,7 +270,7 @@
         wickDownColor: '#64B5F6',
       });
 
-      candleSeries.setData(candleData);
+      series.setData(candles);
       changeRange(defaultRange);
     }
 
@@ -245,7 +278,7 @@
       document.querySelectorAll('.time-btn').forEach(btn => {
         btn.classList.toggle('active', btn.innerText === range);
       });
-      if (!candleChart || !globalData || !globalData.indices.sp500_candles) return;
+      if (!candleChart || !globalData || !globalData.indices || !globalData.indices.sp500_candles) return;
 
       const totalBars = globalData.indices.sp500_candles.length;
       let barsToShow = 65;
@@ -260,7 +293,6 @@
     }
 
     function renderLineChart(lineData) {
-      if (!lineData || lineData.length === 0) return;
       const container = document.getElementById('line-chart');
       const chart = LightweightCharts.createChart(container, {
         layout: { background: { color: '#1e1e1e' }, textColor: '#d1d4dc' },
@@ -277,28 +309,6 @@
       });
       areaSeries.setData(lineData);
       chart.timeScale().fitContent();
-    }
-
-    function renderNews(newsList) {
-      const div = document.getElementById('news-list');
-      div.innerHTML = newsList.map((n, idx) => `
-        <div class="news-item">
-          <div class="news-header">
-            <span>${idx + 1}. ${n.title}</span>
-            <a href="${n.link}" target="_blank" class="news-link">[원문 보기]</a>
-          </div>
-          <div class="news-summary">${n.summary}</div>
-        </div>
-      `).join('');
-    }
-
-    function renderSchedule(schedules) {
-      const div = document.getElementById('calendar-info');
-      div.innerHTML = schedules.map(item => `
-        <div class="schedule-item">
-          <strong>• ${item.title}:</strong> ${item.desc}
-        </div>
-      `).join('');
     }
   </script>
 </body>

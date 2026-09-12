@@ -4,7 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>데일리 마켓 대시보드</title>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightweight-charts/4.0.1/lightweight-charts.standalone.production.js"></script>
+  <!-- 전세계 공용 안정 CDN unpkg 사용 -->
+  <script src="https://unpkg.com/lightweight-charts/dist/lightweight-charts.standalone.production.js"></script>
   <style>
     :root {
       --bg-color: #121212;
@@ -105,7 +106,7 @@
     .up { color: var(--up-color); }
     .down { color: var(--down-color); }
 
-    /* 뉴스 요청 포맷 */
+    /* 뉴스 요청 레이아웃: 제목 -> 링크 -> 3-5줄 요약 */
     .news-item {
       margin-bottom: 20px;
       padding-bottom: 16px;
@@ -137,7 +138,7 @@
       color: #bbb;
       line-height: 1.6;
       text-align: justify;
-      background: rgba(0,0,0,0.2);
+      background: rgba(0,0,0,0.25);
       padding: 10px 12px;
       border-radius: 6px;
       border-left: 3px solid #82B1FF;
@@ -208,7 +209,7 @@
     </div>
   </div>
 
-  <!-- 3. 국내 언론사 핵심 뉴스 10선 -->
+  <!-- 3. 국내 핵심 뉴스 10선 -->
   <div class="section-title">
     <span>📰 국내 핵심 경제 뉴스 10선</span>
   </div>
@@ -237,7 +238,7 @@
         globalData = data;
         document.getElementById('updated-time').innerText = "최종 업데이트: " + (data.updated_at || "완료");
 
-        // 지수 요약 테이블 렌더링
+        // 1. 지표 요약 렌더링
         if (data.indices && data.indices.summary) {
           document.getElementById('index-prices').innerHTML = data.indices.summary.map(item => {
             const isDown = String(item.change).startsWith('-');
@@ -246,14 +247,14 @@
               <div class="indicator-row">
                 <span class="indicator-title">${item.name}</span>
                 <span class="indicator-val ${isDown ? 'down' : 'up'}">
-                  ${item.price} (${sign}${item.change_pct.replace('+', '')}%)
+                  ${item.price} (${sign}${String(item.change_pct).replace('+', '')}%)
                 </span>
               </div>
             `;
           }).join('');
         }
 
-        // 거시 지표 요약 렌더링
+        // 2. 거시 지표 요약 렌더링
         if (data.macro && data.macro.summary) {
           document.getElementById('macro-prices').innerHTML = data.macro.summary.map(item => {
             const isDown = String(item.change).startsWith('-');
@@ -262,15 +263,15 @@
               <div class="indicator-row">
                 <span class="indicator-title">${item.name}</span>
                 <span class="indicator-val ${isDown ? 'down' : 'up'}">
-                  ${item.value} (${sign}${item.change_str.replace('+', '')})
+                  ${item.value} (${sign}${String(item.change_str).replace('+', '')})
                 </span>
               </div>
             `;
           }).join('');
         }
 
-        // 10대 뉴스 개편 렌더링
-        if (data.news) {
+        // 3. 뉴스 10선 렌더링 (차트 에러와 독립적으로 무조건 먼저 출력)
+        if (data.news && data.news.length > 0) {
           document.getElementById('news-list').innerHTML = data.news.map((n, idx) => `
             <div class="news-item">
               <div class="news-title">${idx + 1}. ${n.title}</div>
@@ -282,7 +283,7 @@
           `).join('');
         }
 
-        // 일정 렌더링
+        // 4. 일정 렌더링
         if (data.schedules) {
           document.getElementById('calendar-info').innerHTML = data.schedules.map(item => `
             <div class="schedule-item">
@@ -291,9 +292,14 @@
           `).join('');
         }
 
-        // 초기 차트 로딩
-        initCandleChart();
-        initLineChart();
+        // 5. 차트 안전 로딩
+        if (typeof LightweightCharts !== 'undefined') {
+          initCandleChart();
+          initLineChart();
+        } else {
+          document.getElementById('candle-chart').innerHTML = '<p style="color:#aaa;padding:20px 0;text-align:center;">차트 모듈을 불러오는 중입니다. 잠시 후 새로고침해 주세요.</p>';
+          document.getElementById('line-chart').innerHTML = '<p style="color:#aaa;padding:20px 0;text-align:center;">차트 모듈을 불러오는 중입니다. 잠시 후 새로고침해 주세요.</p>';
+        }
       })
       .catch(err => {
         document.getElementById('updated-time').innerText = "데이터 로딩 오류: " + err.message;
@@ -329,7 +335,7 @@
       });
       document.getElementById('current-index-title').innerText = `${indexName} 캔들차트`;
 
-      if (!globalData || !globalData.indices.candles_dict) return;
+      if (!globalData || !globalData.indices || !globalData.indices.candles_dict) return;
       const candles = globalData.indices.candles_dict[indexName] || [];
       candleSeries.setData(candles);
       changeRange(currentRange);
@@ -340,7 +346,7 @@
       document.querySelectorAll('.time-btn').forEach(btn => {
         btn.classList.toggle('active', btn.innerText === range);
       });
-      if (!candleChart || !globalData || !globalData.indices.candles_dict) return;
+      if (!candleChart || !globalData || !globalData.indices || !globalData.indices.candles_dict) return;
       const candles = globalData.indices.candles_dict[currentIndex] || [];
       const totalBars = candles.length;
       let bars = 65;
@@ -383,7 +389,7 @@
       });
       document.getElementById('current-macro-title').innerText = `${macroName} 추이 (3개월)`;
 
-      if (!globalData || !globalData.macro.series_dict) return;
+      if (!globalData || !globalData.macro || !globalData.macro.series_dict) return;
       const series = globalData.macro.series_dict[macroName] || [];
       lineSeries.setData(series);
       lineChart.timeScale().fitContent();

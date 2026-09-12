@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>데일리 마켓 대시보드</title>
+  <script src="https://unpkg.com/lightweight-charts@4.1.1/dist/lightweight-charts.standalone.production.js"></script>
+  <style>
+    :root {
+      --bg-color: #121212;
+      --card-bg: #1e1e1e;
+      --text-main: #f0f0f0;
+      --text-sub: #a0a0a0;
+      --up-color: #E57373;
+      --down-color: #64B5F6;
+      --border-color: #2c2c2c;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Pretendard", sans-serif;
+      background-color: var(--bg-color);
+      color: var(--text-main);
+      line-height: 1.6;
+      padding: 16px;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+    header {
+      text-align: center;
+      padding: 12px 0 20px 0;
+      border-bottom: 1px solid var(--border-color);
+      margin-bottom: 16px;
+    }
+    header h1 { font-size: 1.3rem; font-weight: 700; }
+    header p { font-size: 0.85rem; color: var(--text-sub); margin-top: 4px; }
+    
+    .section-title {
+      font-size: 1.05rem;
+      font-weight: 700;
+      margin: 24px 0 12px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      padding: 16px;
+      margin-bottom: 16px;
+      border: 1px solid var(--border-color);
+    }
+    
+    .time-selector {
+      display: flex;
+      gap: 6px;
+    }
+    .time-btn {
+      background: #2a2a2a;
+      color: var(--text-sub);
+      border: none;
+      padding: 4px 10px;
+      border-radius: 6px;
+      font-size: 0.8rem;
+      cursor: pointer;
+    }
+    .time-btn.active {
+      background: #444;
+      color: #fff;
+      font-weight: bold;
+    }
+    
+    .chart-container {
+      width: 100%;
+      height: 260px;
+      margin-top: 10px;
+    }
+    
+    .indicator-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 8px 0;
+      border-bottom: 1px solid rgba(255,255,255,0.05);
+    }
+    .indicator-row:last-child { border-bottom: none; }
+    .indicator-title { font-weight: 600; font-size: 0.95rem; }
+    .indicator-val { font-weight: 700; font-size: 0.95rem; }
+    .up { color: var(--up-color); }
+    .down { color: var(--down-color); }
+
+    .news-item {
+      margin-bottom: 16px;
+      padding-bottom: 16px;
+      border-bottom: 1px solid var(--border-color);
+    }
+    .news-item:last-child { margin-bottom: 0; padding-bottom: 0; border-bottom: none; }
+    .news-header {
+      font-weight: 600;
+      font-size: 0.95rem;
+      margin-bottom: 6px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+    .news-link {
+      color: #82B1FF;
+      text-decoration: none;
+      font-size: 0.85rem;
+      word-break: keep-all;
+    }
+    .news-summary {
+      font-size: 0.88rem;
+      color: #ccc;
+      line-height: 1.55;
+      text-align: justify;
+    }
+    
+    .schedule-item {
+      font-size: 0.88rem;
+      margin-bottom: 8px;
+      color: #ddd;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>📊 데일리 마켓 대시보드</h1>
+    <p id="updated-time">데이터 동기화 대기 중...</p>
+  </header>
+
+  <!-- 1. 주요 지수 캔들 차트 -->
+  <div class="section-title">
+    <span>📈 주요 시장 지수 (캔들차트)</span>
+    <div class="time-selector">
+      <button class="time-btn active" onclick="changeRange('3M')">3M</button>
+      <button class="time-btn" onclick="changeRange('6M')">6M</button>
+      <button class="time-btn" onclick="changeRange('1Y')">1Y</button>
+      <button class="time-btn" onclick="changeRange('3Y')">3Y</button>
+    </div>
+  </div>
+  <div class="card">
+    <div id="index-prices"></div>
+    <div id="candle-chart" class="chart-container"></div>
+  </div>
+
+  <!-- 2. 통화 & 거시 금리 라인 차트 -->
+  <div class="section-title">
+    <span>💵 통화 & 거시 금리 (최근 3개월)</span>
+  </div>
+  <div class="card">
+    <div id="macro-prices"></div>
+    <div id="line-chart" class="chart-container"></div>
+  </div>
+
+  <!-- 3. 국내 언론사 핵심 뉴스 10선 -->
+  <div class="section-title">
+    <span>📰 국내 핵심 경제 뉴스 10선</span>
+  </div>
+  <div class="card" id="news-list"></div>
+
+  <!-- 4. 경제 지표 일정 -->
+  <div class="section-title">
+    <span>📅 핵심 경제 지표 결과 & 일정</span>
+  </div>
+  <div class="card" id="calendar-info"></div>
+
+  <script>
+    let globalData = null;
+    let candleSeries = null;
+    let candleChart = null;
+
+    fetch('data.json?nocache=' + new Date().getTime())
+      .then(res => res.json())
+      .then(data => {
+        globalData = data;
+        document.getElementById('updated-time').innerText = `최종 업데이트: ${data.updated_at}`;
+        renderMetrics(data);
+        renderCandleChart(data.indices.sp500_candles, '3M');
+        renderLineChart(data.macro.usdkrw_series);
+        renderNews(data.news);
+        renderSchedule(data.schedules);
+      })
+      .catch(err => {
+        document.getElementById('updated-time').innerText = '데이터를 불러오는 중입니다. 잠시 후 새로고침해주세요.';
+      });
+
+    function renderMetrics(data) {
+      const idxDiv = document.getElementById('index-prices');
+      idxDiv.innerHTML = data.indices.summary.map(item => `
+        <div class="indicator-row">
+          <span class="indicator-title">${item.name}</span>
+          <span class="indicator-val ${item.change >= 0 ? 'up' : 'down'}">
+            ${item.price} (${item.change >= 0 ? '▲ +' : '▼ '}${item.change_pct}%)
+          </span>
+        </div>
+      `).join('');
+
+      const macroDiv = document.getElementById('macro-prices');
+      macroDiv.innerHTML = data.macro.summary.map(item => `
+        <div class="indicator-row">
+          <span class="indicator-title">${item.name}</span>
+          <span class="indicator-val ${item.change >= 0 ? 'up' : 'down'}">
+            ${item.value} (${item.change >= 0 ? '▲ +' : '▼ '}${item.change_str})
+          </span>
+        </div>
+      `).join('');
+    }
+
+    function renderCandleChart(candleData, defaultRange) {
+      const container = document.getElementById('candle-chart');
+      candleChart = LightweightCharts.createChart(container, {
+        layout: { background: { color: '#1e1e1e' }, textColor: '#d1d4dc' },
+        grid: { vertLines: { color: '#2b2b43' }, horzLines: { color: '#2b2b43' } },
+        crosshair: { mode: LightweightCharts.CrosshairMode.Normal },
+        rightPriceScale: { borderColor: '#485c7b' },
+        timeScale: { borderColor: '#485c7b', timeVisible: true },
+        autoSize: true,
+      });
+
+      candleSeries = candleChart.addCandlestickSeries({
+        upColor: '#E57373',
+        downColor: '#64B5F6',
+        borderVisible: false,
+        wickUpColor: '#E57373',
+        wickDownColor: '#64B5F6',
+      });
+
+      candleSeries.setData(candleData);
+      changeRange(defaultRange);
+    }
+
+    function changeRange(range) {
+      document.querySelectorAll('.time-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.innerText === range);
+      });
+      if (!candleChart || !globalData) return;
+
+      const totalBars = globalData.indices.sp500_candles.length;
+      let barsToShow = 65; // 약 3개월 (영업일 기준)
+      if (range === '6M') barsToShow = 130;
+      if (range === '1Y') barsToShow = 250;
+      if (range === '3Y') barsToShow = 750;
+
+      candleChart.timeScale().setVisibleLogicalRange({
+        from: Math.max(0, totalBars - barsToShow),
+        to: totalBars
+      });
+    }
+
+    function renderLineChart(lineData) {
+      const container = document.getElementById('line-chart');
+      const chart = LightweightCharts.createChart(container, {
+        layout: { background: { color: '#1e1e1e' }, textColor: '#d1d4dc' },
+        grid: { vertLines: { color: '#2b2b43' }, horzLines: { color: '#2b2b43' } },
+        rightPriceScale: { borderColor: '#485c7b' },
+        timeScale: { borderColor: '#485c7b' },
+        autoSize: true,
+      });
+      const areaSeries = chart.addAreaSeries({
+        topColor: 'rgba(100, 181, 246, 0.4)',
+        bottomColor: 'rgba(100, 181, 246, 0.0)',
+        lineColor: '#64B5F6',
+        lineWidth: 2,
+      });
+      areaSeries.setData(lineData);
+      chart.timeScale().fitContent();
+    }
+
+    function renderNews(newsList) {
+      const div = document.getElementById('news-list');
+      div.innerHTML = newsList.map((n, idx) => `
+        <div class="news-item">
+          <div class="news-header">
+            <span>${idx + 1}. ${n.title}</span>
+            <a href="${n.link}" target="_blank" class="news-link">[원문 보기]</a>
+          </div>
+          <div class="news-summary">${n.summary}</div>
+        </div>
+      `).join('');
+    }
+
+    function renderSchedule(schedules) {
+      const div = document.getElementById('calendar-info');
+      div.innerHTML = schedules.map(item => `
+        <div class="schedule-item">
+          <strong>• ${item.title}:</strong> ${item.desc}
+        </div>
+      `).join('');
+    }
+  </script>
+</body>
+</html>

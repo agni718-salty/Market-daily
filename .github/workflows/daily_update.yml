@@ -1,0 +1,40 @@
+name: Daily Market Dashboard Update
+
+on:
+  schedule:
+    # UTC 기준 22:00 (한국 시간 익일 07:00 KST)
+    - cron: '0 22 * * *'
+    # UTC 기준 08:00 (한국 시간 당일 17:00 KST)
+    - cron: '0 8 * * *'
+  workflow_dispatch: # Actions 탭에서 수동으로 'Run workflow'를 눌러 테스트 가능
+
+jobs:
+  update-dashboard:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v3
+
+      - name: 파이썬 3.10 설정
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 라이브러리 설치
+        run: |
+          pip install yfinance feedparser
+
+      - name: 최신 금융 및 뉴스 데이터 수집 실행
+        run: |
+          python update_data.py
+
+      - name: 변경사항 커밋 및 푸시
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto Update: $(date +'%Y-%m-%d %H:%M KST')" && git push)

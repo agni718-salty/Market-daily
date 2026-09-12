@@ -4,8 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>데일리 마켓 대시보드</title>
-  <!-- 전세계 공용 안정 CDN unpkg 사용 -->
-  <script src="https://unpkg.com/lightweight-charts/dist/lightweight-charts.standalone.production.js"></script>
   <style>
     :root {
       --bg-color: #121212;
@@ -91,6 +89,7 @@
       width: 100%;
       height: 250px;
       margin-top: 6px;
+      position: relative;
     }
     
     .indicator-row {
@@ -106,7 +105,6 @@
     .up { color: var(--up-color); }
     .down { color: var(--down-color); }
 
-    /* 뉴스 요청 레이아웃: 제목 -> 링크 -> 3-5줄 요약 */
     .news-item {
       margin-bottom: 20px;
       padding-bottom: 16px;
@@ -166,7 +164,6 @@
     <div id="index-prices">불러오는 중...</div>
     
     <div style="margin-top: 14px; border-top: 1px solid var(--border-color); padding-top: 12px;">
-      <!-- 지수 선택 탭 -->
       <div class="tab-selector" id="index-tabs">
         <button class="tab-btn active" onclick="selectIndexChart('S&P 500')">S&P 500</button>
         <button class="tab-btn" onclick="selectIndexChart('나스닥')">나스닥</button>
@@ -174,7 +171,6 @@
         <button class="tab-btn" onclick="selectIndexChart('코스피')">코스피</button>
       </div>
 
-      <!-- 차트 기간 선택기 -->
       <div class="chart-header-row">
         <span class="chart-name" id="current-index-title">S&P 500 캔들차트</span>
         <div class="tab-selector" style="margin-bottom:0;">
@@ -184,7 +180,7 @@
           <button class="time-btn" onclick="changeRange('3Y')">3Y</button>
         </div>
       </div>
-      <div id="candle-chart" class="chart-container"></div>
+      <div id="candle-chart" class="chart-container">차트를 로딩하는 중입니다...</div>
     </div>
   </div>
 
@@ -196,7 +192,6 @@
     <div id="macro-prices">불러오는 중...</div>
 
     <div style="margin-top: 14px; border-top: 1px solid var(--border-color); padding-top: 12px;">
-      <!-- 거시 지표 선택 탭 -->
       <div class="tab-selector" id="macro-tabs">
         <button class="tab-btn active" onclick="selectMacroChart('원/달러 환율')">원/달러 환율</button>
         <button class="tab-btn" onclick="selectMacroChart('미국채 10년물 금리')">미국채 10년물</button>
@@ -205,7 +200,7 @@
       <div class="chart-header-row">
         <span class="chart-name" id="current-macro-title">원/달러 환율 추이</span>
       </div>
-      <div id="line-chart" class="chart-container"></div>
+      <div id="line-chart" class="chart-container">차트를 로딩하는 중입니다...</div>
     </div>
   </div>
 
@@ -232,13 +227,36 @@
     let lineSeries = null;
     let currentMacro = '원/달러 환율';
 
+    // 1. 차트 라이브러리를 비동기로 확실하게 불러오는 헬퍼 함수
+    function loadTradingViewLibrary() {
+      return new Promise((resolve, reject) => {
+        if (window.LightweightCharts) {
+          resolve();
+          return;
+        }
+        const script = document.createElement('script');
+        script.src = 'https://unpkg.com/lightweight-charts@4.0.1/dist/lightweight-charts.standalone.production.js';
+        script.onload = () => resolve();
+        script.onerror = () => {
+          // 백업 CDN 시도
+          const fallback = document.createElement('script');
+          fallback.src = 'https://cdn.jsdelivr.net/npm/lightweight-charts@4.0.1/dist/lightweight-charts.standalone.production.js';
+          fallback.onload = () => resolve();
+          fallback.onerror = () => reject(new Error('차트 라이브러리 로드 실패'));
+          document.head.appendChild(fallback);
+        };
+        document.head.appendChild(script);
+      });
+    }
+
+    // 2. 데이터 가져오기 및 화면 출력
     fetch('data.json?t=' + Date.now())
       .then(res => res.json())
       .then(data => {
         globalData = data;
         document.getElementById('updated-time').innerText = "최종 업데이트: " + (data.updated_at || "완료");
 
-        // 1. 지표 요약 렌더링
+        // [A] 지수 요약 테이블 렌더링
         if (data.indices && data.indices.summary) {
           document.getElementById('index-prices').innerHTML = data.indices.summary.map(item => {
             const isDown = String(item.change).startsWith('-');
@@ -254,7 +272,7 @@
           }).join('');
         }
 
-        // 2. 거시 지표 요약 렌더링
+        // [B] 거시 지표 요약 렌더링
         if (data.macro && data.macro.summary) {
           document.getElementById('macro-prices').innerHTML = data.macro.summary.map(item => {
             const isDown = String(item.change).startsWith('-');
@@ -270,7 +288,7 @@
           }).join('');
         }
 
-        // 3. 뉴스 10선 렌더링 (차트 에러와 독립적으로 무조건 먼저 출력)
+        // [C] 10대 뉴스 렌더링 (차트와 무관하게 1순위 출력)
         if (data.news && data.news.length > 0) {
           document.getElementById('news-list').innerHTML = data.news.map((n, idx) => `
             <div class="news-item">
@@ -283,7 +301,7 @@
           `).join('');
         }
 
-        // 4. 일정 렌더링
+        // [D] 일정 렌더링
         if (data.schedules) {
           document.getElementById('calendar-info').innerHTML = data.schedules.map(item => `
             <div class="schedule-item">
@@ -292,20 +310,21 @@
           `).join('');
         }
 
-        // 5. 차트 안전 로딩
-        if (typeof LightweightCharts !== 'undefined') {
+        // [E] 차트 라이브러리 준비 완료 후 차트 생성
+        loadTradingViewLibrary().then(() => {
           initCandleChart();
           initLineChart();
-        } else {
-          document.getElementById('candle-chart').innerHTML = '<p style="color:#aaa;padding:20px 0;text-align:center;">차트 모듈을 불러오는 중입니다. 잠시 후 새로고침해 주세요.</p>';
-          document.getElementById('line-chart').innerHTML = '<p style="color:#aaa;padding:20px 0;text-align:center;">차트 모듈을 불러오는 중입니다. 잠시 후 새로고침해 주세요.</p>';
-        }
+        }).catch(err => {
+          document.getElementById('candle-chart').innerText = '차트 모듈을 불러오지 못했습니다.';
+          document.getElementById('line-chart').innerText = '차트 모듈을 불러오지 못했습니다.';
+        });
+
       })
       .catch(err => {
         document.getElementById('updated-time').innerText = "데이터 로딩 오류: " + err.message;
       });
 
-    // 캔들차트 초기화 및 지수 전환
+    // 캔들차트 초기화
     function initCandleChart() {
       const container = document.getElementById('candle-chart');
       container.innerHTML = '';
@@ -360,7 +379,7 @@
       });
     }
 
-    // 거시지표 라인차트 초기화 및 지표 전환
+    // 거시지표 라인차트 초기화
     function initLineChart() {
       const container = document.getElementById('line-chart');
       container.innerHTML = '';

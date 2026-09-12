@@ -4,7 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>데일리 마켓 대시보드</title>
-  <script src="https://unpkg.com/lightweight-charts@4.1.1/dist/lightweight-charts.standalone.production.js"></script>
+  <!-- 호환성이 검증된 Lightweight Charts v4.0.1 고정 -->
+  <script src="https://unpkg.com/lightweight-charts@4.0.1/dist/lightweight-charts.standalone.production.js"></script>
   <style>
     :root {
       --bg-color: #121212;
@@ -73,7 +74,7 @@
     .chart-container {
       width: 100%;
       height: 260px;
-      margin-top: 10px;
+      margin-top: 14px;
     }
     
     .indicator-row {
@@ -107,7 +108,6 @@
       color: #82B1FF;
       text-decoration: none;
       font-size: 0.85rem;
-      word-break: keep-all;
     }
     .news-summary {
       font-size: 0.88rem;
@@ -127,7 +127,7 @@
 
   <header>
     <h1>📊 데일리 마켓 대시보드</h1>
-    <p id="updated-time">데이터 동기화 대기 중...</p>
+    <p id="updated-time">데이터 동기화 중...</p>
   </header>
 
   <!-- 1. 주요 지수 캔들 차트 -->
@@ -171,19 +171,29 @@
     let candleSeries = null;
     let candleChart = null;
 
-    fetch('data.json?nocache=' + new Date().getTime())
-      .then(res => res.json())
+    fetch('./data.json?t=' + Date.now())
+      .then(res => {
+        if (!res.ok) throw new Error('data.json 로드 실패');
+        return res.json();
+      })
       .then(data => {
         globalData = data;
         document.getElementById('updated-time').innerText = `최종 업데이트: ${data.updated_at}`;
         renderMetrics(data);
-        renderCandleChart(data.indices.sp500_candles, '3M');
-        renderLineChart(data.macro.usdkrw_series);
         renderNews(data.news);
         renderSchedule(data.schedules);
+
+        // 차트 안전 렌더링
+        try {
+          renderCandleChart(data.indices.sp500_candles, '3M');
+          renderLineChart(data.macro.usdkrw_series);
+        } catch (e) {
+          console.error("차트 렌더링 에러:", e);
+        }
       })
       .catch(err => {
-        document.getElementById('updated-time').innerText = '데이터를 불러오는 중입니다. 잠시 후 새로고침해주세요.';
+        document.getElementById('updated-time').innerText = '데이터 로딩 오류: 페이지를 강력 새로고침해 주세요.';
+        console.error(err);
       });
 
     function renderMetrics(data) {
@@ -191,8 +201,8 @@
       idxDiv.innerHTML = data.indices.summary.map(item => `
         <div class="indicator-row">
           <span class="indicator-title">${item.name}</span>
-          <span class="indicator-val ${item.change >= 0 ? 'up' : 'down'}">
-            ${item.price} (${item.change >= 0 ? '▲ +' : '▼ '}${item.change_pct}%)
+          <span class="indicator-val ${parseFloat(item.change) >= 0 ? 'up' : 'down'}">
+            ${item.price} (${parseFloat(item.change) >= 0 ? '▲ +' : '▼ '}${item.change_pct}%)
           </span>
         </div>
       `).join('');
@@ -201,21 +211,21 @@
       macroDiv.innerHTML = data.macro.summary.map(item => `
         <div class="indicator-row">
           <span class="indicator-title">${item.name}</span>
-          <span class="indicator-val ${item.change >= 0 ? 'up' : 'down'}">
-            ${item.value} (${item.change >= 0 ? '▲ +' : '▼ '}${item.change_str})
+          <span class="indicator-val ${parseFloat(item.change) >= 0 ? 'up' : 'down'}">
+            ${item.value} (${parseFloat(item.change) >= 0 ? '▲ +' : '▼ '}${item.change_str})
           </span>
         </div>
       `).join('');
     }
 
     function renderCandleChart(candleData, defaultRange) {
+      if (!candleData || candleData.length === 0) return;
       const container = document.getElementById('candle-chart');
       candleChart = LightweightCharts.createChart(container, {
         layout: { background: { color: '#1e1e1e' }, textColor: '#d1d4dc' },
         grid: { vertLines: { color: '#2b2b43' }, horzLines: { color: '#2b2b43' } },
-        crosshair: { mode: LightweightCharts.CrosshairMode.Normal },
         rightPriceScale: { borderColor: '#485c7b' },
-        timeScale: { borderColor: '#485c7b', timeVisible: true },
+        timeScale: { borderColor: '#485c7b' },
         autoSize: true,
       });
 
@@ -235,10 +245,10 @@
       document.querySelectorAll('.time-btn').forEach(btn => {
         btn.classList.toggle('active', btn.innerText === range);
       });
-      if (!candleChart || !globalData) return;
+      if (!candleChart || !globalData || !globalData.indices.sp500_candles) return;
 
       const totalBars = globalData.indices.sp500_candles.length;
-      let barsToShow = 65; // 약 3개월 (영업일 기준)
+      let barsToShow = 65;
       if (range === '6M') barsToShow = 130;
       if (range === '1Y') barsToShow = 250;
       if (range === '3Y') barsToShow = 750;
@@ -250,6 +260,7 @@
     }
 
     function renderLineChart(lineData) {
+      if (!lineData || lineData.length === 0) return;
       const container = document.getElementById('line-chart');
       const chart = LightweightCharts.createChart(container, {
         layout: { background: { color: '#1e1e1e' }, textColor: '#d1d4dc' },

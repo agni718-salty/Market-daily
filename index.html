@@ -4,8 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>데일리 마켓 대시보드</title>
-  <!-- 가장 안정적이고 글로벌 호환성이 뛰어난 v3.8.0 고정 -->
-  <script src="https://unpkg.com/lightweight-charts@3.8.0/dist/lightweight-charts.standalone.production.js"></script>
   <style>
     :root {
       --bg-color: #121212;
@@ -79,19 +77,26 @@
       justify-content: space-between;
       align-items: center;
       margin-top: 6px;
-      margin-bottom: 6px;
+      margin-bottom: 8px;
     }
     .chart-name {
-      font-size: 0.95rem;
+      font-size: 0.92rem;
       font-weight: 700;
       color: #ffd54f;
     }
 
-    .chart-container {
+    .canvas-box {
       width: 100%;
-      height: 250px;
-      margin-top: 6px;
+      height: 220px;
+      background: #181818;
+      border-radius: 8px;
+      border: 1px solid #2a2a2a;
       position: relative;
+    }
+    canvas {
+      width: 100%;
+      height: 100%;
+      display: block;
     }
     
     .indicator-row {
@@ -182,7 +187,9 @@
           <button class="time-btn" onclick="changeRange('3Y')">3Y</button>
         </div>
       </div>
-      <div id="candle-chart" class="chart-container"></div>
+      <div class="canvas-box">
+        <canvas id="candleCanvas"></canvas>
+      </div>
     </div>
   </div>
 
@@ -200,9 +207,11 @@
         <button class="tab-btn" onclick="selectMacroChart('미국채 30년물 금리')">미국채 30년물</button>
       </div>
       <div class="chart-header-row">
-        <span class="chart-name" id="current-macro-title">원/달러 환율 추이</span>
+        <span class="chart-name" id="current-macro-title">원/달러 환율 추이 (3개월)</span>
       </div>
-      <div id="line-chart" class="chart-container"></div>
+      <div class="canvas-box">
+        <canvas id="lineCanvas"></canvas>
+      </div>
     </div>
   </div>
 
@@ -220,19 +229,9 @@
 
   <script>
     let globalData = null;
-    let candleChart = null;
-    let candleSeries = null;
     let currentIndex = 'S&P 500';
     let currentRange = '3M';
-
-    let lineChart = null;
-    let lineSeries = null;
     let currentMacro = '원/달러 환율';
-
-    // 라이브러리 객체 안전 참조
-    function getLib() {
-      return window.LightweightCharts || null;
-    }
 
     fetch('data.json?t=' + Date.now())
       .then(res => res.json())
@@ -240,7 +239,7 @@
         globalData = data;
         document.getElementById('updated-time').innerText = "최종 업데이트: " + (data.updated_at || "완료");
 
-        // [1] 지표 요약
+        // [1] 지수 요약
         if (data.indices && data.indices.summary) {
           document.getElementById('index-prices').innerHTML = data.indices.summary.map(item => {
             const isDown = String(item.change).startsWith('-');
@@ -294,47 +293,94 @@
           `).join('');
         }
 
-        // [5] 차트 초기화 (라이브러리 로드 대기 후 실행)
-        waitForLibAndInit();
-
+        // [5] 캔버스 차트 즉시 드로잉
+        drawCandleChart();
+        drawLineChart();
       })
       .catch(err => {
         document.getElementById('updated-time').innerText = "데이터 로딩 오류: " + err.message;
       });
 
-    function waitForLibAndInit(retryCount = 0) {
-      const lib = getLib();
-      if (lib) {
-        initCandleChart(lib);
-        initLineChart(lib);
-      } else if (retryCount < 20) {
-        setTimeout(() => waitForLibAndInit(retryCount + 1), 100);
-      } else {
-        document.getElementById('candle-chart').innerHTML = '<p style="color:#aaa;padding:20px;text-align:center;">차트 모듈을 불러오지 못했습니다.</p>';
+    // 캔버스 캔들 차트 그리기
+    function drawCandleChart() {
+      if (!globalData || !globalData.indices || !globalData.indices.candles_dict) return;
+      const rawCandles = globalData.indices.candles_dict[currentIndex] || [];
+      if (rawCandles.length === 0) return;
+
+      let bars = 65;
+      if (currentRange === '6M') bars = 130;
+      if (currentRange === '1Y') bars = 250;
+      if (currentRange === '3Y') bars = 750;
+
+      const candles = rawCandles.slice(-bars);
+      const canvas = document.getElementById('candleCanvas');
+      const ctx = canvas.getContext('2d');
+      const dpr = window.devicePixelRatio || 1;
+      const rect = canvas.getBoundingClientRect();
+
+      canvas.width = rect.width * dpr;
+      canvas.height = rect.height * dpr;
+      ctx.scale(dpr, dpr);
+
+      const w = rect.width;
+      const h = rect.height;
+      const padLeft = 10;
+      const padRight = 55;
+      const padTop = 15;
+      const padBottom = 20;
+
+      let min = Math.min(...candles.map(c => c.low));
+      let max = Math.max(...candles.map(c => c.high));
+      if (min === max) { min *= 0.95; max *= 1.05; }
+
+      ctx.clearRect(0, 0, w, h);
+
+      // 격자 및 가격 축
+      ctx.strokeStyle = '#282828';
+      ctx.fillStyle = '#777';
+      ctx.font = '10px sans-serif';
+      ctx.textAlign = 'left';
+
+      for (let i = 0; i <= 4; i++) {
+        const y = padTop + (h - padTop - padBottom) * (i / 4);
+        ctx.beginPath();
+        ctx.moveTo(padLeft, y);
+        ctx.lineTo(w - padRight, y);
+        ctx.stroke();
+
+        const priceVal = max - (max - min) * (i / 4);
+        ctx.fillText(priceVal.toLocaleString(undefined, {maximumFractionDigits: 1}), w - padRight + 5, y + 3);
       }
-    }
 
-    function initCandleChart(lib) {
-      const container = document.getElementById('candle-chart');
-      container.innerHTML = '';
-      candleChart = lib.createChart(container, {
-        width: container.clientWidth || 340,
-        height: 250,
-        layout: { backgroundColor: '#1e1e1e', textColor: '#d1d4dc' },
-        grid: { vertLines: { color: '#2b2b43' }, horzLines: { color: '#2b2b43' } },
-        rightPriceScale: { borderColor: '#485c7b' },
-        timeScale: { borderColor: '#485c7b' },
+      // 봉 그리기
+      const chartW = w - padLeft - padRight;
+      const step = chartW / candles.length;
+      const candleW = Math.max(1.5, step * 0.7);
+
+      candles.forEach((c, idx) => {
+        const x = padLeft + idx * step + step / 2;
+        const yHigh = padTop + (max - c.high) / (max - min) * (h - padTop - padBottom);
+        const yLow = padTop + (max - c.low) / (max - min) * (h - padTop - padBottom);
+        const yOpen = padTop + (max - c.open) / (max - min) * (h - padTop - padBottom);
+        const yClose = padTop + (max - c.close) / (max - min) * (h - padTop - padBottom);
+
+        const isUp = c.close >= c.open;
+        const color = isUp ? '#E57373' : '#64B5F6';
+
+        ctx.strokeStyle = color;
+        ctx.fillStyle = color;
+
+        // 심지
+        ctx.beginPath();
+        ctx.moveTo(x, yHigh);
+        ctx.lineTo(x, yLow);
+        ctx.stroke();
+
+        // 몸통
+        const bodyTop = Math.min(yOpen, yClose);
+        const bodyH = Math.max(1.5, Math.abs(yOpen - yClose));
+        ctx.fillRect(x - candleW / 2, bodyTop, candleW, bodyH);
       });
-
-      candleSeries = candleChart.addCandlestickSeries({
-        upColor: '#E57373',
-        downColor: '#64B5F6',
-        borderVisible: false,
-        wickUpColor: '#E57373',
-        wickDownColor: '#64B5F6',
-      });
-
-      selectIndexChart('S&P 500');
     }
 
     function selectIndexChart(indexName) {
@@ -343,11 +389,7 @@
         b.classList.toggle('active', b.innerText === indexName);
       });
       document.getElementById('current-index-title').innerText = `${indexName} 캔들차트`;
-
-      if (!globalData || !globalData.indices || !globalData.indices.candles_dict || !candleSeries) return;
-      const candles = globalData.indices.candles_dict[indexName] || [];
-      candleSeries.setData(candles);
-      changeRange(currentRange);
+      drawCandleChart();
     }
 
     function changeRange(range) {
@@ -355,40 +397,81 @@
       document.querySelectorAll('.time-btn').forEach(btn => {
         btn.classList.toggle('active', btn.innerText === range);
       });
-      if (!candleChart || !globalData || !globalData.indices || !globalData.indices.candles_dict) return;
-      const candles = globalData.indices.candles_dict[currentIndex] || [];
-      const totalBars = candles.length;
-      let bars = 65;
-      if (range === '6M') bars = 130;
-      if (range === '1Y') bars = 250;
-      if (range === '3Y') bars = 750;
-
-      candleChart.timeScale().setVisibleLogicalRange({
-        from: Math.max(0, totalBars - bars),
-        to: totalBars
-      });
+      drawCandleChart();
     }
 
-    function initLineChart(lib) {
-      const container = document.getElementById('line-chart');
-      container.innerHTML = '';
-      lineChart = lib.createChart(container, {
-        width: container.clientWidth || 340,
-        height: 250,
-        layout: { backgroundColor: '#1e1e1e', textColor: '#d1d4dc' },
-        grid: { vertLines: { color: '#2b2b43' }, horzLines: { color: '#2b2b43' } },
-        rightPriceScale: { borderColor: '#485c7b' },
-        timeScale: { borderColor: '#485c7b' },
-      });
+    // 캔버스 라인 차트 그리기
+    function drawLineChart() {
+      if (!globalData || !globalData.macro || !globalData.macro.series_dict) return;
+      const series = globalData.macro.series_dict[currentMacro] || [];
+      if (series.length === 0) return;
 
-      lineSeries = lineChart.addAreaSeries({
-        topColor: 'rgba(100, 181, 246, 0.4)',
-        bottomColor: 'rgba(100, 181, 246, 0.0)',
-        lineColor: '#64B5F6',
-        lineWidth: 2,
-      });
+      const canvas = document.getElementById('lineCanvas');
+      const ctx = canvas.getContext('2d');
+      const dpr = window.devicePixelRatio || 1;
+      const rect = canvas.getBoundingClientRect();
 
-      selectMacroChart('원/달러 환율');
+      canvas.width = rect.width * dpr;
+      canvas.height = rect.height * dpr;
+      ctx.scale(dpr, dpr);
+
+      const w = rect.width;
+      const h = rect.height;
+      const padLeft = 10;
+      const padRight = 55;
+      const padTop = 15;
+      const padBottom = 20;
+
+      let min = Math.min(...series.map(s => s.value));
+      let max = Math.max(...series.map(s => s.value));
+      if (min === max) { min *= 0.98; max *= 1.02; }
+
+      ctx.clearRect(0, 0, w, h);
+
+      // 눈금선 및 가격
+      ctx.strokeStyle = '#282828';
+      ctx.fillStyle = '#777';
+      ctx.font = '10px sans-serif';
+      ctx.textAlign = 'left';
+
+      for (let i = 0; i <= 4; i++) {
+        const y = padTop + (h - padTop - padBottom) * (i / 4);
+        ctx.beginPath();
+        ctx.moveTo(padLeft, y);
+        ctx.lineTo(w - padRight, y);
+        ctx.stroke();
+
+        const val = max - (max - min) * (i / 4);
+        ctx.fillText(val.toFixed(2), w - padRight + 5, y + 3);
+      }
+
+      // 라인 그리기
+      const chartW = w - padLeft - padRight;
+      const step = chartW / (series.length - 1 || 1);
+
+      ctx.beginPath();
+      series.forEach((s, idx) => {
+        const x = padLeft + idx * step;
+        const y = padTop + (max - s.value) / (max - min) * (h - padTop - padBottom);
+        if (idx === 0) ctx.moveTo(x, y);
+        else ctx.lineTo(x, y);
+      });
+      ctx.strokeStyle = '#64B5F6';
+      ctx.lineWidth = 2;
+      ctx.stroke();
+
+      // 하단 그라데이션 채우기
+      const lastX = padLeft + (series.length - 1) * step;
+      const bottomY = h - padBottom;
+      ctx.lineTo(lastX, bottomY);
+      ctx.lineTo(padLeft, bottomY);
+      ctx.closePath();
+
+      const grad = ctx.createLinearGradient(0, padTop, 0, bottomY);
+      grad.addColorStop(0, 'rgba(100, 181, 246, 0.35)');
+      grad.addColorStop(1, 'rgba(100, 181, 246, 0.0)');
+      ctx.fillStyle = grad;
+      ctx.fill();
     }
 
     function selectMacroChart(macroName) {
@@ -397,12 +480,14 @@
         b.classList.toggle('active', b.innerText.includes(macroName.split(' ')[0]));
       });
       document.getElementById('current-macro-title').innerText = `${macroName} 추이 (3개월)`;
-
-      if (!globalData || !globalData.macro || !globalData.macro.series_dict || !lineSeries) return;
-      const series = globalData.macro.series_dict[macroName] || [];
-      lineSeries.setData(series);
-      lineChart.timeScale().fitContent();
+      drawLineChart();
     }
+
+    // 브라우저 크기 변경 대응
+    window.addEventListener('resize', () => {
+      drawCandleChart();
+      drawLineChart();
+    });
   </script>
 </body>
 </html>

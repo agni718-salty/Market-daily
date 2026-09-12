@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12 09:52 KST",
+  "updated_at": "2026-09-12 09:56 KST",
   "indices": {
     "summary": [
       {
@@ -21771,11 +21771,6 @@
       "summary": "[뉴욕마켓워치] 9월 금리인상에 쐐기 박은 CPI…주식·달러↑채권 혼조에 관한 상세 시장 분석 보도입니다. 해당 경제 이슈가 금융시장과 국내외 주요 산업 및 금리/환율 환경에 미칠 영향을 다루고 있습니다."
     },
     {
-      "title": "대미투자 막판 조율…'방미' 김정관 \"마무리하기 위해 왔다\"",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HQUg1akZ5eEtKcThMQTZJZVZvWks4S0tNaWo3Z0dzY2RiMzFaYVVGSEs1bXVZWFVKdk0wWmVQc3E0aW5aSDhMSWlQejg2RTZmZVBHVUpEeXlDUQ?oc=5",
-      "summary": "대미투자 막판 조율…'방미' 김정관 \"마무리하기 위해 왔다\"에 관한 상세 시장 분석 보도입니다. 해당 경제 이슈가 금융시장과 국내외 주요 산업 및 금리/환율 환경에 미칠 영향을 다루고 있습니다."
-    },
-    {
       "title": "국제 유가, 중동-이란 호르무즈 협상 기대에 2%대 하락",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fVkwySmpzdGUzN2ZaejJEdHgtVXJuTUJsTTk0Tkloems4d09MX3cwVHk0aXBnamM5TDVtNUZQZlA2eUF5ckNzX0tQS1gzVDd5TkpYN1VzelBvWVE?oc=5",
       "summary": "국제 유가, 중동-이란 호르무즈 협상 기대에 2%대 하락에 관한 상세 시장 분석 보도입니다. 해당 경제 이슈가 금융시장과 국내외 주요 산업 및 금리/환율 환경에 미칠 영향을 다루고 있습니다."
@@ -21791,29 +21786,34 @@
       "summary": "거래 절벽에 \"민간 살아나야\"...대출 규제 '딜레마'에 관한 상세 시장 분석 보도입니다. 해당 경제 이슈가 금융시장과 국내외 주요 산업 및 금리/환율 환경에 미칠 영향을 다루고 있습니다."
     },
     {
+      "title": "'AI가 인류 멸망' 경고에 트럼프 \"내 관심은 대중국 우위\"",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zWW9vbDYzWW5hX0pSaHZ5eW5YbHowMWNLWGtVcDBqV0xSZXNTbm43V0JFZWR2WUhlQ0RsR2VRZ2pLMzR3Snl0UV8yU1A1azA3SllsbWs4NGFQZEI4SHQ1RVduRXE5dDFOSm9YZzNsRlJGR0RQ0gF0QVVfeXFMTzVfN2ZkNy1BQlI3RWdlU09wSjU3eG5JbHhLZE5RbWo0VF9UMjFBc1dnYmtCdFQtYXdXd3l4NV9mbzV2dkl4cWZlZFZPQmFPTE1wOFBPbTlhNUpfUEJ4MW1GUHFCQ1lTTmhobi1vYUI0d1l6SWI?oc=5",
+      "summary": "'AI가 인류 멸망' 경고에 트럼프 \"내 관심은 대중국 우위\"에 관한 상세 시장 분석 보도입니다. 해당 경제 이슈가 금융시장과 국내외 주요 산업 및 금리/환율 환경에 미칠 영향을 다루고 있습니다."
+    },
+    {
       "title": "애플 폴더블폰도 ‘남의 떡’…한때 ‘핸드폰 강국’ 일본은 왜 몰락했나",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa3NDT1NxQkpMNGRqbno3REVuV2duWFJZNWxEWW5tSUJKdXpNS3lra09nc1M0czN1MG5CTk0wOUxmT2ZURE5zaUcxdFRKc2hJMnZPVjhld2lyWjVsLW53OG5jb1dYcElzOFBFcFFra1FxNV9NcDFVNjVDV3dlcWMyQVVR?oc=5",
       "summary": "애플 폴더블폰도 ‘남의 떡’…한때 ‘핸드폰 강국’ 일본은 왜 몰락했나에 관한 상세 시장 분석 보도입니다. 해당 경제 이슈가 금융시장과 국내외 주요 산업 및 금리/환율 환경에 미칠 영향을 다루고 있습니다."
     },
     {
-      "title": "국제유가 급등·미국 소비자물가 발표 경계감에 코스피 6,900선 마감",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JdGQ1SEp3VzNhNHcxYlo5b0tvX3hDRzhlblVHOF81X1pKbVBHbGhGbmVLUlZENm5NeXVkVTJPQ2NNRFI4VXJyRlVlWnhseWQyMkxId3pyNjROR2NLYV90ZENCUkVuWjVBUXRaeEJWN1VkMjR60gF0QVVfeXFMT1hxUjk0N3FrejNrVUEtTVExR3hNS21taDkwUmliamdodWE5VDhfaWdwVkRDYm9WZGpmOXQtWHpfdWJ6cWc3U2R4eEVGY2NUNThyZjZ4bmZxZkZ6dXdnZjBCd09aU0tlMXpSNW56UXBUX2c1SzM?oc=5",
-      "summary": "국제유가 급등·미국 소비자물가 발표 경계감에 코스피 6,900선 마감에 관한 상세 시장 분석 보도입니다. 해당 경제 이슈가 금융시장과 국내외 주요 산업 및 금리/환율 환경에 미칠 영향을 다루고 있습니다."
+      "title": "코스피, 유가·금리 공포 속 낙폭 줄여 6900선 마감…코스닥도 하락",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MRWY2aWtzVzB5cTdOWjlfczNIZGZYR0EzcWxKZnpzbDRkYmRqZnB6ajZ4MmxveHFNcHZabmxSYlpRcmlZMVlJYndLTHE0MWM1RzR2cHZaTVU1dw?oc=5",
+      "summary": "코스피, 유가·금리 공포 속 낙폭 줄여 6900선 마감…코스닥도 하락에 관한 상세 시장 분석 보도입니다. 해당 경제 이슈가 금융시장과 국내외 주요 산업 및 금리/환율 환경에 미칠 영향을 다루고 있습니다."
     },
     {
-      "title": "\"주식창 끄고 떠난다\" 개미들 '백기'…1000조 뭉칫돈 대이동",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSF93VU51dzJPYy1hWTkxYVBfMG93dHRwYjBKNUJpTHpBeWhTVG1TQWt4dnpuNTFxcjF5UFUwU2xZcjNBZV9DUEp4QWZJTW1Jai1lenoyR0Z1UQ?oc=5",
-      "summary": "\"주식창 끄고 떠난다\" 개미들 '백기'…1000조 뭉칫돈 대이동에 관한 상세 시장 분석 보도입니다. 해당 경제 이슈가 금융시장과 국내외 주요 산업 및 금리/환율 환경에 미칠 영향을 다루고 있습니다."
-    },
-    {
-      "title": "‘AI가 인류 멸망’ 경고에 트럼프 “전혀 걱정 없어···내 관심은 대중국 우위”",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpRmxnVkFxcnlZTDg0VUR4SkREamctdjhpMUl2V1hDcEczcTdhQkprX3ZZMXkydWRqamFzOHAzdDVqUmt4MEtEWllOQ2NlQms5NnZsdmU5NHhKUdIBX0FVX3lxTE5lQmp4eHo3bzNqSDh1WFJkcDREVDNaakEyd05zQ1ZvODVJY0M2dW11OE1hNzZGX3RpVEUwcmxvcm1lYVNocTR5Y0NjbWRSM3o4RTVOaEV0dFE5bjdSTGJn?oc=5",
-      "summary": "‘AI가 인류 멸망’ 경고에 트럼프 “전혀 걱정 없어···내 관심은 대중국 우위”에 관한 상세 시장 분석 보도입니다. 해당 경제 이슈가 금융시장과 국내외 주요 산업 및 금리/환율 환경에 미칠 영향을 다루고 있습니다."
+      "title": "은행권 정기예금 줄인상…'역머니무브' 속도 내나",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zUmZpVEg4OW04ay1FcHM2Zy12RG54V0xjSVdKbmdZY0trTnVHUG9YTmZEemh1ZUdLOWt1TjliYnpGS2xVbU51OF9CdXJzTlE?oc=5",
+      "summary": "은행권 정기예금 줄인상…'역머니무브' 속도 내나에 관한 상세 시장 분석 보도입니다. 해당 경제 이슈가 금융시장과 국내외 주요 산업 및 금리/환율 환경에 미칠 영향을 다루고 있습니다."
     },
     {
       "title": "AI 인류 종말론이 왜 갑툭튀?",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LSnRMaF8tSUZ6TGlNMmxlcVczS1hsN052M09CMDV3RlY5TTBUWjZkM21fMUJpWGx0bmZXUElHY2szVnRRSkstclJxX3J3bXZQRVhDMXZnV1BXdzZLWUNoa0JhS3Nqdw?oc=5",
       "summary": "AI 인류 종말론이 왜 갑툭튀?에 관한 상세 시장 분석 보도입니다. 해당 경제 이슈가 금융시장과 국내외 주요 산업 및 금리/환율 환경에 미칠 영향을 다루고 있습니다."
+    },
+    {
+      "title": "이란 연계 단체, 앤트로픽 AI로 美군함 추적·공격 시도",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iTTFVNWZITTQ3NDhXNlF6WF95SGhtMFc4aHppOFZFOHZmMmFBWU83QlhrRkl6dlJWamo5aGNYM0JnQWdLcjZzVTRxN3JhdmdMY1Z0T2FkTVpaOGfSAWBBVV95cUxQblNpWFRaSGhrVE5fcXQzUG1KcjhLWm1OZ2RaODZPM1AxYllPd2VkOFQ5b1RCWThEdFpGb1VHakpIM1FqdF9SQ29kWFN4RUxfYXNYWnJQU1NyaUcxS2ZOcDg?oc=5",
+      "summary": "이란 연계 단체, 앤트로픽 AI로 美군함 추적·공격 시도에 관한 상세 시장 분석 보도입니다. 해당 경제 이슈가 금융시장과 국내외 주요 산업 및 금리/환율 환경에 미칠 영향을 다루고 있습니다."
     }
   ],
   "schedules": [

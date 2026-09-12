@@ -87,7 +87,7 @@
 
     .canvas-box {
       width: 100%;
-      height: 230px;
+      height: 220px;
       background: #181818;
       border-radius: 8px;
       border: 1px solid #2a2a2a;
@@ -239,6 +239,7 @@
         globalData = data;
         document.getElementById('updated-time').innerText = "최종 업데이트: " + (data.updated_at || "완료");
 
+        // [1] 지수 요약
         if (data.indices && data.indices.summary) {
           document.getElementById('index-prices').innerHTML = data.indices.summary.map(item => {
             const isDown = String(item.change).startsWith('-');
@@ -254,6 +255,7 @@
           }).join('');
         }
 
+        // [2] 거시 지표 요약
         if (data.macro && data.macro.summary) {
           document.getElementById('macro-prices').innerHTML = data.macro.summary.map(item => {
             const isDown = String(item.change).startsWith('-');
@@ -269,6 +271,7 @@
           }).join('');
         }
 
+        // [3] 뉴스 10선
         if (data.news && data.news.length > 0) {
           document.getElementById('news-list').innerHTML = data.news.map((n, idx) => `
             <div class="news-item">
@@ -281,6 +284,7 @@
           `).join('');
         }
 
+        // [4] 일정
         if (data.schedules) {
           document.getElementById('calendar-info').innerHTML = data.schedules.map(item => `
             <div class="schedule-item">
@@ -289,25 +293,13 @@
           `).join('');
         }
 
+        // [5] 캔버스 차트 즉시 드로잉
         drawCandleChart();
         drawLineChart();
       })
       .catch(err => {
         document.getElementById('updated-time').innerText = "데이터 로딩 오류: " + err.message;
       });
-
-    // 날짜 레이블 포맷 헬퍼
-    function formatDateLabel(dateStr, range) {
-      if (!dateStr) return '';
-      const parts = dateStr.split('-');
-      if (parts.length === 3) {
-        if (range === '3Y') {
-          return `${parts[0].slice(2)}.${parts[1]}`;
-        }
-        return `${parts[1]}/${parts[2]}`;
-      }
-      return dateStr;
-    }
 
     // 캔버스 캔들 차트 그리기
     function drawCandleChart() {
@@ -335,7 +327,7 @@
       const padLeft = 10;
       const padRight = 55;
       const padTop = 15;
-      const padBottom = 26;
+      const padBottom = 20;
 
       let min = Math.min(...candles.map(c => c.low));
       let max = Math.max(...candles.map(c => c.high));
@@ -343,8 +335,8 @@
 
       ctx.clearRect(0, 0, w, h);
 
-      // 가로 격자 및 가격 축
-      ctx.strokeStyle = '#242424';
+      // 격자 및 가격 축
+      ctx.strokeStyle = '#282828';
       ctx.fillStyle = '#777';
       ctx.font = '10px sans-serif';
       ctx.textAlign = 'left';
@@ -360,28 +352,9 @@
         ctx.fillText(priceVal.toLocaleString(undefined, {maximumFractionDigits: 1}), w - padRight + 5, y + 3);
       }
 
-      // 세로 시간 보조선 및 날짜 눈금 (4구간 분할)
+      // 봉 그리기
       const chartW = w - padLeft - padRight;
       const step = chartW / candles.length;
-      ctx.textAlign = 'center';
-      ctx.fillStyle = '#888';
-
-      const timePoints = [0, Math.floor(candles.length * 0.33), Math.floor(candles.length * 0.66), candles.length - 1];
-      timePoints.forEach(idx => {
-        if (candles[idx]) {
-          const x = padLeft + idx * step + step / 2;
-          ctx.beginPath();
-          ctx.strokeStyle = '#222';
-          ctx.moveTo(x, padTop);
-          ctx.lineTo(x, h - padBottom);
-          ctx.stroke();
-
-          const label = formatDateLabel(candles[idx].time, currentRange);
-          ctx.fillText(label, x, h - 8);
-        }
-      });
-
-      // 캔들 봉 그리기
       const candleW = Math.max(1.5, step * 0.7);
 
       candles.forEach((c, idx) => {
@@ -447,7 +420,7 @@
       const padLeft = 10;
       const padRight = 55;
       const padTop = 15;
-      const padBottom = 26;
+      const padBottom = 20;
 
       let min = Math.min(...series.map(s => s.value));
       let max = Math.max(...series.map(s => s.value));
@@ -455,8 +428,8 @@
 
       ctx.clearRect(0, 0, w, h);
 
-      // 가로 격자 및 가격 축
-      ctx.strokeStyle = '#242424';
+      // 눈금선 및 가격
+      ctx.strokeStyle = '#282828';
       ctx.fillStyle = '#777';
       ctx.font = '10px sans-serif';
       ctx.textAlign = 'left';
@@ -472,28 +445,10 @@
         ctx.fillText(val.toFixed(2), w - padRight + 5, y + 3);
       }
 
-      // 세로 시간 보조선 및 날짜 눈금 (4구간 분할)
+      // 라인 그리기
       const chartW = w - padLeft - padRight;
       const step = chartW / (series.length - 1 || 1);
-      ctx.textAlign = 'center';
-      ctx.fillStyle = '#888';
 
-      const timePoints = [0, Math.floor(series.length * 0.33), Math.floor(series.length * 0.66), series.length - 1];
-      timePoints.forEach(idx => {
-        if (series[idx]) {
-          const x = padLeft + idx * step;
-          ctx.beginPath();
-          ctx.strokeStyle = '#222';
-          ctx.moveTo(x, padTop);
-          ctx.lineTo(x, h - padBottom);
-          ctx.stroke();
-
-          const label = formatDateLabel(series[idx].time, '3M');
-          ctx.fillText(label, x, h - 8);
-        }
-      });
-
-      // 라인 그리기
       ctx.beginPath();
       series.forEach((s, idx) => {
         const x = padLeft + idx * step;
@@ -528,6 +483,7 @@
       drawLineChart();
     }
 
+    // 브라우저 크기 변경 대응
     window.addEventListener('resize', () => {
       drawCandleChart();
       drawLineChart();

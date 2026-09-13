@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13 17:01 KST",
+  "updated_at": "2026-09-14 07:09 KST",
   "indices": {
     "summary": [
       {
@@ -19782,9 +19782,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,342.40 원",
-        "change": -5.77,
-        "change_str": "-5.77원"
+        "value": "1,342.97 원",
+        "change": -5.2,
+        "change_str": "-5.20원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -20071,7 +20071,7 @@
         },
         {
           "time": "2026-09-13",
-          "value": 1342.4
+          "value": 1342.97
         }
       ],
       "미국채 10년물 금리": [
@@ -20594,54 +20594,54 @@
   },
   "news": [
     {
-      "title": "“AI 개발 속도 늦춰야” 올트먼·아모데이·머스크, 이례적 한뜻",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Rb2RPanRJblA4SWpXbXkxMS1JQV9SWEtiSHdPTGI5MGdJMlhDVlFEaXdOLXQwMDdtMmNnaVJhZDJWMHBlSlYtbThYaWxWMElJa0ZSdzNkNDNHRWxVZmJpb1I5ZXNYUWxGbklmVTRiVQ?oc=5",
-      "summary": "“AI 개발 속도 늦춰야” 올트먼·아모데이·머스크, 이례적 한뜻에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "김정관 “대미투자 프로젝트 이르면 이번 주 안 발표가 목표”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92T1M0S0pRdkVRV2tSUFN1UmZLcHhyM1JES05vdEpWYks1a2NvSGRPdHI1YnV4WXQzMVp4QzBrZHVlZml6V193VG0wTF9JVEpRMlhsd3k1RXVYYmM?oc=5",
+      "summary": "김정관 “대미투자 프로젝트 이르면 이번 주 안 발표가 목표”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "김정관 산업부 장관 오늘 귀국…대미 투자 막판 협상",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qb3JpNjhIWUU4OU5XZGVJd085c254S2k1TXpBVElPOVRGd1Y4RzlDRTVjaXpiSVRmMFNTWDVSRV85cmwwZXV6LVdOeUptWTZ1aHVKZTRpa29aVnRKMzJhOTFydDFkTWxlTUE?oc=5",
-      "summary": "김정관 산업부 장관 오늘 귀국…대미 투자 막판 협상에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "트럼프 \"일부 무역 적자국과 교역 끊을 것…적어도 균형 수지 원해\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pV2Vna2dCU3lwS1NpSFo5YWVTODRVdjF6bmx6a0MyNldfZVBsMDQyaFBpQkdKNkNsU1NIZ0VZclhoWUoxUkd2c1YwZ0FQVXNUbGxSNWJneWpzN2c2TG16WEVHcjM4ZHdMNXFoVVIxdTM?oc=5",
+      "summary": "트럼프 \"일부 무역 적자국과 교역 끊을 것…적어도 균형 수지 원해\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "\"공시가 30억 비거주 1주택 종부세, 올해 774만→내년 1204만원\"",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb2d5bktfckZiSk5hajdXX19aUnBxWXh5RGlFbkRXX1p3elZORW5HbTJib2wzUUJmbTVDNjM1NWV0b1lXR3FTQklnZ3BoNjdJdjYtaXlabGFNTEs5LUNXVGRuc0tnUHY1YjA4TFFPcVIwZVEydkIybjVsTk1kRndCNlkzZ3c3c2lOLVRuQ0dn?oc=5",
-      "summary": "\"공시가 30억 비거주 1주택 종부세, 올해 774만→내년 1204만원\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "‘AI 죄수의 딜레마’ 놓인 미·중···트럼프, AI 속도 조절 경고에도 “중국에 승리해야” 일축",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10M2lKQktFeXN5ME9hNF9UeWNNZ0ExYVVhVFRVZjJZeVQwNW1KSi1SbVlxc25NQ0dTaEdjUm1pRXR3UTNBa2tQT0EyMThVOFFHV0FQVjZ3Nkx3Z9IBX0FVX3lxTE5NOUxZZmd4bTkwek5qM00yVmhDeUxtNjhFaVJ2NGFBSzJUSGdDZTdMWEZ5NG1xcDdLbXV0VElCWmFSX1RCU1kxR1Rwek9FTzJWZDJsZl8xLV9KQlNuU2lJ?oc=5",
+      "summary": "‘AI 죄수의 딜레마’ 놓인 미·중···트럼프, AI 속도 조절 경고에도 “중국에 승리해야” 일축에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "내일부터 ‘퇴근 후 주식거래’ 확대…한국거래소 애프터마켓 개장",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FREZxUzRQZHdpRGh2N21nQ3ppRzI5aWlQS0ppeEdlOUJtYjJ4cHVfRUZndTVTbWxqRWVhVHlhREU0T1QwbmhKVF9rTEpaaVBSVzJ4NUh4UFN1VU0?oc=5",
-      "summary": "내일부터 ‘퇴근 후 주식거래’ 확대…한국거래소 애프터마켓 개장에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[단독] “대기업 취업할때 신용불량 뜨나요?”…대학가 전세보증금 ‘시한폭탄’",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82MV94N2RNUjNQaEQzZWx4NWZOV0tvNVFjd01OWFA2V0NRRHZRMUgzSHFGcnpMR1o2Y0s3ZFFXTkhaa1JRMTNzVjBXMXIyQ0d0ZWpvWA?oc=5",
+      "summary": "[단독] “대기업 취업할때 신용불량 뜨나요?”…대학가 전세보증금 ‘시한폭탄’에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "유가 등 중동 악재에 눌린 코스피, 美 FOMC 금리결정 주시",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Xd2xWY3pTVW8wV3Q4Sm5KbnpPSnhFLXRnZEl0OUU1WkZLdGNaYy03X1FWSlVrem9TN2pMT3VzeHpwTFMxdWhLU1NKcC14SlE5VjNVdVhIQzd2RWPSAWBBVV95cUxOY0U4ajNqX2IwdjJDRDJEZE1fTnpUWmxqWGZOY19ySTBZeEV1ZDFMMFVPOXNvWTNlVWVxemNfeVFJaE1iTnhzUzZMdDdSMGQ3OTY5Mzl5OHlRYVJUdzJrbGI?oc=5",
-      "summary": "유가 등 중동 악재에 눌린 코스피, 美 FOMC 금리결정 주시에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "시가 43억 비거주 1주택 종부세, 내년 429만원 오른다",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IYTdqX05TZG44ZG9nRTUzb0lBV2hHOHRHaVRnd3VlVGJsMVJRQTM5S3JGYklNYmwxUlZVVWRvSk9zYjBrNzJRaW1YaDRFQkYyRURjWlNLWHVnMW5KRm1TeUVFdF84dDhRaTFBSmxCTUpqd3doLWfSAWZBVV95cUxQV01lNmJuRGg0a0JDa3NaQ0JpOUpOTUl1RnJXSFR1bUwtaDhfV21Bd0M4TlRsbTRYVXVScVVIX2ZReWlBeVNpOFctT0xTcy1aMnBVajZaTUlsX0pXaEszSHhmMW9fdlE?oc=5",
+      "summary": "시가 43억 비거주 1주택 종부세, 내년 429만원 오른다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "美 CPI 발표 후 커지는 연준 인상론…\"동결하려면 설득력 있는 명분 있어야\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fUVhLa1hEellkdzNHS0lRb0FGbTJZUXhRMlVCQXB5RjhaU21WUE9USGhCbFdqMmYxdkpFY2dpY1hKRnlWQjlYdzFOQTdKT0ZuNXh5WmFNczFUbWgzOEI5VEZrQ0VHZEZrV1lrQ2t5MFg?oc=5",
-      "summary": "美 CPI 발표 후 커지는 연준 인상론…\"동결하려면 설득력 있는 명분 있어야\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "美 국채금리 5% 턱밑인데도…유가·물가 불안에 연준, ‘금리인상’ 무게",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YSm92VzNXTVlMTzdtNVpBX2d4MWgweG44VVhLR0tWc1RWa0JvVXUtUjVkTk42bjNELTQ4U2RPR1FnbUpsdkVjYjZxbmI2ZHVNSHpZUEs4OG10REdOYmhOQW5VRVIxSjJfVWZhMVhiUjdTdVk?oc=5",
+      "summary": "美 국채금리 5% 턱밑인데도…유가·물가 불안에 연준, ‘금리인상’ 무게에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "김성환 한투증권 사장 \"글로벌 금융사가 가장 일하고 싶은 파트너 될 것\"",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81OTZfa1NmeFZFTWo4N04zWW9rblBBUVVsM0h4YTNMYWdieW9MUk5BZmxvQ19tTENSbUx0SHBKdWhIMTFUdUxnWGItZE4zVWh2R2U4MFNjT2dVZVZy?oc=5",
-      "summary": "김성환 한투증권 사장 \"글로벌 금융사가 가장 일하고 싶은 파트너 될 것\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "AI 데이터센터 투자 가속도...반도체·부품 매출 182% 급증",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53NG1ubXJZXzVLX3hjTm1tblVFR1ZXVXk2UnhSdzZ3alBMYllpNmZjNjBQYnMzcTFKYzVPZERlSUhuRGtkdm8xaUFUbDdvWHZMRkZXWjl3?oc=5",
+      "summary": "AI 데이터센터 투자 가속도...반도체·부품 매출 182% 급증에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "싱가포르 도매가격 폭등…10차 석유 최고가격 오르나",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lcmtrdDdtV2NfaW5RdzNJQXNNZkk2WFhscGZTSG9ESUlBdzJraGlVZGw1MVlldVFiQUdqNWFHdVJDVGVXandNUUMydHJ0T3VCel8xck8xekxVTUNwUnc?oc=5",
-      "summary": "싱가포르 도매가격 폭등…10차 석유 최고가격 오르나에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "‘7천피’ 넘을까…이번주 FOMC·100달러 유가가 분수령",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9yTEN3UXljanRLdC16ZW12YWsxWTFFcTZrdVI3V3d2TU4xMVJWOHpDQkhaT0sxS08tTU9zdk4xX0dPeXR2TGc?oc=5",
+      "summary": "‘7천피’ 넘을까…이번주 FOMC·100달러 유가가 분수령에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "삼전·닉스 떠나는 개미들…9월들어 5개월 만에 '팔자' 전환",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9hNDZMWmsxeDczRjUwMko2LUJpTzJlbV96UXZVNTUxSGU4bjNIa0l0UlZDUXU1U0VYeGgwTDNTbU9JMlZTcEE?oc=5",
-      "summary": "삼전·닉스 떠나는 개미들…9월들어 5개월 만에 '팔자' 전환에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "인천, 추석 앞두고 505억 소상공인 경영안전자금 푼다…민생 경제 활력 기대",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DOU15NlBUS194a0RQbjZSN2lJY3JFdGl2NkxteHI0SkxKbjgzNHF2Y0VWVWs5Tl9kV2IzS3Ezb0pwMWpic2daamtvSi1SRVhCMkpUUlNCamRzbkk?oc=5",
+      "summary": "인천, 추석 앞두고 505억 소상공인 경영안전자금 푼다…민생 경제 활력 기대에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "국제유가 100달러 돌파…장바구니 물가 다시 자극하나",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtSXR4aDJLLVg0SWk2M3FtWkxzRTFaVmQteGJGV3Uyd3QwOE5FZnlseU9pLXhVelNqQ0Z1Q1kxaWpkZVNZdnc3cUZxZ2NUNVdNc3J1MjhlekhaMkY3QnlQd0tn?oc=5",
-      "summary": "국제유가 100달러 돌파…장바구니 물가 다시 자극하나에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "애플도 결국 접었다…韓·美·中 ‘폴더블폰 삼국지’ 개막",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSHlCYzRsLWdxNFNnX3luY2NGSkttejFLZUJsQ3Z3eHpWRmJLOUVtZ1lrVkZDNmgwcW5waTdHS0pUdmRNdVRZSTRUZmI3R3pBYWRhYjU5UmJjajVEUG95amFJeGFidllLT0hiVzFDMmlTV1kwUTlFaGV3YTFJOXhzVXc0YTFhUzd0eGhfTXlB?oc=5",
+      "summary": "애플도 결국 접었다…韓·美·中 ‘폴더블폰 삼국지’ 개막에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

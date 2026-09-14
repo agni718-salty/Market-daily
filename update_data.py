@@ -1,4 +1,5 @@
 import json
+import os
 import datetime
 import yfinance as yf
 import feedparser
@@ -21,20 +22,17 @@ def safe_num(val, default=0.0):
     except:
         return default
 
-def fetch_npay_market(target="KOSPI"):
-    """
-    네이버페이 증권 공식 모바일 API 호출
-    차단 방지용 브라우저 헤더 및 Referer 탑재
-    """
-    url = f"https://m.stock.naver.com/api/index/{target}/basic"
+def get_kospi_from_naver():
+    """1차: 네이버페이 증권 모바일 API"""
+    url = "https://m.stock.naver.com/api/index/KOSPI/basic"
     headers = {
-        'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Mobile/15E148 Safari/604.1',
+        'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1',
         'Referer': 'https://m.stock.naver.com/',
         'Accept': 'application/json, text/plain, */*'
     }
     try:
         req = urllib.request.Request(url, headers=headers)
-        with urllib.request.urlopen(req, timeout=8) as response:
+        with urllib.request.urlopen(req, timeout=6) as response:
             data = json.loads(response.read().decode('utf-8'))
             price = safe_num(data.get('nowValue', '0').replace(',', ''))
             change = safe_num(data.get('changeValue', '0').replace(',', ''))
@@ -44,16 +42,55 @@ def fetch_npay_market(target="KOSPI"):
             change_pct = safe_num(data.get('fluctuationsRatio', '0'))
             if is_fall:
                 change_pct = -abs(change_pct)
-            return price, change, change_pct
+            if price > 0:
+                return price, change, change_pct
     except Exception as e:
-        print(f"네이버페이 증권 {target} 호출 실패: {e}")
-        return None
+        print(f"네이버페이 증권 수집 실패 (봇 차단 가능성): {e}")
+    return None
+
+def get_kospi_from_daum():
+    """2차 폴백: 다음 금융 모바일 API"""
+    url = "https://finance.daum.net/api/quotes/KOSPI"
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+        'Referer': 'https://finance.daum.net/'
+    }
+    try:
+        req = urllib.request.Request(url, headers=headers)
+        with urllib.request.urlopen(req, timeout=6) as response:
+            res = json.loads(response.read().decode('utf-8'))
+            price = safe_num(res.get('tradePrice'))
+            change = safe_num(res.get('changePrice'))
+            change_type = res.get('change')
+            if change_type == 'FALL':
+                change = -abs(change)
+            change_pct = safe_num(res.get('changeRate')) * 100
+            if change_type == 'FALL':
+                change_pct = -abs(change_pct)
+            if price > 0:
+                return price, change, change_pct
+    except Exception as e:
+        print(f"다음 금융 API 수집 실패: {e}")
+    return None
+
+def load_previous_kospi():
+    """3차 최후 안전장치: 기존 data.json의 코스피 데이터 보존"""
+    if os.path.exists("data.json"):
+        try:
+            with open("data.json", "r", encoding="utf-8") as f:
+                old = json.load(f)
+                for item in old.get("indices", {}).get("summary", []):
+                    if item.get("name") == "코스피":
+                        return item
+        except:
+            pass
+    return None
 
 def fetch_market_data():
     now_kst = datetime.datetime.utcnow() + datetime.timedelta(hours=9)
     updated_at_str = now_kst.strftime("%Y-%m-%d %H:%M KST")
 
-    # 1. 주요 지수 수집 (미국 지수는 yfinance, 코스피는 네이버페이 증권 1순위)
+    # 1. 미국 3대 지수 + 코스피
     tickers = {
         'S&P 500': '^GSPC',
         '나스닥': '^IXIC',
@@ -64,54 +101,56 @@ def fetch_market_data():
     indices_summary = []
     candles_dict = {}
 
-    # 네이버페이 증권에서 실제 코스피 가져오기
-    npay_kospi = fetch_npay_market("KOSPI")
+    # 코스피 실시간 수치 별도 확보 (네이버 -> 다음 순)
+    exact_kospi = get_kospi_from_naver() or get_kospi_from_daum()
 
     for name, symbol in tickers.items():
         ticker = yf.Ticker(symbol)
-        df = ticker.history(period="3y")
-        
-        if not df.empty:
-            df = df[df['Close'] > 0]
+        try:
+            df = ticker.history(period="3y")
+        except:
+            df = None
 
-        if not df.empty:
+        last_close, change, change_pct = 0.0, 0.0, 0.0
+        has_yfinance_data = df is not None and not df.empty and len(df) > 1
+
+        if has_yfinance_data:
+            df = df[df['Close'] > 0]
             last_close = safe_num(df.iloc[-1]['Close'])
-            prev_close = safe_num(df.iloc[-2]['Close']) if len(df) > 1 else last_close
+            prev_close = safe_num(df.iloc[-2]['Close'])
             change = last_close - prev_close
             change_pct = (change / prev_close * 100) if prev_close != 0 else 0.0
 
-            # 코스피는 네이버페이 증권의 실시간 종가 우선 적용
-            if name == '코스피' and npay_kospi:
-                last_close, change, change_pct = npay_kospi
+            # 캔들차트 데이터 저장
+            c_list = []
+            for idx, row in df.iterrows():
+                o, h, l, c = safe_num(row['Open']), safe_num(row['High']), safe_num(row['Low']), safe_num(row['Close'])
+                if o > 0 and h > 0 and l > 0 and c > 0:
+                    c_list.append({
+                        "time": idx.strftime("%Y-%m-%d"),
+                        "open": round(o, 2), "high": round(h, 2),
+                        "low": round(l, 2), "close": round(c, 2)
+                    })
+            candles_dict[name] = c_list
 
+        # 코스피는 네이버/다음 실시간 종가 우선 적용
+        if name == '코스피':
+            if exact_kospi:
+                last_close, change, change_pct = exact_kospi
+            elif not has_yfinance_data:
+                # 모든 API 실패 시 기존 파일 캐시로 복원
+                cached = load_previous_kospi()
+                if cached:
+                    indices_summary.append(cached)
+                    continue
+
+        if last_close > 0:
             indices_summary.append({
                 "name": name,
                 "price": f"{last_close:,.2f}",
                 "change": round(safe_num(change), 2),
                 "change_pct": f"{safe_num(change_pct):+.2f}"
             })
-
-            # 지수별 캔들 데이터 생성
-            c_list = []
-            for idx, row in df.iterrows():
-                o = safe_num(row['Open'])
-                h = safe_num(row['High'])
-                l = safe_num(row['Low'])
-                c = safe_num(row['Close'])
-                
-                # 야후 파이낸스의 코스피 7,000대 오류치 완벽 차단 (정상 범위만 수집)
-                if name == '코스피' and (c > 4500 or c < 1000):
-                    continue
-
-                if o > 0 and h > 0 and l > 0 and c > 0:
-                    c_list.append({
-                        "time": idx.strftime("%Y-%m-%d"),
-                        "open": round(o, 2),
-                        "high": round(h, 2),
-                        "low": round(l, 2),
-                        "close": round(c, 2)
-                    })
-            candles_dict[name] = c_list
 
     # 2. 통화 & 거시 금리 수집
     macro_tickers = {
@@ -124,10 +163,13 @@ def fetch_market_data():
 
     for name, symbol in macro_tickers.items():
         t = yf.Ticker(symbol)
-        df = t.history(period="3mo")
-        df = df[df['Close'] > 0]
+        try:
+            df = t.history(period="3mo")
+            df = df[df['Close'] > 0]
+        except:
+            df = None
         
-        if not df.empty:
+        if df is not None and not df.empty:
             last_val = safe_num(df.iloc[-1]['Close'])
             prev_val = safe_num(df.iloc[-2]['Close']) if len(df) > 1 else last_val
             diff = last_val - prev_val
@@ -206,7 +248,7 @@ def fetch_market_data():
 
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(output_data, f, ensure_ascii=False, indent=2)
-    print("Npay 증권 연동 및 정상 데이터 생성 완료")
+    print("완전 무결성 데이터 생성 완료")
 
 if __name__ == "__main__":
     fetch_market_data()

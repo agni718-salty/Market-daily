@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14 17:01 KST",
+  "updated_at": "2026-09-14 20:10 KST",
   "indices": {
     "summary": [
       {
@@ -22,8 +22,8 @@
       },
       {
         "name": "코스피",
-        "price": "0.00",
-        "change": 0.0,
+        "price": "6,684.37",
+        "change": -225.54,
         "change_pct": "-3.26"
       }
     ],
@@ -19753,6 +19753,1196 @@
           "high": 4457.52,
           "low": 4381.93,
           "close": 4457.52
+        },
+        {
+          "time": "2026-01-06",
+          "open": 4446.08,
+          "high": 4525.48,
+          "low": 4395.0,
+          "close": 4525.48
+        },
+        {
+          "time": "2026-01-07",
+          "open": 4566.34,
+          "high": 4611.72,
+          "low": 4488.2,
+          "close": 4551.06
+        },
+        {
+          "time": "2026-01-08",
+          "open": 4531.46,
+          "high": 4622.32,
+          "low": 4527.5,
+          "close": 4552.37
+        },
+        {
+          "time": "2026-01-09",
+          "open": 4530.03,
+          "high": 4590.03,
+          "low": 4500.48,
+          "close": 4586.32
+        },
+        {
+          "time": "2026-01-12",
+          "open": 4639.89,
+          "high": 4652.54,
+          "low": 4567.55,
+          "close": 4624.79
+        },
+        {
+          "time": "2026-01-13",
+          "open": 4662.44,
+          "high": 4693.07,
+          "low": 4641.58,
+          "close": 4692.64
+        },
+        {
+          "time": "2026-01-14",
+          "open": 4685.11,
+          "high": 4723.1,
+          "low": 4669.32,
+          "close": 4723.1
+        },
+        {
+          "time": "2026-01-15",
+          "open": 4710.28,
+          "high": 4797.55,
+          "low": 4705.44,
+          "close": 4797.55
+        },
+        {
+          "time": "2026-01-16",
+          "open": 4820.66,
+          "high": 4855.61,
+          "low": 4797.75,
+          "close": 4840.74
+        },
+        {
+          "time": "2026-01-19",
+          "open": 4829.4,
+          "high": 4917.37,
+          "low": 4827.95,
+          "close": 4904.66
+        },
+        {
+          "time": "2026-01-20",
+          "open": 4900.28,
+          "high": 4935.48,
+          "low": 4823.88,
+          "close": 4885.75
+        },
+        {
+          "time": "2026-01-21",
+          "open": 4808.94,
+          "high": 4910.54,
+          "low": 4807.13,
+          "close": 4909.93
+        },
+        {
+          "time": "2026-01-22",
+          "open": 4987.06,
+          "high": 5019.54,
+          "low": 4934.17,
+          "close": 4952.53
+        },
+        {
+          "time": "2026-01-23",
+          "open": 4984.08,
+          "high": 5021.13,
+          "low": 4926.22,
+          "close": 4990.07
+        },
+        {
+          "time": "2026-01-26",
+          "open": 4997.54,
+          "high": 5023.76,
+          "low": 4940.78,
+          "close": 4949.59
+        },
+        {
+          "time": "2026-01-27",
+          "open": 4932.89,
+          "high": 5084.85,
+          "low": 4890.72,
+          "close": 5084.85
+        },
+        {
+          "time": "2026-01-28",
+          "open": 5145.39,
+          "high": 5183.44,
+          "low": 5124.8,
+          "close": 5170.81
+        },
+        {
+          "time": "2026-01-29",
+          "open": 5243.42,
+          "high": 5252.61,
+          "low": 5073.12,
+          "close": 5221.25
+        },
+        {
+          "time": "2026-01-30",
+          "open": 5210.35,
+          "high": 5321.68,
+          "low": 5199.78,
+          "close": 5224.36
+        },
+        {
+          "time": "2026-02-02",
+          "open": 5122.62,
+          "high": 5196.71,
+          "low": 4933.58,
+          "close": 4949.67
+        },
+        {
+          "time": "2026-02-03",
+          "open": 5114.81,
+          "high": 5288.08,
+          "low": 5101.31,
+          "close": 5288.08
+        },
+        {
+          "time": "2026-02-04",
+          "open": 5260.71,
+          "high": 5376.92,
+          "low": 5243.11,
+          "close": 5371.1
+        },
+        {
+          "time": "2026-02-05",
+          "open": 5251.03,
+          "high": 5304.4,
+          "low": 5142.2,
+          "close": 5163.57
+        },
+        {
+          "time": "2026-02-06",
+          "open": 5013.15,
+          "high": 5120.77,
+          "low": 4899.3,
+          "close": 5089.14
+        },
+        {
+          "time": "2026-02-09",
+          "open": 5299.1,
+          "high": 5322.35,
+          "low": 5265.08,
+          "close": 5298.04
+        },
+        {
+          "time": "2026-02-10",
+          "open": 5350.21,
+          "high": 5363.62,
+          "low": 5286.67,
+          "close": 5301.69
+        },
+        {
+          "time": "2026-02-11",
+          "open": 5293.75,
+          "high": 5374.23,
+          "low": 5257.53,
+          "close": 5354.49
+        },
+        {
+          "time": "2026-02-12",
+          "open": 5425.39,
+          "high": 5522.27,
+          "low": 5399.52,
+          "close": 5522.27
+        },
+        {
+          "time": "2026-02-13",
+          "open": 5513.71,
+          "high": 5583.74,
+          "low": 5480.92,
+          "close": 5507.01
+        },
+        {
+          "time": "2026-02-19",
+          "open": 5642.09,
+          "high": 5681.65,
+          "low": 5614.97,
+          "close": 5677.25
+        },
+        {
+          "time": "2026-02-20",
+          "open": 5696.89,
+          "high": 5809.91,
+          "low": 5684.58,
+          "close": 5808.53
+        },
+        {
+          "time": "2026-02-23",
+          "open": 5903.11,
+          "high": 5931.86,
+          "low": 5792.57,
+          "close": 5846.09
+        },
+        {
+          "time": "2026-02-24",
+          "open": 5853.48,
+          "high": 5969.64,
+          "low": 5775.61,
+          "close": 5969.64
+        },
+        {
+          "time": "2026-02-25",
+          "open": 6022.7,
+          "high": 6144.71,
+          "low": 5984.28,
+          "close": 6083.86
+        },
+        {
+          "time": "2026-02-26",
+          "open": 6121.03,
+          "high": 6313.27,
+          "low": 6107.41,
+          "close": 6307.27
+        },
+        {
+          "time": "2026-02-27",
+          "open": 6197.49,
+          "high": 6347.41,
+          "low": 6153.87,
+          "close": 6244.13
+        },
+        {
+          "time": "2026-03-03",
+          "open": 6165.15,
+          "high": 6180.45,
+          "low": 5791.65,
+          "close": 5791.91
+        },
+        {
+          "time": "2026-03-04",
+          "open": 5592.59,
+          "high": 5672.12,
+          "low": 5059.45,
+          "close": 5093.54
+        },
+        {
+          "time": "2026-03-05",
+          "open": 5250.92,
+          "high": 5715.3,
+          "low": 5248.13,
+          "close": 5583.9
+        },
+        {
+          "time": "2026-03-06",
+          "open": 5491.02,
+          "high": 5609.98,
+          "low": 5381.27,
+          "close": 5584.87
+        },
+        {
+          "time": "2026-03-09",
+          "open": 5265.37,
+          "high": 5327.42,
+          "low": 5096.16,
+          "close": 5251.87
+        },
+        {
+          "time": "2026-03-10",
+          "open": 5523.21,
+          "high": 5595.88,
+          "low": 5427.88,
+          "close": 5532.59
+        },
+        {
+          "time": "2026-03-11",
+          "open": 5658.72,
+          "high": 5746.36,
+          "low": 5559.69,
+          "close": 5609.95
+        },
+        {
+          "time": "2026-03-12",
+          "open": 5567.65,
+          "high": 5629.07,
+          "low": 5527.47,
+          "close": 5583.25
+        },
+        {
+          "time": "2026-03-13",
+          "open": 5412.39,
+          "high": 5537.59,
+          "low": 5392.52,
+          "close": 5487.24
+        },
+        {
+          "time": "2026-03-16",
+          "open": 5510.82,
+          "high": 5561.42,
+          "low": 5448.75,
+          "close": 5549.85
+        },
+        {
+          "time": "2026-03-17",
+          "open": 5711.8,
+          "high": 5717.13,
+          "low": 5632.86,
+          "close": 5640.48
+        },
+        {
+          "time": "2026-03-18",
+          "open": 5767.1,
+          "high": 5934.35,
+          "low": 5766.14,
+          "close": 5925.03
+        },
+        {
+          "time": "2026-03-19",
+          "open": 5761.4,
+          "high": 5863.39,
+          "low": 5738.95,
+          "close": 5763.22
+        },
+        {
+          "time": "2026-03-20",
+          "open": 5813.35,
+          "high": 5833.68,
+          "low": 5764.64,
+          "close": 5781.2
+        },
+        {
+          "time": "2026-03-23",
+          "open": 5580.15,
+          "high": 5580.15,
+          "low": 5397.94,
+          "close": 5405.75
+        },
+        {
+          "time": "2026-03-24",
+          "open": 5638.2,
+          "high": 5643.0,
+          "low": 5395.17,
+          "close": 5553.92
+        },
+        {
+          "time": "2026-03-25",
+          "open": 5680.33,
+          "high": 5740.97,
+          "low": 5630.07,
+          "close": 5642.21
+        },
+        {
+          "time": "2026-03-26",
+          "open": 5594.06,
+          "high": 5598.37,
+          "low": 5448.12,
+          "close": 5460.46
+        },
+        {
+          "time": "2026-03-27",
+          "open": 5300.61,
+          "high": 5462.51,
+          "low": 5220.1,
+          "close": 5438.87
+        },
+        {
+          "time": "2026-03-30",
+          "open": 5181.8,
+          "high": 5297.35,
+          "low": 5151.22,
+          "close": 5277.3
+        },
+        {
+          "time": "2026-03-31",
+          "open": 5143.75,
+          "high": 5233.99,
+          "low": 5042.99,
+          "close": 5052.46
+        },
+        {
+          "time": "2026-04-01",
+          "open": 5330.04,
+          "high": 5512.33,
+          "low": 5272.45,
+          "close": 5478.7
+        },
+        {
+          "time": "2026-04-02",
+          "open": 5551.69,
+          "high": 5574.62,
+          "low": 5170.27,
+          "close": 5234.05
+        },
+        {
+          "time": "2026-04-03",
+          "open": 5375.5,
+          "high": 5419.45,
+          "low": 5316.42,
+          "close": 5377.3
+        },
+        {
+          "time": "2026-04-06",
+          "open": 5423.35,
+          "high": 5505.61,
+          "low": 5404.91,
+          "close": 5450.33
+        },
+        {
+          "time": "2026-04-07",
+          "open": 5552.19,
+          "high": 5594.9,
+          "low": 5424.46,
+          "close": 5494.78
+        },
+        {
+          "time": "2026-04-08",
+          "open": 5804.7,
+          "high": 5919.6,
+          "low": 5774.0,
+          "close": 5872.34
+        },
+        {
+          "time": "2026-04-09",
+          "open": 5826.45,
+          "high": 5862.41,
+          "low": 5757.49,
+          "close": 5778.01
+        },
+        {
+          "time": "2026-04-10",
+          "open": 5876.12,
+          "high": 5918.59,
+          "low": 5850.83,
+          "close": 5858.87
+        },
+        {
+          "time": "2026-04-13",
+          "open": 5737.28,
+          "high": 5827.73,
+          "low": 5730.23,
+          "close": 5808.62
+        },
+        {
+          "time": "2026-04-14",
+          "open": 5960.0,
+          "high": 6026.52,
+          "low": 5938.33,
+          "close": 5967.75
+        },
+        {
+          "time": "2026-04-15",
+          "open": 6141.6,
+          "high": 6183.21,
+          "low": 6064.23,
+          "close": 6091.39
+        },
+        {
+          "time": "2026-04-16",
+          "open": 6149.49,
+          "high": 6231.03,
+          "low": 6126.06,
+          "close": 6226.05
+        },
+        {
+          "time": "2026-04-17",
+          "open": 6227.33,
+          "high": 6230.32,
+          "low": 6159.88,
+          "close": 6191.92
+        },
+        {
+          "time": "2026-04-20",
+          "open": 6213.92,
+          "high": 6278.36,
+          "low": 6176.75,
+          "close": 6219.09
+        },
+        {
+          "time": "2026-04-21",
+          "open": 6302.54,
+          "high": 6388.47,
+          "low": 6302.54,
+          "close": 6388.47
+        },
+        {
+          "time": "2026-04-22",
+          "open": 6387.57,
+          "high": 6423.29,
+          "low": 6318.51,
+          "close": 6417.93
+        },
+        {
+          "time": "2026-04-23",
+          "open": 6488.83,
+          "high": 6557.76,
+          "low": 6309.1,
+          "close": 6475.81
+        },
+        {
+          "time": "2026-04-24",
+          "open": 6496.1,
+          "high": 6516.54,
+          "low": 6403.74,
+          "close": 6475.63
+        },
+        {
+          "time": "2026-04-27",
+          "open": 6533.6,
+          "high": 6657.22,
+          "low": 6529.19,
+          "close": 6615.03
+        },
+        {
+          "time": "2026-04-28",
+          "open": 6646.8,
+          "high": 6712.73,
+          "low": 6621.73,
+          "close": 6641.02
+        },
+        {
+          "time": "2026-04-29",
+          "open": 6619.0,
+          "high": 6702.38,
+          "low": 6596.03,
+          "close": 6690.9
+        },
+        {
+          "time": "2026-04-30",
+          "open": 6739.39,
+          "high": 6750.27,
+          "low": 6597.83,
+          "close": 6598.87
+        },
+        {
+          "time": "2026-05-04",
+          "open": 6782.93,
+          "high": 6937.0,
+          "low": 6741.63,
+          "close": 6936.99
+        },
+        {
+          "time": "2026-05-06",
+          "open": 7093.01,
+          "high": 7426.6,
+          "low": 7093.01,
+          "close": 7384.56
+        },
+        {
+          "time": "2026-05-07",
+          "open": 7499.07,
+          "high": 7531.88,
+          "low": 7257.89,
+          "close": 7490.05
+        },
+        {
+          "time": "2026-05-08",
+          "open": 7353.94,
+          "high": 7511.01,
+          "low": 7318.96,
+          "close": 7498.0
+        },
+        {
+          "time": "2026-05-11",
+          "open": 7775.31,
+          "high": 7899.32,
+          "low": 7713.49,
+          "close": 7822.24
+        },
+        {
+          "time": "2026-05-12",
+          "open": 7953.41,
+          "high": 7999.67,
+          "low": 7421.71,
+          "close": 7643.15
+        },
+        {
+          "time": "2026-05-13",
+          "open": 7513.65,
+          "high": 7855.47,
+          "low": 7402.36,
+          "close": 7844.01
+        },
+        {
+          "time": "2026-05-14",
+          "open": 7873.91,
+          "high": 7991.04,
+          "low": 7842.72,
+          "close": 7981.41
+        },
+        {
+          "time": "2026-05-15",
+          "open": 7951.75,
+          "high": 8046.78,
+          "low": 7371.68,
+          "close": 7493.18
+        },
+        {
+          "time": "2026-05-18",
+          "open": 7443.29,
+          "high": 7636.2,
+          "low": 7142.71,
+          "close": 7516.04
+        },
+        {
+          "time": "2026-05-19",
+          "open": 7425.66,
+          "high": 7446.57,
+          "low": 7141.91,
+          "close": 7271.66
+        },
+        {
+          "time": "2026-05-20",
+          "open": 7324.52,
+          "high": 7324.52,
+          "low": 7053.84,
+          "close": 7208.95
+        },
+        {
+          "time": "2026-05-21",
+          "open": 7486.37,
+          "high": 7819.23,
+          "low": 7486.37,
+          "close": 7815.59
+        },
+        {
+          "time": "2026-05-22",
+          "open": 7873.12,
+          "high": 7886.64,
+          "low": 7780.13,
+          "close": 7847.71
+        },
+        {
+          "time": "2026-05-26",
+          "open": 8070.91,
+          "high": 8131.15,
+          "low": 8008.19,
+          "close": 8047.51
+        },
+        {
+          "time": "2026-05-27",
+          "open": 8242.12,
+          "high": 8457.09,
+          "low": 8220.04,
+          "close": 8228.7
+        },
+        {
+          "time": "2026-05-28",
+          "open": 8165.73,
+          "high": 8253.6,
+          "low": 7841.01,
+          "close": 8185.29
+        },
+        {
+          "time": "2026-05-29",
+          "open": 8384.31,
+          "high": 8476.15,
+          "low": 8273.74,
+          "close": 8476.15
+        },
+        {
+          "time": "2026-06-01",
+          "open": 8485.67,
+          "high": 8874.16,
+          "low": 8485.67,
+          "close": 8788.38
+        },
+        {
+          "time": "2026-06-02",
+          "open": 8883.19,
+          "high": 8933.62,
+          "low": 8503.12,
+          "close": 8801.49
+        },
+        {
+          "time": "2026-06-04",
+          "open": 8623.82,
+          "high": 8759.05,
+          "low": 8577.3,
+          "close": 8639.41
+        },
+        {
+          "time": "2026-06-05",
+          "open": 8323.2,
+          "high": 8382.16,
+          "low": 8038.1,
+          "close": 8160.59
+        },
+        {
+          "time": "2026-06-08",
+          "open": 8048.09,
+          "high": 8048.09,
+          "low": 7442.73,
+          "close": 7484.41
+        },
+        {
+          "time": "2026-06-09",
+          "open": 7697.76,
+          "high": 8119.09,
+          "low": 7598.87,
+          "close": 8096.93
+        },
+        {
+          "time": "2026-06-10",
+          "open": 7899.77,
+          "high": 7996.68,
+          "low": 7541.11,
+          "close": 7730.82
+        },
+        {
+          "time": "2026-06-11",
+          "open": 7509.62,
+          "high": 7800.62,
+          "low": 7394.46,
+          "close": 7763.95
+        },
+        {
+          "time": "2026-06-12",
+          "open": 8263.85,
+          "high": 8434.4,
+          "low": 8079.77,
+          "close": 8123.62
+        },
+        {
+          "time": "2026-06-15",
+          "open": 8526.12,
+          "high": 8603.48,
+          "low": 8450.24,
+          "close": 8545.98
+        },
+        {
+          "time": "2026-06-16",
+          "open": 8696.55,
+          "high": 8753.82,
+          "low": 8540.41,
+          "close": 8726.6
+        },
+        {
+          "time": "2026-06-17",
+          "open": 8622.13,
+          "high": 8872.18,
+          "low": 8605.66,
+          "close": 8864.24
+        },
+        {
+          "time": "2026-06-18",
+          "open": 8884.92,
+          "high": 9106.07,
+          "low": 8867.34,
+          "close": 9063.84
+        },
+        {
+          "time": "2026-06-19",
+          "open": 9288.89,
+          "high": 9385.59,
+          "low": 8831.72,
+          "close": 9052.42
+        },
+        {
+          "time": "2026-06-22",
+          "open": 8954.43,
+          "high": 9253.0,
+          "low": 8900.68,
+          "close": 9114.55
+        },
+        {
+          "time": "2026-06-23",
+          "open": 9083.54,
+          "high": 9175.45,
+          "low": 8203.84,
+          "close": 8203.84
+        },
+        {
+          "time": "2026-06-24",
+          "open": 8356.79,
+          "high": 8577.52,
+          "low": 8080.99,
+          "close": 8471.02
+        },
+        {
+          "time": "2026-06-25",
+          "open": 8703.42,
+          "high": 9044.04,
+          "low": 8693.62,
+          "close": 8930.3
+        },
+        {
+          "time": "2026-06-26",
+          "open": 8813.18,
+          "high": 8861.7,
+          "low": 8126.84,
+          "close": 8411.21
+        },
+        {
+          "time": "2026-06-29",
+          "open": 8394.65,
+          "high": 8394.65,
+          "low": 8394.65,
+          "close": 8394.65
+        },
+        {
+          "time": "2026-06-30",
+          "open": 8416.7,
+          "high": 8667.73,
+          "low": 8220.8,
+          "close": 8476.48
+        },
+        {
+          "time": "2026-07-01",
+          "open": 8591.5,
+          "high": 8620.15,
+          "low": 8143.33,
+          "close": 8303.41
+        },
+        {
+          "time": "2026-07-02",
+          "open": 7933.1,
+          "high": 8136.28,
+          "low": 7616.33,
+          "close": 7648.09
+        },
+        {
+          "time": "2026-07-03",
+          "open": 7739.75,
+          "high": 8136.28,
+          "low": 7378.1,
+          "close": 8088.34
+        },
+        {
+          "time": "2026-07-06",
+          "open": 8186.82,
+          "high": 8327.26,
+          "low": 7815.53,
+          "close": 8051.33
+        },
+        {
+          "time": "2026-07-07",
+          "open": 7919.2,
+          "high": 7954.55,
+          "low": 7389.22,
+          "close": 7656.31
+        },
+        {
+          "time": "2026-07-08",
+          "open": 7452.48,
+          "high": 7791.66,
+          "low": 7186.21,
+          "close": 7246.79
+        },
+        {
+          "time": "2026-07-09",
+          "open": 7486.64,
+          "high": 7543.86,
+          "low": 7063.76,
+          "close": 7291.91
+        },
+        {
+          "time": "2026-07-10",
+          "open": 7552.49,
+          "high": 7704.93,
+          "low": 7429.51,
+          "close": 7475.94
+        },
+        {
+          "time": "2026-07-13",
+          "open": 7412.03,
+          "high": 7529.07,
+          "low": 6783.43,
+          "close": 6806.93
+        },
+        {
+          "time": "2026-07-14",
+          "open": 6769.06,
+          "high": 6979.92,
+          "low": 6448.86,
+          "close": 6856.83
+        },
+        {
+          "time": "2026-07-15",
+          "open": 7082.91,
+          "high": 7424.18,
+          "low": 7082.91,
+          "close": 7284.41
+        },
+        {
+          "time": "2026-07-16",
+          "open": 6960.5,
+          "high": 6995.93,
+          "low": 6730.87,
+          "close": 6820.6
+        },
+        {
+          "time": "2026-07-20",
+          "open": 6643.58,
+          "high": 6814.86,
+          "low": 6472.8,
+          "close": 6516.27
+        },
+        {
+          "time": "2026-07-21",
+          "open": 6553.88,
+          "high": 6836.86,
+          "low": 6429.03,
+          "close": 6747.95
+        },
+        {
+          "time": "2026-07-22",
+          "open": 7052.09,
+          "high": 7166.0,
+          "low": 6791.06,
+          "close": 6797.7
+        },
+        {
+          "time": "2026-07-23",
+          "open": 6963.35,
+          "high": 7108.44,
+          "low": 6892.64,
+          "close": 7096.89
+        },
+        {
+          "time": "2026-07-24",
+          "open": 7000.78,
+          "high": 7000.78,
+          "low": 6650.41,
+          "close": 6690.62
+        },
+        {
+          "time": "2026-07-27",
+          "open": 6806.27,
+          "high": 6806.27,
+          "low": 6557.39,
+          "close": 6755.75
+        },
+        {
+          "time": "2026-07-28",
+          "open": 6400.27,
+          "high": 6413.57,
+          "low": 5992.91,
+          "close": 6023.66
+        },
+        {
+          "time": "2026-07-29",
+          "open": 6089.11,
+          "high": 6228.52,
+          "low": 5262.77,
+          "close": 5663.24
+        },
+        {
+          "time": "2026-07-30",
+          "open": 5681.77,
+          "high": 5976.82,
+          "low": 5547.41,
+          "close": 5593.56
+        },
+        {
+          "time": "2026-07-31",
+          "open": 5657.79,
+          "high": 6630.77,
+          "low": 5629.76,
+          "close": 6595.45
+        },
+        {
+          "time": "2026-08-03",
+          "open": 6358.27,
+          "high": 6393.0,
+          "low": 6223.29,
+          "close": 6257.45
+        },
+        {
+          "time": "2026-08-04",
+          "open": 6351.38,
+          "high": 6389.4,
+          "low": 6080.25,
+          "close": 6358.95
+        },
+        {
+          "time": "2026-08-05",
+          "open": 6603.48,
+          "high": 6674.66,
+          "low": 6540.27,
+          "close": 6598.26
+        },
+        {
+          "time": "2026-08-06",
+          "open": 6478.75,
+          "high": 6550.94,
+          "low": 6238.32,
+          "close": 6296.38
+        },
+        {
+          "time": "2026-08-07",
+          "open": 6365.07,
+          "high": 6415.6,
+          "low": 6158.73,
+          "close": 6258.77
+        },
+        {
+          "time": "2026-08-10",
+          "open": 6306.33,
+          "high": 6394.06,
+          "low": 6232.45,
+          "close": 6299.66
+        },
+        {
+          "time": "2026-08-11",
+          "open": 6240.06,
+          "high": 6405.81,
+          "low": 6213.78,
+          "close": 6345.53
+        },
+        {
+          "time": "2026-08-12",
+          "open": 6438.5,
+          "high": 6668.43,
+          "low": 6413.5,
+          "close": 6579.04
+        },
+        {
+          "time": "2026-08-13",
+          "open": 6773.92,
+          "high": 6895.63,
+          "low": 6748.13,
+          "close": 6813.34
+        },
+        {
+          "time": "2026-08-14",
+          "open": 6995.67,
+          "high": 7010.86,
+          "low": 6848.43,
+          "close": 6977.94
+        },
+        {
+          "time": "2026-08-18",
+          "open": 7127.77,
+          "high": 7216.62,
+          "low": 6788.78,
+          "close": 6869.83
+        },
+        {
+          "time": "2026-08-19",
+          "open": 6528.77,
+          "high": 6614.39,
+          "low": 6400.81,
+          "close": 6471.17
+        },
+        {
+          "time": "2026-08-20",
+          "open": 6680.34,
+          "high": 6904.55,
+          "low": 6600.09,
+          "close": 6852.58
+        },
+        {
+          "time": "2026-08-21",
+          "open": 6759.95,
+          "high": 6954.12,
+          "low": 6742.44,
+          "close": 6912.95
+        },
+        {
+          "time": "2026-08-24",
+          "open": 6881.07,
+          "high": 6884.57,
+          "low": 6656.07,
+          "close": 6696.96
+        },
+        {
+          "time": "2026-08-25",
+          "open": 6535.93,
+          "high": 6747.16,
+          "low": 6408.82,
+          "close": 6742.74
+        },
+        {
+          "time": "2026-08-26",
+          "open": 6727.25,
+          "high": 6887.18,
+          "low": 6704.1,
+          "close": 6808.21
+        },
+        {
+          "time": "2026-08-27",
+          "open": 6996.12,
+          "high": 6996.12,
+          "low": 6841.88,
+          "close": 6912.37
+        },
+        {
+          "time": "2026-08-28",
+          "open": 6846.54,
+          "high": 6901.78,
+          "low": 6780.13,
+          "close": 6788.88
+        },
+        {
+          "time": "2026-08-31",
+          "open": 6613.58,
+          "high": 6820.1,
+          "low": 6547.76,
+          "close": 6820.02
+        },
+        {
+          "time": "2026-09-01",
+          "open": 6784.29,
+          "high": 6857.35,
+          "low": 6732.47,
+          "close": 6835.8
+        },
+        {
+          "time": "2026-09-02",
+          "open": 6625.47,
+          "high": 6694.57,
+          "low": 6558.3,
+          "close": 6562.72
+        },
+        {
+          "time": "2026-09-03",
+          "open": 6650.33,
+          "high": 6682.97,
+          "low": 6439.49,
+          "close": 6579.48
+        },
+        {
+          "time": "2026-09-04",
+          "open": 6654.36,
+          "high": 6746.14,
+          "low": 6632.77,
+          "close": 6687.21
+        },
+        {
+          "time": "2026-09-07",
+          "open": 6910.78,
+          "high": 6995.4,
+          "low": 6867.91,
+          "close": 6995.39
+        },
+        {
+          "time": "2026-09-08",
+          "open": 7045.79,
+          "high": 7171.52,
+          "low": 6951.78,
+          "close": 6954.52
+        },
+        {
+          "time": "2026-09-09",
+          "open": 6972.87,
+          "high": 7112.48,
+          "low": 6968.06,
+          "close": 7051.64
+        },
+        {
+          "time": "2026-09-10",
+          "open": 7038.85,
+          "high": 7072.79,
+          "low": 6898.45,
+          "close": 7033.92
+        },
+        {
+          "time": "2026-09-11",
+          "open": 6802.5,
+          "high": 6948.83,
+          "low": 6802.5,
+          "close": 6909.91
+        },
+        {
+          "time": "2026-09-14",
+          "open": 6692.61,
+          "high": 6773.97,
+          "low": 6654.82,
+          "close": 6684.37
         }
       ]
     }
@@ -19761,9 +20951,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,345.58 원",
-        "change": -2.59,
-        "change_str": "-2.59원"
+        "value": "1,346.15 원",
+        "change": -2.02,
+        "change_str": "-2.02원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -20042,7 +21232,7 @@
         },
         {
           "time": "2026-09-14",
-          "value": 1345.58
+          "value": 1346.15
         }
       ],
       "미국채 10년물 금리": [
@@ -20565,9 +21755,19 @@
   },
   "news": [
     {
-      "title": "[증시-마감] 중동 긴장 속 'AI 속도조절론' 찬물…코스피 3%대 하락",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSVzJRYkttX1AzNVJhZFhlZ015Vk1FcHRmak1FT29ydlRjYy1xYVBuQTVUVFRvZ3JodzRIai1KT2R0aExDWi1nbmpWdkpKa2lnaEdYM0xtSVBnaV9aZkNKQXJ3dnRhWmIzRlJuY04zRWo?oc=5",
-      "summary": "[증시-마감] 중동 긴장 속 'AI 속도조절론' 찬물…코스피 3%대 하락에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "코스피, 3%대 하락...삼전닉스 4%대 이상 급락",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDWUNUNHVxSm5BbF9STnh0dTRJZFowSS1aVHlQRUIxeEtucFhQS2x5NlpadzM3ZXhoajhWQmlZRGtoNlZ0azhDN1JfWU03M2dMOXdIVkNpTTZ0YkhSeUE?oc=5",
+      "summary": "코스피, 3%대 하락...삼전닉스 4%대 이상 급락에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "산업부, ‘중동 긴장 재고조’에 원유 수급 긴급 점검",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGb200bVM1cm5rWmdQR0d3TWU0dlEyZ29Cb3lyZVc1ZzQ3WmRoVzZ1ejBjRHFwbW9WcnFkNy1XR0FJR25QbU5FUGxRWHpOcGIyM0lla1hXVWhDcHc?oc=5",
+      "summary": "산업부, ‘중동 긴장 재고조’에 원유 수급 긴급 점검에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "트럼프 \"연준 금리 안 내리면 몇몇 나라와 무역중단\" 또 위협",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80ZFNDamRTWHhxaUhPQnl2MzkyYl9PQ29HeFZIdkFBaWhUMXU0YXpON1BIQTdyTjFNMDhpQTFnOWNkU3RhdWRNQ21VSGRFaklqcWpJOTJtS2RrSWM0S2VPaG52RkVwWFF2UmJRRUx2WmpuS3lj0gF0QVVfeXFMTzJ5VTJpeUtKZXJ6LTVYd0xhTmFPV1dpN2Q0X2xJOUdia0FQVWpubDdDYXgwcnpzS08zSEhrU2gxRE5mSkxHY0lGSmFleXkteGFEaDdJQXpSdVhpMDZraU9NSXNfVlhwQ2dhYTZ5cHo1SWxfSEE?oc=5",
+      "summary": "트럼프 \"연준 금리 안 내리면 몇몇 나라와 무역중단\" 또 위협에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
       "title": "AI 위험론 정치권까지 번졌다…트럼프 '경쟁' vs 오바마 '안전'",
@@ -20575,44 +21775,34 @@
       "summary": "AI 위험론 정치권까지 번졌다…트럼프 '경쟁' vs 오바마 '안전'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "석유최고가격제 딜레마…국민 부담 커지고, 정유업계 적자 심화",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xandBUGFhM1NMbmFWOGVzXzJlQlVmTUZEVnltMHl2eGtXa29IY3BINmVvMDR6RFBhQ1JvQTZpVUx5dHZkV2plRmFJV1lwbUpEREF4QTRoekkwRDJxMkp4R0c4QQ?oc=5",
-      "summary": "석유최고가격제 딜레마…국민 부담 커지고, 정유업계 적자 심화에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "주식시장 애프터마켓 열리는 첫날, 일부 증권사 전산오류",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LWDJIc21SZmpxWVdDQ2tWdjljbmYyUVdZU3B3TGpZNE1PX05MeUEwMkZrT3RiTmpYU3pYZ2NvMXk4a0hoYzctT1BHZ2ZteEtqeWNSdzkwMHREZ9IBX0FVX3lxTE13dHBfclNaLVFSRE5zU3VjYmpMUVNfdjFHb0h6aS1kWmRpRG9wWkpiMGpKVnR2YkhkMjYwUjN1djFQVGhYelNsWmYwUjhYelJJTkw0aDlYVFZITHNOUEhr?oc=5",
+      "summary": "주식시장 애프터마켓 열리는 첫날, 일부 증권사 전산오류에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "트럼프 \"연준 금리 안 내리면 몇몇 나라와 무역중단\" 또 위협",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80ZFNDamRTWHhxaUhPQnl2MzkyYl9PQ29HeFZIdkFBaWhUMXU0YXpON1BIQTdyTjFNMDhpQTFnOWNkU3RhdWRNQ21VSGRFaklqcWpJOTJtS2RrSWM0S2VPaG52RkVwWFF2UmJRRUx2WmpuS3lj0gF0QVVfeXFMTzJ5VTJpeUtKZXJ6LTVYd0xhTmFPV1dpN2Q0X2xJOUdia0FQVWpubDdDYXgwcnpzS08zSEhrU2gxRE5mSkxHY0lGSmFleXkteGFEaDdJQXpSdVhpMDZraU9NSXNfVlhwQ2dhYTZ5cHo1SWxfSEE?oc=5",
-      "summary": "트럼프 \"연준 금리 안 내리면 몇몇 나라와 무역중단\" 또 위협&nbsp;&nbsp;MBC 뉴스트럼프 \"연준 '금리인하' 없으면 일부국가 무역중단\" 韓도 불똥. - 머니투데이&nbsp;&nbsp;머니투데이세계 최저 금리. 이란 석유 접수?…트럼프 ‘타코(TACO)’에 지치는 세계 경제&nbsp;&nbsp; \"미국 기준금리, 세계에서 가장 낮아야\"&nbsp;&nbsp;뉴시스트럼프의 금리 압박과 연준 FOMC 전망까지 이시각 주요뉴스&nbsp;&nbsp;연합인포맥스."
+      "title": "국민연금, 위탁운용사 ‘수탁자책임’ 평가해 자금 배정에 반영",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zVmFXLXhndDFxbmV2YXJRNW1qUDhzc1VKOHNCWmVFRF9oUHZueS1WN1ZONW0yeWJXVkhfZHlvdFFKZUk2VTlLTGt1WnkySHFrYUwxX21zQmw1SVU?oc=5",
+      "summary": "국민연금, 위탁운용사 ‘수탁자책임’ 평가해 자금 배정에 반영에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "물가 불안 조장하며 세금 탈루…배민·풀무원·무신사 등 41곳 세무조사",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94WDBVUXZkRzBQNDBiY0h5OS02ZDJwRElhb25SUnFmWXNyeGltcVJycEJJRkZHNzM3ZkhTQWFlYkZyT3ZReEhPdlA0Zk5YRmNoeW5EX2drU2tHZ9IBX0FVX3lxTE0tNmdkRm5oUXVYZUhqek5jVDlpSUNQYXhsU0lmS2lpeDB0T2s0VHlyYjZPU2lDVERiZjQtNHJWNjd2UU44MmQxWWFrbVVsUHBaQjdYR2dtTGhOd29ublNZ?oc=5",
-      "summary": "물가 불안 조장하며 세금 탈루…배민·풀무원·무신사 등 41곳 세무조사&nbsp;&nbsp;경향신문음식값 올리더니 슈퍼카 3대 타고…배달앱은 1000억 탈루&nbsp;&nbsp; 돈 벌고 세금은 탈루. 배달의민족 등 41개 업체 세무조사&nbsp;&nbsp;MBC 뉴스\"물가 불안 조장\"…국세청, 탈세 혐의 '배민' 등 41곳 세무조사(종합)&nbsp;&nbsp;뉴시스계란→'금란'된 이유. 담합·탈세 때문…국세청, 약 1조원 탈루혐의 세무조사 - 머니투데이&nbsp;&nbsp;머니투데이."
-    },
-    {
-      "title": "국민연금 새 기금운용본부장에 이규홍…복지이사 김대순 임명",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yaktZUENqbHZmaGFEangxc0tmbjBLb01JWXdxRXhaSnNwMUg4UV9UejIyOEhCNWFsT3lvS1dkUV9FeWJGWWF6M1dwOElLeVJkWmt1MWNDSUhFZEHSAWBBVV95cUxPbnN4ME44XzYzN0RNMS1sS1FpcVNvVm5MN1FsM1RHSUNOc19TZGxOQm0zRWh0dC13TzZBeW9PWmhrVWJZS3pHcW1HajJBUVFmTGVzdGpvWDdMMmY1UWVlTi0?oc=5",
-      "summary": "국민연금 새 기금운용본부장에 이규홍…복지이사 김대순 임명에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "프리마켓서 미래에셋·삼성증권 전산 장애…주문 취소·체결 확인 지연",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuRzJpb2FMdU1zSUlUc3ZGcFVoX1hoT0dWYjVXQms1RDRuLTZIRWpXTGFoS1hnXzZWVWJhN3FKeGp5X2t4X2k0cFd3dVlUVTJqVVRtdjdSRmE5Vm8?oc=5",
-      "summary": "프리마켓서 미래에셋·삼성증권 전산 장애…주문 취소·체결 확인 지연에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "로봇청소기 쓰는 우리 집 정보, 서버에 안 남는다... 개인정보위 “관리 양호”",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45MTg3UEEwN1ZBVDVYdkZwS2dVMmhxbTI4RjBEN2xTVUFvQk5XeFZ4TGdlSHVuX3JXNFU1clFybThValllNUpuU3FSQVk5OWFrNU1qcXF3UkRoMHkyVXBxemJxQlFHcGpfZkww?oc=5",
-      "summary": "로봇청소기 쓰는 우리 집 정보, 서버에 안 남는다... 개인정보위 “관리 양호”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "마통 잔액 70조 육박…계좌는 그대로인데 빚만 6조 늘었다",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IR3VoYTRXTEpRMWN6NnIzcFB0QU5OTTliZW9iMzIteWlocEhlNzdQa2I3dzRwWFMwRWQ2UWZ4X1hueDg3dGJZbDV6Unlqc0xGeHFaY09MWDZsaG50N3hpWkxqcVhHSXF6a01qbzA0Mkl3U1N6MmfSAWZBVV95cUxNZzhtV3pJWDVCbTd6WVpTVFVUU0hyOVdFaWNxSFM0WGY4UHNTb0hHdkV0bDlJZF9hVU55U1J0bXAzRE9FT3NRbkJQX0VJNEpKdWVIcmdaZzE5UWVhaDhOMjY4TWE4Umc?oc=5",
-      "summary": "마통 잔액 70조 육박…계좌는 그대로인데 빚만 6조 늘었다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "“삼전닉스 팔고 ‘이것’ 샀다”…외국인 장바구니 열어보니",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsOG9xVm0wR0VjZW52Zmp0WmNlejhlUEs0NFJzbmNUNk0ydEhUWHlSbXlCZVctb1R3bjNDVGJHeGhpZ0Fud0lZbG9uejAwNzNjbnc?oc=5",
+      "summary": "“삼전닉스 팔고 ‘이것’ 샀다”…외국인 장바구니 열어보니에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
       "title": "이재근에 축하 건넨 양종희 KB금융 회장 \"남은 절차 잘 진행되길\"",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50RXlMM0JGRlhZcGwyNDFweWQtNjlHUDJkeTFUbFJ4SE5lcTRac3dJVVlXYXZLMFBlRklDLXdSVjZ4N1RuM053dHZXZ0hmay15eW9SYXdYV1haRWhkNzJCSFB3R214QVJBckJoTGxuc3A?oc=5",
       "summary": "이재근에 축하 건넨 양종희 KB금융 회장 \"남은 절차 잘 진행되길\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "물가 불안 탈세 혐의 '배민·풀무원·무신사' 등 41개 업체 세무조사",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JUXg2SnNRbUc5d1pUZWR0ejVjQzJsZG5fTm5qcE9NQUx6Nng0RE5wRHdMTWw3czJ1RlJDM1BOVWNLeEs3cXRBd2RPRHFCb0xGd01fLW5qVmFncUNWeEE?oc=5",
+      "summary": "물가 불안 탈세 혐의 '배민·풀무원·무신사' 등 41개 업체 세무조사에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "삼전닉스, ’5년치 전기료 선납’ 한전 제안 거절",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xeWFVY0NQNFNHbHo1MV9IVkZ5ZXlCTk1sa18zRFhQdmd4UG1OSTd4VGlIVFp2cVByZWhkeE5NX0dLXzFHYTRzS1JDSTg2QmFpTlBDbHNIVVJVeDZqMjYtU1RzUWRGd1E?oc=5",
+      "summary": "삼전닉스, ’5년치 전기료 선납’ 한전 제안 거절에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

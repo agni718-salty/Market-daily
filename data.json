@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15 07:09 KST",
+  "updated_at": "2026-09-15 17:02 KST",
   "indices": {
     "summary": [
       {
@@ -11,7 +11,7 @@
       {
         "name": "나스닥",
         "price": "26,186.41",
-        "change": -146.62,
+        "change": -146.63,
         "change_pct": "-0.56"
       },
       {
@@ -22,9 +22,9 @@
       },
       {
         "name": "코스피",
-        "price": "6,684.37",
-        "change": -225.54,
-        "change_pct": "-3.26"
+        "price": "6,627.26",
+        "change": -57.11,
+        "change_pct": "-0.85"
       }
     ],
     "candles_dict": {
@@ -10542,7 +10542,7 @@
           "time": "2026-09-14",
           "open": 26018.5,
           "high": 26329.98,
-          "low": 25992.54,
+          "low": 25992.55,
           "close": 26186.41
         }
       ],
@@ -15807,13 +15807,6 @@
       ],
       "코스피": [
         {
-          "time": "2026-06-19",
-          "open": 9288.89,
-          "high": 9385.59,
-          "low": 8831.72,
-          "close": 9052.42
-        },
-        {
           "time": "2026-06-22",
           "open": 8954.43,
           "high": 9253.0,
@@ -16225,6 +16218,13 @@
           "high": 6773.97,
           "low": 6654.82,
           "close": 6684.37
+        },
+        {
+          "time": "2026-09-15",
+          "open": 6659.25,
+          "high": 6715.46,
+          "low": 6582.2,
+          "close": 6627.26
         }
       ]
     }
@@ -16233,9 +16233,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,346.80 원",
-        "change": -1.37,
-        "change_str": "-1.37원"
+        "value": "1,360.52 원",
+        "change": 15.88,
+        "change_str": "+15.88원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -16514,7 +16514,11 @@
         },
         {
           "time": "2026-09-14",
-          "value": 1346.8
+          "value": 1344.64
+        },
+        {
+          "time": "2026-09-15",
+          "value": 1360.52
         }
       ],
       "미국채 10년물 금리": [
@@ -17029,54 +17033,54 @@
   },
   "news": [
     {
-      "title": "[속보] 트럼프 \"AI에 대한 역겨운 음모…中만 기뻐할 것\"",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fT041NjA0M3ZHeVNSdkFhSE1oQjExbElsMWhhcU1uazFpQm9VRUt2SzVnQXZieTZKaDFZVEZVVXJxMTlfcm9jWXpqMkt2YlhBYy1UVmsxaTNLZw?oc=5",
-      "summary": "[속보] 트럼프 \"AI에 대한 역겨운 음모…中만 기뻐할 것\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "토론 중 젠슨황에 '깜짝 전화', 받아보니 \"나 트럼프인데‥\"",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tcDBoWmdrbzQyNldCTXlrX2lfZE9fWnNXc3hwalJnRUZWU3pva1pJVDJkcjIxTzhZa2RTT3VKX0FKQVMteEJPWUZ5bllENEZIZjNTN1JZY1Z3bjFMMUVHQlhZQ2dhN1JoakVlTVBORTlwdzFi0gF0QVVfeXFMUG9kRkdsRU9UQkR6TG12VFNoM21lRkRHYnFnWC1Qa1I1b1RqTTEtNTZaQnJFckVoSWI2cHlvdGowUVZuTTQ2Q09xRDJmTWJ6LUY1Ykl2TFdDbUZmNEFCb0hyajFySXNCSmxhZ1NDdUpGUHZmc2w?oc=5",
+      "summary": "토론 중 젠슨황에 '깜짝 전화', 받아보니 \"나 트럼프인데‥\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "미래에셋·삼성증권 프리마켓 주문 지연...NXT 시스템 오류",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ESUtGOVJGeS1OczJIR2JWSEZjbnNJV1BiR2htcVpGdkZzSFkxek9KTFQ4aEZiWVlLSGJfUGhnVGM4MXhjaHdVYllQU0wtRTd1YzhTd1dNOXJySlVEeGc?oc=5",
-      "summary": "미래에셋·삼성증권 프리마켓 주문 지연...NXT 시스템 오류에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "유가·美국채금리, 7년래 가장 높은 상관관계…증시에는 악재",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00ZkhMVjZNWGY5bnRnR0JoQkg5dXJGN2hVV2xiVmNhT1Fmcnlzdk1Ra2tvRUMybzluNDlwOE9QX1gwV3A5YWowdlNFdUd5d0RLSmhhMHlJLTVhSzQzVkZDZmFET1JFUVpTN0RjMU9KTWo?oc=5",
+      "summary": "유가·美국채금리, 7년래 가장 높은 상관관계…증시에는 악재에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[뉴욕증시] AI 속도 조절론에 '화들짝'…필리 지수 6% 급락",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Wby1aWjEyLUM3TmpiSGdvc3lncUFDUTVuWkRQQXdXREJCSlpSVV9mTGJvUDdDakZHT2xuVFVBMk1SMm1GNDFWcGcxX1JBT2R5dm5nd3p2c3A1dHdGRFJmNEljczl6aTBvR1NVQnp0eTM?oc=5",
-      "summary": "[뉴욕증시] AI 속도 조절론에 '화들짝'…필리 지수 6% 급락에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "사우디 송유관 피격에 11월 이후 국내 원유 수급 '빨간불'",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVThqc1c1Tm1sdkdMWmY2clNqeXd5ZGNVcUcxT1REcUtVdl9hN3pCTUZicXJSc0RBZU1TTWk2YnVVUDBKVk5jSVZBYm5WQkozTVM4R2pNYjlpSlozN2JOWFRkeFpRbUhUclczTW5WZURLSDdRRTJKdnZKQ1ZXaHFmbGVnSzlzU3dNcC16UHRsS3dzSkJYVW44RXB6QzhIMndKMkxTX3dtVEp4cmJ5RXNVM3hlLXJzcUVOZnoyZW0wanVYM2Vwa1daSjk4aVpDajBfbkY0QkNB?oc=5",
+      "summary": "사우디 송유관 피격에 11월 이후 국내 원유 수급 '빨간불'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "AI 속도 조절론·유가급등에 코스피 급락",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81ZXhTYUU0aFRHNHJ2N1dtdTRldnhoSm5UUFBWNENrM3lmcXFVVkZab0Y4NXl5b0RNZm02VnhnaTJTbVpOanhlM2ZjSC1YdjNlY1FweWkzWS1nRzQ?oc=5",
-      "summary": "AI 속도 조절론·유가급등에 코스피 급락에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "KRX 가세한 애프터마켓 첫날 성적표…NXT 거래량·거래대금 '감소'",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qSHQ3RFBCR3RZd0dLMFlUWWdRSjNfQllscTlCR1hNR09mVVRrMGFFWndMS3FvOFFjTWYzUzQ5dUViM0JxZlJ0YnVmc016QXJPb3ZXLVRlRFV0UQ?oc=5",
+      "summary": "KRX 가세한 애프터마켓 첫날 성적표…NXT 거래량·거래대금 '감소'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "삼전닉스 선수금 확보 실패한 한전…고개 드는 전력정책 불안감",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX2pOTHNicTlxWTY3blQybVZWZDA1ckF4YkFONFV6LU9McTQtV3IyRGJ2QklqTEdJYzFjUzBSa1NyU20tUVVpaEVzb0xkTWxpdG16S2taSWp4SXY4MjN1OW1rcnVieGxIaGdWN1ZLMVFsUGNFS0RqS0t4VlFvUFVSYWVLWQ?oc=5",
-      "summary": "삼전닉스 선수금 확보 실패한 한전…고개 드는 전력정책 불안감에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "연준 금리인상 베팅 92%…워시, 트럼프 압박 뚫고 올리나",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xYzl4MDE5RUM3YnpfWWxxeFNRUU84RHdST3VxN0J6MjhRR2czWkpuQk84b3NFcUhFTzd4SGpjdlpaeTZtNnlPRDk0NVpjNFVvV2tib3N5VQ?oc=5",
+      "summary": "연준 금리인상 베팅 92%…워시, 트럼프 압박 뚫고 올리나에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "원가 부풀려 사주 배채우기…풀무원 등 41곳 ‘세금 탈루’",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2VE9uaXlxOXRPcURXbG5fUDdraTRFdmxxdmxpdDM2ZnVZa28xQnZZLW9HS2pxUWExODZzR2M2S3hFNUVQdlBrWDZxeHNjSVREWEg0ak9LQ016Z9IBX0FVX3lxTE41LUY3anVhVXNUZ3ctV1RsRS05dEUzVzMySDlGTUFNclg2bFpXVnpyMTBfTzVYNUhpWjUySFlzT05DVGxCcGdmVHJfLTlDVUV3eUV3aVRGdHd0TmhSS09n?oc=5",
-      "summary": "원가 부풀려 사주 배채우기…풀무원 등 41곳 ‘세금 탈루’에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "“몇 푼 벌어보려다 6300만원 날렸다”…20대 여성 울린 변종 ‘보이스피싱’",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12RW56eGNGbkhfOW8xM2pka1hrRS1LemhOTVpKdVlCX2wwTVVjM3RuSGJnZERvZXJXTUUzRWN6akNHMklBVHdLLVl3dEFPMmZTRTFZNw?oc=5",
+      "summary": "“몇 푼 벌어보려다 6300만원 날렸다”…20대 여성 울린 변종 ‘보이스피싱’에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "연준 금리 인상 베팅 92.4%로 상승...월가도 인상 전망 동참",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zdUVLQjFQbmFfOV94RDJlS3haTVNCbW0xRTQ2ZXcteUZFTlo3U1RLSWhoVFl6UklfTm9ZV1QtNk56cjAxLXFDLWFLLTRmbGlYeXlSVG1zbXFKZWxSZGc?oc=5",
-      "summary": "연준 금리 인상 베팅 92.4%로 상승...월가도 인상 전망 동참에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "재생에너지 보급제도 15년 만에 개편…경쟁입찰·고정가격 계약",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTmVyZnZrd0NRcTdKOS10blRZSm55RlpCMlU2TlBaOEl1ZFZsdEQyOGllOHFlYUszNTJWX3J6eDlSNlpDNTVWM3Jtc01jeWg3YU1UT3dCMmx4cWtacDdJNW8tdjVibTNjTEpXWm9XTlFvcXc3Z29LTWJvOFFQNTR0VTFlVGI2SWtyX1E?oc=5",
+      "summary": "재생에너지 보급제도 15년 만에 개편…경쟁입찰·고정가격 계약에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "국제유가 올랐지만 원화 강세에 수입물가지수 2.4% ↓",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jMlA3N3h5YWZobGJxbVM1S05rYkpNQ0d5WEpFbVlrdHBwVlZmLWlndTFWZ3FlWVVtVjhIWHNGSWtPaGpDLWZQMDJKMkt6SVBqazV2WUh5R0cxdmJ5V1E?oc=5",
-      "summary": "국제유가 올랐지만 원화 강세에 수입물가지수 2.4% ↓에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "관세청, 할당관세제도 악용행위 특별단속 결과 발표",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zSlZJRFAwZlptX1VXUEV6TXJrbzZEd1o1Vy1oLUxseVRIbnpIbFlEMjVNRDNPY3Z5bTVyNzNsY0NsMXF6MXhCdmdzUnJScGlFbVN5WGh5MTIzSGV6WGc?oc=5",
+      "summary": "관세청, 할당관세제도 악용행위 특별단속 결과 발표에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "트럼프 \"연준 금리 안 내리면 몇몇 나라와 무역중단\" 또 위협",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80ZFNDamRTWHhxaUhPQnl2MzkyYl9PQ29HeFZIdkFBaWhUMXU0YXpON1BIQTdyTjFNMDhpQTFnOWNkU3RhdWRNQ21VSGRFaklqcWpJOTJtS2RrSWM0S2VPaG52RkVwWFF2UmJRRUx2WmpuS3lj0gF0QVVfeXFMTzJ5VTJpeUtKZXJ6LTVYd0xhTmFPV1dpN2Q0X2xJOUdia0FQVWpubDdDYXgwcnpzS08zSEhrU2gxRE5mSkxHY0lGSmFleXkteGFEaDdJQXpSdVhpMDZraU9NSXNfVlhwQ2dhYTZ5cHo1SWxfSEE?oc=5",
-      "summary": "트럼프 \"연준 금리 안 내리면 몇몇 나라와 무역중단\" 또 위협에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[AI MY 뉴스] 15일 중국증시 '금리·中 경기지표 촉각…AI 공급망은 기회 찾기'",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UNTMzTVI3QU1VeThUdWgxdmJZS2xNYWJqLVN0cGZMY2xyekRsQU9WQjB3ZkNPQWdNWHl0N2txWEphclVIX0l1S1FqcmE0cXJTeFdUTDg1b0xkQWkw?oc=5",
+      "summary": "[AI MY 뉴스] 15일 중국증시 '금리·中 경기지표 촉각…AI 공급망은 기회 찾기'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[뉴욕유가] 하루만에 반등…美·이란 협상 기대감에 상승폭은 축소",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9URGJRa09fUWc1YThlS194WUlMMVpLNDM1eTBqX2tBc2I1REE5TVQzRkRVUl85aHpyZ2ZQTjYzRHQ2aFA0aUlGQmF5ZndLSVZNRG43SG56a3QzQlhzdlZxMzRzaWN2cnFrZ01RaG82N3A?oc=5",
-      "summary": "[뉴욕유가] 하루만에 반등…美·이란 협상 기대감에 상승폭은 축소에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[마켓뷰] 금리·유가 급등에 AI속도조절론…코스피 하락 지속되나",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94WXhGUkt0Si1telVwT2ZiLWM5OW1hZUlIMjFUcmtCSUxEZ1VzUllURVFzUklHckRTZUl2YXhfb1Z4QmJCaWZXZkRwY3pxY1BjQWg5Y3lVLUMwMXPSAWBBVV95cUxOMmk3VWFJN1p3cHpvZDVReHVEb25zSjJEamNUSGZoSjdGcGFwd3cwLUx0SEZxT0h3MjJYM3JGYXZ2Y3lXUlBTUFliVkswODhvRnBKZWhlR0pGNVl0N3h0b0I?oc=5",
+      "summary": "[마켓뷰] 금리·유가 급등에 AI속도조절론…코스피 하락 지속되나에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

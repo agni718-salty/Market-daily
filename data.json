@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17 07:08 KST",
+  "updated_at": "2026-09-17 17:01 KST",
   "indices": {
     "summary": [
       {
@@ -10,8 +10,8 @@
       },
       {
         "name": "나스닥",
-        "price": "25,978.42",
-        "change": -3.15,
+        "price": "25,978.43",
+        "change": -3.14,
         "change_pct": "-0.01"
       },
       {
@@ -22,9 +22,9 @@
       },
       {
         "name": "코스피",
-        "price": "6,717.97",
-        "change": 90.71,
-        "change_pct": "+1.37"
+        "price": "6,715.41",
+        "change": -2.56,
+        "change_pct": "-0.04"
       }
     ],
     "candles_dict": {
@@ -10557,7 +10557,7 @@
           "open": 26108.46,
           "high": 26225.09,
           "low": 25802.96,
-          "close": 25978.42
+          "close": 25978.43
         }
       ],
       "다우 존스": [
@@ -15828,13 +15828,6 @@
       ],
       "코스피": [
         {
-          "time": "2026-06-23",
-          "open": 9083.54,
-          "high": 9175.45,
-          "low": 8203.84,
-          "close": 8203.84
-        },
-        {
           "time": "2026-06-24",
           "open": 8356.79,
           "high": 8577.52,
@@ -16246,6 +16239,13 @@
           "high": 6717.97,
           "low": 6598.87,
           "close": 6717.97
+        },
+        {
+          "time": "2026-09-17",
+          "open": 6779.02,
+          "high": 6795.53,
+          "low": 6697.85,
+          "close": 6715.41
         }
       ]
     }
@@ -16254,9 +16254,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,377.12 원",
-        "change": 31.51,
-        "change_str": "+31.51원"
+        "value": "1,383.88 원",
+        "change": 20.31,
+        "change_str": "+20.31원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -16273,10 +16273,6 @@
     ],
     "series_dict": {
       "원/달러 환율": [
-        {
-          "time": "2026-06-16",
-          "value": 1513.31
-        },
         {
           "time": "2026-06-17",
           "value": 1510.96
@@ -16539,7 +16535,11 @@
         },
         {
           "time": "2026-09-16",
-          "value": 1377.12
+          "value": 1363.57
+        },
+        {
+          "time": "2026-09-17",
+          "value": 1383.88
         }
       ],
       "미국채 10년물 금리": [
@@ -17062,19 +17062,29 @@
   },
   "news": [
     {
-      "title": "미 연준, 기준금리 0.25%포인트 인상‥'3.75~4%'",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FbTRvc0plaktySnJlMDFXQVltWXJhRGFXR1VqVGJ6QkN2a1V0NXBTMGR6bDNESGZUTXI0Skc5d04yajNaNVNyU2h0NzN2ZExCWktpVzk4SS1vdVZMMFA5Q3l3ak8zemtpckRwY3Y5SmJhM3FG0gF0QVVfeXFMTmVwOGdRSGNPTjFpQjNiZ3g1WEJjSGdvRUR1NXQ1ekNVRVZWSnVUSnpPZkV0X2Q3REU0aWRpdk5WSkR2ZHA3bG5SaUstcjlJckpISWk5c0tMRVhFelZrdFdLYkdyeVVUUlUzbHFNZWlPRjVEcGs?oc=5",
-      "summary": "미 연준, 기준금리 0.25%포인트 인상‥'3.75~4%'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "미 금리 만장일치 인상…“일회성 아닌 연속 인상의 시작”",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nd2dkMXNaeG1kOUVXUS0zVnVhS25FNkJBQ1FvaXRyM0ZNSXFHZjF5YTE1dHRWUmFtdE8xUEdNZFROS3JwdWQ5eFdxS2RRS1JSOVJFUEJBX1FvbWdOeGdDTUkwdkM5WWF1eFBuanVqcXZlUQ?oc=5",
+      "summary": "미 금리 만장일치 인상…“일회성 아닌 연속 인상의 시작”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "SK하이닉스, 인텔과 미국서 메모리 생산 협상중 보도에 “확정 사실 아냐”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYSEZSTkktNG1scWFjY3BsdWJzOWZIYzVUOTI1X1Z6QVNuSTdKQklsU1ZTZTZLQmxRS0I2NVA4UG1fRmpRQS1ESHZ2MVFIS2RjODh4eGxld2FMZnM?oc=5",
-      "summary": "SK하이닉스, 인텔과 미국서 메모리 생산 협상중 보도에 “확정 사실 아냐”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "KB부동산 \"서울 아파트값 상승률 3주째 둔화…강남 관망세\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VVXBFX2thX3JFOGhMQ0phbld6enV3RHE2SnZUeDJDYnVjSmp2WVlmNzRsb1NjNm1jUURKaWpRV0VLZDJDV1dEWDhWWGxDVXhmeElPTGZ5U2tpMVVHV3pMNDc2VkFZUjFhWVBySU5hVHk?oc=5",
+      "summary": "KB부동산 \"서울 아파트값 상승률 3주째 둔화…강남 관망세\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "대미투자 막판 진통…힘 빠진 원전주",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nOWV5TGpCVmdKd05lLUFqelc4eHVsRndHY1N6X2d2Z2VWN1E3cFp4ZEhRczg4TG96X1pRV1pZQzVJVHBNbE5ROVEzaEltOWZMb2RscHFRRG9oQQ?oc=5",
-      "summary": "대미투자 막판 진통…힘 빠진 원전주에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "토지거래허가구역 실거주 의무 유예 조치 내년 말까지 연장",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55cld0bm8xNXJIUXB1aU9EdTdWZDZRbmtmQi1rNmctdllrbVZTYXQwSkM0a3A5V2tiME5GWTFKYnlSc3poMEw3cndjTVFmckJSMkd5djRjQ3dOcTFoeENkTi1rUFJUNVNLUXdGQkpXc3J5RTNu0gF0QVVfeXFMTldEdjJ6ZUxNMlFJanJZLXQzOVNGQ2RKZzc0OU53RFRDcVZkV2VZNjNuMFhoOUl2MUNIdVh3NmphR3FxaFZNdklubEtjOW5xRU5HNjFPUnlsdFg4S3M4YldreUdLVURtY3RrYlE2bm5uSXR3QlU?oc=5",
+      "summary": "토지거래허가구역 실거주 의무 유예 조치 내년 말까지 연장에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "미 금리 인상에도 코스피 약보합 마감…환율은 상승",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WeHU1RDdaTUJBWEp1RHNNQ3hNUV9Bd1RCaFk2QkU5NjRZN2N5ekljVE5uOHRJbHoxTGJGc2ZEeVBTOENMZUVTaHR2aXM1UHp4TnZTWjIxcUxGYnc?oc=5",
+      "summary": "미 금리 인상에도 코스피 약보합 마감…환율은 상승에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "[단독] ‘한국형 원전’ 놓고 막판 이견… 대미투자 MOU 연기",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSFZzX1g4VEdsSS0tUi1sMXVZbHpUMC1iNTliYUMxaHVYa2RRRDVmODBCTkdqSmktNVdvcWE5ekpSZnJWc190QW5nc2lNTU9IaE90YXFmQmFtSEpLdXNPVkotOGpqaEN1cy1zdXpvR3hHTWRxa0hCSU1IQ1R3cVhnX0k5X3dmN2xoNl9IaWtn?oc=5",
+      "summary": "[단독] ‘한국형 원전’ 놓고 막판 이견… 대미투자 MOU 연기에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
       "title": "배경훈 “AI 속도조절론? 한국은 다르다…추격하며 시장 만들어야”",
@@ -17082,34 +17092,24 @@
       "summary": "배경훈 “AI 속도조절론? 한국은 다르다…추격하며 시장 만들어야”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "9월 FOMC D-1...美 10년물 국채금리, 한때 5.04% 돌파-[굿모닝 글로벌 이슈]",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xd3lmNGwyYl9kYXNwYUJTZ2NXbGxzdHJWNGhwdFZseDlXaGlOVW1naWxURTNVME5BXzd0dU1uOGtIMHV4bHhYSFBVcnh0dzg?oc=5",
-      "summary": "9월 FOMC D-1...美 10년물 국채금리, 한때 5.04% 돌파-[굿모닝 글로벌 이슈]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "국방부, ‘2026 국방 드론 기술전’ 개최... 드론·대드론 첨단기술 총출동",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtcU4wMEtsWWRMMWRZTTZVbVV5Q0JKVk1OdTdiYnZlTFprUEEta1JKZWROcUhrc01xUHdENFBvSHNsRXFuaFpMZzdmU3FLUnpUeERuS3hPOHNSN1NmQTRpeVVEaTQtaHVQU2VJ?oc=5",
+      "summary": "국방부, ‘2026 국방 드론 기술전’ 개최... 드론·대드론 첨단기술 총출동에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "오픈AI 샘 알트먼 '세상이 인공지능 두려워할 수 있지만…기업 신뢰해야'",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00MXFjeXd3d1JiQ2J4eEg5NFNWcHdEaTRuaVctZVZncW5LbUNPS1JPZnlFRnpRUExOYnJDZEExUzkzYmJKZGtJZ3c1LUhndmpsZE1WZVMxenhVcU11UkHSAWNBVV95cUxOaDIwMVBSS245ZEtjNUgxMVQ5aGNIbFp3MGdYeE9lbVE5YkhyUjJUNGlOLXdfUU1aY1lQOHFVRVgwRFIxaDdjRnVWVDJfRU9uNFd5S25xbVM2WWFKRFl6RER1OEE?oc=5",
-      "summary": "오픈AI 샘 알트먼 '세상이 인공지능 두려워할 수 있지만…기업 신뢰해야'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "대왕고래 확률 0.000218%...날린 돈 1천2백억 “관련자 문책해야”",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EaEtTUkR4X3FNNGJQUm1GbXVMUzZVQTNDWWRCVDhFRXIyQzB4S25ydldueTN5aVJ0RGhUN2s0T3pmdjZNZ2FNaEthMU02VFU?oc=5",
+      "summary": "대왕고래 확률 0.000218%...날린 돈 1천2백억 “관련자 문책해야”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "국토장관 후보자 “‘삼성역 철근 누락’ 손실보전금, 서울시에 청구할 것”",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xc2lLdUw3ODNTdlQyME1Mb29aTmJTYTNaeDNCbEhjSERBanFFUmg0WmVnbmJScC1GdVdoeDg0VDZxbDFpRGhBM0FfTEVZU29vdUNURVlXYmVqZ9IBX0FVX3lxTE5SX3g1M3dwQ3dvQkF0bVNMU0VOOGdVSnhsd1lac2E5VTRzNHlGU3ZVYUVzenljLVRLbFRJQUlyU0N4MElWOUFHQWx6NU80QnpMSEc0R3ptSFgwbGJHWWJz?oc=5",
-      "summary": "국토장관 후보자 “‘삼성역 철근 누락’ 손실보전금, 서울시에 청구할 것”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "K뷰티 확산에 글로벌 직무 추가…CJ올리브영, 신입사원 채용",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42VmJ0V3JraG1yR3BTcGlzajQxS0l6RjRSOVBORkptdldiOHRDOUp3Y19VRGNWSlFPNkM0VEVCMlo4WnU2XzhzVDdIbm80X1dSUnhWX05tZHJxWk9MTWxkbkZlQ3BZTi05SUlMbkFFUzk?oc=5",
+      "summary": "K뷰티 확산에 글로벌 직무 추가…CJ올리브영, 신입사원 채용에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "국내외 방산전문가 1500명 온 시연회서 K드론 잇단 추락",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZGk2OEN4TWQ5Smw5ZVE2MWJ3eFFTalpYbHUzY3FjZkxJWGZiMUtFSTRKM0dlaFhSRWtTZnpHc0hOalJIVThMQm9FRUY4QWJNN09pOHRYMThSa3VLdFFhdllkRlFocmJ4bnBwS3BXeEs1VGkwMG1mMEl0djM1QTNKMGt4X1NxNF8wUkVFVTZjV3hzQQ?oc=5",
-      "summary": "국내외 방산전문가 1500명 온 시연회서 K드론 잇단 추락에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "윤석열 “정무 판단은 내가” 산업부 질책…대왕고래 시추 임기 내로 앞당겨",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIYXFYc1ZKdnZvWDFGWE9BV1hUOXNtNzJQN1FQem5XNi05U21YVFVHYjNmMnVSdzg3U1hDdk41WHVZaDMwU2taZ2x3Wm9EYlUwUTh2WHJkR2p6b2RWaUUxUFdXczMyYlMwWTZLTUNfUER1WDRh?oc=5",
-      "summary": "윤석열 “정무 판단은 내가” 산업부 질책…대왕고래 시추 임기 내로 앞당겨에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "쿠팡, 개인정보 유출 '1인당 10만 원 배상' 소비자원 조정안 거부",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xcEs0MC0tT19ueTh2VUVQeGdwSEJkQkhyb1Rsd1kydTh1QXdub09HTk1GRWprZk5PVFpxX1ZsanhZdkVDMGNyUDcwOVZ1YjZxb2oxTTFaTDBMWWZaY3h1ekZYUHVPRWNKaGFkRlRDYlltYVV10gF0QVVfeXFMT015bWVXQ0QwaG1SRmJMd2NiaFRIUWl4cFN3dXdEVVA1Qi1CLXlYZnVSNk13VDB0RkFHazRNQXp2RnFlZXZUZ2FPSVRzdUdOSGhLUk5HYzZSREdwd2pZUG56WktZNlJxRVA3RThobWRJeHdJN3o?oc=5",
-      "summary": "쿠팡, 개인정보 유출 '1인당 10만 원 배상' 소비자원 조정안 거부에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "중국산 '가짜' 화장품, 국산 둔갑...45억 어치 팔려",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX29vMHg2ck5QdmRpSzdKYkFqcGl2Vm5FS2hyajR0VjZJaE9QNzdCaGFJcC1zMlo3dUpaVW0yQ00tOUlTYTNlMExhYWhYWnpmUFFXQjR5aEhMRGFWUnVkSkd5dDB3UmdsRHk1dlFWUk9fazBYTkZRWEFVUUg5VzFhNXpJYUFNTVVWWkN5VA?oc=5",
+      "summary": "중국산 '가짜' 화장품, 국산 둔갑...45억 어치 팔려에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-17 17:01 KST",
+  "updated_at": "2026-09-18 07:09 KST",
   "indices": {
     "summary": [
       {
         "name": "S&P 500",
-        "price": "7,551.81",
-        "change": -33.92,
-        "change_pct": "-0.45"
+        "price": "7,637.76",
+        "change": 85.95,
+        "change_pct": "+1.14"
       },
       {
         "name": "나스닥",
-        "price": "25,978.43",
-        "change": -3.14,
-        "change_pct": "-0.01"
+        "price": "26,418.30",
+        "change": 439.87,
+        "change_pct": "+1.69"
       },
       {
         "name": "다우 존스",
-        "price": "51,461.90",
-        "change": -631.21,
-        "change_pct": "-1.21"
+        "price": "51,778.04",
+        "change": 316.14,
+        "change_pct": "+0.61"
       },
       {
         "name": "코스피",
@@ -5292,6 +5292,13 @@
           "high": 7626.79,
           "low": 7507.77,
           "close": 7551.81
+        },
+        {
+          "time": "2026-09-17",
+          "open": 7631.44,
+          "high": 7646.86,
+          "low": 7611.81,
+          "close": 7637.76
         }
       ],
       "나스닥": [
@@ -10558,6 +10565,13 @@
           "high": 26225.09,
           "low": 25802.96,
           "close": 25978.43
+        },
+        {
+          "time": "2026-09-17",
+          "open": 26377.86,
+          "high": 26460.64,
+          "low": 26289.94,
+          "close": 26418.3
         }
       ],
       "다우 존스": [
@@ -15824,6 +15838,13 @@
           "high": 52173.7,
           "low": 51186.67,
           "close": 51461.9
+        },
+        {
+          "time": "2026-09-17",
+          "open": 51882.53,
+          "high": 51935.97,
+          "low": 51607.65,
+          "close": 51778.04
         }
       ],
       "코스피": [
@@ -16254,21 +16275,21 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,383.88 원",
-        "change": 20.31,
-        "change_str": "+20.31원"
+        "value": "1,379.51 원",
+        "change": 15.94,
+        "change_str": "+15.94원"
       },
       {
         "name": "미국채 10년물 금리",
-        "value": "5.01 %",
-        "change": 0.01,
-        "change_str": "+0.01%"
+        "value": "4.95 %",
+        "change": -0.06,
+        "change_str": "-0.06%"
       },
       {
         "name": "미국채 30년물 금리",
-        "value": "5.35 %",
-        "change": -0.01,
-        "change_str": "-0.01%"
+        "value": "5.30 %",
+        "change": -0.05,
+        "change_str": "-0.05%"
       }
     ],
     "series_dict": {
@@ -16539,14 +16560,10 @@
         },
         {
           "time": "2026-09-17",
-          "value": 1383.88
+          "value": 1379.51
         }
       ],
       "미국채 10년물 금리": [
-        {
-          "time": "2026-06-16",
-          "value": 4.43
-        },
         {
           "time": "2026-06-17",
           "value": 4.46
@@ -16798,13 +16815,13 @@
         {
           "time": "2026-09-16",
           "value": 5.01
+        },
+        {
+          "time": "2026-09-17",
+          "value": 4.95
         }
       ],
       "미국채 30년물 금리": [
-        {
-          "time": "2026-06-16",
-          "value": 4.93
-        },
         {
           "time": "2026-06-17",
           "value": 4.93
@@ -17056,60 +17073,64 @@
         {
           "time": "2026-09-16",
           "value": 5.35
+        },
+        {
+          "time": "2026-09-17",
+          "value": 5.3
         }
       ]
     }
   },
   "news": [
     {
-      "title": "미 금리 만장일치 인상…“일회성 아닌 연속 인상의 시작”",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nd2dkMXNaeG1kOUVXUS0zVnVhS25FNkJBQ1FvaXRyM0ZNSXFHZjF5YTE1dHRWUmFtdE8xUEdNZFROS3JwdWQ5eFdxS2RRS1JSOVJFUEJBX1FvbWdOeGdDTUkwdkM5WWF1eFBuanVqcXZlUQ?oc=5",
-      "summary": "미 금리 만장일치 인상…“일회성 아닌 연속 인상의 시작”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "한미 금리차 1%p로 확대…한은 연내 추가인상 가능성 커져",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WTUVCdjZ3OFA3eW92Q3NEcGVsOGZzS0RTMjNkZnZwZWJWYkEta3Bkb1hxaUlBVThEbVdUNXpnR2lYS0ViQnE4MFh0N1pTLXZYYjd2Q0NWNXl0R0NIRmhyRnlyVTNmSkEwTnUxNFVGQmtjdw?oc=5",
+      "summary": "한미 금리차 1%p로 확대…한은 연내 추가인상 가능성 커져에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "KB부동산 \"서울 아파트값 상승률 3주째 둔화…강남 관망세\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VVXBFX2thX3JFOGhMQ0phbld6enV3RHE2SnZUeDJDYnVjSmp2WVlmNzRsb1NjNm1jUURKaWpRV0VLZDJDV1dEWDhWWGxDVXhmeElPTGZ5U2tpMVVHV3pMNDc2VkFZUjFhWVBySU5hVHk?oc=5",
-      "summary": "KB부동산 \"서울 아파트값 상승률 3주째 둔화…강남 관망세\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "美 국채 중기물 바이백, 최대 매입액 크게 미달…응찰률 4.1배",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94aHRpYmhTUVR4TENWbS1NZ2x2aTBwYVhwSFE5UXZENWZZZFJqcXlaR0ExVmp6Mmg4TUd3X2Y1RV9sVkdIT3ZkV1lrQjYyZFV2OVRKTkcyR0h5VTR3d2hNRmZ2QWRCQmxXcUw5SS1qZEk?oc=5",
+      "summary": "美 국채 중기물 바이백, 최대 매입액 크게 미달…응찰률 4.1배에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "토지거래허가구역 실거주 의무 유예 조치 내년 말까지 연장",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55cld0bm8xNXJIUXB1aU9EdTdWZDZRbmtmQi1rNmctdllrbVZTYXQwSkM0a3A5V2tiME5GWTFKYnlSc3poMEw3cndjTVFmckJSMkd5djRjQ3dOcTFoeENkTi1rUFJUNVNLUXdGQkpXc3J5RTNu0gF0QVVfeXFMTldEdjJ6ZUxNMlFJanJZLXQzOVNGQ2RKZzc0OU53RFRDcVZkV2VZNjNuMFhoOUl2MUNIdVh3NmphR3FxaFZNdklubEtjOW5xRU5HNjFPUnlsdFg4S3M4YldreUdLVURtY3RrYlE2bm5uSXR3QlU?oc=5",
-      "summary": "토지거래허가구역 실거주 의무 유예 조치 내년 말까지 연장에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[환율 전망] 신뢰 회복한 연준, 왕좌 복귀한 달러",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mWG8tMVd4aG5LWFB5NU5iWElvZHp1WGs5S3NsUE5vNXk1Zy1DZnU0ZjN4cVRfRXBhZkllcU9Ddkp3Y0RIZm12eFUyaUJMcjlNeE1OWU5rQjZsTmFjRlBwSg?oc=5",
+      "summary": "[환율 전망] 신뢰 회복한 연준, 왕좌 복귀한 달러에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "미 금리 인상에도 코스피 약보합 마감…환율은 상승",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WeHU1RDdaTUJBWEp1RHNNQ3hNUV9Bd1RCaFk2QkU5NjRZN2N5ekljVE5uOHRJbHoxTGJGc2ZEeVBTOENMZUVTaHR2aXM1UHp4TnZTWjIxcUxGYnc?oc=5",
-      "summary": "미 금리 인상에도 코스피 약보합 마감…환율은 상승에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "뉴욕증시, 금리 인상 여파에도 상승…나스닥 1.7%↑",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iZkdRQXhyRnIxTlplaEEyZDFVZnRHYVJmbE1JSktGV1QwLXNEV0QzamZ5U3pEWVFkVTVhdFloMU5aSVRVYXhCZV8wOXd2SUhsWC15dFRsa1RKZlU?oc=5",
+      "summary": "뉴욕증시, 금리 인상 여파에도 상승…나스닥 1.7%↑에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[단독] ‘한국형 원전’ 놓고 막판 이견… 대미투자 MOU 연기",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSFZzX1g4VEdsSS0tUi1sMXVZbHpUMC1iNTliYUMxaHVYa2RRRDVmODBCTkdqSmktNVdvcWE5ekpSZnJWc190QW5nc2lNTU9IaE90YXFmQmFtSEpLdXNPVkotOGpqaEN1cy1zdXpvR3hHTWRxa0hCSU1IQ1R3cVhnX0k5X3dmN2xoNl9IaWtn?oc=5",
-      "summary": "[단독] ‘한국형 원전’ 놓고 막판 이견… 대미투자 MOU 연기에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "한시적이라더니… 토허제 실거주 유예 1년 연장",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRktqX0xFS3ZzT1lLdFctTmRLWDhxTmFkSWxDcUJydHdDYmNmYVBvMDROTUhDbm9tSExBYVBiSWlfVVk2STlpZV9WOGxRdXl4Mi1EbjR0eEVwOGFJYTk1U3lvWVZ0ZjZYcF9LSjZMNmFDYmRXa2Vkckk1S1I0cVBYcGU0ZTd4VExR?oc=5",
+      "summary": "한시적이라더니… 토허제 실거주 유예 1년 연장에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "배경훈 “AI 속도조절론? 한국은 다르다…추격하며 시장 만들어야”",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hbTlTbUtSdUFIc1V0M0F3eHNKbWVraS03bmFtRFlldS1pWVJOZ1JvQ2w0QTJuUU1ETkZjT196ak5oSTlHcmpTLUxnRnY4NlJWV0JuQTZucGJYUQ?oc=5",
-      "summary": "배경훈 “AI 속도조절론? 한국은 다르다…추격하며 시장 만들어야”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "8월 주식·채권시장 외국인 자금, 나간 돈이 더 많아‥45억 순유출",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5eEZUbHN6by1GQ1hUTXJPZUJKRUFpZFM1cFp0Nm1qWi1rSkxIemV4a1FCYkdLV2lCQVNnTnlLUlF6WG1BR1lZVU41bzl1S243NEN1bnZRRGN5OHh2YV9uaWNFNm15Y0QteVMxWHQ1TzlaUkpv0gF0QVVfeXFMTmt0TlpFRmJqa0gzaFAxZjhHanRINzN0cFNLV09FRVZoWkNSWm1CRUhMY0JBM1oxR21sLTZUd0t4dU1RN0JMQ0lzUnFucnZ1cHJHYkJKMmVKX1NBMUdvaElYd3ZKSXZQZUw1eHhyQ004aXBROTE?oc=5",
+      "summary": "8월 주식·채권시장 외국인 자금, 나간 돈이 더 많아‥45억 순유출에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "국방부, ‘2026 국방 드론 기술전’ 개최... 드론·대드론 첨단기술 총출동",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtcU4wMEtsWWRMMWRZTTZVbVV5Q0JKVk1OdTdiYnZlTFprUEEta1JKZWROcUhrc01xUHdENFBvSHNsRXFuaFpMZzdmU3FLUnpUeERuS3hPOHNSN1NmQTRpeVVEaTQtaHVQU2VJ?oc=5",
-      "summary": "국방부, ‘2026 국방 드론 기술전’ 개최... 드론·대드론 첨단기술 총출동에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "엔비디아·메타·스페이스X 수장들, 트럼프 설득해 AI 규제기구 설립 막았다",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MajZGMEJZZk40WE1rTERHOVhSRU84ZlZfcHJaUEhMRF9lWDBnSU52VGQ5R2tXZXdhOTRXcXgxTVNJWGRuYnVHcEhxNjMtcW8?oc=5",
+      "summary": "엔비디아·메타·스페이스X 수장들, 트럼프 설득해 AI 규제기구 설립 막았다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "대왕고래 확률 0.000218%...날린 돈 1천2백억 “관련자 문책해야”",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EaEtTUkR4X3FNNGJQUm1GbXVMUzZVQTNDWWRCVDhFRXIyQzB4S25ydldueTN5aVJ0RGhUN2s0T3pmdjZNZ2FNaEthMU02VFU?oc=5",
-      "summary": "대왕고래 확률 0.000218%...날린 돈 1천2백억 “관련자 문책해야”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "전용기 “윤석열이 띄우고 한동훈이 방어한 대왕고래…특검으로 밝혀야”",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXblIxVTVnTjBQZ1A3RzdZVnJLdHFBUDNQS1lzZTRJS3NYd1kxUVFIY3plY1pXblp3NXpVZ1JhLWluZHltLWpWRVBoLTlzbFE?oc=5",
+      "summary": "전용기 “윤석열이 띄우고 한동훈이 방어한 대왕고래…특검으로 밝혀야”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "K뷰티 확산에 글로벌 직무 추가…CJ올리브영, 신입사원 채용",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42VmJ0V3JraG1yR3BTcGlzajQxS0l6RjRSOVBORkptdldiOHRDOUp3Y19VRGNWSlFPNkM0VEVCMlo4WnU2XzhzVDdIbm80X1dSUnhWX05tZHJxWk9MTWxkbkZlQ3BZTi05SUlMbkFFUzk?oc=5",
-      "summary": "K뷰티 확산에 글로벌 직무 추가…CJ올리브영, 신입사원 채용에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "사우디 원유 우회공급 타진에 국제유가 3% 안팎 하락",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WNzl2elk0RTFYem9BeXZfVGRXVFFjM1A1MC1DaVJLWXBveVJlNUUxNGp6RzlqVjI5eVBKam9nVEw3c25GM3RjSjJsbjZ3Nl9KYjRDc1J0OWNLeWPSAWBBVV95cUxPWUphMUVtV2x2NzNCaDNQWklWMmJYdklZaW1EVzM0TWZoNVFTOWh2MmE0RldVOEhpY1BVZ1ZOanJRelRydE5CWVdReDd4ajl3emVlOGNPMkNkSHBDUGdoZEs?oc=5",
+      "summary": "사우디 원유 우회공급 타진에 국제유가 3% 안팎 하락에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "중국산 '가짜' 화장품, 국산 둔갑...45억 어치 팔려",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX29vMHg2ck5QdmRpSzdKYkFqcGl2Vm5FS2hyajR0VjZJaE9QNzdCaGFJcC1zMlo3dUpaVW0yQ00tOUlTYTNlMExhYWhYWnpmUFFXQjR5aEhMRGFWUnVkSkd5dDB3UmdsRHk1dlFWUk9fazBYTkZRWEFVUUg5VzFhNXpJYUFNTVVWWkN5VA?oc=5",
-      "summary": "중국산 '가짜' 화장품, 국산 둔갑...45억 어치 팔려에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "미 Fed 금리 0.25%p 올렸지만…코스피 6800선 턱밑 지켰다",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1Y25COFlwNG9Td1RyVndCNjZXcTVKQWNSMU9lSGc4U2tpSEFZamdnWF8wNFJFV2hNX0d4bzlrVUNiblR6Ymcyd0tldlE2SkVOUno1WkdCNVVyQQ?oc=5",
+      "summary": "미 Fed 금리 0.25%p 올렸지만…코스피 6800선 턱밑 지켰다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

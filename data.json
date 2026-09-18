@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-18 17:01 KST",
+  "updated_at": "2026-09-19 07:08 KST",
   "indices": {
     "summary": [
       {
         "name": "S&P 500",
-        "price": "7,637.76",
-        "change": 85.95,
-        "change_pct": "+1.14"
+        "price": "7,650.50",
+        "change": 12.74,
+        "change_pct": "+0.17"
       },
       {
         "name": "나스닥",
-        "price": "26,418.30",
-        "change": 439.87,
-        "change_pct": "+1.69"
+        "price": "26,522.54",
+        "change": 104.24,
+        "change_pct": "+0.39"
       },
       {
         "name": "다우 존스",
-        "price": "51,778.04",
-        "change": 316.14,
-        "change_pct": "+0.61"
+        "price": "51,682.64",
+        "change": -95.4,
+        "change_pct": "-0.18"
       },
       {
         "name": "코스피",
@@ -29,13 +29,6 @@
     ],
     "candles_dict": {
       "S&P 500": [
-        {
-          "time": "2023-09-18",
-          "open": 4445.13,
-          "high": 4466.36,
-          "low": 4442.11,
-          "close": 4453.53
-        },
         {
           "time": "2023-09-19",
           "open": 4445.41,
@@ -5299,16 +5292,16 @@
           "high": 7646.86,
           "low": 7611.81,
           "close": 7637.76
+        },
+        {
+          "time": "2026-09-18",
+          "open": 7657.17,
+          "high": 7657.17,
+          "low": 7610.52,
+          "close": 7650.5
         }
       ],
       "나스닥": [
-        {
-          "time": "2023-09-18",
-          "open": 13669.96,
-          "high": 13751.28,
-          "low": 13663.46,
-          "close": 13710.24
-        },
         {
           "time": "2023-09-19",
           "open": 13649.44,
@@ -10572,16 +10565,16 @@
           "high": 26460.64,
           "low": 26289.94,
           "close": 26418.3
+        },
+        {
+          "time": "2026-09-18",
+          "open": 26522.09,
+          "high": 26544.93,
+          "low": 26333.98,
+          "close": 26522.54
         }
       ],
       "다우 존스": [
-        {
-          "time": "2023-09-18",
-          "open": 34612.29,
-          "high": 34725.06,
-          "low": 34545.35,
-          "close": 34624.3
-        },
         {
           "time": "2023-09-19",
           "open": 34571.84,
@@ -15845,6 +15838,13 @@
           "high": 51935.97,
           "low": 51607.65,
           "close": 51778.04
+        },
+        {
+          "time": "2026-09-18",
+          "open": 51826.78,
+          "high": 51826.78,
+          "low": 51497.47,
+          "close": 51682.64
         }
       ],
       "코스피": [
@@ -16275,21 +16275,21 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,384.42 원",
-        "change": 7.82,
-        "change_str": "+7.82원"
+        "value": "1,385.95 원",
+        "change": 9.35,
+        "change_str": "+9.35원"
       },
       {
         "name": "미국채 10년물 금리",
-        "value": "4.95 %",
-        "change": -0.06,
-        "change_str": "-0.06%"
+        "value": "5.00 %",
+        "change": 0.05,
+        "change_str": "+0.05%"
       },
       {
         "name": "미국채 30년물 금리",
-        "value": "5.30 %",
-        "change": -0.05,
-        "change_str": "-0.05%"
+        "value": "5.33 %",
+        "change": 0.04,
+        "change_str": "+0.04%"
       }
     ],
     "series_dict": {
@@ -16560,14 +16560,10 @@
         },
         {
           "time": "2026-09-18",
-          "value": 1384.42
+          "value": 1385.95
         }
       ],
       "미국채 10년물 금리": [
-        {
-          "time": "2026-06-17",
-          "value": 4.46
-        },
         {
           "time": "2026-06-18",
           "value": 4.45
@@ -16819,13 +16815,13 @@
         {
           "time": "2026-09-17",
           "value": 4.95
+        },
+        {
+          "time": "2026-09-18",
+          "value": 5.0
         }
       ],
       "미국채 30년물 금리": [
-        {
-          "time": "2026-06-17",
-          "value": 4.93
-        },
         {
           "time": "2026-06-18",
           "value": 4.9
@@ -17077,60 +17073,64 @@
         {
           "time": "2026-09-17",
           "value": 5.3
+        },
+        {
+          "time": "2026-09-18",
+          "value": 5.33
         }
       ]
     }
   },
   "news": [
     {
-      "title": "Fed 금리 인상에 카드빚 부담 커진다…예금금리는 '반색'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzUGdUdmVYLTNNaFhyaXhoM2tzNTdZZFVFN2RVdnY5Smlna3NkQ3BiMU1odHlWM3h4MUpiLVU2V0UtdTRuYmVHNkthelh1R01UZ0pxS3pDa2dPZw?oc=5",
-      "summary": "Fed 금리 인상에 카드빚 부담 커진다…예금금리는 '반색'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "뉴욕증시, 美 국채금리 상승에도 기술주 강세…혼조 마감",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00RzlsWEpTMVIzLTBxTEpRUmVzLUJjXzljOUxmNFpHd3dZYWdfV2pHWE9HZUJxemJJQ21uMVFTQ1h6Mng2NU8xLVg4VU9QdEdWVjR1YURMalRfUkk?oc=5",
+      "summary": "뉴욕증시, 美 국채금리 상승에도 기술주 강세…혼조 마감에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[속보] 이 대통령 “단일종목 레버리지 ETF, 정책 부족함 있었다”",
+      "title": "캔자스시티 연은 총재 \"인플레, 에너지만의 문제 아냐…연준 할 일 있어\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyRG1CUGdnWFBDZUstTGw0SW9ZMnQtTDU2MGZYaEV2M1NGdVhTLU9UdGFydUIyNXV0dGhvQWFTTWl1b3VaZmNlOGpfSVNCUHo1aXFxNXcyc3JXREUyR0g5Z2cwVGxIZl9XVWM5RFdnQ1E?oc=5",
+      "summary": "캔자스시티 연은 총재 \"인플레, 에너지만의 문제 아냐…연준 할 일 있어\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "국제유가, 사우디 공급 차질 우려 완화에 사흘째 하락",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Xek9jMGU1SEZzWWx1dWNiREFJaEs5ZDFoM2puelJmUVRoZHlRNTBrWjgzSHFwQXlHNkRqQk5KRWw5bTBaUWtnQTJxU1U5bUk2NHljWTMxb2trS3VxcFNEZVVMRWFWRHk1SkRUdFMyZmhpb0t50gF0QVVfeXFMUFFTeUswVjJpaHY5WmM1OS1BQzVFaU44cjVEbzRmWG9jYTVnT0I0ZHlZemU2Z1N5b3I3cW0zUEpoa3k2Ym5yRGlWbG9UNWpaWkRycXUzdGdyOWZjOGRYMHF0Ml9QOTBFUzBPQi1pUkpOWDh6aHQ?oc=5",
+      "summary": "국제유가, 사우디 공급 차질 우려 완화에 사흘째 하락에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "日, 오늘 기준금리 1.25%로 올리나…엔화 움직임에 원화·증시도 촉각",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbFBBanp6WGxteW5JNEdTMHJrcWVmR0I1MGMyMVlzLTVQM2xQdDhLcC1fY3laYlJWSHU4ZXNuYk56cHk4eURBRjlERDdsS05sbWNGdEVNNDktMmRlVHBqenRzNV9DQmx3V09JVEJBNkRLM1QzTHllM1ZtV0duS2ZPRmhzeDZpbnkzX2FVWDJR?oc=5",
+      "summary": "日, 오늘 기준금리 1.25%로 올리나…엔화 움직임에 원화·증시도 촉각에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "예상된 인상에 미국채금리 내렸지만…\"긴축사이클 시작\"암운",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94YmxEOEZ6M0xFcXZibl9yR0p5aWUtZFUzR3lEdDVNSENkV2V1cnhZaHJleUFZOVlkalJtNnI5YUxWTGdoRnM1Sl9id0s1S3JCTnhqNEthekxVZw?oc=5",
+      "summary": "예상된 인상에 미국채금리 내렸지만…\"긴축사이클 시작\"암운에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "간편송금 건수는 줄고 금액은 20% 급증…건당 16만 원 육박",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tUGJPLUZXOVBYejhIcUQ0ZXgzMjNiVUJDTE8yS3cyWmRFalRYR1pnVGgxcXViNFY4blctQXpjNWU1OTZYSUJmM3pqUHlhMHFsYTVpdXh2YzVEb00?oc=5",
+      "summary": "간편송금 건수는 줄고 금액은 20% 급증…건당 16만 원 육박에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "미중 회담 의제된 AI…美는 인류 위협, 中은 체제 위협 우려",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fZnVRT1NWTlFMZVJPd09BQ1FDM01VUi1XNHBMTFV1akVReDlsUnNkTkRfVld1ajZNdkR4eTl0djRHZGRVZFc2NWtSVzRIc2tPN0ZXTEpncldCMWNHYnNwVmFZNkZQdTQ?oc=5",
+      "summary": "미중 회담 의제된 AI…美는 인류 위협, 中은 체제 위협 우려에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "삼성전자 DX노조, 이재용 자택 앞에서 \"직접 대화\"",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wcEJQNjlPQ09fSzZDX2p1OVNrTlp5YkFpekJIMmtTdVE3S3Vza3lZOXQ3Z1piVC00dGdFcFh6TDFRdGRtU0FZMVBpRzRnMTdwMUJvelB1TTN1UGpjdXc?oc=5",
+      "summary": "삼성전자 DX노조, 이재용 자택 앞에서 \"직접 대화\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "이 대통령 “단일종목 레버리지 ETF, 정책 부족함 있었다”",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6Z2ttbjJaTFJJelVERll5N0VZekRpdGhzVWRfMXdfQkdMN3UxWDc1ekZ1ZzBrc2lIdC1tV2IzanVZVGJJR1Z2RXI5UHEzU1FZUVY3cXl0M0VYUjNLa29zSlQ3MXAzcXM4clA0MUw0VUFYWTdS?oc=5",
-      "summary": "[속보] 이 대통령 “단일종목 레버리지 ETF, 정책 부족함 있었다”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "summary": "이 대통령 “단일종목 레버리지 ETF, 정책 부족함 있었다”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "추석 연휴 고속도로 휴게소 기름값 리터당 100원 인하‥유류세 인하 두 달 연장",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83bU1aeW1QM0RyaWFGRm5CeVNhb0gyUXM0ODhuYnhkajhvVE9pZERvdVBCejdfVWdKZE84ZEp4OHcyUGgwbGJEaTdKYVJMcTdCM1dSWl9DX0Zkd2YwYTZaUl8yT0J2RjBkUjk5RzJZWW5HU3pm0gF0QVVfeXFMTTNPY2tydVEtWU02cEh4dHNpN0wzeTRYelFxeWtRWEVyZ3VmeHVrdDFSQWx1aGctX0pwTmpPaHV6NWw1MDduZjdOQzdvSTM1aFdMOTgwRmhRVDZLNEZWMHR1RFJtZU1sUzhPYVhCVE5JSzlKbDE?oc=5",
-      "summary": "추석 연휴 고속도로 휴게소 기름값 리터당 100원 인하‥유류세 인하 두 달 연장에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "아이폰18 사전예약 10명 중 7명 '프로'...256GB·실버에 꽂혔다",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ySE9iWXZocmdKVGZ0MWw3WmRGSEFxSF9rODMzMW9LN2cyTVVVblNLOEl1STY2SG9ZemVYSlFTZ3FYT3hBYUN3clJRTkRCVUFtNjhMb0FR?oc=5",
-      "summary": "아이폰18 사전예약 10명 중 7명 '프로'...256GB·실버에 꽂혔다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "국고 3년 금리 상승 반전…BOJ 금리 인상 반영",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wTl9ISzJpNmVMNlYyTTU3d1ZzeE1YS3JmaXNBR0p2cGE3MkszUmt3clF4Q1JNQWw3NE10WFQ3dlNCenYzTXdmWkduWmRueDQzdERoOWtGaXdmeGFFYmRQdklTZExyMnlzYUtTZDBIbjI?oc=5",
-      "summary": "국고 3년 금리 상승 반전…BOJ 금리 인상 반영에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "두산로보틱스 신임 CEO에 권영민 사장 선임",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aWTM5cDBDWndFWWFCT1dWRXc4Nl9aZGZUQUhtVkdLWEdUcVlUanZYMktSWEhEREtwNExNcEo4VDBwR1VMTXhSaU43SWx4MHJuNXJDdEpCWXBHeDNucHlzZWdsS3N1ZFE?oc=5",
-      "summary": "두산로보틱스 신임 CEO에 권영민 사장 선임에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "올해 상반기 간편지급 하루 1.2조원…전년比 16.8%↑",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zNnVTSXlIMHdLeUVBOWRjdVdQQzRJLTZYajZOU05oS0cySGczTFhpNFI5dXhfZ2pQdlBuNVdCbGVDd2RnMERTNVg4X2RCTUZabU5TS0dzamF6NkVIVVBySGZQYkZ4SVZyX2JVVHJma1Y?oc=5",
-      "summary": "올해 상반기 간편지급 하루 1.2조원…전년比 16.8%↑에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "지난해 공공부문 적자 83.1조…“민생쿠폰 등 지출 증가”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oalJ4a0lDVGw1RkhpUTZFQjEwYXBoaVNKcEo2cVdLSUNsQ3hPRHFvSmNLRERXT1Q3eXBJUHpZUmRIUmtZTjFoNXFmMEFsVVVwTEctU0pNX0ZEYW8?oc=5",
-      "summary": "지난해 공공부문 적자 83.1조…“민생쿠폰 등 지출 증가”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "젠슨 황 \"내년 칩 판매 2배로 증가\"…삼전닉스 동반 강세",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Rb09XVVhBWVV2MmhGMGRfY0V0OFFPWFdjWXBhajUxMktBUXhOZFlVVnlvbjMyMnpiNEhJdndCQUZEMDVJdVdvZzl0aGdDUDhzVFRySllKRlhaZw?oc=5",
-      "summary": "젠슨 황 \"내년 칩 판매 2배로 증가\"…삼전닉스 동반 강세에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "AFP \"오픈AI, 언론사 기사 1천만 건 무단 사용 법원 문서 공개\"",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WY3FseWx3Nm4tMXBHbnNJa3k5RVZWN1hDQmJKYUNMc0lhbDBMTFF2Y0dlMjY3TlZ0eFVJcG1RMDdJbDk2czRkUU5HejJSS0VpWm1nQnJxX1B0ejdpUG5TTC13c21uZ0VMY0Vja1JJS3h6UG5r0gF0QVVfeXFMUHRSS3lMbm15NENZeV9UQ0NmU1RmOVYxTThqTURubEhPeTZvWkhvc0hTQkdIVkROQWRMWnEzX1p2MjdpSzEyTGhLYmxiLTN5Zmx6Z0tWR0MxMk1KeFJQVVBCbWJNRlkxQnhXa3dzWERwSDY0RVM?oc=5",
-      "summary": "AFP \"오픈AI, 언론사 기사 1천만 건 무단 사용 법원 문서 공개\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "서울 아파트값 7월에도 상승···1년 새 14.56% 올라",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XYXB4czZFR1lESm9MOGxwWElvc1hkT3J5UXo4VVNmN21sVjF0NklidDVQYWE4aUhzbGQtU0JhNmh5TUlUZmxkOTY5X2ZTcUN3cDRaVTdpVnlNQdIBX0FVX3lxTE9MS1h6UnV6NFBreVRBWklUaVVQM0lRamRFTnM0Ni1feU1IVTVnR0lYbFhNSEZDYThab1pMY3JhWUdvNDBWZWd3VjRVYVcwdXlUR1FNbGxYRTdwOVRpWmYw?oc=5",
+      "summary": "서울 아파트값 7월에도 상승···1년 새 14.56% 올라에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

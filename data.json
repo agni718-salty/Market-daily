@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18 07:09 KST",
+  "updated_at": "2026-09-18 17:01 KST",
   "indices": {
     "summary": [
       {
@@ -22,9 +22,9 @@
       },
       {
         "name": "코스피",
-        "price": "6,715.41",
-        "change": -2.56,
-        "change_pct": "-0.04"
+        "price": "6,894.23",
+        "change": 178.82,
+        "change_pct": "+2.66"
       }
     ],
     "candles_dict": {
@@ -15849,13 +15849,6 @@
       ],
       "코스피": [
         {
-          "time": "2026-06-24",
-          "open": 8356.79,
-          "high": 8577.52,
-          "low": 8080.99,
-          "close": 8471.02
-        },
-        {
           "time": "2026-06-25",
           "open": 8703.42,
           "high": 9044.04,
@@ -16267,6 +16260,13 @@
           "high": 6795.53,
           "low": 6697.85,
           "close": 6715.41
+        },
+        {
+          "time": "2026-09-18",
+          "open": 6885.7,
+          "high": 6914.08,
+          "low": 6830.95,
+          "close": 6894.23
         }
       ]
     }
@@ -16275,9 +16275,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,379.51 원",
-        "change": 15.94,
-        "change_str": "+15.94원"
+        "value": "1,384.42 원",
+        "change": 7.82,
+        "change_str": "+7.82원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -16294,10 +16294,6 @@
     ],
     "series_dict": {
       "원/달러 환율": [
-        {
-          "time": "2026-06-17",
-          "value": 1510.96
-        },
         {
           "time": "2026-06-18",
           "value": 1525.42
@@ -16560,7 +16556,11 @@
         },
         {
           "time": "2026-09-17",
-          "value": 1379.51
+          "value": 1376.6
+        },
+        {
+          "time": "2026-09-18",
+          "value": 1384.42
         }
       ],
       "미국채 10년물 금리": [
@@ -17083,54 +17083,54 @@
   },
   "news": [
     {
-      "title": "한미 금리차 1%p로 확대…한은 연내 추가인상 가능성 커져",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WTUVCdjZ3OFA3eW92Q3NEcGVsOGZzS0RTMjNkZnZwZWJWYkEta3Bkb1hxaUlBVThEbVdUNXpnR2lYS0ViQnE4MFh0N1pTLXZYYjd2Q0NWNXl0R0NIRmhyRnlyVTNmSkEwTnUxNFVGQmtjdw?oc=5",
-      "summary": "한미 금리차 1%p로 확대…한은 연내 추가인상 가능성 커져에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "Fed 금리 인상에 카드빚 부담 커진다…예금금리는 '반색'",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzUGdUdmVYLTNNaFhyaXhoM2tzNTdZZFVFN2RVdnY5Smlna3NkQ3BiMU1odHlWM3h4MUpiLVU2V0UtdTRuYmVHNkthelh1R01UZ0pxS3pDa2dPZw?oc=5",
+      "summary": "Fed 금리 인상에 카드빚 부담 커진다…예금금리는 '반색'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "美 국채 중기물 바이백, 최대 매입액 크게 미달…응찰률 4.1배",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94aHRpYmhTUVR4TENWbS1NZ2x2aTBwYVhwSFE5UXZENWZZZFJqcXlaR0ExVmp6Mmg4TUd3X2Y1RV9sVkdIT3ZkV1lrQjYyZFV2OVRKTkcyR0h5VTR3d2hNRmZ2QWRCQmxXcUw5SS1qZEk?oc=5",
-      "summary": "美 국채 중기물 바이백, 최대 매입액 크게 미달…응찰률 4.1배에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[속보] 이 대통령 “단일종목 레버리지 ETF, 정책 부족함 있었다”",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6Z2ttbjJaTFJJelVERll5N0VZekRpdGhzVWRfMXdfQkdMN3UxWDc1ekZ1ZzBrc2lIdC1tV2IzanVZVGJJR1Z2RXI5UHEzU1FZUVY3cXl0M0VYUjNLa29zSlQ3MXAzcXM4clA0MUw0VUFYWTdS?oc=5",
+      "summary": "[속보] 이 대통령 “단일종목 레버리지 ETF, 정책 부족함 있었다”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[환율 전망] 신뢰 회복한 연준, 왕좌 복귀한 달러",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mWG8tMVd4aG5LWFB5NU5iWElvZHp1WGs5S3NsUE5vNXk1Zy1DZnU0ZjN4cVRfRXBhZkllcU9Ddkp3Y0RIZm12eFUyaUJMcjlNeE1OWU5rQjZsTmFjRlBwSg?oc=5",
-      "summary": "[환율 전망] 신뢰 회복한 연준, 왕좌 복귀한 달러에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "추석 연휴 고속도로 휴게소 기름값 리터당 100원 인하‥유류세 인하 두 달 연장",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83bU1aeW1QM0RyaWFGRm5CeVNhb0gyUXM0ODhuYnhkajhvVE9pZERvdVBCejdfVWdKZE84ZEp4OHcyUGgwbGJEaTdKYVJMcTdCM1dSWl9DX0Zkd2YwYTZaUl8yT0J2RjBkUjk5RzJZWW5HU3pm0gF0QVVfeXFMTTNPY2tydVEtWU02cEh4dHNpN0wzeTRYelFxeWtRWEVyZ3VmeHVrdDFSQWx1aGctX0pwTmpPaHV6NWw1MDduZjdOQzdvSTM1aFdMOTgwRmhRVDZLNEZWMHR1RFJtZU1sUzhPYVhCVE5JSzlKbDE?oc=5",
+      "summary": "추석 연휴 고속도로 휴게소 기름값 리터당 100원 인하‥유류세 인하 두 달 연장에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "뉴욕증시, 금리 인상 여파에도 상승…나스닥 1.7%↑",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iZkdRQXhyRnIxTlplaEEyZDFVZnRHYVJmbE1JSktGV1QwLXNEV0QzamZ5U3pEWVFkVTVhdFloMU5aSVRVYXhCZV8wOXd2SUhsWC15dFRsa1RKZlU?oc=5",
-      "summary": "뉴욕증시, 금리 인상 여파에도 상승…나스닥 1.7%↑에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "아이폰18 사전예약 10명 중 7명 '프로'...256GB·실버에 꽂혔다",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ySE9iWXZocmdKVGZ0MWw3WmRGSEFxSF9rODMzMW9LN2cyTVVVblNLOEl1STY2SG9ZemVYSlFTZ3FYT3hBYUN3clJRTkRCVUFtNjhMb0FR?oc=5",
+      "summary": "아이폰18 사전예약 10명 중 7명 '프로'...256GB·실버에 꽂혔다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "한시적이라더니… 토허제 실거주 유예 1년 연장",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRktqX0xFS3ZzT1lLdFctTmRLWDhxTmFkSWxDcUJydHdDYmNmYVBvMDROTUhDbm9tSExBYVBiSWlfVVk2STlpZV9WOGxRdXl4Mi1EbjR0eEVwOGFJYTk1U3lvWVZ0ZjZYcF9LSjZMNmFDYmRXa2Vkckk1S1I0cVBYcGU0ZTd4VExR?oc=5",
-      "summary": "한시적이라더니… 토허제 실거주 유예 1년 연장에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "국고 3년 금리 상승 반전…BOJ 금리 인상 반영",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wTl9ISzJpNmVMNlYyTTU3d1ZzeE1YS3JmaXNBR0p2cGE3MkszUmt3clF4Q1JNQWw3NE10WFQ3dlNCenYzTXdmWkduWmRueDQzdERoOWtGaXdmeGFFYmRQdklTZExyMnlzYUtTZDBIbjI?oc=5",
+      "summary": "국고 3년 금리 상승 반전…BOJ 금리 인상 반영에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "8월 주식·채권시장 외국인 자금, 나간 돈이 더 많아‥45억 순유출",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5eEZUbHN6by1GQ1hUTXJPZUJKRUFpZFM1cFp0Nm1qWi1rSkxIemV4a1FCYkdLV2lCQVNnTnlLUlF6WG1BR1lZVU41bzl1S243NEN1bnZRRGN5OHh2YV9uaWNFNm15Y0QteVMxWHQ1TzlaUkpv0gF0QVVfeXFMTmt0TlpFRmJqa0gzaFAxZjhHanRINzN0cFNLV09FRVZoWkNSWm1CRUhMY0JBM1oxR21sLTZUd0t4dU1RN0JMQ0lzUnFucnZ1cHJHYkJKMmVKX1NBMUdvaElYd3ZKSXZQZUw1eHhyQ004aXBROTE?oc=5",
-      "summary": "8월 주식·채권시장 외국인 자금, 나간 돈이 더 많아‥45억 순유출에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "두산로보틱스 신임 CEO에 권영민 사장 선임",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aWTM5cDBDWndFWWFCT1dWRXc4Nl9aZGZUQUhtVkdLWEdUcVlUanZYMktSWEhEREtwNExNcEo4VDBwR1VMTXhSaU43SWx4MHJuNXJDdEpCWXBHeDNucHlzZWdsS3N1ZFE?oc=5",
+      "summary": "두산로보틱스 신임 CEO에 권영민 사장 선임에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "엔비디아·메타·스페이스X 수장들, 트럼프 설득해 AI 규제기구 설립 막았다",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MajZGMEJZZk40WE1rTERHOVhSRU84ZlZfcHJaUEhMRF9lWDBnSU52VGQ5R2tXZXdhOTRXcXgxTVNJWGRuYnVHcEhxNjMtcW8?oc=5",
-      "summary": "엔비디아·메타·스페이스X 수장들, 트럼프 설득해 AI 규제기구 설립 막았다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "올해 상반기 간편지급 하루 1.2조원…전년比 16.8%↑",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zNnVTSXlIMHdLeUVBOWRjdVdQQzRJLTZYajZOU05oS0cySGczTFhpNFI5dXhfZ2pQdlBuNVdCbGVDd2RnMERTNVg4X2RCTUZabU5TS0dzamF6NkVIVVBySGZQYkZ4SVZyX2JVVHJma1Y?oc=5",
+      "summary": "올해 상반기 간편지급 하루 1.2조원…전년比 16.8%↑에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "전용기 “윤석열이 띄우고 한동훈이 방어한 대왕고래…특검으로 밝혀야”",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXblIxVTVnTjBQZ1A3RzdZVnJLdHFBUDNQS1lzZTRJS3NYd1kxUVFIY3plY1pXblp3NXpVZ1JhLWluZHltLWpWRVBoLTlzbFE?oc=5",
-      "summary": "전용기 “윤석열이 띄우고 한동훈이 방어한 대왕고래…특검으로 밝혀야”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "지난해 공공부문 적자 83.1조…“민생쿠폰 등 지출 증가”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oalJ4a0lDVGw1RkhpUTZFQjEwYXBoaVNKcEo2cVdLSUNsQ3hPRHFvSmNLRERXT1Q3eXBJUHpZUmRIUmtZTjFoNXFmMEFsVVVwTEctU0pNX0ZEYW8?oc=5",
+      "summary": "지난해 공공부문 적자 83.1조…“민생쿠폰 등 지출 증가”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "사우디 원유 우회공급 타진에 국제유가 3% 안팎 하락",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WNzl2elk0RTFYem9BeXZfVGRXVFFjM1A1MC1DaVJLWXBveVJlNUUxNGp6RzlqVjI5eVBKam9nVEw3c25GM3RjSjJsbjZ3Nl9KYjRDc1J0OWNLeWPSAWBBVV95cUxPWUphMUVtV2x2NzNCaDNQWklWMmJYdklZaW1EVzM0TWZoNVFTOWh2MmE0RldVOEhpY1BVZ1ZOanJRelRydE5CWVdReDd4ajl3emVlOGNPMkNkSHBDUGdoZEs?oc=5",
-      "summary": "사우디 원유 우회공급 타진에 국제유가 3% 안팎 하락에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "젠슨 황 \"내년 칩 판매 2배로 증가\"…삼전닉스 동반 강세",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Rb09XVVhBWVV2MmhGMGRfY0V0OFFPWFdjWXBhajUxMktBUXhOZFlVVnlvbjMyMnpiNEhJdndCQUZEMDVJdVdvZzl0aGdDUDhzVFRySllKRlhaZw?oc=5",
+      "summary": "젠슨 황 \"내년 칩 판매 2배로 증가\"…삼전닉스 동반 강세에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "미 Fed 금리 0.25%p 올렸지만…코스피 6800선 턱밑 지켰다",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1Y25COFlwNG9Td1RyVndCNjZXcTVKQWNSMU9lSGc4U2tpSEFZamdnWF8wNFJFV2hNX0d4bzlrVUNiblR6Ymcyd0tldlE2SkVOUno1WkdCNVVyQQ?oc=5",
-      "summary": "미 Fed 금리 0.25%p 올렸지만…코스피 6800선 턱밑 지켰다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "AFP \"오픈AI, 언론사 기사 1천만 건 무단 사용 법원 문서 공개\"",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WY3FseWx3Nm4tMXBHbnNJa3k5RVZWN1hDQmJKYUNMc0lhbDBMTFF2Y0dlMjY3TlZ0eFVJcG1RMDdJbDk2czRkUU5HejJSS0VpWm1nQnJxX1B0ejdpUG5TTC13c21uZ0VMY0Vja1JJS3h6UG5r0gF0QVVfeXFMUHRSS3lMbm15NENZeV9UQ0NmU1RmOVYxTThqTURubEhPeTZvWkhvc0hTQkdIVkROQWRMWnEzX1p2MjdpSzEyTGhLYmxiLTN5Zmx6Z0tWR0MxMk1KeFJQVVBCbWJNRlkxQnhXa3dzWERwSDY0RVM?oc=5",
+      "summary": "AFP \"오픈AI, 언론사 기사 1천만 건 무단 사용 법원 문서 공개\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

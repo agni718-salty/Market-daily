@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20 17:01 KST",
+  "updated_at": "2026-09-21 07:08 KST",
   "indices": {
     "summary": [
       {
@@ -16275,9 +16275,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,385.00 원",
-        "change": 5.47,
-        "change_str": "+5.47원"
+        "value": "1,384.60 원",
+        "change": 5.07,
+        "change_str": "+5.07원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -16564,7 +16564,7 @@
         },
         {
           "time": "2026-09-20",
-          "value": 1385.0
+          "value": 1384.6
         }
       ],
       "미국채 10년물 금리": [
@@ -17087,54 +17087,54 @@
   },
   "news": [
     {
-      "title": "주요국 금리인상에 기업 경영전략 '빨간불'…조달비용 커진다",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWczljOTEyTGdacVEwVkdybnp5R295ckxIbjJOcENJcElFbDNQLTNvTjhJdWV5OHBMUGxLbUFsOWVQRDFGdmV4YzVvTFpQNkNQeEoxSVBEQ29ZRjDSAWBBVV95cUxPS3VfaDFFZmJLcDl1MTFGRDNCWXd2X3ZoMDYzVl9WUlJkUXlxYXR6bW9xb3RqYjY3ZXJQV0d6dENTREJ6RjJ5TEVoWGpoZjRaeFgyMDJJeFFzMzVhZHBpV0o?oc=5",
-      "summary": "주요국 금리인상에 기업 경영전략 '빨간불'…조달비용 커진다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "성북·동대문까지 국평 ‘전세 10억’…서울 아파트 전셋값 7.8% ↑",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BUTJ0MVNKX2d5UVFENGFJY0ZEOW01a2FSVUZTd0RMZ2c2dzhEd2pfTl9icFBzTnBiMlJuLXRFU2xadDVTeHBRX1J2eUVOUjJzOWtkUEtDVklFZ00?oc=5",
+      "summary": "성북·동대문까지 국평 ‘전세 10억’…서울 아파트 전셋값 7.8% ↑에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "\"유가 솔직히 모르겠다\" JP모건의 고백…최후의 카드는 [빈난새의 빈틈없이마켓]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OSFFIbzZJa0VSRkJaaDFtNm9VbWg2SlJLMHhiTGpoc1NNS0NELTFXNWhEcEVfUmZlUzI4RWpVWndTOUItak84a1NhMDExemdwNTlHd1VMa2RFUQ?oc=5",
-      "summary": "\"유가 솔직히 모르겠다\" JP모건의 고백…최후의 카드는 [빈난새의 빈틈없이마켓]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "백악관 \"AI 문제 대처할 수단 있어…좌파가 공포 조장\"",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpQTA1SHdOTWlOOVFoWWlNenZ0djdoLVprYkh1X0RuaVB2REdSa2dZMEVnYlprUHhDczZfS3Nkc2stLWRUdEplUmMzTUVfbFBycTVfTEVnQy1PRFhxeFEwQ19rMzF5QzA?oc=5",
+      "summary": "백악관 \"AI 문제 대처할 수단 있어…좌파가 공포 조장\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "외국인 공백 채웠던 ‘삼전닉스’ 자사주 매입...이르면 다음달 중순 끝날듯",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR3NSZEItanFjQXctLTZ6U1dqV3pHTGRuaWY1Zm5ITmVVREZobm45Y0UzZ1B2SVFXYU94YkNWU3JzQ2JtRk41ZnFfbC10NlRFNkJzNW1NaFAzenBTTV9ZMWhqSTU5N29PcUdUckRXaVpMYWFadThsQ3VlUXprc283Qg?oc=5",
-      "summary": "외국인 공백 채웠던 ‘삼전닉스’ 자사주 매입...이르면 다음달 중순 끝날듯에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "석유유통협회 \"고속도로 주유소 100원 할인, 공정경쟁 흔들어\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PLWd2d2l6UGdLWVFFaWNrcEdsQ09RTlZJWUN1a3I1Q2ZtV1BDeUxUZ2N3ZllIalF1di12OThIU2JxY3ZiX2o5aUFPQWJQM1kzVlFkLWhpYjRGc1nSAWBBVV95cUxOdDNqNlQ3blFQbm9Oa2RZNXpuSkpMcUhZYWdsMTg3R1ZVRUYzMDBCemtsNTg1QWpkV0VwTXREbDZiRDdFeWtjVzNnQ0JjcjFKRTBmYUtUZ1JaQmVKMHFDbnk?oc=5",
+      "summary": "석유유통협회 \"고속도로 주유소 100원 할인, 공정경쟁 흔들어\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "금리 올려도 털린 엔화… 160엔 공포에 엔캐리 대탈출?",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVllmYnNmVUZ2Y0ZBbUJOUF9zZ0NkRmlxWVVfQ2xDRUQ3el9IOWltb0tZZ0lqZEp2XzBGTEhLTmt1QVZwNjl3S3BIc09MMDRGTHl1OHBQZmNUQ3ZxckFvNmRDbl9aRmhaQ21SN2t6YzhMS3ZMLUJmQnlTSWc0MjhrUnowRWlYaXJt?oc=5",
-      "summary": "금리 올려도 털린 엔화… 160엔 공포에 엔캐리 대탈출?에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "금리 올라도 기업 이익은 버틴다…러셀, 추가 인상 뒤 동결에 무게",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSzk1OUZ6eV9yQlJiSXQ0eTZoa3RzMEgyTmRJZnlKNndqMS16ektWU3hxX3hQVVM5NTdXRDZsQm5SZjdUc1FwWWxnTzEwY1Q0VGRpbjRXQ3liZk1EbzNramxxTXZMcmVINE5hUWMtOVhOcHJha05aMlpQTU4tV0M5bw?oc=5",
+      "summary": "금리 올라도 기업 이익은 버틴다…러셀, 추가 인상 뒤 동결에 무게에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "앤트로픽, IPO 11월로 연기…내달 투자자 접촉",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BZzZSU2hORWNCa1U3MDVyd0VsVHF3OFJsSUM0ajRGb0dKQklBNWFFTUF6LS1uMU9XTkpIVzdncnp3X2QwX3pUdEpEZFBXY0Flc2JKZHQ2ZS11UjA5SUswYWVDRkpVRUhSOE9HelNVekjSAXRBVV95cUxOeTcxMjFfb051bVpCRVp4UzE3UWZaUlhmenJkTVZtb0dGcmdmeVUzcjEtNWt4ZnFvaTB1MXltZEJiQWIzdll5MDVuSU1LUlktTEswWGVteHJvMzRKWkRJVjZzTmNBMHlITV9QT0dnV3psM0lMVA?oc=5",
-      "summary": "앤트로픽, IPO 11월로 연기…내달 투자자 접촉에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "199만원 아이폰18 프로, 갑자기 꺼졌다 켜져…‘패닉풀’ 잇따라",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9faXFmUFFCRFB2X09xa2J5LTJvWDNBWGppOW83dHlYLXZrWFN6MXp0MEdMcGFKajZUSEMwa1RZdW84UzY2aTN5X2laS2d5NnZ5M0VkT3A3VWxmUjJfTGhndVA0T0Fvb2s2dXfSAW5BVV95cUxNX3VfUXpRU2oydFNMYV9GZ1hlTW0zNkxxYVNaSHpNQ3hKaDlWVWY3RnV4RS1UZnJEQXJ6TklqOWVBU0ttN2Q5eFlJeThhVERoX0hnNE9vRktlSFdiaExQU255YzBsZ2l6WlctMGJYdw?oc=5",
+      "summary": "199만원 아이폰18 프로, 갑자기 꺼졌다 켜져…‘패닉풀’ 잇따라에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "‘AI 속도조절론’ 확산에도 트럼프는 “AI군 창설”···업계 “혼란스럽다”",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LYWladnFvRkZTczQ5WklRakVwNlZRSG9Eb2hVWnU3eEdMb1JxTU5BVlBSU2NaVGlmTFpkVnRnOXdKNVhnOEhUMzVQdnFHMFBVT2sxcWNlMnZCZ9IBX0FVX3lxTE5xX1U5SmlpYlpKY042Y2NvVTBQa1Z0b2M1SlJyVGJ5al9Tb3lhM3p0ZDlkaGV0bmFBU19LUm9HZjlZOFNySDBBZUVXbThZSzZ6cWtSMEZvSXJuQ0kzMnZR?oc=5",
-      "summary": "‘AI 속도조절론’ 확산에도 트럼프는 “AI군 창설”···업계 “혼란스럽다”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "뉴욕증시 혼조 마감…미국 국채금리 상승에도 반도체주 강세",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiTVJPc1pFcURTd2xIRmtnZXpCcjNCbV80TVJ4MU1ELVJNWWlfSmlzVDBjcnJwSW10M0FFOUpDWjJva1NlZUlFLVc5dVVwZGhZOUdxbVpZZGd3UThVcnZhNWxBUDJYUmc?oc=5",
+      "summary": "뉴욕증시 혼조 마감…미국 국채금리 상승에도 반도체주 강세에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "서울 중하위권 지역에서도 국평 아파트 전세 10억 등장",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIWEE1ZFVYMHpVZER2V0NrOTlUUmMxYmdlc2Z6OEdHM3E3V3lNaG56WGU0ZzBMYUk3X2RBY3MzRm5CRzB3QXdRVWJUOVV4U0pQN1FIQlVncWJVUVVCTTRNamFobmt0WEk?oc=5",
-      "summary": "서울 중하위권 지역에서도 국평 아파트 전세 10억 등장&nbsp;&nbsp;연합뉴스TV“한강벨트도 아닌데 이게 무슨 일”…서울 외곽도 ‘국평 전세 11억’&nbsp;&nbsp;매일경제등골 휘는 ‘부동산 평탄화’... 성북·동대문서도 국평 전세 10억 거래&nbsp;&nbsp;조선일보전셋값 역대 최고치...현 정부에서만 누적 10.4% ↑&nbsp;&nbsp;YTN평탄화. 성북·동대문까지 ‘10억 전세’…서울 전셋값 9개월 새 7.79% 뛰었다&nbsp;&nbsp;문화일보."
+      "title": "삼전닉스 자사주 매입, 이르면 내달 종료…증시 '수급공백' 우려",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPcFMtQUZ0Vl9vaGZsbnRna09ONkt2YWgwZUViek1pNlZPb25fRkU4T2JTZUtfZXJjMWVGQUJGNmpGQlJGd0N0amQ0ZG9TYmJTdjBXV0xReVNMUQ?oc=5",
+      "summary": "삼전닉스 자사주 매입, 이르면 내달 종료…증시 '수급공백' 우려에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "주유소 기름값 18주째 하락…최고가격제 영향",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KMXVEQjJvRzhuRDBXb1JQV3p5cmtKN3VPOEtZbzFuMFlHcm5PaWdYRTlXNDA5REI4OXpZanlyR3pvZDBBQUU3a2pZWQ?oc=5",
-      "summary": "주유소 기름값 18주째 하락…최고가격제 영향에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[사설]더 길고 높은 ‘3高 파도’… ‘밑바닥 경제’부터 챙겨라",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55NXcyenI1WUhSbGhIeDZDWmpCUVQtbGlMN3Q3Y1E0ZjByY0hLaUFwQUE0ZVRzRzZZSXFNckdyRTFKbEVlekxiRjk5NU85WjF4cVhEbnVvUGlSeFZ2cG9id3JndWZBc0pHU1RvaXVMZjdzb1ZWT1HSAWZBVV95cUxQVkZZbW9zdUxpclE0RGtQWDVWaUE0TWN6enlWOXQ4dnJqanFacnh3VDdPUkxTSld4d1RUblpEZUNlNlZTaVU3RFA1X0I1UzZBbU9KcGp6OVpnbDhYVVJpaVhxRVZrVnc?oc=5",
+      "summary": "[사설]더 길고 높은 ‘3高 파도’… ‘밑바닥 경제’부터 챙겨라에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "부동산 정책 몇달만에 잇단 조정…시장은 '예측가능성' 우려",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfWk9JTkx3bzVQMFJIZzNpcHR5Z0QyalJ5LWFrNlBEaGdmdk5UTWstQmJSXzNsYUdieTU1SVBhWDMweHdRNTlacUF4NVJ6Z0dyRlZJNGhSa1JLOEnSAWBBVV95cUxNNThhZmd4RkRHWU5VbmZnRnpqcUxJNEFkbWJZejJVcEdjVzdLZWxmV01KaURUalNSZTl2RkpOeVQzcFJVdUVlclp0NjhidXBaMTZHV240aDJjU2Z1a2NwcEM?oc=5",
-      "summary": "부동산 정책 몇달만에 잇단 조정…시장은 '예측가능성' 우려에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "'택배 주소지 오류'‥추석선물 배송 등 미끼로 보이스피싱 주의",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaTERleUJCRXFaTW83aEdYWDd4MEJ4Z0NfVjJneVRNVE1iTW9GeTg4UTJCS2V2TTRFUHY2b09qcXFQUUNlSmFnZnVrUk5JbVVwVF96MkFzYWdZbDJQczNaN29wTFNRdU5zOWRvdXU5QlhzTXdE0gF0QVVfeXFMTkdpMkF2cTRSalJYaE91TVcxaGRlRVFQci01OWwxODlvbFMxR3NYR25jSUJ4eXB1bTdYc051bG5tcXg2cDMyaVdKTFlHOUlVMzhSd0VBVUg5NzhuN1dNN0duU1JOME1LVFZSZnhLNzZJV0tJVGc?oc=5",
+      "summary": "'택배 주소지 오류'‥추석선물 배송 등 미끼로 보이스피싱 주의에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "‘연 1.5%로 5억원 대출’ 삼성맨 집 사러 나섰나…동탄·영통 ‘반세권’ 들썩",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Ca1A5eFRNVlhmOVJzZXowZUdpZl9pRF9BUlNsak5NVGRtZFJwODJsaVBxVUFOMFBVcU52VHEtd2dPZ3lVRTFKX19hOW5EQ3F1VzY4cERYcUY?oc=5",
-      "summary": "‘연 1.5%로 5억원 대출’ 삼성맨 집 사러 나섰나…동탄·영통 ‘반세권’ 들썩에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "“내 돈 빌려가놓고 탕감하자고요?”…대부업 15.9% 채무조정 거절",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKdlBXaGRsa1RxREd2U0NqWFJ2YzVZQ1pFVU1FbjNPVnJCX3lFb1lLLWFmSTZ2aUZEWlBkd2ZKYzZMRm9fbFR0UzJXdHh1Qnlwcmc?oc=5",
+      "summary": "“내 돈 빌려가놓고 탕감하자고요?”…대부업 15.9% 채무조정 거절에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

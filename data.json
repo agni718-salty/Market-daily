@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-21 17:01 KST",
+  "updated_at": "2026-09-22 07:08 KST",
   "indices": {
     "summary": [
       {
         "name": "S&P 500",
-        "price": "7,650.50",
-        "change": 12.74,
-        "change_pct": "+0.17"
+        "price": "7,764.70",
+        "change": 114.2,
+        "change_pct": "+1.49"
       },
       {
         "name": "나스닥",
-        "price": "26,522.54",
-        "change": 104.24,
-        "change_pct": "+0.39"
+        "price": "27,122.09",
+        "change": 599.55,
+        "change_pct": "+2.26"
       },
       {
         "name": "다우 존스",
-        "price": "51,682.64",
-        "change": -95.4,
-        "change_pct": "-0.18"
+        "price": "52,048.83",
+        "change": 366.19,
+        "change_pct": "+0.71"
       },
       {
         "name": "코스피",
@@ -29,27 +29,6 @@
     ],
     "candles_dict": {
       "S&P 500": [
-        {
-          "time": "2023-09-19",
-          "open": 4445.41,
-          "high": 4449.85,
-          "low": 4416.61,
-          "close": 4443.95
-        },
-        {
-          "time": "2023-09-20",
-          "open": 4452.81,
-          "high": 4461.03,
-          "low": 4401.38,
-          "close": 4402.2
-        },
-        {
-          "time": "2023-09-21",
-          "open": 4374.36,
-          "high": 4375.7,
-          "low": 4329.17,
-          "close": 4330.0
-        },
         {
           "time": "2023-09-22",
           "open": 4341.74,
@@ -5299,30 +5278,16 @@
           "high": 7657.17,
           "low": 7610.52,
           "close": 7650.5
+        },
+        {
+          "time": "2026-09-21",
+          "open": 7692.83,
+          "high": 7779.22,
+          "low": 7691.19,
+          "close": 7764.7
         }
       ],
       "나스닥": [
-        {
-          "time": "2023-09-19",
-          "open": 13649.44,
-          "high": 13705.15,
-          "low": 13578.87,
-          "close": 13678.19
-        },
-        {
-          "time": "2023-09-20",
-          "open": 13710.26,
-          "high": 13727.81,
-          "low": 13467.28,
-          "close": 13469.13
-        },
-        {
-          "time": "2023-09-21",
-          "open": 13328.06,
-          "high": 13362.23,
-          "low": 13222.56,
-          "close": 13223.98
-        },
         {
           "time": "2023-09-22",
           "open": 13287.17,
@@ -10572,30 +10537,16 @@
           "high": 26544.93,
           "low": 26333.98,
           "close": 26522.54
+        },
+        {
+          "time": "2026-09-21",
+          "open": 26723.19,
+          "high": 27183.93,
+          "low": 26707.42,
+          "close": 27122.09
         }
       ],
       "다우 존스": [
-        {
-          "time": "2023-09-19",
-          "open": 34571.84,
-          "high": 34597.56,
-          "low": 34311.69,
-          "close": 34517.73
-        },
-        {
-          "time": "2023-09-20",
-          "open": 34575.5,
-          "high": 34776.28,
-          "low": 34434.29,
-          "close": 34440.88
-        },
-        {
-          "time": "2023-09-21",
-          "open": 34332.23,
-          "high": 34378.3,
-          "low": 34058.72,
-          "close": 34070.42
-        },
         {
           "time": "2023-09-22",
           "open": 34077.08,
@@ -15845,6 +15796,13 @@
           "high": 51826.78,
           "low": 51497.47,
           "close": 51682.64
+        },
+        {
+          "time": "2026-09-21",
+          "open": 51936.76,
+          "high": 52128.58,
+          "low": 51747.68,
+          "close": 52048.83
         }
       ],
       "코스피": [
@@ -16275,21 +16233,21 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,375.08 원",
-        "change": -4.45,
-        "change_str": "-4.45원"
+        "value": "1,374.64 원",
+        "change": -4.89,
+        "change_str": "-4.89원"
       },
       {
         "name": "미국채 10년물 금리",
-        "value": "5.00 %",
-        "change": 0.05,
-        "change_str": "+0.05%"
+        "value": "4.96 %",
+        "change": -0.03,
+        "change_str": "-0.03%"
       },
       {
         "name": "미국채 30년물 금리",
-        "value": "5.33 %",
-        "change": 0.03,
-        "change_str": "+0.03%"
+        "value": "5.30 %",
+        "change": -0.03,
+        "change_str": "-0.03%"
       }
     ],
     "series_dict": {
@@ -16556,14 +16514,10 @@
         },
         {
           "time": "2026-09-21",
-          "value": 1375.08
+          "value": 1374.64
         }
       ],
       "미국채 10년물 금리": [
-        {
-          "time": "2026-06-18",
-          "value": 4.45
-        },
         {
           "time": "2026-06-22",
           "value": 4.51
@@ -16815,13 +16769,13 @@
         {
           "time": "2026-09-18",
           "value": 5.0
+        },
+        {
+          "time": "2026-09-21",
+          "value": 4.96
         }
       ],
       "미국채 30년물 금리": [
-        {
-          "time": "2026-06-18",
-          "value": 4.9
-        },
         {
           "time": "2026-06-22",
           "value": 4.95
@@ -17073,60 +17027,64 @@
         {
           "time": "2026-09-18",
           "value": 5.33
+        },
+        {
+          "time": "2026-09-21",
+          "value": 5.3
         }
       ]
     }
   },
   "news": [
     {
-      "title": "수출 호조에 코스피 7,000선 돌파",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JTmN2YTJpQkR6SHRfdGNFVXIxSDB0OW1lQllFRGxSZ09GSlkybzU1MFBtQ1J2T2F2TzJwc1paazFGcG1zMDc0ZnEzNjZHZnd3SkJyWWNFYlhPRERoTDNqdzJ4aVR0MTdJMDd2Yg?oc=5",
-      "summary": "수출 호조에 코스피 7,000선 돌파에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "중산층도 최장 20년 거주… ‘이재명표 기본주택’ 부활",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5xNnVGUDFIZVlocVNoNUt2eTNtd01sREpabWtxNFFPcUMzeHVZejFoQks2ZkVidFdsbE8zRUFTb25ucWZ3ZUE?oc=5",
+      "summary": "중산층도 최장 20년 거주… ‘이재명표 기본주택’ 부활에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "속보 2030년까지 수도권에 공적주택 92만 호...\"보편형 공공임대\" 신설",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OYlN5Qkg4WEJHWEZxQS1OZVVNRUduai1EcVNsaHZsTmtMd18zaE5hTHpIdHRadUdROHdXTFZiWWJWLVhRRnpvRDJSQVpiU1h2ZjFFQ3RKMURpN3Rvbnc?oc=5",
-      "summary": "속보 2030년까지 수도권에 공적주택 92만 호...\"보편형 공공임대\" 신설에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "트럼프 “인공지능, 슈퍼지능 장려” AI 가속개발 ‘논스톱’",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4SXo1UFZpaG1XSzNiZVA3Y0Jza09zcnYxS013RUwyVU9uUDRlUWJTQ0xQRzU1aFBoRTc4RWhHLWozQVBpOEZEc1dYeXlYcmNtaDllbWVKeTQ1N00?oc=5",
+      "summary": "트럼프 “인공지능, 슈퍼지능 장려” AI 가속개발 ‘논스톱’에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[정책 바로보기] 최고가격제 '손실보전' 약속 어긴 정부?",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMbE1KTG9GR1VUaVBDbmEtUjc3OS1GakNqRUJBZl9LMVZSUzV0VC1hY2I2MVZvd19nZUx0MGRkQ0VJRHFJelRuTXpRT0wyNFN6Ul9SaFByazJXdTh0RW84WS1SZ0NVSG9KOTJjdw?oc=5",
-      "summary": "[정책 바로보기] 최고가격제 '손실보전' 약속 어긴 정부?에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "나스닥 2.3% 급등‥유가 나흘째 하락",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfOUl2aFFxbTc2dWFXdTZGbHFic1Y4aW5ZZVI0OVozNUZwUXZObGc2NXhRZXFkM0xhZ3dSN19tdXdNQWJESTVsaVRkMDdmZGFTbldXSFFCdnVISGdmZ3ZFQkw2YjVaRGlOV2dvdmJBR2V4TGRz0gF0QVVfeXFMTXZkRmlNTG12SU1Qa0hndXlaZm5aRURkWnYyVnZfdTV6d29JQmFIOFIySC1JcUcwdXhnX0lZZHBkM0kybkNYeGFBQjc5c1pVZ2NGVktnX2tBNmRMSzhkUk1qaUxuRWFBVUJVRWhvOUJyd1dvdkg?oc=5",
+      "summary": "나스닥 2.3% 급등‥유가 나흘째 하락에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "WTI 선물, 2% 넘게 하락…\"사우디 공급 회복 기대\"(상보)",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xbkptS19RdFVFa3RhcHFxbjJoOWNBalFhaUpvcWxMamlIUVNfNENSX1lyVERlRF9NS0tuemo4akhGakdVT09lRkNSV0ZIX1h4OHM4LURERVFsUXg3VDQ3SFlocXVEZ2tYaEVuMGt4MjQ?oc=5",
-      "summary": "WTI 선물, 2% 넘게 하락…\"사우디 공급 회복 기대\"(상보)에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "D램은 중국에, HBM은 미국에…협공 당하는 K-메모리",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTm9Ha0xiWHZYZ2J3V2FhbXM2My1QSndjN2lKZThtNnNFbjRLc2xNam44S0RESloxaERUbTJBOTFDODJVc0dsc0RuMzhKZlZ2QTkzM0hxLXFwUFQxeUdvUFVjR2tsRl8wWk1GRXVJZ3hQcWxsbGZPS2ZYLTc4QUJybmxXR2YxT3NFaUE1NGUxREc5b2p1MHBZcWYwNW5ISk5zRm5wa01SajQ0VWcyel9Menc3enBMUGNDYWhvRWdlMUx0NF9aVHZ3S3NRNWRDUFJqV1ZFaUpR?oc=5",
+      "summary": "D램은 중국에, HBM은 미국에…협공 당하는 K-메모리에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "추석 전에 약하고 후에 강한 코스피? 연휴 직후 美 PCE·마이크론 실적 발표...\"반도체 대형주 흐름이 관건\"",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZU1GdEZGeVNOYnpkRk52YmktLTM0YXlCUEhDVW9laWRtaHNhUWdrcWl4ak1DaElGdFdmXy0wZXFjYk4zZDVDSmVTdnNEVElKNDZSdnV0bjNLMmhEQ25yMWFGc2dsNXlXZi1NWmFZVVRSQzVyTVMtaDlZQ2VURHA4RA?oc=5",
-      "summary": "추석 전에 약하고 후에 강한 코스피? 연휴 직후 美 PCE·마이크론 실적 발표...\"반도체 대형주 흐름이 관건\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "\"강남 30평대 아파트 3억원대 분양 가능\"…'파격 주장' 보니",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zQ3lvSUNIaHVjZjRZUS1WWmJiWUttVTBMZ3pDR3UwaEp2UHJId2FueHRqaHM4YWUzX1Bja1Yxa3ZnX2J0WU9mNWpFQ2tNeDk2UHBLWm5POGo0dw?oc=5",
+      "summary": "\"강남 30평대 아파트 3억원대 분양 가능\"…'파격 주장' 보니에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "중기부, 온라인 플랫폼 입점 소상공 간담회…\"상생 문화 확산\"",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbFowNmdtb05TSC1jeHVlZWIxV29wMjJyWkkwbHRDQUs5a2NNVThzTkI5VEdrRkhqYmJFZzFFd2JNLUYxWnVuYWxMbGtUeVhLSFQ1d2s5LWFtckllTzE1cGsxVUhNVm9OSUlnRG5iM1N6b2lydTJVd0RSMnBSMTlIekZtVld3eVdKei1WcWUybFFvbGhGcnNqWEE3TUZxWloxTUcwNHc2UWo4OEFZZkw1NUt5ZHJIdGlkWWg0N1YzekpvdjZVQi1VUjlMSjVNOGs3TEkxcGJR?oc=5",
-      "summary": "중기부, 온라인 플랫폼 입점 소상공 간담회…\"상생 문화 확산\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "코스피, 열흘 만에 7천선 회복…삼전닉스 ‘자사주 매입’은 끝물",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oVmxfS21iNWJTZS0wdkRBUjRLMUNFUGZDTEdrZ3JYM0FTVlN5aUg2SjBuR2hNOVE0MUI1TkphQ202VmRxc3hOdWM3U0dKMkdYd2J3WHlHZFhSVjVfQ2xVRHc4YU1LTGc?oc=5",
+      "summary": "코스피, 열흘 만에 7천선 회복…삼전닉스 ‘자사주 매입’은 끝물에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "추석 경영부담 완화",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SRjFmOUZLSVFKcEZ3M3lYbjNqZmpReE5TaXJjRDJCYTA5YVRTWjlzbU9vTTh6SmZueFZQSVk5LS1TYk13cFhoN1VTcXNzTEtLeThJSkZqWF9HZTVpSjNSWk94N0dRenIxX3Y4VWxn?oc=5",
-      "summary": "추석 경영부담 완화에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "\"긁고, 태우고, 떨어뜨리고\" 아이폰18 프로 내구성 테스트 결과는",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WR2NiMlhGMXJNU21aNThmRzFMMG1lM0Jqc0xhV0xTVkVVMDE1d0NXdEU1WUd6UTFSRHRYczRRbEgzQlh0S2Z5TlR3YURKc0o1a0ZhZU53?oc=5",
+      "summary": "\"긁고, 태우고, 떨어뜨리고\" 아이폰18 프로 내구성 테스트 결과는에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "국토위, 홍지선 청문보고서 여야 합의 채택…이소영은 불발",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05YTZDVjBFTmhXNmcxZjF1NVo4Y20tVFRqbk50aS1fUVhKTE9UNTZJRjVnLVpYenRwalZuY3hXWmNHaTVHZVJ5TG4xWS1ESURUaVRzNWNWZHdzS1lkeEZPY2pMazkzT3M?oc=5",
-      "summary": "국토위, 홍지선 청문보고서 여야 합의 채택…이소영은 불발에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "\"용인 반도체 단지, 도로·용수에 발목\"…한경협, 정책 과제 41건 건의",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYWtRV1dxN1dWdldWRzVpQmxwS3ZkeG1nWEVKazgxVHdDQ2ROQ3gtbUt0aVJHRjRNOHNZOGFlWmRXMzdJVGdGTUJaM29iUjVoSUxyVjF6bmRqSHlZbW9DNGZ3U2o2NlcyZGJwTXVUNklFTE94R3h6SDRhbXExczVhTGJhT2pZMl9lcFZvUDhvbw?oc=5",
+      "summary": "\"용인 반도체 단지, 도로·용수에 발목\"…한경협, 정책 과제 41건 건의에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "바닥 찍은 달러/원, 추가 상승 여력에 주목",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VVFdma2VEb2I2TkVoQjE1QTZvRHF1MG54aE9SWFFBYUpiNERaY19rV2kwelFZazdORkFBR2JrUkd6b1JHOXgweXkxSFBzU2F3WGFaeVA0cVotdDJiOUNhcU1n?oc=5",
-      "summary": "바닥 찍은 달러/원, 추가 상승 여력에 주목에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "월가 전문가 \"워시의 진짜 시험대는 금리 인상 아닌 '반응함수'\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yckx1UDlUa0llVk45ZFMxNnV2a1NIR0UzQUtZc0x6Rkh2dXhZWXNCYndYeU5iQklZaDM4Um4wcTU1QnFXR2xCODRwQ2FoV0paVDVtQ0l5dGJNemw5c1ZLUlZ2aEdaaXZ1Si1sc2tXM2I?oc=5",
+      "summary": "월가 전문가 \"워시의 진짜 시험대는 금리 인상 아닌 '반응함수'\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "현대건설, '국내 1호' AI 전용 데이터센터 내년 11월 준공",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84bmtmRFFlVXJGa2tOSjZxWERaMFRpempVbG1vX1VxR090U1daY0k5Mnd0aTFUZm5HU2pBMHhENk5MNkxZaGZmQUhxd0Fxb3JfWVZlN0dlbG9FbW9XWHlmeFZ6aWFUTkk0QmJWQ0xYOXg?oc=5",
-      "summary": "현대건설, '국내 1호' AI 전용 데이터센터 내년 11월 준공에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "“중장년 10명 중 8명 노후 준비” 국민연금 의존도 높아졌다",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TU3doYXMxZ0t3R2lVQTVsNThYcWkyT3JLc0tYczhkeU1aaDIxenl6SkhtUmVDNFVxVUxmZVpXTkI1ZzdBX3R2aFRMU0JqWm9WMmsxS2pHYjlSQQ?oc=5",
+      "summary": "“중장년 10명 중 8명 노후 준비” 국민연금 의존도 높아졌다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

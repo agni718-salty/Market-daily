@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-23 17:01 KST",
+  "updated_at": "2026-09-24 07:09 KST",
   "indices": {
     "summary": [
       {
         "name": "S&P 500",
-        "price": "7,764.70",
-        "change": 114.2,
-        "change_pct": "+1.49"
+        "price": "7,706.03",
+        "change": -58.67,
+        "change_pct": "-0.76"
       },
       {
         "name": "나스닥",
-        "price": "27,122.09",
-        "change": 599.55,
-        "change_pct": "+2.26"
+        "price": "26,936.04",
+        "change": -186.05,
+        "change_pct": "-0.69"
       },
       {
         "name": "다우 존스",
-        "price": "52,048.83",
-        "change": 366.19,
-        "change_pct": "+0.71"
+        "price": "51,511.59",
+        "change": -537.24,
+        "change_pct": "-1.03"
       },
       {
         "name": "코스피",
@@ -5278,6 +5278,13 @@
           "high": 7779.22,
           "low": 7691.19,
           "close": 7764.7
+        },
+        {
+          "time": "2026-09-23",
+          "open": 7761.94,
+          "high": 7761.94,
+          "low": 7694.89,
+          "close": 7706.03
         }
       ],
       "나스닥": [
@@ -10530,6 +10537,13 @@
           "high": 27183.93,
           "low": 26707.42,
           "close": 27122.09
+        },
+        {
+          "time": "2026-09-23",
+          "open": 27213.52,
+          "high": 27217.33,
+          "low": 26873.54,
+          "close": 26936.04
         }
       ],
       "다우 존스": [
@@ -15782,6 +15796,13 @@
           "high": 52128.58,
           "low": 51747.68,
           "close": 52048.83
+        },
+        {
+          "time": "2026-09-23",
+          "open": 51771.41,
+          "high": 51846.81,
+          "low": 51477.53,
+          "close": 51511.59
         }
       ],
       "코스피": [
@@ -16212,21 +16233,21 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,365.28 원",
-        "change": -8.4,
-        "change_str": "-8.40원"
+        "value": "1,365.91 원",
+        "change": -7.77,
+        "change_str": "-7.77원"
       },
       {
         "name": "미국채 10년물 금리",
-        "value": "4.96 %",
-        "change": -0.04,
-        "change_str": "-0.04%"
+        "value": "5.11 %",
+        "change": 0.15,
+        "change_str": "+0.15%"
       },
       {
         "name": "미국채 30년물 금리",
-        "value": "5.30 %",
-        "change": -0.03,
-        "change_str": "-0.03%"
+        "value": "5.40 %",
+        "change": 0.11,
+        "change_str": "+0.11%"
       }
     ],
     "series_dict": {
@@ -16497,14 +16518,10 @@
         },
         {
           "time": "2026-09-23",
-          "value": 1365.28
+          "value": 1365.91
         }
       ],
       "미국채 10년물 금리": [
-        {
-          "time": "2026-06-22",
-          "value": 4.51
-        },
         {
           "time": "2026-06-23",
           "value": 4.49
@@ -16756,13 +16773,13 @@
         {
           "time": "2026-09-21",
           "value": 4.96
+        },
+        {
+          "time": "2026-09-23",
+          "value": 5.11
         }
       ],
       "미국채 30년물 금리": [
-        {
-          "time": "2026-06-22",
-          "value": 4.95
-        },
         {
           "time": "2026-06-23",
           "value": 4.94
@@ -17014,60 +17031,64 @@
         {
           "time": "2026-09-21",
           "value": 5.3
+        },
+        {
+          "time": "2026-09-23",
+          "value": 5.4
         }
       ]
     }
   },
   "news": [
     {
-      "title": "삼성전자·SK하이닉스, 美 반도체주 강세에 프리마켓서 이틀째 상승[특징주]",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RYS1uZHlnc3V6eTJLTFVXTGVXc1htU0M0aklrTHBUdTB1cF9McEtma01Vc3pMNzVEekt6QTUtOHhQUFhKa1kwdUFjWnhpMDQ?oc=5",
-      "summary": "삼성전자·SK하이닉스, 美 반도체주 강세에 프리마켓서 이틀째 상승[특징주]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
       "title": "與 \"대미투자 비공개회의 녹취록 유출돼‥국회 프락치·산업 스파이로 다룰 일\"",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvaU52RDA0eU1ldlNNdXNtOHJZSWxSY0g0QTdidV84WlJ0Ry1Wa282MmM1aTFSQjZwRmZwYzhxdVZLaXBxSGdKOWY4QWNqNFJRY2x3Vi1OaWd6UmZST2xILVRNT082WFdxa25KdW50dkpKcVV1eTVCRdIBeEFVX3lxTE1QaGt2ZUxWSUo1MkJkbkd1SlpQeW4xVFNRcVpISVg1Q3BzbVUtS0ZRbjk5UFdYSWRmYVdEVWxkQzRsZ1JBb19mY3htTWJSRFdWcXZqNVV3dExITG5WX19FUXVVcGRUMzBLVkxZdk9rWVJPTmNhb09LNA?oc=5",
       "summary": "與 \"대미투자 비공개회의 녹취록 유출돼‥국회 프락치·산업 스파이로 다룰 일\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "월가 전문가 \"美·이란 합의 땐 유가·금리 하락…연준, 매파 근거 잃을 것\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHbzF3WDZ5MzFMV0phM2hwLURBTXQ4VVQ3SzU5a002NnVCZjRRV0hiRVM2dWNIYWs1VzcyRjNSdFVIanlncUx5RUdnaUFzQ2EwNUNsZmxRdHpmMkRBcFRGcDNXajdQbmU5UTlZSFVnNWU?oc=5",
-      "summary": "월가 전문가 \"美·이란 합의 땐 유가·금리 하락…연준, 매파 근거 잃을 것\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "OECD, 올해 한국 성장률 3.7% 전망...G20 국가 중 가장 큰 폭 상향 조정",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrRmNXQ1VNcEZFdW9xUWxCN3AtTVlhcnRRUXVVZ3NhM0tPZWdGejRyVWNpSk5FZFFaX0t2eVQ3WWVOQ0dHVXRpU2tfbmJfWnlmOGdkNEVhaW5LNFlrdlE?oc=5",
+      "summary": "OECD, 올해 한국 성장률 3.7% 전망...G20 국가 중 가장 큰 폭 상향 조정에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "\"中 문샷·딥시크도 유엔 안보리 AI 회의 참석\"",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56YUxaMTFHdXRmbExaZVZ2UXpfQmdqenBKN0JBVS00Mm13N2d4NzhqOGQxWnp3Zk9qWGJOOU5zZHNiQlA3M3BLUHhBWWpHUmxKZnBUbmc0bzNaWVVNdmFzUTVxcEQxc3c?oc=5",
-      "summary": "\"中 문샷·딥시크도 유엔 안보리 AI 회의 참석\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "UBS \"개인용 AI 에이전트, AI 투자 다음 국면 주도할 것\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3c2RzZVVJS2tIbTRqUVlxMXlJeEY4NGFLUWlfX05sVjlXZ3E0b0xEdlZpREFEQV9HYzFkRjhwdnAyUmVwcEFTbVBrZS1vNVlsS203V2xLMkVrajZmaXJCaWpITFVkb21hR2V3NHloY1Y?oc=5",
+      "summary": "UBS \"개인용 AI 에이전트, AI 투자 다음 국면 주도할 것\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[환율 전망] 추석 앞둔 원화, 선물은 유가 하락?",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HZGw4c3dOVlMyZzJnNDRWam9ia1p2bHBDMEhBdjBBMzhONnp4QjF0XzF6bHVfZ1JRSXdpZFVvbmNRc1NiQVF1TEd5aDl6bjlUQmlrWUR1cnV3UzRva3pzMQ?oc=5",
-      "summary": "[환율 전망] 추석 앞둔 원화, 선물은 유가 하락?에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "美국채금리 급등…10년물 19년만에 최고·5년물도 5% 돌파",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VX0lSdGhkeko4bzdPOXJpVUtpcmJzaEtVVmkxMWZORGtCM0JtXy1PakZkcTNKMDloazg0dklDRzhqWVdvSUpYa3FRMmhXdFBnQkhnbWxxdXpPTVk?oc=5",
+      "summary": "美국채금리 급등…10년물 19년만에 최고·5년물도 5% 돌파에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "엔비디아·삼전닉스보다 더 뛴 CPU株…메타 '뮤즈'가 깨운 것은 [빈난새의 빈틈없이마켓]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zV012ZWlScExpbkZzMUJhU2pFREg5eVBUUTkwZ1ZQVE9iYnZ6T2p2eW5JY1JacEdXUGtDNE8tVGlDMVF0SktkS3BFQ3g5QW5aM1BFaVhJbG8tUQ?oc=5",
-      "summary": "엔비디아·삼전닉스보다 더 뛴 CPU株…메타 '뮤즈'가 깨운 것은 [빈난새의 빈틈없이마켓]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "유엔 “냉전시기 핵무기급 위험” 지적에도…트럼프 “AI 규제 전면 거부”",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTGM3dzVsTTNKc0lFakRpc0ZGZEZuX3JaRS1BejRSd3hSSDFIQ3JUdldNc24yY0lJQ3JYckJzeklRbE9rV0NVbnVwbG9lakxiQnl5c1FRYldzQVlENjRYVDliZFJQeWU3Q0ozandIMDFUV2RpcTI0TU9KZWdpdlRXeGJB?oc=5",
+      "summary": "유엔 “냉전시기 핵무기급 위험” 지적에도…트럼프 “AI 규제 전면 거부”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "“추석 음식 어쩌라고!”…삼성 냉장고 업데이트 후 ‘먹통’ [지금뉴스]",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0WmM5dDk3ZDkyOWZreE5YMThNZTlkbmJHUWsxVE9VRExlb2xhdzNMelZvMmR2SGhCbFBfUHpEcGdkTk9WXzJCem5ScWlTNGNBYUZaZmM1dzdsN2c?oc=5",
-      "summary": "“추석 음식 어쩌라고!”…삼성 냉장고 업데이트 후 ‘먹통’ [지금뉴스]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "연준 바 이사, 추가 금리 인상 지지…\"인플레 목표 달성 위험 커져\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXN0hPWDZUSVhqZW9oODJ3d2FLX3ZVMWxMWGpLZW9mSjhRM2VleFJHR0QxUUstb0JQVjV4STFWaElPNjB1T09IREtScmxLQWpNSFJCMWVaTXhIcVR5XzRzM1paVE44MEl4c2RkN0VJX3o?oc=5",
+      "summary": "연준 바 이사, 추가 금리 인상 지지…\"인플레 목표 달성 위험 커져\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[단독] 몇천원씩 남긴 돈, 2500억 됐다…다 못 쓴 선불충전 금액 ‘눈덩이’",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53UVFpNkdnWEU4RnZUU2lCdUVXZ25NSGhLQmdXeVJhajVxUjlWNHhqMXlJU2ZRZ1pEVGhUREpmVlJIUVdfQ3dfNUw4cDhRcUFlbzI4aA?oc=5",
-      "summary": "[단독] 몇천원씩 남긴 돈, 2500억 됐다…다 못 쓴 선불충전 금액 ‘눈덩이’에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[뉴욕유가] 6일만에 상승…브렌트, 美 경유 수출금지 추진에 3.9% 급등",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zNWpmRmx3aTM2NVloU25GLTh5NDJSWWpDejliNXJJOGk1Y0VSeUI5OWZyQW1zTlBKZWs4NFh2WGtfVVlYSzZnZVRUR3FjNzN4Z0dCX2dsMk9tOUpfZy1EV2wzak9hQVRzX1Q5bVQ0NHc?oc=5",
+      "summary": "[뉴욕유가] 6일만에 상승…브렌트, 美 경유 수출금지 추진에 3.9% 급등에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "트럼프 \"경유 수출금지\" 주장‥재무 \"효과 검토\"",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TajZqeDlOZjBKZENZWEZDSmU1b3lKU2FtdkFKajJXRzc1NGZzZy1SNGc3NVZJX0tEMXdHX2UtMHlxR3c5TE9JdjltV3ZlQ1g1YllINTlYdmpWVU02aGJDYWo4MVBqYktFM2VCM0V4TklmTFRn0gF0QVVfeXFMUHY5NTdaUEtwcUI3blN1cEZ3RmlZYjZRay0yNFFhaEwzamo1MVFGeU1aX3BzVFFqVHpvS2RCZFQtSkZMeUhWZUJCU1NDOUllWEJzU1JoOEUtQW9SUTFFWjlsTkhHQXQ2T2NPa2pyQ29xTGtvN3Y?oc=5",
-      "summary": "트럼프 \"경유 수출금지\" 주장‥재무 \"효과 검토\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "코스피 1%가량 상승 마감‥일주일 뒤 배당 앞두고 삼전 3% 넘는 상승",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lSGpiYXdibDR6TGRzcElmZ0tpODBxeHYydFdRREFKZzYwU1VkUW5hdk1VOVVweWFNRG52UzRaN25ON2hfQkVMRHpLX2dzSDdGWU1pRUxaNTdsZHFMZlVhLUY5aS1HbWVLYTZmd2JWdnB3QU50?oc=5",
+      "summary": "코스피 1%가량 상승 마감‥일주일 뒤 배당 앞두고 삼전 3% 넘는 상승에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "추석 연휴 전국 고속도로 통행료 0원!",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iZ29rMWtfQzV5a1NQUU5JcUNhSHFsMTRkbDVjTldva2djRnJVZHQxZldpbEpxZEpna2FIaURNbUhMd19NdUhGMHZOWkdSdWJ2TkZOWDBlUWRkOWVWcmVyVkdxWEZ3SjNIcXZKakRn?oc=5",
-      "summary": "추석 연휴 전국 고속도로 통행료 0원!에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "\"조물조물 행복해\" MZ 사로잡은 '왁뿌볼'‥안전성 우려",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BODlLYzZjX0U3QkkyWkN0anc4LU1YSU5yMEJkeTBacV9PTG9pUzRFdVpwWHprUzBNVmxPZ0o1VDdMYmI0MWN2R3N2bEdnbEE?oc=5",
+      "summary": "\"조물조물 행복해\" MZ 사로잡은 '왁뿌볼'‥안전성 우려에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "2035년까지 특정지역 원유 의존 50% 이하로…자원안보 로드맵",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43Zk00S1g5OXY4Qlo2NFJZUEZOSGFvcjJmMUIzeGJEOVJBY3BlYXYtanE2Zy1PandXZzFmbnQ1UTNGVTQ5WkNKVGZvcnNITjV3bTdYLTBTdnNGWmI5X3RJaTExQTRmMm5KRkZrYw?oc=5",
+      "summary": "2035년까지 특정지역 원유 의존 50% 이하로…자원안보 로드맵에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

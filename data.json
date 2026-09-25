@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25 07:09 KST",
+  "updated_at": "2026-09-25 17:01 KST",
   "indices": {
     "summary": [
       {
@@ -16254,9 +16254,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,365.24 원",
-        "change": 14.88,
-        "change_str": "+14.88원"
+        "value": "1,355.52 원",
+        "change": -6.98,
+        "change_str": "-6.98원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -16273,10 +16273,6 @@
     ],
     "series_dict": {
       "원/달러 환율": [
-        {
-          "time": "2026-06-24",
-          "value": 1535.25
-        },
         {
           "time": "2026-06-25",
           "value": 1542.76
@@ -16539,7 +16535,11 @@
         },
         {
           "time": "2026-09-24",
-          "value": 1365.24
+          "value": 1362.5
+        },
+        {
+          "time": "2026-09-25",
+          "value": 1355.52
         }
       ],
       "미국채 10년물 금리": [
@@ -17062,24 +17062,44 @@
   },
   "news": [
     {
-      "title": "뉴욕증시, 美 국채금리 급등 속 혼조 마감(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmU3lkLTlZMWVIaUlkLTV3MWZ0NDNIVkx3LTlfNTAybm9ldVM2Y1ZZaWhoY1hiWEtrLURtaHRUekJMVU9PektmTUFJOVFWWnc?oc=5",
-      "summary": "뉴욕증시, 美 국채금리 급등 속 혼조 마감(종합)에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "최대 산유국이라는 미국, 에너지 가격은 왜 못잡을까 [박신영의 월가 아나토미]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jVGtMUDE1SUpzRFlUWEUwSXJHb1JzUWdJZFRkQWgzSTMta0ViSW5NTUhUUjFsRVpzUi1QLURoY0JmVEhxVWVjcmN5SHEtZ1M2RFVQTjZYTjBFZw?oc=5",
+      "summary": "최대 산유국이라는 미국, 에너지 가격은 왜 못잡을까 [박신영의 월가 아나토미]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[뮤즈 돌풍] ①최고 성능 아니어도 흥행...AI 경쟁 기준이 바뀐다",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPNHc1Rzdnbm1nSXk3bXdRaGl4RTFTRnNMVUwzOFh5cTBlZFM2RnBtZlhvN3B4eXdhMzJjX1oyWmZOd1VVeDhzOHR2bXlOZEw1OTJmbDhobDhjQzNr?oc=5",
-      "summary": "[뮤즈 돌풍] ①최고 성능 아니어도 흥행...AI 경쟁 기준이 바뀐다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "재계 총수들, 추석에도 광폭행보…북미·유럽서 네트워크 강화",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yQ0FlX25jUVFwdHZDam81bThZTklGdllqMlJkeEZFU3NfWXY2azRXUV9BOXMxUm1FTXU3R2N0QV9laGlkbUdRc0dmd0FCa2x4QnlLRW9sMFlFU2RtRTl3dEhkYzRtclk?oc=5",
+      "summary": "재계 총수들, 추석에도 광폭행보…북미·유럽서 네트워크 강화에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "Everpure Ord Shs Class A (P) 주식 시작했습니다 상승 15.89%에 9월24일: 변동 원인",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWTl0OWJEalh2RDRQMlloYzc3NjBLVHdkbFNWM3BBWTZEc1RvRkdSZHgydUNRckxjdHJGeE4tQnczWGdDdTBIVXF4eFgwWmIzZmktLWlOS0FDTzYybFE1Z2laZnRlZlVzUzFuMFc0WkN0ZS1STE5leENNd1FlZ2tMejBsSTA2MkZiQ184?oc=5",
-      "summary": "Everpure Ord Shs Class A (P) 주식 시작했습니다 상승 15.89%에 9월24일: 변동 원인에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "미 국채 30년물 금리 22년 만에 최고...글로벌 매도세 확산",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QVkh1ZFY4bkFoS0NSTGVWdHBXSzJzQzcyVVJoMC1VZkZRRi1rVlAwNDdEdXB3SjFmTVE4OVFCZkJQNFUxV0dYcDV3eXFHNUhHZ284ekxfOGh4ZDBXUWc?oc=5",
+      "summary": "미 국채 30년물 금리 22년 만에 최고...글로벌 매도세 확산에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "필리 연은 총재 \"인플레 2%로 되돌리려면 추가 긴축 타당\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sRzFXeHJDTkFLV1NxME5sSWtPSF8zcTRCdjZYblltdDYxaU9UTF9NTURTdjhob1hNZjdFT2gzQ3pYNWo1d0lKNzdFdnVTWGtFSW5Jem5sQTFpUDJVOHZUTjB6Y2JKUWlsVzNYQTdCWWI?oc=5",
-      "summary": "필리 연은 총재 \"인플레 2%로 되돌리려면 추가 긴축 타당\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "서울 20년 초과 아파트 매매가 1.21% 상승…5년 이하 상승폭 추월",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sWUZldndNcFoxMDdtZ1ZtdXF1aVVFdUdCZGpPQm9wSHZZUXpRbGdaZ3ZFMVpYOW9EcDBrd05QRW9YcjRSQWZWdjUyYTU2TE5FT2Q4SS1tMEl5YjdTVW9jOQ?oc=5",
+      "summary": "서울 20년 초과 아파트 매매가 1.21% 상승…5년 이하 상승폭 추월에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "대한민국 역사상 이런 적은 없었다…올해만 사이드카 절반가량 쏠려",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pUk5hazZrMHhaRlZ2c1pJR2p1UjZiTWRmc2ZGVWU3Z2RlTE5xbXZWZmxsSWFsYXJkVmhsTXY5azBWcy00cS1qWmNrbk52TVpCNVE?oc=5",
+      "summary": "대한민국 역사상 이런 적은 없었다…올해만 사이드카 절반가량 쏠려에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "[4만달러 눈 앞] ③ K자 양극화 심화…반도체는 잔치, 서민·청년은 시름",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXeVVPNWF1N0c2LXZvYjFSYzE1NllwMjdsUUM1c2RQaU5aNy1LYy1OV0Z0SExXRXczem52MVYwelZKMTdLcGJ4elZ4RUNoeDJKM1VOeTlXMFBHd2vSAWBBVV95cUxQMW1WdUp6anhueHF6VEs5RDhxUWxsSDFlNFRMcmVCZ2k1NUxNMFB1Y0VBVTVXLWMtbjFuMXVHN0E4MFB4NE5EcGxGN2xFTnk4b1ZNdTZGbERUQU1wYldhaHg?oc=5",
+      "summary": "[4만달러 눈 앞] ③ K자 양극화 심화…반도체는 잔치, 서민·청년은 시름에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "뉴욕증시 프리뷰, 유가·금리 재차 급등에 내림세…미중 정상회담 주목",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44bEUwYnlKUVF1RHFMU3BWSXo5OWdKVS1BMk9qOFFtTm1tYTZzR3R6VE5ONFR3WGFDMmVpQUtEajdyRUM5d19Ld0dvREtVaUxuZWx4RllDaUdIY3lm?oc=5",
+      "summary": "뉴욕증시 프리뷰, 유가·금리 재차 급등에 내림세…미중 정상회담 주목에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "\"명절 선물 배송 중\" 눌렀다간…추석 스미싱 주의보",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15eUdzUXk3Q3B5YmVZTVVQY1c4aE42cG1uam9lUlVRekJlMVgwazZ5WFU5dHhLQ09BbUxZLTFVRzdNRi1ZUUMtck1WdHZLckE?oc=5",
+      "summary": "\"명절 선물 배송 중\" 눌렀다간…추석 스미싱 주의보에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
       "title": "안보리 무대 선 알트먼·아모데이 \"AI 통제 불능 위험...글로벌 공조 시급\"",
@@ -17087,29 +17107,9 @@
       "summary": "안보리 무대 선 알트먼·아모데이 \"AI 통제 불능 위험...글로벌 공조 시급\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "\"전세 살 바엔 집 살래\"…외곽 '생존 매수'에 서울 집값 85주 최장 상승",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QMlcyQnd5VFFzR1l6ZFEydldhMzF4bjFGbnJFU0dETGpjc0pxMDlJTER5Z2g4MGhENl9pdnMwRWNEOXhTRklEUldXTDdGTl9qMkZ3RFYyS25sbG81alZUaEZGMWFHdWUyWmc?oc=5",
-      "summary": "\"전세 살 바엔 집 살래\"…외곽 '생존 매수'에 서울 집값 85주 최장 상승에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "연휴 뒤 채권시장 변수는…미중 정상회담·유가·10월 발행물량",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oTlhQdHRwQjFlZU5lWHB2RFpNWThoLUkyb3Nrc2ItUUQ0ZWU4LWtkUjVaUHRJUHhzX2lMTkhiQmx0bmY4UUh3X2txTkI2VU5PeFJaeDlZMVBnRE3SAWBBVV95cUxNYUJUa2ZFVTcwbHNaZThhVTMtSHZHLXZWa0hxMzFnTlVCWHVPdVU1bWRONHJteE5YcG1qVVliRHhVeHR4UmI3dDA3bGxLYXo5UUNxQ2xhaTh4QzFrLXRIM0s?oc=5",
-      "summary": "연휴 뒤 채권시장 변수는…미중 정상회담·유가·10월 발행물량에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "추석 연휴에도 머릿속은 복잡…유통 총수들, 경영 구상에 몰두",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nV0ZHMDl1SjJnV0N4cmdCbUtEUlAtLV9KR09LNDRTLUt2TE5hX3Q2S3FfMmJJdUk3Y1RGM0U5bzZ5TDZZQ0Z2NXdWRktTUTBoMnZDZTBsVTJqeWVs?oc=5",
-      "summary": "추석 연휴에도 머릿속은 복잡…유통 총수들, 경영 구상에 몰두에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "올 추석에도 도진 ‘공짜병’…고속도로 통행료 면제에 주유소 기름값 인하까지",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CVUs4ZEQtNmhaX2w4ZzJnc0J1UHp1V0k0cVdHM1h0cGtsT24wa3hMSHBMUmpKYnpINWR4ZnZRS0ZNUE9JYnV5LWlsWDBlUTBz?oc=5",
-      "summary": "올 추석에도 도진 ‘공짜병’…고속도로 통행료 면제에 주유소 기름값 인하까지에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "윤곽 잡힌 대미 투자…원전·알래스카 LNG ‘산 넘어 산’",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WZXVxRl9pSGhmRWQ3dkRwVXNHN2NUUDdGQjhkT1poeV9UTnY3US1KRDgwSUxkUmJVY2VnbFlZZG5WdENJcHB3eHhfLUtnLTNkTTlnTlN3elVMcHM2V3V1VndR?oc=5",
-      "summary": "윤곽 잡힌 대미 투자…원전·알래스카 LNG ‘산 넘어 산’에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "서울 아파트값 상승폭 4주 연속 둔화…강남권 낙폭 확대",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NSmNGVTdSSDhDVXpGakI3MldpejJOdDJRdW1keEl3V0lxRFlUcTctVmxYNUpoQUVHWEJ0a08wNTFBc0hHdDJrWEpOVXRIYkI4dTJ1WHMzSElVaEd1YzF6OGpxajNkMWozUzhwSGNoa1g?oc=5",
+      "summary": "서울 아파트값 상승폭 4주 연속 둔화…강남권 낙폭 확대에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

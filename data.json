@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26 07:09 KST",
+  "updated_at": "2026-09-26 17:01 KST",
   "indices": {
     "summary": [
       {
@@ -16275,9 +16275,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,355.28 원",
-        "change": -7.22,
-        "change_str": "-7.22원"
+        "value": "1,354.40 원",
+        "change": -12.96,
+        "change_str": "-12.96원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -16560,7 +16560,11 @@
         },
         {
           "time": "2026-09-25",
-          "value": 1355.28
+          "value": 1367.36
+        },
+        {
+          "time": "2026-09-26",
+          "value": 1354.4
         }
       ],
       "미국채 10년물 금리": [
@@ -17091,54 +17095,54 @@
   },
   "news": [
     {
-      "title": "10년물 금리 2007년 이후 최고…美증시는 버텼다[뉴욕증시 브리핑]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Va1ZkOFJwUHppZ1lEZllBdXozZmZCeXNweFo4UjFWejRES1pqUGZKOGRvcTVYVGFwUU9fMmQ5c19ORHdvdkZlSGN1YU1pQ2tPdmtwaDdfZHZ2Zw?oc=5",
-      "summary": "10년물 금리 2007년 이후 최고…美증시는 버텼다[뉴욕증시 브리핑]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "“오픈AI 에이전트, 다른 호주 정부 웹사이트에도 침투 시도”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fbjVKdHBIblB4UjAxS2JCbi02U1ZJNVhZb3ZYbW1ETzZPeUptc0FKZEswVUJBR2F6V3Uzd21MbDUzZE9EVmNmQlRzelVwejhxaDB6eVdockhBNDg?oc=5",
+      "summary": "“오픈AI 에이전트, 다른 호주 정부 웹사이트에도 침투 시도”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "멕시코 대통령 만난 최태원 \"예방접종 사업 참여\"‥구광모 \"생산 거점 확대\"",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VS0p5ckg3QnI5Z0FEX21qWXlXcWJKX0tlWFNFRk5WQmI2ajBjVDlrUFJCcmphTEVJazg5TGdmT2l2NnRraVBMOURCd1Fxb21aMmxKcWpRQU8yWFh1Z29DSTAzRUlsWkRnM05sdVBxdEVka3Vid3d2MdIBeEFVX3lxTE4tZVdTSDN0eURxMWJaNG1FY1RBaEFWeDVUd3ZDYXhOTk5LTHY0OUpGZmRyYWc2LVlud3RUaEV6RXpxY29UTWZwYTlKRTJnd05MUTRRczNaQjZiZ2dGTDlwRmNfSHBRSXd6VGxNOG1xUXR3dmg5em9ITQ?oc=5",
-      "summary": "멕시코 대통령 만난 최태원 \"예방접종 사업 참여\"‥구광모 \"생산 거점 확대\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "미 국채 금리 5%대 시대...\"고금리의 뉴 노멀 시대\"",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MOTdWLUFvYjMwWlUxeDBsd2tyQldGMUlrd2swM3dOa3QwWlBJTm0yRVotTGJzc3ZGT0o0U0NHRmE5cUV2OUI5V1BHQWlKSm9vTDRJR1pIVFZNellGTGc?oc=5",
+      "summary": "미 국채 금리 5%대 시대...\"고금리의 뉴 노멀 시대\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "“이러니 전세 찾기가 하늘의 별 따기”…서울 아파트 7개월째 월세 거래가 더 많아",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UOW9ubURxd3p6VTM5Q3NsTmVMWHhOUWg5aFNCVnpiQzFSVGdrY2FVSVlJSlFMWGctYk9WOWFZOElNVHVRMkNsMlRpVE9ET0JYWmxISFE3T0E?oc=5",
-      "summary": "“이러니 전세 찾기가 하늘의 별 따기”…서울 아파트 7개월째 월세 거래가 더 많아에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "\"거품·폭락·평탄화\"…부동산 시장 흔든 李 대통령의 말 [청와대는 지금]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4YWtacDZtNUh1MjlCUURtaUdtdE85ZjBxS1kzdnIyTkc1ZWVhS1Vqb09XeW03cnBUZWxkUF91NDVsLWFKeUpFUGlXa24xTWdpUlBNa0NUTHFaUQ?oc=5",
+      "summary": "\"거품·폭락·평탄화\"…부동산 시장 흔든 李 대통령의 말 [청와대는 지금]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[신중론 이후③] 10년간 반복된 경고… 달라진 AI 위험과 대응",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13RXN0UVMwRE1TTFZkZE5FekFMd1VQTTFsNXZVYzV6dXNicnFWMm9mUVpWQktnNVZYbmpLU1FKdEVzUkR6bnc0YzI1azJrTXdhYjYtd3UxbnFvc2dYeV8yRGhVOEM?oc=5",
-      "summary": "[신중론 이후③] 10년간 반복된 경고… 달라진 AI 위험과 대응에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "권기대 대표 \"반도체 호황 2028년까지...메모리 위상 달라져\" [경제일타강사]",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2WWQ1U24ydEN4YWE5aGg5UlV6djhFVU1ySldJVHQwdkgxcXozbFUyT29nX0Nrd1ZpS3NjVVpDM3JHZWNNOWdLUVlKR0RsUDQ?oc=5",
+      "summary": "권기대 대표 \"반도체 호황 2028년까지...메모리 위상 달라져\" [경제일타강사]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "서울 아파트, 신축보다 구축 강세… 20년 초과 매매가 상승폭 더 컸다",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wVGNaYlhjem1KVHZxQmhqSENIbHpzRVM5ejM2RHRITlBsQmd3LW1rdy1MdEJtSi1LM19vbnRUcUtybmVsSmoyMWdza0o0Y0FkMnlkY05id2RHbWtYYzdOMXN3STZQbVVTWHc?oc=5",
-      "summary": "서울 아파트, 신축보다 구축 강세… 20년 초과 매매가 상승폭 더 컸다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "미·중 AI 협력 논의 직후…미 의회, 중국산 부품 차단 추진",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJalJVRVgyU0sxQm1Ec3E3OFhycGtQU2swMURWRFZaak5paHJYaDUzQlBtaVhYX1VzckxOQi1TSDJPVmpEZHBNdGtEZXR2SGt2QlJNWnFB?oc=5",
+      "summary": "미·중 AI 협력 논의 직후…미 의회, 중국산 부품 차단 추진에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "호재인 줄 알았는데 주가 '와르르'…개미들 고민 깊어진 까닭 [종목+]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RRHFUYjlVdkVxZTBvYm85WnFOZHoxZ1VON240bWJJMEJ4bEdlcmxPOExyc1NZc2VKN3dhSFgwXzBMSGhCdFJnZTFUZ012UWw0MXRJRzBqSkVkUQ?oc=5",
-      "summary": "호재인 줄 알았는데 주가 '와르르'…개미들 고민 깊어진 까닭 [종목+]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "미·이란 협상 기대에 유가 2%↓... S&P500 0.51%↑ [뉴욕증시]",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ocnF0YXdwaU8zbDNEQ3BuaVFJajNpVFhsejNERnRTYmwwRjZ5X0JaRlVzNTVrbjUzQXcxZW4yd2NYa3VIRjVYck55NmxGU2xKVGpqM3h6N0NIRTEyU3VBdkgxMVnSAWhBVV95cUxQYWt0c0ZBemJsczBjNWlhbDBnMWY1d0phZEVsTjh6X2RLaWJtQy1XLXB1TVY5RUItNHpOdFdyeGlySGtUSEtIUG9aOUhTbWsxaHpYaVpQYlU1OVktdWNFTldERVFZVDlvWA?oc=5",
+      "summary": "미·이란 협상 기대에 유가 2%↓... S&amp;P500 0.51%↑ [뉴욕증시]&nbsp;&nbsp;매일일보뉴욕증시, 미·이란 협상 기대에 상승…AI·반도체주 강세(종합)&nbsp;&nbsp; 올랐는데 엔비디아는 잠잠했습니다. 9월 25일 마감 네 숫자&nbsp;&nbsp;contents.premium.naver.com美채권금리 19년만 최고에도…이란 협상 기대에 증시 숨통[뉴욕마감] - 머니투데이&nbsp;&nbsp;머니투데이[속보]간밤 美증시, 미·이란 긴장 완화에 상승…SK하닉 ADR 2.78%↑&nbsp;&nbsp;문화일보."
     },
     {
-      "title": "뉴욕증시 프리뷰, 유가·금리 재차 급등에 내림세…미중 정상회담 주목",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44bEUwYnlKUVF1RHFMU3BWSXo5OWdKVS1BMk9qOFFtTm1tYTZzR3R6VE5ONFR3WGFDMmVpQUtEajdyRUM5d19Ld0dvREtVaUxuZWx4RllDaUdIY3lm?oc=5",
-      "summary": "뉴욕증시 프리뷰, 유가·금리 재차 급등에 내림세…미중 정상회담 주목에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "코스피 7000선에도…상한가·52주 신고가 종목은 줄었다",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9KU2FWY3RDS3BQNjVNeVBnSTJuMnZ4M3BuOVo0a25YaG1UamZQNkxBbGtHZjJRNkZ6eGJoMklnRTctMERKSFE?oc=5",
+      "summary": "코스피 7000선에도…상한가·52주 신고가 종목은 줄었다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "트럼프는 '평화와 번영'·시진핑은 '인간 통제'…미중 정상 AI 시각차",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xM2ViRlpoN1FYUUdsTEZXMnlhSHlnbTIyT0c0WVV5Z2Y3YTg2VThUYXV6cnMxU1BLOG5rR0ZtZ2VCTDNscHF0WFJRSDUwdXVYM3ZlZTJR?oc=5",
-      "summary": "트럼프는 '평화와 번영'·시진핑은 '인간 통제'…미중 정상 AI 시각차에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[분양 캘린더] ‘광명 시티프라디움 에듀하임’ 등 8곳서 3641가구 분양",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBObTBUbFpjNHVMbEFaRGZfRENwSmpiUHB2N1NGZ0wxUzRFd0pXMDFDSzk3TUtWUHBBc01BT2F1a3d0V0pob0pWM1J3MlVoXzdLYnF1cnVIdjFwZE9FbnA1RWpkdUo?oc=5",
+      "summary": "[분양 캘린더] ‘광명 시티프라디움 에듀하임’ 등 8곳서 3641가구 분양에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "“통 크게 부모님께 1000만원”…추석 용돈, 증여세 내야하나",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14VW1TZVQtN2N3QThfRU5JSUFYTmVqazF5ZnFjNzZkSmZhT2JheG9oLWtqdVhuVFp3ZG93Z0V4Q2dROGc3d1RlX1BMOHd6QQ?oc=5",
-      "summary": "“통 크게 부모님께 1000만원”…추석 용돈, 증여세 내야하나에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[9월 넷째 주 세계경제동향 브리핑] 코스피 7,000선 회복…한미 증시 동반 상승",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85X0JIS3RjSVJLaTcwbThXMDdjSEt0Z3Y1UXZHakV0bkM5aTUtcjVCM1NrM3Y3V0ZqRTgtbHJGMnBYbWp6eXFXX0p3OTZvekFMVmtpX21rUDZpYWVZTjJfbWtybzFDQnZwdlo1NUN6OA?oc=5",
+      "summary": "[9월 넷째 주 세계경제동향 브리핑] 코스피 7,000선 회복…한미 증시 동반 상승에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "'4년 전보다 길게 오르는' 서울 집값, 추석 지나도?",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41dFFNbWhCSENnUl9yR2ZsRW9OY2lyRWc1c1lzTDIxWk5jVlNkN3BpNEtXalJUeFJtT0pDMTF3VnFobnRoZmFIMjZ5RHAtTEJrYnpRS01yaTRuNWpHc1R0Um1meGhPZmNBT2VPQkltOGo?oc=5",
-      "summary": "'4년 전보다 길게 오르는' 서울 집값, 추석 지나도?에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "전국 휘발유값 19주 연속 하락…추석 고속도로 할인도 영향",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90YThCcDNIRzFnNzBFSEhZOUhmRnZLd25KQlBRLXRrcmRCN3BBWE44N0dJeFBoS0RLWGVoTk1XczJYQURTQ21mcHdHdjJTQQ?oc=5",
+      "summary": "전국 휘발유값 19주 연속 하락…추석 고속도로 할인도 영향에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27 17:01 KST",
+  "updated_at": "2026-09-28 07:08 KST",
   "indices": {
     "summary": [
       {
@@ -16275,9 +16275,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,354.40 원",
-        "change": -12.96,
-        "change_str": "-12.96원"
+        "value": "1,354.95 원",
+        "change": -12.41,
+        "change_str": "-12.41원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -16564,7 +16564,7 @@
         },
         {
           "time": "2026-09-27",
-          "value": 1354.4
+          "value": 1354.95
         }
       ],
       "미국채 10년물 금리": [
@@ -17095,54 +17095,54 @@
   },
   "news": [
     {
-      "title": "“전세 만기 됐는데 8000만원 더?”…서울 아파트 전셋값 ‘역대 최고’",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56QjV6dW5ibEFSWWwzQm84cWowRDJXSGZoRDdJYl9tZ1h0M0xqNGVpYVZSOXJzQWhuSnVRSjFycGlLQmIwaVNLZ3llRVdZNU44VnlSNzFCNWhmYTBoWUtPdGRMUQ?oc=5",
-      "summary": "“전세 만기 됐는데 8000만원 더?”…서울 아파트 전셋값 ‘역대 최고’에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "단일종목 레버리지 규제 강화에…거래대금 92%↓",
+      "title": "삼저닉스 레버리지 열풍 꺾였나…규제 후 거래대금 92%↓",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2ZTU2Y2JDZW8zRG93MEwxcGRUdVZScVBUc3d4MmZjUnpCcjV4MmxPWFdwd0R4M1M2bVN0LXEzSDJmUnNxbXdzcmk1WTFaZks4Uks2LWh1U1g1dw?oc=5",
-      "summary": "단일종목 레버리지 규제 강화에…거래대금 92%↓에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "summary": "삼저닉스 레버리지 열풍 꺾였나…규제 후 거래대금 92%↓에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[뉴욕증시-주간전망] 美中 정상회담 세부 결과는…물가·고용 지표 '촉각'",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pNFFUdi13U3U1Q0FpTjBCYkkyNVk1em9YSGkwUGFYU09nY3NoS3J0d0dXWFU0ekpMZUJNOVh6RGNZYmZmcy1BaEVmbHJuQjhFc1cybUJmTUtJak0xVHp6am5aRTVqeC1odXNqY2ViVHY?oc=5",
-      "summary": "[뉴욕증시-주간전망] 美中 정상회담 세부 결과는…물가·고용 지표 '촉각'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "‘삼전 30조 배당’ 오늘이 막차… 관계사 낙수효과도 주목",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JNTN0RVdUTFQtTVE4dUVGRjk1RGQzY3lFR1BGRnZqN2UzNmstVTRXV3g0RkxSU3dyckVLcUVqN05JMjFPbGZ1aFpmNlFFdE0?oc=5",
+      "summary": "‘삼전 30조 배당’ 오늘이 막차… 관계사 낙수효과도 주목에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "대미투자 1호 가스발전 추진에 ESS 기대감…K-배터리 신시장",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VaDk2WE0tZUxXLUFPejZCalR3RnNTR1B0TlZ2SjFhcE5hbndLa25pS1VQNzJ4ZFdXdjVDMXlYZmYtWFoyUDdnVmhWRHd3T2dsc1E?oc=5",
-      "summary": "대미투자 1호 가스발전 추진에 ESS 기대감…K-배터리 신시장에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "서울 아파트값 85주째 올라 ‘역대 최장’ 타이… 전월세도 동반상승",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xSmZCeGhJQVRBQ19ZdDM0a0xqeXhaQ0t6T0xmM2wtQXBoaVduekM1bGp6aEliaTFpd1NsYzV1ZHM2RzhKNjRIUmgtZlVpcWlSWUp0X19qTmhzZXNLRUZVaXR4ZWI4X2NuZVlPZ2tGYUE4dHV3NnfSAWZBVV95cUxPQTZKaDFfR0d2N1g3LWhQZjNwNS1VT2JDNGhrU0tWS0RzeHFfVjhoUFIzcXN5R2UxSkxURFdFejdaTmZOQVF6aGItOHU3bnpKelhZQ0FyZWI5Zmk2QkhESVZPR1hMM3c?oc=5",
+      "summary": "서울 아파트값 85주째 올라 ‘역대 최장’ 타이… 전월세도 동반상승에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "삼성·SK하이닉스 육아휴직률 동시에 꺾였다… ‘억대 성과급’ 겹친 반도체 호황",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBNVhXd0hkaG1BcEFncS1OYjNMcnU0bVd1TG1NUGpPN0U3Q0FTelliQTJSVDdadnBPOVY1TngxbFdHYld6ZUl2Qnl5OXFrOE0?oc=5",
-      "summary": "삼성·SK하이닉스 육아휴직률 동시에 꺾였다… ‘억대 성과급’ 겹친 반도체 호황에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "빌 게이츠 \"AI 악용 땐 10억명 죽을 수도\"… 연구자들 \"인류 미래 건 도박\" 줄줄이 퇴사",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVXZQa284Q2swcXg4QmU0ZElFTExjc3AxWVhNSE1Lc2wyamZnMUc1U0xIbnc5T3U1bVVjakxkWVhpbS11UnA1UkNfWW1FUzN3clU5V2pDdTBkVVJQVThybHM3Nk9hZXNrS281RTN1UFkxV3B5UUYtNjNtUDdNb2hKTER6UQ?oc=5",
+      "summary": "빌 게이츠 \"AI 악용 땐 10억명 죽을 수도\"… 연구자들 \"인류 미래 건 도박\" 줄줄이 퇴사에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "美 국채 금리 5% 시대, 미 장기채 ETF에서 개미들 9000억원 팔아치워…\"추석 휴장 때 금리 상승분 가격에 반영\"",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNelBMZXo4VFhjcExVQlVDX1BoWFRjeHVTd3ZzcG41MDRzT3hVaHc0RlVHVnRwbXlkdTlVeVVSUkdQNEF6MHYyWWlURHd3UVg0elY4WFBFaW5vUUt3cDg4NnJRZmlha0taRXdPMGxLaFJzV2Fuay1QN1Y0X3ZJdGNrdjQyQkNyeHpBUUNJa0dR?oc=5",
-      "summary": "美 국채 금리 5% 시대, 미 장기채 ETF에서 개미들 9000억원 팔아치워…\"추석 휴장 때 금리 상승분 가격에 반영\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "역대 최대 초과세수에 내년 ‘미래대응기금’ 200조원 육박할 듯",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05empXTXhmb2VBRUZDTXB3eVAxTDRqajA2U1RpaWNpa01uR1RtQXR0cEFGLWEySmZnRWw5V216VGJpOXFmaUR6YnpvVDJEYVEtdy1uei0xdFZKMnZkUTd1TzhvVlNhZnJpdk1rOEQ0QVJsdw?oc=5",
+      "summary": "역대 최대 초과세수에 내년 ‘미래대응기금’ 200조원 육박할 듯에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[논평] 이규홍 본부장은 정권·재벌 외압 거부하고 국민의 노후에 충실한 기금운용을",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84cThqSVNKNFZaSG9TR1k1aGRILThvWlpqLV9hLVZuN3FqQU1xZ2JGOEtHcEUtd1J5MlI5OHA5cGdqRVZLZHpwREJDbVFxaDBONEtCWkVHSVpOdVQzVERaaDBqZFJJbDDSAWtBVV95cUxQaWZjYTdEZUNDa1dLM0tzNVNEMjFZc2pUakNhYVdYWElIb2ZDZWoxTmhhQUhXUkwzaWsxRnFVMUQ1TDdIWXhXNmp1eWRJdlh3a2xyaVR5aFRfTngwQ2ZBZnllaTJQWE1sSjJqYw?oc=5",
-      "summary": "[논평] 이규홍 본부장은 정권·재벌 외압 거부하고 국민의 노후에 충실한 기금운용을에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "“중국산의 무서운 기세”… BYD, 해외서 최단기 1만 대 돌파",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZVhDTmxEOXRvaWRzWndYVWQwb0Jnck9tWGpUTlMzOXJXSzZYMGpSZkVMWm9oblRaUmxOV09YazRnU0tUNWlyNlJkemxDMWE2bzROVDVPblJ5dUFZaHJuUzc4TmVEdjhFRVlRQUphMGZyWDBYdElCSG9GR1RGRjVXS1JQV01NVWVk?oc=5",
+      "summary": "“중국산의 무서운 기세”… BYD, 해외서 최단기 1만 대 돌파에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "“둘 중 하나는 땅을 쳤다”…외국인은 ‘레버리지’ 개미는 ‘곱버스’ 베팅",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qRWY5QnI5Z1FxV2k3ZS01VmIwbmdnT0NyWDUwaUxTMTBTQVBacENQYXpGaF9FYzFHUnpiTDBmWWE0OVF2OC01b25OYk43ejNINkE?oc=5",
-      "summary": "“둘 중 하나는 땅을 쳤다”…외국인은 ‘레버리지’ 개미는 ‘곱버스’ 베팅에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "제조업 경기 전망 두 분기째 개선…반도체 BSI 139 역대 최고",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMM3ltN0xFUWRSbTIxRUNhV0NKWUhsV1N5dkc2VjZXb3UteHQtdzczSVhnRGlzd3M5Q2QtRUlNU1ktOUQwTnRYNmRJZ0V4TjBjNmlNeTNmRnRyQ1N1eUdkNF9wbUpqWmNwRVVRMEpCenk?oc=5",
+      "summary": "제조업 경기 전망 두 분기째 개선…반도체 BSI 139 역대 최고에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[고금리 장기화①] 마이너스통장 제어 한계…가계부채 관리 '변수'되나",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUSDFCbGJESEpPdlZxU0czVEc5YUtUQmJ3bGxsa05ESnQwUUpDM0RJOVdndG8za0t3VmNGc1g4OG1EdlpmQkRJZGgyWEkzaXBwaEJVS20zTm5Vb3haMUZlR24wZ3F5VGlTV1E5aThUTTY?oc=5",
-      "summary": "[고금리 장기화①] 마이너스통장 제어 한계…가계부채 관리 '변수'되나에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "반포 5.5억·도곡 2.1억 급락...매수세 위축 속에 급매 성격",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BU1JabldLTXYyTlk0ZGZGaVFrZGs5ZGJ5VTRfcG0xM0lPbC1zSmNEakFPSExPRy14TXdSNWhtMW9ORHE0Z3d5MGpRdkY0dFNGbmN1TzJrcjVmN3ZFQVE?oc=5",
+      "summary": "반포 5.5억·도곡 2.1억 급락...매수세 위축 속에 급매 성격에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "LG전자, 엔비디아 AI 데이터센터 냉각 공식 파트너 합류",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MdUI5Y2VuOEhTdHVZYnEtOVlQUUQyRldfUU5JNmZ0N2dNNmk3NGdudTAwU0Y2akI0bm40WWNLbE43cV81ZkNVdXU3d3JrSS0wNHNVWmliNjM4UdIBX0FVX3lxTE9hWGN4ZGtseWg1ckwtLXN0cDlURmFXSHl0QllYeUwxN25DcVpLSWhQLUNJT3NidktxMFNpajQ5UHRYN0dQM2RNdEhMbEh5YzlqN2ktUUV4TjZmaU1DT05F?oc=5",
-      "summary": "LG전자, 엔비디아 AI 데이터센터 냉각 공식 파트너 합류에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[추석 이후 증시] 양지환 센터장 \"4분기 코스피 6000~9300 제시, 반도체·은행 유망\"",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TOWp3MjU2SHYxU2xfb2thTkNnbVhWZE5BdDg3T3hiOWJTeWJjVlFSOW9YRWZYLV82LWc4YkdVUTRUWlc1ZDczeUJKamxhVWwyaUh2MWJNMlhYMWRBS3RSWnFTeVJYVldB?oc=5",
+      "summary": "[추석 이후 증시] 양지환 센터장 \"4분기 코스피 6000~9300 제시, 반도체·은행 유망\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "부동산 전문가 99% \"연말까지 서울 전셋값 더 오른다\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51R1p5VHBpa3ZKSHVBdjJQXzdTemItaDJjSk1XMXBPVWgtaG5qNUpNWExKaEg4QndJTkVJWjh3Ml9LVW9ZSUJ5S3pJRC05S1hnelVfbjNpYTg4UQ?oc=5",
+      "summary": "부동산 전문가 99% \"연말까지 서울 전셋값 더 오른다\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

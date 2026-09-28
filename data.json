@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28 07:08 KST",
+  "updated_at": "2026-09-28 17:03 KST",
   "indices": {
     "summary": [
       {
@@ -22,9 +22,9 @@
       },
       {
         "name": "코스피",
-        "price": "7,080.92",
-        "change": 63.01,
-        "change_pct": "+0.90"
+        "price": "6,889.74",
+        "change": -191.18,
+        "change_pct": "-2.70"
       }
     ],
     "candles_dict": {
@@ -15849,13 +15849,6 @@
       ],
       "코스피": [
         {
-          "time": "2026-06-30",
-          "open": 8416.7,
-          "high": 8667.73,
-          "low": 8220.8,
-          "close": 8476.48
-        },
-        {
           "time": "2026-07-01",
           "open": 8591.5,
           "high": 8620.15,
@@ -16267,6 +16260,13 @@
           "high": 7153.99,
           "low": 7014.98,
           "close": 7080.92
+        },
+        {
+          "time": "2026-09-28",
+          "open": 7057.86,
+          "high": 7065.9,
+          "low": 6889.68,
+          "close": 6889.74
         }
       ]
     }
@@ -16275,9 +16275,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,354.95 원",
-        "change": -12.41,
-        "change_str": "-12.41원"
+        "value": "1,358.19 원",
+        "change": -9.17,
+        "change_str": "-9.17원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -16294,14 +16294,6 @@
     ],
     "series_dict": {
       "원/달러 환율": [
-        {
-          "time": "2026-06-25",
-          "value": 1542.76
-        },
-        {
-          "time": "2026-06-26",
-          "value": 1546.48
-        },
         {
           "time": "2026-06-29",
           "value": 1535.24
@@ -16563,8 +16555,8 @@
           "value": 1367.36
         },
         {
-          "time": "2026-09-27",
-          "value": 1354.95
+          "time": "2026-09-28",
+          "value": 1358.19
         }
       ],
       "미국채 10년물 금리": [
@@ -17095,54 +17087,54 @@
   },
   "news": [
     {
-      "title": "삼저닉스 레버리지 열풍 꺾였나…규제 후 거래대금 92%↓",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2ZTU2Y2JDZW8zRG93MEwxcGRUdVZScVBUc3d4MmZjUnpCcjV4MmxPWFdwd0R4M1M2bVN0LXEzSDJmUnNxbXdzcmk1WTFaZks4Uks2LWh1U1g1dw?oc=5",
-      "summary": "삼저닉스 레버리지 열풍 꺾였나…규제 후 거래대금 92%↓에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "속보 연휴 뒤 악재 소화에 코스피 하락 마감...7천피 이탈",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Zd0t3S1hoUXEzN3dFNVlXaTVFT3k4bXFKRm53QnNyc25qMEVSYWttQld0ZDl0RjFQWHVEZXBfb1M0clN4QkNERXpMUUU2LU1ScURGYjVrR3dsMHlZUlE?oc=5",
+      "summary": "속보 연휴 뒤 악재 소화에 코스피 하락 마감...7천피 이탈에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "‘삼전 30조 배당’ 오늘이 막차… 관계사 낙수효과도 주목",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JNTN0RVdUTFQtTVE4dUVGRjk1RGQzY3lFR1BGRnZqN2UzNmstVTRXV3g0RkxSU3dyckVLcUVqN05JMjFPbGZ1aFpmNlFFdE0?oc=5",
-      "summary": "‘삼전 30조 배당’ 오늘이 막차… 관계사 낙수효과도 주목에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "반복 담합 전기공사업자, 등록취소·영업정지…당정, 제재 강화",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FMVhfOFBtOE0xMHNSQnZzLS1IODAtUmh0TkJ1ZnE1NzdyeTB5SzZ4eGUycXNFSWplM0FmMVRvNE5Ed01pWDZ0dTJqazYwaWVUUDk0RVcyTTRveVM0aXZEQmE2Q1ZRdng2RnJISNIBcEFVX3lxTE11SlpINjdrYnhzYm1KanVjN3pCVkZWN28yMVhBaWRDZjlrTlJ2bzJ1NkN5UnRRcG8tZE1JQnpzaVVVOXRUTWFxbkN5bFBMQlBUd0hic0ZOLV9sWkczeG1uZW9JTWQxRi1LWWVxOVQ2bWw?oc=5",
+      "summary": "반복 담합 전기공사업자, 등록취소·영업정지…당정, 제재 강화에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "서울 아파트값 85주째 올라 ‘역대 최장’ 타이… 전월세도 동반상승",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xSmZCeGhJQVRBQ19ZdDM0a0xqeXhaQ0t6T0xmM2wtQXBoaVduekM1bGp6aEliaTFpd1NsYzV1ZHM2RzhKNjRIUmgtZlVpcWlSWUp0X19qTmhzZXNLRUZVaXR4ZWI4X2NuZVlPZ2tGYUE4dHV3NnfSAWZBVV95cUxPQTZKaDFfR0d2N1g3LWhQZjNwNS1VT2JDNGhrU0tWS0RzeHFfVjhoUFIzcXN5R2UxSkxURFdFejdaTmZOQVF6aGItOHU3bnpKelhZQ0FyZWI5Zmk2QkhESVZPR1hMM3c?oc=5",
-      "summary": "서울 아파트값 85주째 올라 ‘역대 최장’ 타이… 전월세도 동반상승에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "이형일·신현송 “물가 성장, 금융 안정 위한 협력 강화”",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kMVdHU1AxSk9rYjlXSnJxN1hjdHpsZVNDcGpIZkZSRS1hMl9WallZVVN5dy1CcWxJbkVVSXVlQ2tXQjVOdld6d1ZGblBlQVNHWkN5ZWtFZk1VQdIBX0FVX3lxTFBJaXFaYTl5ZTlwaE14bFQ5eWtabDFBN2xPUEZNRFV6cHNfRXRlZndqRGlpWFdobkxvczFyNnlqZm5QSHdkMDBpUnF1MkRpN0xjN3VPWktFTVpmdnpTd2lj?oc=5",
+      "summary": "이형일·신현송 “물가 성장, 금융 안정 위한 협력 강화”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "빌 게이츠 \"AI 악용 땐 10억명 죽을 수도\"… 연구자들 \"인류 미래 건 도박\" 줄줄이 퇴사",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVXZQa284Q2swcXg4QmU0ZElFTExjc3AxWVhNSE1Lc2wyamZnMUc1U0xIbnc5T3U1bVVjakxkWVhpbS11UnA1UkNfWW1FUzN3clU5V2pDdTBkVVJQVThybHM3Nk9hZXNrS281RTN1UFkxV3B5UUYtNjNtUDdNb2hKTER6UQ?oc=5",
-      "summary": "빌 게이츠 \"AI 악용 땐 10억명 죽을 수도\"… 연구자들 \"인류 미래 건 도박\" 줄줄이 퇴사에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "빌 게이츠 \"AI, 10억명 사망 초래할 만큼 강력\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvd012MVltZE1CaVM3cEtibVpoQTFobTFTc2tla1Z0b3R4bzl2d0lUTUxTclVqT1JSQnJ2ek40TktkeXFNRjVvNUVNaU1hcG1RZG5pVGhjTVdqenFoOFF2UFU1aDQ0cndDZGFDNmszbng?oc=5",
+      "summary": "빌 게이츠 \"AI, 10억명 사망 초래할 만큼 강력\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "역대 최대 초과세수에 내년 ‘미래대응기금’ 200조원 육박할 듯",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05empXTXhmb2VBRUZDTXB3eVAxTDRqajA2U1RpaWNpa01uR1RtQXR0cEFGLWEySmZnRWw5V216VGJpOXFmaUR6YnpvVDJEYVEtdy1uei0xdFZKMnZkUTd1TzhvVlNhZnJpdk1rOEQ0QVJsdw?oc=5",
-      "summary": "역대 최대 초과세수에 내년 ‘미래대응기금’ 200조원 육박할 듯에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "\"호르무즈 통과 원유량 60％ 수준 회복…잠행 증가 영향\"",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhOHZ3MldadzFHZ1VjR3FWMURiaU1VWjU5aTdRWTlIYWJMOFlBV2lwamFFWnU0WG45RjFpZkxJRmtBWTJHSDVLRjgxbkNsTUFScC0xZGtiYkRlQXFndkxWbUhJX3pWcG8?oc=5",
+      "summary": "\"호르무즈 통과 원유량 60％ 수준 회복…잠행 증가 영향\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "“중국산의 무서운 기세”… BYD, 해외서 최단기 1만 대 돌파",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZVhDTmxEOXRvaWRzWndYVWQwb0Jnck9tWGpUTlMzOXJXSzZYMGpSZkVMWm9oblRaUmxOV09YazRnU0tUNWlyNlJkemxDMWE2bzROVDVPblJ5dUFZaHJuUzc4TmVEdjhFRVlRQUphMGZyWDBYdElCSG9GR1RGRjVXS1JQV01NVWVk?oc=5",
-      "summary": "“중국산의 무서운 기세”… BYD, 해외서 최단기 1만 대 돌파에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "메디톡스, ‘뉴라미스 볼륨 리도카인’ 중국 품목허가 획득",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ja183ZjJ6OFJsRTNydVlHSVh1enZVUzhicFgzQ1N2UUNpWm1hdDNEV1RmZ3ZVMHRxTFNkWG1GbExVYlV1b1hpdkQxT0VMa05MT0FLMHhNTQ?oc=5",
+      "summary": "메디톡스, ‘뉴라미스 볼륨 리도카인’ 중국 품목허가 획득에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "제조업 경기 전망 두 분기째 개선…반도체 BSI 139 역대 최고",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMM3ltN0xFUWRSbTIxRUNhV0NKWUhsV1N5dkc2VjZXb3UteHQtdzczSVhnRGlzd3M5Q2QtRUlNU1ktOUQwTnRYNmRJZ0V4TjBjNmlNeTNmRnRyQ1N1eUdkNF9wbUpqWmNwRVVRMEpCenk?oc=5",
-      "summary": "제조업 경기 전망 두 분기째 개선…반도체 BSI 139 역대 최고에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "멕시코서도 매운 라면 통할까…농심 ‘2026 K-엑스포 멕시코’ 참가",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05TkpLdE56NlpJTmlnVkZWSVJDc2xocHA2QUlCdnZIRGtzN3RiZ2s3ai03QzcwX2lQNkVVYzVKWXdhT2xMSWZjbG11d21hV0d5N0tVak94a2ozQQ?oc=5",
+      "summary": "멕시코서도 매운 라면 통할까…농심 ‘2026 K-엑스포 멕시코’ 참가에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "반포 5.5억·도곡 2.1억 급락...매수세 위축 속에 급매 성격",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BU1JabldLTXYyTlk0ZGZGaVFrZGs5ZGJ5VTRfcG0xM0lPbC1zSmNEakFPSExPRy14TXdSNWhtMW9ORHE0Z3d5MGpRdkY0dFNGbmN1TzJrcjVmN3ZFQVE?oc=5",
-      "summary": "반포 5.5억·도곡 2.1억 급락...매수세 위축 속에 급매 성격에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "한국은행, 외부업체 침입으로 186명 개인정보 유출",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJcVpFdm4tdjRXbHotX2M1NTV5ZG05U0VaQU5DRkpjb0JBNzE3VHhTWXNHaDhVSGxmcFpxWFkxTjdZa2FVRVZWWUtkdllMeDNISHBFUW1lMXRrc2VCd2c4X0RhbmhIaGpqS09z?oc=5",
+      "summary": "한국은행, 외부업체 침입으로 186명 개인정보 유출에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[추석 이후 증시] 양지환 센터장 \"4분기 코스피 6000~9300 제시, 반도체·은행 유망\"",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TOWp3MjU2SHYxU2xfb2thTkNnbVhWZE5BdDg3T3hiOWJTeWJjVlFSOW9YRWZYLV82LWc4YkdVUTRUWlc1ZDczeUJKamxhVWwyaUh2MWJNMlhYMWRBS3RSWnFTeVJYVldB?oc=5",
-      "summary": "[추석 이후 증시] 양지환 센터장 \"4분기 코스피 6000~9300 제시, 반도체·은행 유망\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "삼성전자 '30조 배당' 오늘 막차…하루 뒤 배당락이 변수",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XOW05OTlFR2h0cVhnaUo3b3dZZDAybEtzLWQ4M3VFNldsNFBJcVgzWHJFa19mX0J0VFhUTy1nVTgzb0czRzVlQ0tnU1JVLWc?oc=5",
+      "summary": "삼성전자 '30조 배당' 오늘 막차…하루 뒤 배당락이 변수에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "부동산 전문가 99% \"연말까지 서울 전셋값 더 오른다\"",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51R1p5VHBpa3ZKSHVBdjJQXzdTemItaDJjSk1XMXBPVWgtaG5qNUpNWExKaEg4QndJTkVJWjh3Ml9LVW9ZSUJ5S3pJRC05S1hnelVfbjNpYTg4UQ?oc=5",
-      "summary": "부동산 전문가 99% \"연말까지 서울 전셋값 더 오른다\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "美국채 10년 수익률 어디까지…'40년전 자경단은 명목 GDP까지 높여'",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15clp3T1NuVFZONElGV2t2SVp5R0xkTzRfV0RoREY4RWlSUGFaVFFmX1pDb2cyMy1ONFVFbFVKMDE1S0xtbjZQaTd0UnZTTHYzQnJleDZpMTNKM1ptSjkxUElnbUtFSjZhT2sxMWx0NDY?oc=5",
+      "summary": "美국채 10년 수익률 어디까지…'40년전 자경단은 명목 GDP까지 높여'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01 07:09 KST",
+  "updated_at": "2026-10-01 17:08 KST",
   "indices": {
     "summary": [
       {
@@ -11,7 +11,7 @@
       {
         "name": "나스닥",
         "price": "26,861.06",
-        "change": 63.53,
+        "change": 63.52,
         "change_pct": "+0.24"
       },
       {
@@ -22,9 +22,9 @@
       },
       {
         "name": "코스피",
-        "price": "6,838.04",
-        "change": -32.77,
-        "change_pct": "-0.48"
+        "price": "6,971.35",
+        "change": 133.31,
+        "change_pct": "+1.95"
       }
     ],
     "candles_dict": {
@@ -15828,13 +15828,6 @@
       ],
       "코스피": [
         {
-          "time": "2026-07-03",
-          "open": 7739.75,
-          "high": 8136.28,
-          "low": 7378.1,
-          "close": 8088.34
-        },
-        {
           "time": "2026-07-06",
           "open": 8186.82,
           "high": 8327.26,
@@ -16246,6 +16239,13 @@
           "high": 6965.64,
           "low": 6818.39,
           "close": 6838.04
+        },
+        {
+          "time": "2026-10-01",
+          "open": 6814.49,
+          "high": 6971.36,
+          "low": 6765.06,
+          "close": 6971.35
         }
       ]
     }
@@ -16254,9 +16254,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,356.54 원",
-        "change": -3.02,
-        "change_str": "-3.02원"
+        "value": "1,362.76 원",
+        "change": 12.26,
+        "change_str": "+12.26원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -16273,10 +16273,6 @@
     ],
     "series_dict": {
       "원/달러 환율": [
-        {
-          "time": "2026-06-30",
-          "value": 1541.73
-        },
         {
           "time": "2026-07-01",
           "value": 1548.61
@@ -16539,7 +16535,11 @@
         },
         {
           "time": "2026-09-30",
-          "value": 1356.54
+          "value": 1350.5
+        },
+        {
+          "time": "2026-10-01",
+          "value": 1362.76
         }
       ],
       "미국채 10년물 금리": [
@@ -17070,54 +17070,54 @@
   },
   "news": [
     {
-      "title": "\"백악관, 韓대미투자 발표에 '알래스카 LNG·원전 8기 포함' 확인\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52MjdzbmdxSk8wTDlTSFh1U0p6ZWN3OEs4MmV3WW1FT3lkUmV1T1pfY1FhLXljU3FkQmhrcXBLSVpXbDU4MEF5ai1lS21TQ2dsYTNoUzlWcUItdU3SAWBBVV95cUxNYnlUZjBaTDVNMjE5NEVjQnhYcFo2bFRqaEM1WG5TTEZjQmRjaGxYRXppREVfa3hYX0VlWUpLY0FWTGJIN3Y3UFlrWDRodmRmWlZkR2pnX2hBU005aUlCRUw?oc=5",
-      "summary": "\"백악관, 韓대미투자 발표에 '알래스카 LNG·원전 8기 포함' 확인\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "이 대통령 “알래스카 LNG, ‘상업성’ 전제돼야···원금 회수까지 이익 5 대 5 배분”",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBRHpfbFpJN2YzaGJTZkljR3ZpTkhnOGVGTml4ZG4zaVFiWU9McDRiaks5QWpNNU5XMWNpQVV5dHVSaEEwcGJBSTNBYy1ISVdIbEhvLXRVYVJ4d9IBX0FVX3lxTE5sVzc3LUctMmtfVHBYZ2N2LVRsd0FZVlhkYXBFZldSNC1naVZKckprUFlncnVCMUIzdktlczZ0c2toSnI5OWhsSHFnaUpOVW1ySFNCc0Nlb2NHZ2JFOGlF?oc=5",
+      "summary": "이 대통령 “알래스카 LNG, ‘상업성’ 전제돼야···원금 회수까지 이익 5 대 5 배분”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "마이크론, 분기매출 73.5조 원으로 '사상 최대'...\"내년 실적 더 강력\"",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56cjBiSm54VXlzWjhsdkxTNmxhYUpfRjg1UkdxZW5Hb3dNV1Q2cHAtWWh2SDdOVnlJSEZpbVg0NE1Zbi1XdUJTS3ZRcTlEdE9ON3haeWhMblphMjlPT3c?oc=5",
-      "summary": "마이크론, 분기매출 73.5조 원으로 '사상 최대'...\"내년 실적 더 강력\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "서울 집값 ’역대 최장’ 86주째 상승…강남3구 이어 용산도 하락 전환",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rbURydmFKVS0yNGE2OGluLWJWby1aWmlORlc2a2p0VEQ5bmhVQVJjelNvRFE5azdiT1U2ckQtSEVyd2pUUkt1OEJmUUVLRktLWC1TWURwSEtQbWlJdDhMMXhJRnRYcWs?oc=5",
+      "summary": "서울 집값 ’역대 최장’ 86주째 상승…강남3구 이어 용산도 하락 전환에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "美 8월 근원 PCE 가격지수 전월비 0.2%↑…예상치 하회(종합)",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81TmlDTjF1emZNZnpneHJuVVM5N3VuUnlQSTZhWEc3MHpUQWpPb2hZVEtqT3liaGo1OFhNUDZlaS1Kc2RUcGhyY1NOZ2IyaVFjVm1DWFVXQ09nWnk5RVpDMll3NTJISF94eDhwUk1OR3A?oc=5",
-      "summary": "美 8월 근원 PCE 가격지수 전월비 0.2%↑…예상치 하회(종합)에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "9월 수출 1200억달러 '초유의 기록'…'반도체·AI' 수퍼 사이클",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uVl9QUzk2cURpc1V2bnBRSzZyY0phRDRIZnNlbXlwM21XeEpaWTFRdmlFcTN0MFpBLWpVemdlMjhNNFVRR3VNd0xVLVBlNnFsUXhhNXhZTTMtQQ?oc=5",
+      "summary": "9월 수출 1200억달러 '초유의 기록'…'반도체·AI' 수퍼 사이클에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "국힘 재경위원 “88조 원 빗나간 엉터리 세수추계…사과하고 빚부터 갚아야”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Rd0MtbzQ2Mjl1YWRlZzdRQm52TU5rM1R5WXFYakZpaEExRnEzWDJoRnFSY056YWNQMmxFTmtZSHBGOHM1Mnh1UklnLW5xRmM0SEdSdTdxZ3NWams?oc=5",
-      "summary": "국힘 재경위원 “88조 원 빗나간 엉터리 세수추계…사과하고 빚부터 갚아야”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "마크 잔디 \"美 10년물 금리 5.25% 급등 원인은 이란 전쟁\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pVFN3TFgtNmdhVEN5UWFsbzBZbVhjc19hejRpOVZGejdKYld0TFdEa1BsN29GaVp6dUJkWlVvSGhnNjFHSS1zS3JOekhQV2xWNkpPRTdVUXBrZHg0MzhXX3BEQm43LTlXRWdnSVM5RU4?oc=5",
+      "summary": "마크 잔디 \"美 10년물 금리 5.25% 급등 원인은 이란 전쟁\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[단독] 연대보증 끼고 10조…새마을금고發 빚더미에 '피눈물'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAySDQ4SUp0bnpRNFRiOU5taGZHTzhCMk5pT3pDU3dGZlR5VXd0eExucHFmZmlaMndPNHkwSVFNOVlzUTQ5RmEweDJ6Yjh2RElFRGljWElwa3JwUQ?oc=5",
-      "summary": "[단독] 연대보증 끼고 10조…새마을금고發 빚더미에 '피눈물'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "비트코인 하락 영향으로 올 상반기 국내 코인 시총 33% 줄어…일평균 거래규모도 44% 감소",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWHdrWUwwMkFKVVJfaWpBN2VnZ2g2eGpHNjBtdTZSTUtwdDUxNl91UFF2RDlDOV9lYm9YMS01b3hNV1hKd0h6QjFLb1JHVUx2ZHdUMGcwd1JLcnBOVFB5eTJRMG9UdEdmbS1kSEtJeHI5UzdkX1pHSk8tUkJGbExVcnRRR1pVM3VLOC1J?oc=5",
+      "summary": "비트코인 하락 영향으로 올 상반기 국내 코인 시총 33% 줄어…일평균 거래규모도 44% 감소에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "중동 원유수출, 전쟁 이전 수준 회복…\"셔틀선 환적 영향\"",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wQ1NEc3A3YV9XdnRXYXQ0REpyaDFDTzU5aHVoVkZ4a2RERTNFcDJmT0g1ZVF6elpiSFR6YXd6bnNWM2RXYkhreWtVQVFwQWlzdXFVR0t5VnE0aWY3UkRsSUVzSjVndkE?oc=5",
-      "summary": "중동 원유수출, 전쟁 이전 수준 회복…\"셔틀선 환적 영향\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "‘턴키’ 용인 반도체 도로 확장, 쌍용vs태영 수주 각축전 예고",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ub0E1eE5qV0lhNVJydUxPZmpUMVFNTTBvV1JwTGhGMERWTHV4dWF3VW1qM3llQ3c4a0sxMWNlUlk4MG9GZVQ0ZVJmZ3lyTXhUTzlWQzBISnR3TTZQZmRBVnpyRlM?oc=5",
+      "summary": "‘턴키’ 용인 반도체 도로 확장, 쌍용vs태영 수주 각축전 예고에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "“금리 정점” 미 국채 사들이는 서학개미…치솟는 미 장기국채 금리, 국내 파장은",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ydVREQkxXaGZoTlNyY1FmOEJoajVrZHVVeXlwTGYxSG9JTEwxQXYyQ3FXN2pOSkF6dUU1U2JDLXY1eVJKQloyMW15RkRsUGdTa2hMdzMycEVDd9IBX0FVX3lxTFBEYTRpQm9ac2x2aXVTcWRldkRfZDBoMzREZ0ViaERxN19CT01xc2tUYUQ1N21pTjdOcVEzS0FoU1JCSnVqek1GTzdsU0hERF80OHFwUmE0OEF4R2pZYlJZ?oc=5",
-      "summary": "“금리 정점” 미 국채 사들이는 서학개미…치솟는 미 장기국채 금리, 국내 파장은에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "두 달 빨라진 에코프로 인사…핵심 계열사 수장 대거 교체",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZbEs3ZE1GUHlVTVpxVHFhMDVEbWZ1WmpQZm01NmcxYm81S1prOFIyNjRSU05ORTcyTDFNQVNhYWZINzRHTTJaSzVmTGxtY2FVNlVGMGUwUkFZaGprd0N2aXFBeXYzam9kNTJERg?oc=5",
+      "summary": "두 달 빨라진 에코프로 인사…핵심 계열사 수장 대거 교체에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "오늘부터 6천억 규모 2차 국민성장펀드 판매‥\"서민 배정 물량 확대\"",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wc21zanJJWlB4WHZtb2lqcjBjUDd5TUxPb1ROWVFIUklFVDhTUFlXTFNfRFhhQUs0WGFWZ3NuX1kxWEo3eVAzVTZ4TjlHWWNXRnVPb1cwRWRmWG5YU3pLRm1lRllmdThhQjg5RnFFbk13eEQ50gF0QVVfeXFMT24yMXZnMXJNSTV2V3g1bXUxMWVjb2NhQWwyOFZrMXhMd0NXMV9oVXhLSFY3VExRT2ItYkRYVEFkTHdZbmlfdlZlbE8ybGZBSlBGSmdhX3B4dndZejRZeEg5SHJxOWp5M3o5eW9pMmJUdkI1ZS0?oc=5",
-      "summary": "오늘부터 6천억 규모 2차 국민성장펀드 판매‥\"서민 배정 물량 확대\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "3거래일 연속 '하락' 코스피, 마이크론 호실적에도 하락 출발",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pSWhaUGhyYmU4OG5oTmJvcDU0Z2VFQWRsbnhPRVh1VzFjUHZsbThrc3JVallOVk1PN1VYcF82WlpaNFc0aldOT09KVjdWSU00SXF0S1hpMHRaVXBaY2J3YWt4bzhfMUliTlNxLU5QUWwtS1I10gF0QVVfeXFMTjJEeUlDZXh1ZDRmSExnTHJ2VmpkampkVXNWaGc1QmI0cTFDTXlWLUdWdzQ5cHRsbTJ4RllaYU82dkJLTkFyZE81S19TanRwR2pUNWZIc2VXbC1JTGtXQ2liWDJsZHFGWTdFVnBCNzBTYnFYNWU?oc=5",
+      "summary": "3거래일 연속 '하락' 코스피, 마이크론 호실적에도 하락 출발에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "기만 늘고 보고는 부정확... 오픈AI, 안전 시험 못 넘은 ‘GPT-6.1 아스트라’ 출시 접어",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0OUJDcjc4ZDNFNXE0OVZDUlhhTzBxUmRXTm4zU1pVUzlwQXlucC1odUNrOFVmWGdfMWgxd0FtWVkxUHRrX0xkY2RMeGtSZkg0V1lCbzNUaW1YOUs4OWVpVjRoVGlwLVBMWjFJ?oc=5",
-      "summary": "기만 늘고 보고는 부정확... 오픈AI, 안전 시험 못 넘은 ‘GPT-6.1 아스트라’ 출시 접어에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "신한은행서 2만5천명 고객정보 유출…금융당국 긴급 현장조사(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DLWRkTExCRDdIWEFva2tROW5ocERIdXZMc2lhRC1KSTloaTN3SW5rUGxjUjVzck9vTUtJWmwxeGJtTWcwVHMyNEZxM2JEQUdwRjExRFp4TFRWclnSAWBBVV95cUxNejFnODg3VjZxeDBZZnZpdGw4NlFCVkRuanV1ZnF6MnhYWDZEajQtWlRLZVpuOWtIZ0RCY1FJNXhpdmw2ejlMNjlrWVlXT0ZnLTlaZjNiMlJKYlJDbmxfLUg?oc=5",
+      "summary": "신한은행서 2만5천명 고객정보 유출…금융당국 긴급 현장조사(종합)에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "오경석 \"두나무, 네이버와 글로벌 시장 진출\"",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QYnZaYkFTM0FDalh2YkI1WE11MTdpTGl2VU8wRWFpOGU2V0dWeFlpdWI0V0gxakI0ajFfOWJ5aXVLOXZZSWRQOFc1SVZXcVV5TENPMzl2Z0hDMjNyMDhGZ2FkZ2NxWnpOVWc?oc=5",
-      "summary": "오경석 \"두나무, 네이버와 글로벌 시장 진출\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "검찰, ’석유화학 16조원대 담합’ 업체 임직원 43명 무더기 기소",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BN09SYkVqSEl3RGJxY0dzbVdpbUxPVGtWU2xLZENqd0gzWUlyTXFuVVFLYzhoU1hBcTZnZ1hFekRWOVRTQ3RmRTAwaGhoNE5fUncwZUxPOXRQYzdjRGt3Qm5aYVkzeEw3TlBzSHJvM2R5Zw?oc=5",
+      "summary": "검찰, ’석유화학 16조원대 담합’ 업체 임직원 43명 무더기 기소에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

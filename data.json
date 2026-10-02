@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02 07:08 KST",
+  "updated_at": "2026-10-02 17:03 KST",
   "indices": {
     "summary": [
       {
@@ -22,9 +22,9 @@
       },
       {
         "name": "코스피",
-        "price": "6,971.35",
-        "change": 133.31,
-        "change_pct": "+1.95"
+        "price": "7,003.74",
+        "change": 32.39,
+        "change_pct": "+0.46"
       }
     ],
     "candles_dict": {
@@ -15849,13 +15849,6 @@
       ],
       "코스피": [
         {
-          "time": "2026-07-06",
-          "open": 8186.82,
-          "high": 8327.26,
-          "low": 7815.53,
-          "close": 8051.33
-        },
-        {
           "time": "2026-07-07",
           "open": 7919.2,
           "high": 7954.55,
@@ -16267,6 +16260,13 @@
           "high": 6971.36,
           "low": 6765.06,
           "close": 6971.35
+        },
+        {
+          "time": "2026-10-02",
+          "open": 6938.27,
+          "high": 7011.04,
+          "low": 6927.88,
+          "close": 7003.74
         }
       ]
     }
@@ -16275,9 +16275,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,359.48 원",
-        "change": 8.98,
-        "change_str": "+8.98원"
+        "value": "1,346.14 원",
+        "change": -10.7,
+        "change_str": "-10.70원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -16288,16 +16288,12 @@
       {
         "name": "미국채 30년물 금리",
         "value": "5.60 %",
-        "change": -0.04,
-        "change_str": "-0.04%"
+        "change": -0.03,
+        "change_str": "-0.03%"
       }
     ],
     "series_dict": {
       "원/달러 환율": [
-        {
-          "time": "2026-07-01",
-          "value": 1548.61
-        },
         {
           "time": "2026-07-02",
           "value": 1551.81
@@ -16560,7 +16556,11 @@
         },
         {
           "time": "2026-10-01",
-          "value": 1359.48
+          "value": 1356.84
+        },
+        {
+          "time": "2026-10-02",
+          "value": 1346.14
         }
       ],
       "미국채 10년물 금리": [
@@ -17091,54 +17091,54 @@
   },
   "news": [
     {
-      "title": "이 대통령 “알래스카 LNG, 상업성·한국 법절차 전제로 착수”",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PZ3otRklvZzI4aDl4NDFkUEtjTC15MWoycHdGZGhRUm1SdmZkcF9RQ29kLTBJUkY5dXdTUDhuamhYb0ZUN0FOU1p3NUhVaWliRjdBMjNWQkduLWdVa1RndnFrTFgwblkzc1dn?oc=5",
-      "summary": "이 대통령 “알래스카 LNG, 상업성·한국 법절차 전제로 착수”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "신한은행 이어 국민은행도 고객정보 해킹‥150여 건 유출",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yZzZoVFZrODZsU1I3blk5OGo5ODljc0tOamtqVGtTRG84QlNhTWJVNTFhUDI0amxJb0ZCVS1JTmdCRUlfSlNHbm9TUFlPSWM1RDBxd2N0MlZKMGhKMTRfQkx3WUg0eTF0RzdzQWdTbi1BR3Z50gF0QVVfeXFMTlJ2RER0cm1MZkNGVFd0T3EydEpTM0diUUUtaUJ6NXRLQ0U5WlNGQU5oRnVGdTZ3YXRKaTBOOXEzZ1RtcnJVSjRLekZBRWFldG44YXdoaW5wajYxQm90alBsaFIzMEJLdDhsQ3pUZUhQS3N1UHg?oc=5",
+      "summary": "신한은행 이어 국민은행도 고객정보 해킹‥150여 건 유출에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "서울 아파트값 86주째 쉬지 않고 올랐다...\"역대 최장\"",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13cFFBUjRXZVNsUkpIVm1mMDBwUU5vV3k1ZTdfdTBxMEY2aW5mZWlHd0pyWjh0bFMzcElReU5fM1p5Y1d5R3ZJZ0E0TDdnNWd5dWllQ1RUZHBGZmNQVHc?oc=5",
-      "summary": "서울 아파트값 86주째 쉬지 않고 올랐다...\"역대 최장\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "최태원, 9천억원대 SK 지분 매각…’노소영 재산분할’",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16ZkJWbVh4MFZsNy0zTV9FZVFCS1doTGZNblBjanQwVFVPUkxWX2x1YzJ6MVhEM2R0UXdVUFRIQVRqWVhIYnNmaWhCcnZoTXNyVWEwQmJZX19YdXFRZWpTWnpoVWRlOTg?oc=5",
+      "summary": "최태원, 9천억원대 SK 지분 매각…’노소영 재산분할’에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "美 국채, 연준 인사 연설 대기하며 '스티프닝'",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51dFZBWHFFU182SnlrUjRtVHV5SHVlY0NkXzJjUjhoZzY3UTl6d2M1WFRRdDc5Ty0xdzN6a2VXdk1YdUhldjBDWmRiQ2MyT0Q1ZXkwbkJGYlhIWUNLRkJpV05rYndQWEJuNHQwdy16N2Q?oc=5",
-      "summary": "美 국채, 연준 인사 연설 대기하며 '스티프닝'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "숨고르기 속 코스피 7,000선 회복",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtU1ExV3J2Nm9taU44aWVodE1uVmRPYjhlWmJtS0k1V1NabnMtTG5GRndNbUhUaS03N2JEeHFHWXZHei1QQUlxekdJbWtyb2tGRkYxelhNUVVmTkpkQUMtVEZVaG9raWNYRjlIcQ?oc=5",
+      "summary": "숨고르기 속 코스피 7,000선 회복에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "英 상륙 '이건희 컬렉션'…JY \"韓문화 이해하는 계기 되길\"",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fYjN5MVBKTWxaNE8zNlFOU3RfS3dIcDFrc2NCMVduVE1wSlZsbUFKejNFQzVjX192MzduU0Y2NHR4LVNKbk44RFVhVHVJdC1jZWI1OTZ5Y3Izdw?oc=5",
-      "summary": "英 상륙 '이건희 컬렉션'…JY \"韓문화 이해하는 계기 되길\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "\"미국 '경유 수출 금지' 현실화하면 세계 경제에 엄청난 타격\"",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LU3RWZlVJdS1ZZG55UFRhVjVubWpDN1ctOS0ycHNNeDc4S2I5eEJsU1JpNnMybFZCX2JKaktEXzc0MWlUeEswRDNCNkUyRERpd0VoQS1QaEVoVzRBWnc?oc=5",
+      "summary": "\"미국 '경유 수출 금지' 현실화하면 세계 경제에 엄청난 타격\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "LH, 대림역 등 2곳 3천200가구 도심복합사업 예정지구 지정",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBMW1leFVyOGZ1bDNISmNLOXZrRUN6WXlSX25waDJfVjVndzFERXNjXzRrd2xoTjlNLXpvZDNsUGFyb2pRQWxIazRoQWdpLS1BSndtUDVHSWhxdk0?oc=5",
-      "summary": "LH, 대림역 등 2곳 3천200가구 도심복합사업 예정지구 지정에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "9월 소비자물가 2.9%↑…석유류·가공식품·IT기기 올라",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU0NUMk1QekREMy1oMnh2NzF5eGx1aGVRZElNWFltVE9mSlNPSjRlLUtDZEpsWjlJOWJuT3otbHd3Y0V0QVBCSHlUMl9ZRXJ0dy1wWktkXy1KMmNqb3dmcnVfTWk4OGRVenZtZTRhNDJFOW1PNThLUm9nWWZpVElfcDRLMklGRndLWm5wamhtV1V1d1dLYWJoLVJmSGU1ODZQZFhCU0ZQR2c2SkhfelgwdFp2OFkxNHdGSUtScUVaX3E4ZmNXenZjaFJreXhaMlFWMmJlVEVn?oc=5",
+      "summary": "9월 소비자물가 2.9%↑…석유류·가공식품·IT기기 올라에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "美 9월 ISM 제조업 PMI 54.5…예상치 소폭 하회(상보)",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51WFU1M2dURmM4RXJvVFZZU2gxdlFxaDJPWFM1QlYwQzNQMEZ4OVFNYVdRNmZyMm44QzZncm1BSHIzQUtHWjZNa2EwYXhMaldMMjZLRUpSR21pTVdNMWxFblV3bWQxeVBZUWxjRnkyM2k?oc=5",
-      "summary": "美 9월 ISM 제조업 PMI 54.5…예상치 소폭 하회(상보)에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "‘우주 데이터센터’에 성큼? 구글 AI칩 실은 위성 발사 성공",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqTjJnOWltZnZtR2xXTERMWGxsaHF0RFg3WGh6U0MybVl5ZlE5MFdCWGctZ2M4VkhXX19FZDJseTh1TWQwaDByNUxBM2FkcUxuWWpJbWlOMU9Td9IBX0FVX3lxTE9KSVpYZzJoSUVmZExaZHlKa3UzSjcxeS11MlpHMVdxbXFLa1lKUG9fTlBZRXJjOXR5SDRJMjYwejZQaG11amZKSnhyZ1Vvd3owZmZqTUx1RkZneU51NnY0?oc=5",
+      "summary": "‘우주 데이터센터’에 성큼? 구글 AI칩 실은 위성 발사 성공에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "‘어닝 서프라이즈’ 마이크론에 화답한 ‘삼전닉스’…코스피 6970선 안착",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfQng5cXVZOHJhM25kOTc0NWtKMi1sMlAyN3FibF92S050UGF6WF9fVk9Wdlc1NUFSeEZ2N2NvRzVib1RaOUc0X3oza1RtNWM?oc=5",
-      "summary": "‘어닝 서프라이즈’ 마이크론에 화답한 ‘삼전닉스’…코스피 6970선 안착에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "코스피, 하락 출발해 6930선 후퇴…코스닥은 장중 900선 회복",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lWUpTZElxb0pvTEMxWllsR1ZfVUZWTU9Zck1pWXBiWDI3R2lsVmtiOFZuN045UXpRS294ei04bjdZZXZnS1RwcFQ4Nlc3V1lmanUzME9ZOXZTUQ?oc=5",
+      "summary": "코스피, 하락 출발해 6930선 후퇴…코스닥은 장중 900선 회복에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "‘해킹’ 신한은행 2만5천명 고객정보 유출…이름·연소득·일부 주민번호도",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45U2gxRC1ENU42Mk9SWHlWNmRSRFIwMVB2MjRQem55T1dqV3VyNFl3SzJFYUpDc2hCeWNHSzFqUHBMTFJ0alU3RWYyajh4bWp1M29KM2dzeEl5LWRiWTg2TEpHaDlFaEE?oc=5",
-      "summary": "‘해킹’ 신한은행 2만5천명 고객정보 유출…이름·연소득·일부 주민번호도에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "드릴 다루고 너트 조이고…아틀라스, 차세대 로봇 손 장착",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aUEpkR3EtakFNVkl2NkZJeGtwU2JXQXdwR3BXMVlhYk5QMWRPd29MUkJEekxacHZEMVlQd2tfTXBFcnk4ZTNlOXVOMVRJSjBidHRDcmJyMlJjLUnSAWBBVV95cUxQVENfNjlfd0Q0NnkxaTRnbVQxWUU5Y1ByQ2NveEpKYTRTaF83NEZwUHl1RWpRSnlWaHI3cnN6OHhpa0F4UjJzanl3aldiTEt1RkJEdDBZWFhCdDFtdlJhV2g?oc=5",
+      "summary": "드릴 다루고 너트 조이고…아틀라스, 차세대 로봇 손 장착에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "속보 9월 수출 1,209억 달러...수출액·무역수지 역대 최대",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4V0U5MmlRaUVncFl5SElpc0I0RURETEFweTJTY1U5NW1aUUY5X05tSWl3R0tpN3F0N0hlN0xUSFhjaUNJUmZMRVU2c1pGYm5mdEdCMzFLQ1FuLTVzZ1E?oc=5",
-      "summary": "속보 9월 수출 1,209억 달러...수출액·무역수지 역대 최대에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "46조 사들인 '삼전닉스', 자사주 매입 막바지…증시 버팀목 약해지나",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wY1dsTGFJaTl6azdkbEJmaWl2SlBZUUdGaWEwYkdvMDRJN3lkZnpDZzN4ZnRNd3RmbFkwbnprRDV3VnNMS1A4eG40SW43Y2lCekllVHJFOWwxLXdFZExnWGh0NGhlM0NfUzJnNnk4eGs?oc=5",
+      "summary": "46조 사들인 '삼전닉스', 자사주 매입 막바지…증시 버팀목 약해지나에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "미 에너지장관, 경윳값 폭등에 \"유럽, 비축유 방출할 걸로 확신\"",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Wa1R0QmpaVDQ3eHhJWGtKUTR5ZkJPNnZ4V3liS1BGOWp0SHZQX2EyczNLb2lhNXB5N1ROQnptWEZqbXZfUTQwelJJTkk0dHAxWFM0T3BqbnIweWw3V28yaG5xV0pGdWs?oc=5",
-      "summary": "미 에너지장관, 경윳값 폭등에 \"유럽, 비축유 방출할 걸로 확신\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "삼전닉스 사둬야 하나…개미들 환호할 '특급 호재' 나왔다 [분석+]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15WjU4R2l6X3NUR3FwZUhXUlctVHlMM2VYWllvU2dZVEN2LWpXR0pNX2ZjTG1XVFZkM1NicGRNNUlQTVY4eWRwaldNbG00SHRZd0lHcE1md3JpZw?oc=5",
+      "summary": "삼전닉스 사둬야 하나…개미들 환호할 '특급 호재' 나왔다 [분석+]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05 00:23 KST",
+  "updated_at": "2026-10-05 07:09 KST",
   "indices": {
     "summary": [
       {
@@ -16275,9 +16275,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,342.51 원",
-        "change": -14.33,
-        "change_str": "-14.33원"
+        "value": "1,342.90 원",
+        "change": -17.69,
+        "change_str": "-17.69원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -16560,7 +16560,11 @@
         },
         {
           "time": "2026-10-02",
-          "value": 1342.51
+          "value": 1360.59
+        },
+        {
+          "time": "2026-10-04",
+          "value": 1342.9
         }
       ],
       "미국채 10년물 금리": [
@@ -17091,24 +17095,24 @@
   },
   "news": [
     {
-      "title": "中 AI에 '옆문' 뚫린 줄도 몰랐다…금융권 해킹 '5대 미스터리'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGVVR2WjFVVUNXQ1huZklFZjdJd0E3ejlUVGRBc3lkekRyd242YTM1WGJvVXRhc19QODRnWHVlME53LWEwbXJ5OVdzMWZxd1JJTk9vcjBKT2FLUQ?oc=5",
-      "summary": "中 AI에 '옆문' 뚫린 줄도 몰랐다…금융권 해킹 '5대 미스터리'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "\"신한 공격 추정 AI 해킹도구 아르텍스, 한국서 4개 발견\"",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NNzNobkVjVlRyV2FsQ1RXZlZISGFCZDZKVjlhMGhKUGRiR3ZKOWxIYkNlbEU3cUwzMkdXR0V2Nl83aEZ6SW02aTc1OS1pZFB2Z2NPMWtn?oc=5",
+      "summary": "\"신한 공격 추정 AI 해킹도구 아르텍스, 한국서 4개 발견\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "\"수익성 불투명한 10조달러 투자\"...월가, AI 거품 붕괴 경고",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZMkZ0SHNobUhzOGoxWUl5bGdOZXFaRHZKakJ3Rll3anNDTmFGaHBQa29KemFMNHVQN0JQU2hzN3VyVHBMUFRraFdZUmFVNHhDN3haTV9RR2V0Z2I1Zk4ybUJJSVdHZjJDMUE?oc=5",
-      "summary": "\"수익성 불투명한 10조달러 투자\"...월가, AI 거품 붕괴 경고에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "미국에서도 “알래스카 LNG 고비용” 트럼프 ‘합의 안 하면 관세 2배’ 압박",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFQkVXbFZTRnNLYzR3ajg3ZzZsNDZXc040NzZOM1QtQXhKTmR0dkVoeDh2NzV0T0VZUFdjSDdCaXRYbUlOcGlsaGlNbUhBVXdUWFpsU21raW1GQdIBX0FVX3lxTE5fdlFaR05UeEsyS3NRWHd0MXROajA4eEd3TzVPLVk1bkd1Q1dEcG5sdDk5ekZ4QWtKTGJKWjBhZk5wc0pfblZERUVQVnZKd1c5Sk9UaEVfckJpNnRoRUZJ?oc=5",
+      "summary": "미국에서도 “알래스카 LNG 고비용” 트럼프 ‘합의 안 하면 관세 2배’ 압박에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "트럼프 \"중간선거 이후 유가 하락할 것\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5reDE5eUtXbFdMX0FZcU4xcHZjZGQtMDloelBoWVV3dXlfaTF3Q1JTOTFCNWx1c2t6OGdQNjdzR29qZ0h3LWQxUy04Mk9kOFFmeVpObnZsTVlwT3ZqR2hlemN6UXR3LW9QZXlkbEdnWHE?oc=5",
-      "summary": "트럼프 \"중간선거 이후 유가 하락할 것\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "미국 에너지부 장관 \"유럽 비축분 방출로 경윳값 6달러 아래로 내려갈 것\"",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PZjlLUjd1WFBJbmhfd2t0Z0gwRWt6V1EwbW4xNTBNM0RvQXBXbUFQYTl0cWlzU1ZpZ0hwWW1xMkEwOTlvN21hUE43a1RnVTBPMWZ4ZUhGdmRDNnc2enc?oc=5",
+      "summary": "미국 에너지부 장관 \"유럽 비축분 방출로 경윳값 6달러 아래로 내려갈 것\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "트럼프 “한국, 알래스카 LNG 투자 안하면 두배 청구”···관세 무기로 알박기 시도",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uWWtBeHp5eTZaV3hpU2swRWpGU2NfUjVsMXpTSEYzQ2hISVZmLVJmRHF5czV6WWN6eWk2dXlaVGcxOWU3T0xnSWFBNW84TV9BaTJPVmx2bDJMd9IBX0FVX3lxTE1YZUlWdjhxcjFOZ2JrNXM3SzQtWGVNV29fRmt6RFYyM2sxeFdwVlFpS0FkM2NTLThVbWdNS2dVeHRRNUNlZ2lhdWJDaGZ3c1hCcWtsQU55cWw5djBIblA0?oc=5",
-      "summary": "트럼프 “한국, 알래스카 LNG 투자 안하면 두배 청구”···관세 무기로 알박기 시도에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "트럼프, 美 AI 전략 총괄할 ‘슈퍼지능 TF’ 발족",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYXRQbEVDUklQZW1BeXJadVh5MXlVcUxPcXVLUWNBQ0VJTXJwdFhaUkViRFd2UXBUZjJpSFpwTDFvMFI4Vkd0WXVmdDRYT3hSNUNKTWFYaXdXVVpNMV93VVQ0amZvNFlYTEpMMjhTRjd3U09qclVhLUpPeWdOY0ZsNEVfWDZVV2pZMktGT1RaNXNyajIxcHV1NXY1ZkhxUdIBsgFBVV95cUxOLWc0bmVrbS1haWEzOGhnbzlNUk1WNDh6Y1ZZeVRwSkVITlpXMmg5ODlkOVNKNi1qcUlMUGllNW5RbFd2X1hYT1l4X0NDNXZQU0VkWUh1WjNpdmtyTW93UWtBUlVnbDBDcEZhemJTZkVkR3NabEhzX18zc2xXQ0hYMlBYR3JhX2o3dTRuVjlwSVRfejZ0emFyUjRtcHhPTXRWTHpFRWV1cVVibzFONkp6VGV3?oc=5",
+      "summary": "트럼프, 美 AI 전략 총괄할 ‘슈퍼지능 TF’ 발족에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
       "title": "국채-AI기업 회사채 ‘고래싸움’ 여파…“역사적으로 치솟는” 주요국 장기 금리",
@@ -17116,9 +17120,9 @@
       "summary": "국채-AI기업 회사채 ‘고래싸움’ 여파…“역사적으로 치솟는” 주요국 장기 금리에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "서울 아파트 전셋값도 86주 연속 상승… 이 기간 12% 올라",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HVmo3TWZEZU1VcklIWmNfQzREVHVycUY3MG9mWV9kYWYwcFNHbkRrbFZYbXBIRFowaGZrWFk1OVQ1MDVqVXF4MmNSenI4QTR4ejQ3TEFkbmtlcW1SSy0wZFlwNFlKYk81c1k5TV9n0gFzQVVfeXFMT1BOeTl2amt1N0h1OWVQX2NBbTdGNVpZNU1jRTd3N09mckJvbFNpVlJOVUsxQzlKRmpmcFdZekdaWUVobHBWWnRNVFF2dDZaX2VFa1drTVpqaGdSb3ZBemxPOVd1VmpmMlNxX1RQSkNGNnlWbw?oc=5",
-      "summary": "서울 아파트 전셋값도 86주 연속 상승… 이 기간 12% 올라에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[10월 첫째 주 세계경제동향 브리핑] 코스피 7,000선 회복…코스닥 5%대 강세",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9taHNOVXc1RXdYenpZOFFKVjhWSzlSYUs1enM0RmJvaE12djVBY1lieVhiMDB4dzljdDROcGJORllKX25TbmQzdkktZ2xpUUk?oc=5",
+      "summary": "[10월 첫째 주 세계경제동향 브리핑] 코스피 7,000선 회복…코스닥 5%대 강세에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
       "title": "적게, 나중에 먹는 건 ‘여성’…중동전쟁이 부른 식량 공급 불안",
@@ -17126,19 +17130,19 @@
       "summary": "적게, 나중에 먹는 건 ‘여성’…중동전쟁이 부른 식량 공급 불안에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[10월 첫째 주 세계경제동향 브리핑] 코스피 7,000선 회복…코스닥 5%대 강세",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9taHNOVXc1RXdYenpZOFFKVjhWSzlSYUs1enM0RmJvaE12djVBY1lieVhiMDB4dzljdDROcGJORllKX25TbmQzdkktZ2xpUUk?oc=5",
-      "summary": "[10월 첫째 주 세계경제동향 브리핑] 코스피 7,000선 회복…코스닥 5%대 강세에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "NDF, 1,342.10/ 1,342.50원…7.50원↓",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1Z2xFbUd0bWJPaDRQMFlSNWI3MmN1VjBhalQwejJvazNPN1BQT08wUXRCRzZMQnFvY3B2OGdUb0wzT0RwU2pleG0wM0ZPMTFabklHZjdyeHNqV0xyR09COTJLemdZWVhrOXNDMmVVcznSAXRBVV95cUxOb192ZERkbThQb0xXaEMxNUNOSktKNkRlT0Q0SjhRcXlSdHhXR3ZybXpxLXM4NnhvQjB1dWR5Y0w1YVZNdV9OV09FVmtIVWdhamExV0MyVDBWN1pFY2hvaWlHVmN3aUNDNi0xTWtkdmJDamNGRQ?oc=5",
+      "summary": "NDF, 1,342.10/ 1,342.50원…7.50원↓에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "트럼프 “AI는 SI로” 행정명령 서명…속도조절 대신 개발경쟁 우위 전략",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwVXNxRVUzaEtzV3VQSGRHSW5hTGlEWmhFV3VwZ1NrbTRsRnVDWW4yT1VQeFlCdERNSWR4WC16cTQ0MkZPYmZEcmY4YUItaENVbldaQmp6Z3lRYjc1cXBSN0xZemhfQTB3Skh6M0I2eWxialZ6?oc=5",
-      "summary": "트럼프 “AI는 SI로” 행정명령 서명…속도조절 대신 개발경쟁 우위 전략에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "서울 아파트 전셋값도 86주 연속 상승… 이 기간 12% 올라",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HVmo3TWZEZU1VcklIWmNfQzREVHVycUY3MG9mWV9kYWYwcFNHbkRrbFZYbXBIRFowaGZrWFk1OVQ1MDVqVXF4MmNSenI4QTR4ejQ3TEFkbmtlcW1SSy0wZFlwNFlKYk81c1k5TV9n0gFzQVVfeXFMT1BOeTl2amt1N0h1OWVQX2NBbTdGNVpZNU1jRTd3N09mckJvbFNpVlJOVUsxQzlKRmpmcFdZekdaWUVobHBWWnRNVFF2dDZaX2VFa1drTVpqaGdSb3ZBemxPOVd1VmpmMlNxX1RQSkNGNnlWbw?oc=5",
+      "summary": "서울 아파트 전셋값도 86주 연속 상승… 이 기간 12% 올라에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "AI 의존도 커진 韓수출…해외자산은 충격 때 버팀목 될까",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vMkJ6R0t1ZEdfZVIxNl9DSFoyMGRGckJtd1JSQlNQVlRsYTl2SlZ6ZWtrUUFNaFVER1lQNXJCYjNZazlpbnZ4MEdWd1M4SjFOd2JWWi1NUnJOZXNzYi1ETlg3TXhDaGNweFdQWDFHMG8?oc=5",
-      "summary": "AI 의존도 커진 韓수출…해외자산은 충격 때 버팀목 될까에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "민간아파트 부정청약 5년간 1669건… 위장전입이 83%",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjdi1OMEZUeXRzUDNvV3ItekUxaDV5QThkcnBuX0lFRkc2TWx1NGRrOU1HQnY3aEtTeVd4S1NVT044RElzS0p4Ul9kZ3lRUk5VVXQ2MzZQUTN6UGwxdWpRWjdnaVdvTWE5YlU1YWtLQ3hvYzJiM2fSAWZBVV95cUxOYVo0Rkg3MHNTbndFMUhOUE9IRzdnWmRtWm1wOTBsOVZ0bTl3SDJPeWtHc3VyQmJzNWJQd1R4UjN5eTdMV0tiSkIxQ0lIcFVEa0QxaXRHbEN5Uk0tdExZSVlwdWF4eFE?oc=5",
+      "summary": "민간아파트 부정청약 5년간 1669건… 위장전입이 83%에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

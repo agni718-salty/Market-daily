@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06 07:10 KST",
+  "updated_at": "2026-10-06 17:03 KST",
   "indices": {
     "summary": [
       {
@@ -22,9 +22,9 @@
       },
       {
         "name": "코스피",
-        "price": "7,003.74",
-        "change": 32.39,
-        "change_pct": "+0.46"
+        "price": "6,941.39",
+        "change": -62.35,
+        "change_pct": "-0.89"
       }
     ],
     "candles_dict": {
@@ -15807,13 +15807,6 @@
       ],
       "코스피": [
         {
-          "time": "2026-07-07",
-          "open": 7919.2,
-          "high": 7954.55,
-          "low": 7389.22,
-          "close": 7656.31
-        },
-        {
           "time": "2026-07-08",
           "open": 7452.48,
           "high": 7791.66,
@@ -16225,6 +16218,13 @@
           "high": 7011.04,
           "low": 6927.88,
           "close": 7003.74
+        },
+        {
+          "time": "2026-10-06",
+          "open": 7044.67,
+          "high": 7044.67,
+          "low": 6897.38,
+          "close": 6941.39
         }
       ]
     }
@@ -16233,9 +16233,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,341.43 원",
-        "change": -19.16,
-        "change_str": "-19.16원"
+        "value": "1,339.39 원",
+        "change": -3.17,
+        "change_str": "-3.17원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -16514,7 +16514,11 @@
         },
         {
           "time": "2026-10-05",
-          "value": 1341.43
+          "value": 1342.56
+        },
+        {
+          "time": "2026-10-06",
+          "value": 1339.39
         }
       ],
       "미국채 10년물 금리": [
@@ -17045,29 +17049,14 @@
   },
   "news": [
     {
-      "title": "美 국채가, 유가 하락에도 하락세 지속",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jRGkzdFZvek50MjNiOTBUaHUzbEhDaTdkZHpRbjByRWJ0aGgwb3lYWXZhNzJHMTY0djJIQmFyZFZ4d2dQSFEzcFZ5T216b29iS01nVUhSN1JyNTNBcU9YSzQ3T3hIMVNwYnMzV2VkNG4?oc=5",
-      "summary": "美 국채가, 유가 하락에도 하락세 지속에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[단독]은행 해킹 AI 도구 깔린 서버 52대 포착…80%가 미 LA 임대업체 서버",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EWmR2aUZIdnQ5NEFjbGp2T0hkUHZhSlh3RTIwOVU4S2hybk02SnZWQ1ktS191cVhJWURNb19OMnBWaGpEQkFTSmJER3lRRDU4X20tVzM2djc5UdIBX0FVX3lxTE93M1R0MF9uLTNDN3NLVWF4cFVxMENWT3hRZ24yMTRuYlpCcHZtblNqS1hnTTJGa1p3Y0NXZ05XeTdKRWl4M09TOEI2RnNYVENNUEhxdVhVMnlzb1A0MXBN?oc=5",
+      "summary": "[단독]은행 해킹 AI 도구 깔린 서버 52대 포착…80%가 미 LA 임대업체 서버에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "트럼프 “휘발윳값 인상 호르무즈 문제 아냐”…우크라·야당탓",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qQVMtSE1COElhNktldUNkc183aDVHeWFyb2plSDEtUXFrdUNQbjlMS0tBWWlpNndSeG9RT1FVcDUyNjFsMEZqalNFZmJRWlA4Vm1uNy00TkhvdFk?oc=5",
-      "summary": "트럼프 “휘발윳값 인상 호르무즈 문제 아냐”…우크라·야당탓에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "“보안에 수백억 투입했는데도 뚫리면…” 금융권 AI 해킹에 고객 불안 확산",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iWXpjTmRrR2x6cG5ZcmdMQlFMbXFtRGZXS1JJSzc3RlhOWHU0YWJQWnB0OXBHVTA5NGdXOXpWTTdpcFRrdFpMU0ttMnlBeUt0M3labVQxNkhacHlMNnZIck9IYw?oc=5",
-      "summary": "“보안에 수백억 투입했는데도 뚫리면…” 금융권 AI 해킹에 고객 불안 확산에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "정부, ‘독파모’ 2곳 선정 예정대로… ‘프런티어AI-산업 확산’ 투트랙으로",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zcmZtVHcxQmhUVVNHenExOU1kTnlZUTdBUHNlUW9aZDNJamNicmNtR2V4am9HbWxtVENEWjFMZ2NSemVrTWZnVlBib2VVTXpIMm11Qk9MeVVoRXRjTUJFMW4wcGJTSnZxMFlOWldVdllkSW1fVUHSAWZBVV95cUxQR2xoNVJwQzdReE94eHRoUHNrQm5hNnFNOE5uYUxhZjhNZVlYSVRCU1lyaENZYW9LRE12TTJUNXJIVlhkR2hFaEVET0xxbk1hcDJocmlvdGZvVDlHWWdncU13YktSMGc?oc=5",
-      "summary": "정부, ‘독파모’ 2곳 선정 예정대로… ‘프런티어AI-산업 확산’ 투트랙으로에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "미 부통령 \"알래스카 LNG 사업, 한국과 세부사항 협의해야\"",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpa1gwOXJVUW1qYTJRQU81WG5GYV9sRDVaTWwta0FjVVZfZHY3N0UwNTBjd2hmTW9oYV95YXZsMUlNQXExYnVHUGxsT2ZZWGhoSWZobjE2TmwzMTFvcW9jTEVueXdST3c?oc=5",
-      "summary": "미 부통령 \"알래스카 LNG 사업, 한국과 세부사항 협의해야\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "배경훈 “독파모로 AI 생태계 구축…3대 강국 입지 다질 것”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tZnk0aEFCUFZKTFVVd2hsNVFnRENzTWV5dnNmUjBPS3ZNMm83MjFpd2sxanZfVDR5endBaHdsN3N4dGVOR2J0YV9iMnlhV2RKaVY1S2hzblNmZXM?oc=5",
+      "summary": "배경훈 “독파모로 AI 생태계 구축…3대 강국 입지 다질 것”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
       "title": "세제개편안 후 서울 아파트 15억원 이하 거래 비중 80% …“전세 없어 산다” 6억 이하 급증",
@@ -17075,24 +17064,39 @@
       "summary": "세제개편안 후 서울 아파트 15억원 이하 거래 비중 80% …“전세 없어 산다” 6억 이하 급증에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "이형일 \"금리 상승 과도하면 긴급바이백·초과세수 활용 국채발행 축소\"(종합)",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ySWtSQnhtU0hYUjZmYkEzR3ZxVXhpMV8zeVZPa19hTjJPVTU4eUJuQlZUbTV5bDJ3cXo0ZlVtZ29NWGM2eXR2eHd1NDNud3JyQTVWUTN0djdWLVBlczhqb1VQTHlpZUFVNWk5OTAzY1o?oc=5",
-      "summary": "이형일 \"금리 상승 과도하면 긴급바이백·초과세수 활용 국채발행 축소\"(종합)에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[2026 국감]이형일 경제부총리 “서울 집값 상승 무겁게 받아들여”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Ga21maVowVVIwWTJnMk8xY1VVU0ZkVGd0RFFHSmRjbnFpUEVmNlozWWU1cno5ekdYZFRGT1RVMW9KRU5JOGFIT1VVdG1lSjY1MlRxV05iS3FWaEE?oc=5",
+      "summary": "[2026 국감]이형일 경제부총리 “서울 집값 상승 무겁게 받아들여”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "한전 외부 웹페이지 직원 개인정보 노출…방지대책 나서",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FLWhPOGY5N1VMdkNJM0U5aV96eVpyT29PTnZ1THhRaFM3ZVZ3ZjJXeThmWUloYi1JbDhBeVBpU2JQa1RVN3JCTlNJZkZDejhvUGtMRTF3?oc=5",
-      "summary": "한전 외부 웹페이지 직원 개인정보 노출…방지대책 나서에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "'유통 더하기 콘텐츠' 신세계그룹, 美 워너브라더스 인수에 1조4천억 투자",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ndGRNNjlVZDJLUzZhby16V2hzZUtOdkR3ekdaUFp2eFhaN3FqOVZqQUQ4bTJHOTk4YkN0RmVPc3FSai1PaV9GMUlzZVhJNUNzai1pbWV3Y3FGSXhHNFB1YUwwTE1yVDBlWFprNTB3NmQ?oc=5",
+      "summary": "'유통 더하기 콘텐츠' 신세계그룹, 美 워너브라더스 인수에 1조4천억 투자에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "AI 데이터센터가 전력시장 뒤집었다…‘싼 전기’보다 ‘지금 당장 1GW’",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QTEZRc3JzVlFoYkNLbjY5MGZSTGVCRVpPUFZ5ZEZMUEI3Y2QwcXpBbzBCUnFVS0FORjVBTDl0TWpTQUhVaGhtWC16T285bWprNmQ1Mnd2WHlXREdrV3hSdzA3c2I?oc=5",
-      "summary": "AI 데이터센터가 전력시장 뒤집었다…‘싼 전기’보다 ‘지금 당장 1GW’에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[단독] 단일종목 레버리지 개인 손실 2조3천억원…첫 전수집계",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfRXNMZURoaEdEdEVCNE1EQXhPNVBYMG93ZXhRNVlfUy1pZlY4bkU2NzJGTWwtX29DVndLNVdmUWRsNklFVTlrOTFMNC1LSEtpZi1uZ1NHV0VCSjVkNVhCM0FCT1c2MHc?oc=5",
+      "summary": "[단독] 단일종목 레버리지 개인 손실 2조3천억원…첫 전수집계에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "오픈AI ‘불량 에이전트’, 위키백과도 무단침투",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YTjgyS3pxbElQMXlERjFyWVAyT0Q4UGlXellUNV9LT2VuVVpRMHFGOVJwMk45Y3piMXBIc2dfanZKaUNYS1NOTUNGLUJnVHRaSl9OLUplZ2NUZXc?oc=5",
-      "summary": "오픈AI ‘불량 에이전트’, 위키백과도 무단침투에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "삼진제약, 산업부 ‘2026 월드클래스 프로젝트’ 선정",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hM1N0TEhxb2RwcnFIbWk3YWlqaUw0a3NabUFlT2l4M0pZQ3VwV0NQeUktajhubDJDWHpBSTlMZDZFUEpMT3BMUG91TW9hTWIzR1dPVTFEbw?oc=5",
+      "summary": "삼진제약, 산업부 ‘2026 월드클래스 프로젝트’ 선정에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "美10년물 국채금리 24년 만에 장중 5.35%…채권펀드엔 닷새간 264억달러",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlaVkweHRUVENlQUNHZ0xfMnVEV0NNTzhYcG5kd1ZWb19hRGgzRzE5aE1uLWNjTFVVVzRvdDdPbGNsQlVIcG51Unh3QnVZV1NzVVJfRlZ1WHN3WEtNWHc2by13WjlZY21JdHhfaDYtT3hOWlHSAWZBVV95cUxQMGdpRl9vREdtXzJ2SlRQU0R5a2lodUphR3ZfUUpKOU54eUJqVjFwODQtUUZQNmd4UEtSM0lKSlBXMjJCOUl0Ykp5VVhObHVUZ2VwSFdFdXNMTG1vd2xtRlZDYlQ3dGc?oc=5",
+      "summary": "美10년물 국채금리 24년 만에 장중 5.35%…채권펀드엔 닷새간 264억달러에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "[2026 국감]호남반도체 결정 주체, 자료 불일치…김정관 “확인하겠다”",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOWnkzZkNnZWE1RVY2STJJaTZhR1p3emVRNEotZmxaNXRSYzRuRVhRZ3hRLXlKVUJrLUF0RldvZE1SY0JhZGlwMHRRblQ1QQ?oc=5",
+      "summary": "[2026 국감]호남반도체 결정 주체, 자료 불일치…김정관 “확인하겠다”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "카본 러닝화 기능성 제각각…충격흡수·내구성 등 꼼꼼히 따져야",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sVUFkWFRBanZFTGpaQng4aTZCbUVLYkNCNjJ2VWxaU2Y2U2l3am1hUnoxZThjX3Y4ZkpDUlBFdVd0WGtxTUZZUHZtc1FOOFFITU1WLVFvZWtCTktQVFJ1ZUlBVDZwQmc?oc=5",
+      "summary": "카본 러닝화 기능성 제각각…충격흡수·내구성 등 꼼꼼히 따져야에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

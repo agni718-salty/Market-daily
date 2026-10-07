@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07 07:08 KST",
+  "updated_at": "2026-10-07 17:04 KST",
   "indices": {
     "summary": [
       {
@@ -22,9 +22,9 @@
       },
       {
         "name": "코스피",
-        "price": "6,941.39",
-        "change": -62.35,
-        "change_pct": "-0.89"
+        "price": "6,803.90",
+        "change": -137.49,
+        "change_pct": "-1.98"
       }
     ],
     "candles_dict": {
@@ -15807,13 +15807,6 @@
       ],
       "코스피": [
         {
-          "time": "2026-07-08",
-          "open": 7452.48,
-          "high": 7791.66,
-          "low": 7186.21,
-          "close": 7246.79
-        },
-        {
           "time": "2026-07-09",
           "open": 7486.64,
           "high": 7543.86,
@@ -16225,6 +16218,13 @@
           "high": 7044.67,
           "low": 6897.38,
           "close": 6941.39
+        },
+        {
+          "time": "2026-10-07",
+          "open": 6864.25,
+          "high": 6977.77,
+          "low": 6803.81,
+          "close": 6803.9
         }
       ]
     }
@@ -16233,9 +16233,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,336.82 원",
-        "change": -5.74,
-        "change_str": "-5.74원"
+        "value": "1,337.44 원",
+        "change": -6.31,
+        "change_str": "-6.31원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -16252,10 +16252,6 @@
     ],
     "series_dict": {
       "원/달러 환율": [
-        {
-          "time": "2026-07-06",
-          "value": 1531.0
-        },
         {
           "time": "2026-07-07",
           "value": 1528.76
@@ -16518,7 +16514,11 @@
         },
         {
           "time": "2026-10-06",
-          "value": 1336.82
+          "value": 1343.75
+        },
+        {
+          "time": "2026-10-07",
+          "value": 1337.44
         }
       ],
       "미국채 10년물 금리": [
@@ -17057,54 +17057,54 @@
   },
   "news": [
     {
+      "title": "“한국, 관세 낮추려 미 조선업 투자”…트럼프 중간선거 앞 성과 부각",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGejJCcFJLSXpmV2ljd2Z4RlZLa2RUdHRvUERYUl9ZeGpwQkpWTFU4eldWbTJvYkZRd0VlZDJKeWd0aHFpNmRvNWVCZnE0ekd2dS0yUFVLNmZvMnRJX0xSdmtGc1gtRjRLUnY2T0RXUQ?oc=5",
+      "summary": "“한국, 관세 낮추려 미 조선업 투자”…트럼프 중간선거 앞 성과 부각에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
       "title": "韓은행 해킹 악용 정황 'ARTEX'…中서 개발된 개방형 AI보안도구",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14anM1dUlwQy1jZllzTFRERk9CRjFNcjVHTHRVVHBiVWZnbmE0bjQ1YTY2WGxEeU52VEVyTXAxSG12TEsyWkh6U2dtc1BuZVE?oc=5",
       "summary": "韓은행 해킹 악용 정황 'ARTEX'…中서 개발된 개방형 AI보안도구에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "실적 시즌 기대감에 뉴욕증시 상승…S&P·나스닥 최고치",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Za1FhNHliNFRJUF8tMm1kMlFmcjdLUE5hazdHWjVrQTlMQXNiaXE0MmoyZjJCbmttcWhZVEhpN0x5OHRCY1daN3RYUF9XTjJWUWExeG9sMm0tVU9XVWVUMmFMdDkyclk?oc=5",
-      "summary": "실적 시즌 기대감에 뉴욕증시 상승…S&P·나스닥 최고치에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "삼성전자 잠정 실적에 주목해야 할 한 주",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KV1ppOE1lWXh1Sy1Zc3NqYmgzZHhJU1ROQkhPQTR0N296RS1WM012Ri15WkdLX2pkLVhqal9HUlMyX0N5YjJzWGhhM2xNNmNLNjV3XzVxUUF0OTJvQ0t3WDRLRFJDQQ?oc=5",
+      "summary": "삼성전자 잠정 실적에 주목해야 할 한 주에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[뉴욕유가] 유가 강보합…중동 수출 증가 vs 사우디·후티 분쟁",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kaVlBNjhMQ3c5RTNnbEROVEdCME9ZSUF1WmR1Q0RuT0RsSzk2NEZrMnExOFdFNmtUaHNKTzlhOXBuZ25wSWFIYms4enlPUVQ0VF8taWZBeTRuYXhOMWhaeFVFeGEzZXd5Q2puWllXWWI?oc=5",
-      "summary": "[뉴욕유가] 유가 강보합…중동 수출 증가 vs 사우디·후티 분쟁에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "정부, 연내 AMD와 AI 센터 설립…리사 수 \"수백 명 채용\"",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKRXQtLTRBTjY5RlV5ZllCS1RMNlRRUzRiZlE5djF3MFJKRC1SdlRNQzNZbUVvWDlETGNQdGd6S05MN2pEMG1OY0d3eUE3bk1VRUpJZHFxNVg3ZVZIVUwyQTJIT3BFbVU?oc=5",
+      "summary": "정부, 연내 AMD와 AI 센터 설립…리사 수 \"수백 명 채용\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "\"삼성전자 주가 내년 50만원 갈 수 있다\"",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMFFEcEhHamk1TzA2eHpOalVJdWtydW8zNUlQU0owLWQ0aVM0QmZXblJhOXQxUDBpam5xS0xCVGZiWnFCLXAxcTNib0dRVmNGRGtuSUwtTksxWGtKZk10cmUtLXc3RGZVMDZ2U3kyTjJwVHQzVGtIREg0ekluMDB0ag?oc=5",
-      "summary": "\"삼성전자 주가 내년 50만원 갈 수 있다\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[증시-마감] 코스피, 삼전 실적발표 앞두고 외인 매도에 2% 하락",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4T2hmWjlCWG5oRDd5M3NhR29xWmltOWYzcnNtR29uM1F5N09KSUNpMXhjak5xQnhHTzhhMW5xeGhLcUNuX2NhQnc1eUFMMktSVmZibEo1SkYybEFKWnA0b3BkMXY5WXh6MEhtcG5XeVQ?oc=5",
+      "summary": "[증시-마감] 코스피, 삼전 실적발표 앞두고 외인 매도에 2% 하락에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "김정관 “알래스카 LNG, 중동전쟁 이후 전략적 가치 부상”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xaGdZWGc0VGxoRFZZTVRQcUZpcVJwMHIwQVQ4cVZEY19GcWtIUHp6YnpIYlBTY2FpTXBBaFJ2d19nWnZkbVQtbEF0SFRuZi15NnJjUkludE1pbzg?oc=5",
-      "summary": "김정관 “알래스카 LNG, 중동전쟁 이후 전략적 가치 부상”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "반도체 수출 호조로 기업 여윳돈 사상 최대‥가계에선 '머니무브' 뚜렷",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01ZVc4NktpTzVza0J1NTVLVnZIWEJXaUZDZUxHam1jNUFUcWtFTHN2MVFPT3NFZVR5M1pYeTg3Zktlbjkyc3BiX2dzYm9lWTNwMWZBR2VnZUJzeFFfZ1ZlTVdoSU1qTDlpUDJTeENFZkx2bTYx0gF0QVVfeXFMUEY3ZXNSSDFMSGdsQk5BYmxNYnpTNnQ2UXlwTlVKTFZzYXlITzJ1QkZCUG4tSG9CTnRlTG9DRGlkcGR4VmxLSDktQ2hRVG5Wc2szTVlRM0NzX21sdDFkVVdfOGVrZjl3b3VrZHdLdTdNZ3daN0k?oc=5",
+      "summary": "반도체 수출 호조로 기업 여윳돈 사상 최대‥가계에선 '머니무브' 뚜렷에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "미 8월 무역적자 작년 3월 이후 최대…수입은 사상 최대",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSMEhRQk9UQWI2UDA0dXpVcTlPTEt4dldHdjJwbEIzY2xrU1hJUVVMb3ZYTWh0aGZvbUwxMk1UemJGM0xWUkIzUnpXSTNEOWhUcVhaNkNmbU4yNkU?oc=5",
-      "summary": "미 8월 무역적자 작년 3월 이후 최대…수입은 사상 최대에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "이소영 장관 “온라인 전통시장관에서 고가 수입품 판매…품목 제한 검토할 것”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42dHA0dXB1ZVFkQlVWX1VEdXROWFpXNkZ0cmJGX0VFVjQ2SHZIaURpcjhubU4zUGJvZ1dtQlVNb19vSHFWMHU4RkFhZGJmUlNoWUJnblByYUFDRkE?oc=5",
+      "summary": "이소영 장관 “온라인 전통시장관에서 고가 수입품 판매…품목 제한 검토할 것”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "이형일, 레버리지 ETF 논란에 \"투자자 손실 확대, 무겁게 생각\"",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CSHZfeGY0Z1NycVdVUDVkMnlsV3Y2UGRjS2xXQkE5dTdvaDVwR0tybVZVcGNCQVVlM1pkcGVXcDJBX0FwT09XSEZCR0FXLTJ5alduQ2FvTVZHQkdKc09qQ2NndVhFWk8tMExjUDZxOEZRdXVu0gF0QVVfeXFMTy1lWVNmb3ZldDA3WDFHdHVsTWZFNm9CMXRCYzkwbFVwaFVuNmxCUHlPVXc5TExtaEluSDdNNGFWWWcyUDYtR2FrNGlPRHVfdnJqeFhIei1FUVkyZ2hMbDBiTDNscjQ4VmZIc0pabTg0Rk9LTHI?oc=5",
-      "summary": "이형일, 레버리지 ETF 논란에 \"투자자 손실 확대, 무겁게 생각\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "공정위, SK에너지·현대오일뱅크 유가 담합 제재 절차 착수",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05QjlFLXZxakNDNklaZ1pzcFdhUGhkc1FsWUd3S0NOYllfcDVyZXdybXNkeGhIaTE4RlVIcTd2R2xlc2FtRkdIYlYzS1FzTmp3d2s1SHJLbjNnc1cwZDBVVGwwc25vSTA?oc=5",
+      "summary": "공정위, SK에너지·현대오일뱅크 유가 담합 제재 절차 착수에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "배경훈, 아모데이 ‘AI 위험’ 경고에 “이율배반적…투자 부담 느낀 듯”",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mWElsVEttU3oyTnVQdDg5Y3hPYlZQdjdscDFHaTVqZXowZURtSU0xWlB5dnp0Y29ZdEJ3UXVMbGNhb2lWYTVVejEtR2FhMVUtMlZ3YkdOamFYdVBoQWk3WA?oc=5",
-      "summary": "배경훈, 아모데이 ‘AI 위험’ 경고에 “이율배반적…투자 부담 느낀 듯”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "프랑스 재정위기 심각, 유럽 내 가장 취약한 국가로 전락",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTTVYRTUxRTZ6cW9RaWVZdWR6MHF5S1IxOGJOWUI1a0FxWHhJNUhtbDB5WGdNZXdKN3dxY1ZEbDd2dDd0cGRkc0lqT0R0ZlF0TUN5Vl96clp1RFQ3bGlOQS0wdE8zdEQ5aHowbl9PNERSU3cwS2JLM1BUUGlQLXg1bXgxMXJVbXM0bXNWa19HdFVBS0NSb1VPVE9DNlh1a3V2TngxUXE0YmVMS3hVZXVHeU5Oc0hEbnZfdHN2Q2xvNWFqVU1aa28xLTBXXzVqRFk4a0tKYUF3?oc=5",
+      "summary": "프랑스 재정위기 심각, 유럽 내 가장 취약한 국가로 전락에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "김장겸 \"독파모 사용자 평가단 67% 중복\"…과기부 \"평가 룰 사전 합의\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVcUt2V095dUZQTUdvaHpBcWdNLUhtLTlGSG53MEx0VEd4WC0xbEpxdjVRSVRlaWozVG1aSGpPT3djMmF3ZThKeVc0MXhidVVOcjhhNEF4T2pyV3I5LU5FRHBJUzBkZTNWVWtqeWdMSFY?oc=5",
-      "summary": "김장겸 \"독파모 사용자 평가단 67% 중복\"…과기부 \"평가 룰 사전 합의\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "전세사기 피해액 3분의 1, 정부가 보장…다음 달 13일 시행",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nc1g2SENjU1dlbFZHTE9VWUJHSFBnY1RqRGQ3eWlleHdiSXRJZzYwenZ2SlUyVmJkdTBySl9USnJKUEtPSm9EX0dnbFg3MDJlcDlEU2pjQlhrXzRHM1BIdjdiMm52TjA?oc=5",
-      "summary": "전세사기 피해액 3분의 1, 정부가 보장…다음 달 13일 시행에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "이 대통령 “K-브랜드 정부인증제 시행…기업 노력 지키는 일 정부도 함께”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oT2RTUU1UdnlaVjZ4Ml9XUTRTeDJaYklONmV2Ny1xQUNVdHBRelNobDI4amxjQ0EzS0k0U2RnMFRSYzdqSWMzR1h2endoYjNNcWtHQ0RkQUtDZFk?oc=5",
+      "summary": "이 대통령 “K-브랜드 정부인증제 시행…기업 노력 지키는 일 정부도 함께”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09 07:10 KST",
+  "updated_at": "2026-10-09 17:04 KST",
   "indices": {
     "summary": [
       {
@@ -16275,9 +16275,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,342.55 원",
-        "change": 2.81,
-        "change_str": "+2.81원"
+        "value": "1,339.40 원",
+        "change": 0.32,
+        "change_str": "+0.32원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -16294,10 +16294,6 @@
     ],
     "series_dict": {
       "원/달러 환율": [
-        {
-          "time": "2026-07-08",
-          "value": 1519.86
-        },
         {
           "time": "2026-07-09",
           "value": 1503.35
@@ -16560,7 +16556,11 @@
         },
         {
           "time": "2026-10-08",
-          "value": 1342.55
+          "value": 1339.08
+        },
+        {
+          "time": "2026-10-09",
+          "value": 1339.4
         }
       ],
       "미국채 10년물 금리": [
@@ -17099,54 +17099,54 @@
   },
   "news": [
     {
-      "title": "\"대체 얼마나 벌어야 오르나\"…삼전닉스 개미들 속타는 이유 [분석+]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CNm03MG9DaldVNXFmaHYtRjhzMEZ4dEpCeWpMQzFnbnJ5ZFVESExWMmltUERnNXM3akdROGwxdDdMSlVlVWdtaDIzWGxCQ3BWQkltcDV6aHlqQQ?oc=5",
-      "summary": "\"대체 얼마나 벌어야 오르나\"…삼전닉스 개미들 속타는 이유 [분석+]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "최태원 SK그룹 회장, 광주 반도체 부지 첫 방문…속도전 예고",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Bd2NuS0c0d0ItaXVkVDNJYUM5TVpPMGN5Nm0tdlZHM04yUVJaSF83WldEUHJLSnRlTmUtQUJWdGtLY0ItUUw0T2xsTC1fRF9sZEMzMWQ2ME1NQ3NTSjNqVVBtSzRIRkE?oc=5",
+      "summary": "최태원 SK그룹 회장, 광주 반도체 부지 첫 방문…속도전 예고에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "국제유가, 美 이란 공격 우려·중동 유조선 피격에 급등",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjX2FRWHFaVWRLb0hfQmhmWkpQWlpKaEtoT0UyUlRjWkgxOVNyZldneFd1NUdNSEJmWTFCMjQ2aDNCYmVrY0dXYlhzWW1HbDVoWjlveW1zWjVMUlZicy1tNWg5cnZNcVpFdTYyNjZIV1hWUmNu0gF0QVVfeXFMTWpkbTRqWjQ2UUNwdjVZTjFKRVF6OGRQeUNuT2lWNm50bUt3Z2FWemhWbE91Z3cxRnNhWWZkZFNhWGZoNjJ5TnlvZElkbGxEY0QwbTkzSVpuNDhhaVVKaVhfdFB3T3dXYWZjOHNOSVFlTDhTN1I?oc=5",
-      "summary": "국제유가, 美 이란 공격 우려·중동 유조선 피격에 급등에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "삼성전자, 분기 영업익 107조 찍었는데 주가는 주춤?...\"극단적 저평가, 지금이 매수 기회\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45dTVZdVBoUEVIZm8zRnNvTUJ1dnJYcm5ZRXZNZGlONk82UkdSZ2VpNWVtQWlvLXJGVEpqcGRyNWVzRDVrTEQ1S19fTFZiYkNrTFV1VTZJTGZpZw?oc=5",
+      "summary": "삼성전자, 분기 영업익 107조 찍었는데 주가는 주춤?...\"극단적 저평가, 지금이 매수 기회\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "\"스타벅스, 치폴레 인수 검토…성사시 외식부문 역대 최대\"",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJaUF6cndpaU9WNWZ2VGhJdld6NmtYZVBSZEhqeVVkbzl1TEUxQkVRU1ltV20zdmllZlMzNWJ4Q2gtXzNjWVFGQmFxZ2FQUHdpVGdYRFptOV9adVR6NWFsMGlTa3llUUlhaXc?oc=5",
-      "summary": "\"스타벅스, 치폴레 인수 검토…성사시 외식부문 역대 최대\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "쿠팡, 새벽 시스템 장애 보상…주문 취소 고객에 5000원",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfeWRSN29zbGlSR0s5eTM5aFZWc3ZPWmE3Rm9IeE9jQVFFTGs5Um5wOG5XLUlacG1POFZDOUxYWmJwbS02NnU5T0RfZ21RdE10XzFUb3hnTnRqTVJ1QlhxeGxXZ2g5Y2RWYzhsRlFYZkN2UQ?oc=5",
+      "summary": "쿠팡, 새벽 시스템 장애 보상…주문 취소 고객에 5000원에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "최태원 회장, ‘반도체 클러스터 예정지’ 광주 군공항 방문",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hTmVmeXA2aFZBNWF1NnhaXzduX0ZIU0lSalBoLVVuT2tQUUFLaUMySWlRMWppRGJ5M0k0a3RHSDJpYkRUU3l0UVlCQnlQSXlFUU9FX3V4NXNGSlU?oc=5",
-      "summary": "최태원 회장, ‘반도체 클러스터 예정지’ 광주 군공항 방문에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[뉴욕마켓워치] 되살아난 AI 의구심에 반도체주 급락…채권↑달러↓",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KTXppQ2pDVVFxMFl0aHpIOHdUY2Z0cEFSemJsdUR2cDVlR2dRck9Yc2thNkxhUkZXT0xjUENNeE5kY2ozdTcxUjFpSTRnN2pnd0NPNXJHNHA1VEkxNzEwWm42ZzlueHB2dFQ5Z0tJbTA?oc=5",
+      "summary": "[뉴욕마켓워치] 되살아난 AI 의구심에 반도체주 급락…채권↑달러↓에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "‘대가 지불하라’ 압박 트럼프…“한국 관세 낮추려면”, 중간선거 앞두고 韓 투자이행 강조",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qeFFWd2YyMElJQ2l4Y1gxQXhpQ01sSGhPZXpfYlN2WkN3Vm54VlJ3eUZReGxIZ3pEY1ZESU1zSEtDakpyM1o3blZEMi05OGtt?oc=5",
-      "summary": "‘대가 지불하라’ 압박 트럼프…“한국 관세 낮추려면”, 중간선거 앞두고 韓 투자이행 강조에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "“금융권 해킹범, 중국 26세 추정”…신원 단서 포착?",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pOFFITDdIS3luakxpMnJlSW9jVDhwT2hpRXdhM1phZHRwR2YtN2VNQzBGYWpaSllsaXBXbUprNTY3VWxHd09JMkphT0wyeGd5bmljeGZwUlVTYVE?oc=5",
+      "summary": "“금융권 해킹범, 중국 26세 추정”…신원 단서 포착?에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "개발사업 줄줄이인데 1.4조 베팅···신세계프라퍼티, 재무부담 괜찮나",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2eVdXbWpkcF9iUTlucmt4ekIwZ25PLXhqZ19ZVlBGNWYzNVhoQWRURzRLRy1QcFdyTklzLVpiNDVmZE1pbHhiTVJwQi1kaElGMV8tUlcwWWRGc3JrUlN5Zk56NHVpVHE3bEJqY3N6MmRFZ9IBdkFVX3lxTE1tRTRyMHhNdHFGdDN4ckFjSUNEU1pLbmEwXzZ3WE1PZnpTYU5pd244TDhFemtEdjVJVFFOa0ZOYkRlQmxMZW10dmtBMjhlSldld1FicmJlMlBkRG9xRzNROE1ZQnZjTFVpZmxBVmtJWmRzM25rMFE?oc=5",
-      "summary": "개발사업 줄줄이인데 1.4조 베팅···신세계프라퍼티, 재무부담 괜찮나에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "금융권 외국발 해킹 18건 중 16건, 누가 했는지 모른다",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lWWJkNzVjR0xIRUs2azM1ZUNPdU1jNlRIaWhqRXBCMklUOW1qU3NkRUFTNFhudjRwSTBzU1ZDNjN2TXQ4QmltMnZ1RVJoNUVYQ3d6RjJyOV9Gd9IBX0FVX3lxTE5RYlhwd0ZWQ0xreG5BTkVOY0pKem93YWNFdl9DSlYtbFJ2MDhDZ0xULUYtc2UtV0J4UGlMZ3pkZnNMLTNFX2Y2QzBjZ2dkcjdiQm8tMHJiTWg0ZEhaZ3ZB?oc=5",
+      "summary": "금융권 외국발 해킹 18건 중 16건, 누가 했는지 모른다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "정무위 '레버리지 ETF' 공방…\"개미 약탈 게이트\"·\"음모론\"(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xaVdPT25DRnpENjZiSXlTV1ZMSkJ0Um93TTJIV0Nsem9ub2NmeDhpa2tyZjE4SEdKaExlNGw3aDdkam5qeFNVb0RpV3llbnJ4MmZMZlZqQ2tOWUnSAWBBVV95cUxQcURVYm1obGN3bzR0bkxkVG90OFFIOFRpS2FmRWJtSmEtQnhhTjFxa0NpeWVoWFhGYzlFa0JYbFZLWUFFM1Q2U3JSQnh5OVpncno1b0Uzb1JmU24tRDg5WFg?oc=5",
-      "summary": "정무위 '레버리지 ETF' 공방…\"개미 약탈 게이트\"·\"음모론\"(종합)에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "디자인 보고 현대차 '발칵' 뒤집혔는데…극찬 쏟아진 車 [최수진의 모빌리티톡]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jMDc5RllueGFZcXBhRExUZ1pCd2J6eWU1bFVoR2VpN2ZjaFdHT2lMejlmODVxeURkR0xQNFRKalpyVi1UR3RaVm8wZ00wcElyS1dYSEVBQUxiUQ?oc=5",
+      "summary": "디자인 보고 현대차 '발칵' 뒤집혔는데…극찬 쏟아진 車 [최수진의 모빌리티톡]&nbsp;&nbsp;한국경제‘벌크업한’ 신형 투싼, 타 보니 싼타페가 떠올랐다&nbsp;&nbsp;조선일보[타보니]돌아온 투싼, 생긴건 영락없는 ‘테토’인데 뒷좌석 가족들이 더 반긴다?···안전 디테일은 아쉬워&nbsp;&nbsp;경향신문[시승기] 강인하지만 부드럽다…현대차 '디 올 뉴 투싼'&nbsp;&nbsp;연합뉴스“와. 대박” 현대차에 3번 놀랐다…확 바뀐 투싼, 스포티지보다 진짜 좋아졌나. [세상만車]&nbsp;&nbsp;매일경제."
     },
     {
-      "title": "[단독]금융권 해킹범 지목 ‘광둥성 26세’ “난 허난성 편의점 직원…누군가 누명 씌웠다” 주장",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqVENlUk5wYVNCU3N0SkRhc2NjemRkVFFUbFFKQnRHLW8zVUpsVGVYV1V6RksyWTZfQzg0RWRYcjFvY0ZnWTRQdHFHanRDUG0ybnJMSk51enNSd9IBX0FVX3lxTFBSX0V4M19wRS1wdUN5ZVpfSUt5NW44ZGpZaFB5SWtnM3hLLTA2WHlKcndGM1I3ZmhHZHI5Uzd3UTFqOXprUmZValhmN0NpV2VOMVNQRDJoU1VNbmlTcF9j?oc=5",
-      "summary": "[단독]금융권 해킹범 지목 ‘광둥성 26세’ “난 허난성 편의점 직원…누군가 누명 씌웠다” 주장에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "서울 아파트값 87주째 올라… 상승폭도 6주만에 다시 커졌다",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zNUV5a3U5OTJ3NG5USXg0c05GWHlrTUZaQ0JRQkFjQVozZXZGSjVqQ2F3eTBuNlZxQk9ZUzdIcXBzaF95el9rd0s2S0R1dGFreHlTcHVZd3dObURrcDVTcFotcXluU1FiZm5KSTUtdXhkTUlneGfSAWZBVV95cUxQMHRBSXNzUXNBcWZ5MTVneDY3M01qUW5aX0MyZ0tabER0ZjAwLVNCX0sza0k4Ty1KaDZBSFpVVlBJaFk0VHBGNDlaTHhVS1RDbHMwaGVWMXQ2cU96TkRqMVlSUlNqd2c?oc=5",
+      "summary": "서울 아파트값 87주째 올라… 상승폭도 6주만에 다시 커졌다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "서울 아파트 가격 87주 연속 상승",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbXFMNTRkUm1Wd3JRMGFUSmJYdmlpbzVNYWhMSFRJVkE0ZF9NS25nNlRZTWJtS0JMUXBpNVdLa0hfTnluY0dZby1fUnJMcERqN0RBQ3VGbFB2cHhZNlE2R3VYZU11WWZqbFJaMzBvbk50LUhYS3NTMW1VR0xkX0hLeGtFaGh3Qk8z?oc=5",
-      "summary": "서울 아파트 가격 87주 연속 상승에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "미국 올해 재정적자 2조달러 육박‥\"지속불가능한 상황\"",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkbm1yaUhjUGFDYldKVDRVc0lCNkFBWWgxVWQ5Y0pVdjExNFU2a1VnMW1aNTJveWtpMVVpM0VLTl9zNmJCZWVxX0RCUmFBSzlfaG0yWGhfbXpmWmJEWmRTOFZjRUJTNDcza00ydFI1NXJHQ05x0gF0QVVfeXFMT2h4YWRqalljZ05LdE9faHgxWlJyTG5WTm90ei1iNVdSUVJXd1BibDBKdTBsSUl1LVlULTNINkJ6NHlNT2dUU25hTmtheWhoQ1dGaGpkamhnVHRyUEpzTm9WWS1qOXRrR0tvQk9TRVVIS3d5RlA?oc=5",
+      "summary": "미국 올해 재정적자 2조달러 육박‥\"지속불가능한 상황\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "쿠팡도 쿠팡이츠도, 쿠팡플레이도 한밤중 '모두 먹통'",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QVkdYUFdWTmdGRUx1cnFwOUhIUzYtNEkxbFJOeExGNTlNaVNaWTB5YzJOOEpCSEFxZmdKOEd5a19nTzNvWU13OFZNR3FFZWtDcmZkU0Z2cm9fVzVpX1NJNjZzRVpEN3N2MGY5czl1dGQ0WmdJZ3ZR0gF3QVVfeXFMT0J5SGZMemlBSXg4V1F4WDFnWFpnTjAzbHVFU1JBZnFOR2g2bWdBRUlGWW1yd0xwVnFpLXpicWhFTV9lNUh2MktmOXc2blJRQ1hFbU9nUmsydXF1R2FfZEpUQ3FlR3RwYUhQMVk4enBvXy1HMktZQnM?oc=5",
-      "summary": "쿠팡도 쿠팡이츠도, 쿠팡플레이도 한밤중 '모두 먹통'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "엔비디아는 사는데 삼전닉스는 판다…외국인의 'AI 차별화'",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16Tjduc0hidmNBcWJFSDJha2RsZ2p2eHY5d241V3JNSjFKaDVxLW5sblBjenVMT3plWU1uS0xWNllvZzFFY0F2Y1UxSDJhQVB6NFMxYVp1NThGbnlPcnZBWG0xdzdrcGJlVkdGS3ZvWVM?oc=5",
+      "summary": "엔비디아는 사는데 삼전닉스는 판다…외국인의 'AI 차별화'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

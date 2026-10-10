@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10 07:10 KST",
+  "updated_at": "2026-10-10 17:02 KST",
   "indices": {
     "summary": [
       {
@@ -16275,9 +16275,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,340.02 원",
-        "change": 0.94,
-        "change_str": "+0.94원"
+        "value": "1,340.90 원",
+        "change": -2.09,
+        "change_str": "-2.09원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -16560,7 +16560,11 @@
         },
         {
           "time": "2026-10-09",
-          "value": 1340.02
+          "value": 1342.99
+        },
+        {
+          "time": "2026-10-10",
+          "value": 1340.9
         }
       ],
       "미국채 10년물 금리": [
@@ -17099,54 +17103,54 @@
   },
   "news": [
     {
+      "title": "[뉴욕증시-1보] 이번에는 오픈AI 실적 낙관론…강세 마감",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFeFhGTnQ4cVFZX3dCaVRqczdMNDMtUGVHTDZjRURtOExjQ21INUl1VVJyOXdxVGtBa1pzTUUzQ0VqTzROLWFyWVhYV0dURmFsb1JUUlNPMVJjTWhXaDJjZHl3SFE3Um5mTjZUMDYtY0_SAXRBVV95cUxQWDdKdUZ4WWpkcTctTE5Ia2lBWlpfNTJlTmUxemczdTF6UV9VRHBQb0xHczFtY2IxTEJrb3JyN3Bfd0hsMDVtYldNbTMta0JKd0dfbEp5LW95MU5aX2ZDZVFnNGtuRElOVlBfVFlfMWRMejhxUw?oc=5",
+      "summary": "[뉴욕증시-1보] 이번에는 오픈AI 실적 낙관론…강세 마감에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "AI에 뚫린 금융권, 보안 인력 확대 속도내나",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBYkdsb2J5ejVublM0Q0ZkcnFNbUZTVVZMV2N0cjJKVmFwbUlHamY1blE2Y0RmMGJ4NzBwNmNjdnJEMkRFQldXMFozYnY2WXhXa1ZSYW5UT056Y0lCNFVRaThvaw?oc=5",
+      "summary": "AI에 뚫린 금융권, 보안 인력 확대 속도내나에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "107조 잔치에도 주가 '뚝'…반도체 비틀대는데 이 종목 왜 뛰지?[김근희의 증시랩업]",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pMk55NEFfWDg0REFXSXdYVDdSVGttMkk4aXBxX1BJYnpiYlBheXJZRVNnV3BnN0VBdm9OWHN4S2dqLUhaRVlDR2ppQTBOQ1c1R2JTT0h5RUswYms3b2E5b3pVQkN3bm9i0gFuQVVfeXFMUFh2VnR3THZ5akluaUk1bFg3OTVhM0VYbzlhSWpkWmR2enFhaExSY2pjQVpydHpqcllodWFJOG16Zkx2a1cwdDY5TDNlUmtRVTF4Y05xSklpQ25MVnc3VFYxNy1QNVpmMy1yRGQzemc?oc=5",
+      "summary": "107조 잔치에도 주가 '뚝'…반도체 비틀대는데 이 종목 왜 뛰지?[김근희의 증시랩업]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
       "title": "최태원 “호남반도체, 가장 빨리 최대한 짓겠다”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00MnVHd1ZJamRtN0NtaVcta252WEZqWnpMT0FRdlZPSV8zV0F2R2VZdmdLUTZJYnRwVUpWclhhUVhKUk5JZEVJM1M3TVh4bjNreGVGbmpORldOdWM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SbmJaSzRTQ3c2VWJFLXNocVI4ckYxdFRDZlVmT2dHTDNzc0E0RXo3UkloVVN0MkN1aEtOQ2NRT290cFkxUnZfNjJsRzVkY0RSd0lUSXk1ak9HbUU?oc=5",
       "summary": "최태원 “호남반도체, 가장 빨리 최대한 짓겠다”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[단독] 금융권 해킹한 '아르텍스' 그건, 빙산의 일각이었다",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPd2pLTTVMNlBCSEdELTRldmZ2Z0hJaFA4UnFwb1MzQk10ZzRCQ251UVVJcFJpVGtDNi03aGp3SzBXNGlMbXk3RF9HOG5NUmFHc2c?oc=5",
-      "summary": "[단독] 금융권 해킹한 '아르텍스' 그건, 빙산의 일각이었다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "국내 기름값 21주째 하락‥휘발유·경유 1천800원대 지속",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5c2hMbm9sRDdYN3NXbDJaYkU3N2IyeXV3UVRPcnMwbTZwakZMRXZkTFdsVkJxUU1yYU42a1pkZVZqQzRlcUZNNFdYNEE1VTBaa3JteVJhZzZTM0FabTk2NkZuTUNmYnVqVVRfQnFrY2s3UHFn0gF0QVVfeXFMTjk0Q2JTNmVOR1BranBGN3QwR2FRZVdWV0tZMVF6TW1GbmhpcEpYNW1tV0N2VjRTYk5WMDFoY1ltY2M0NFJCdXNzUjNFZURtQU9QRS15WF9Ic0pYWk83RV9mclE1UHJ1anI2bkZsQmp4Q0J2Qzc?oc=5",
+      "summary": "국내 기름값 21주째 하락‥휘발유·경유 1천800원대 지속에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "호르무즈 해협서 선박 피격…혁명수비대 \"항로 위반시 처벌\"",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yTjljUzE3cVZ1QmhQR015QUt5S3pwWVI2Y3hodlAxNXliZnFFeDY0SFFrZGIwMk9EWmdSa3FFZVBmTEl5YVBTR2JZTm42Zl9iYVpOTjg5X3Y2U1RvYjJCMG56S3FuVnVmclE?oc=5",
-      "summary": "호르무즈 해협서 선박 피격…혁명수비대 \"항로 위반시 처벌\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "다음 주 취업자·가계대출 지표 공개… IMF, 한국 성장률 전망 수정",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82blpuUksxa0RNT0JqN081MTJVc25OS0dwd2JaVTJHSXV1bEtON09sdk1ieUlPNzNXMzRIRFZkY1AyRWp1X0gyX3lLYm1pdF9aR19BQnhsS3JvWmZHbG9sMGhUZS0xWlVqc2c?oc=5",
+      "summary": "다음 주 취업자·가계대출 지표 공개… IMF, 한국 성장률 전망 수정에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[뉴욕증시] 이번에는 오픈AI 실적 낙관론…강세 마감",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12WklhZGF2Q3lFOUJWYVQ5c2kyUld0NzZyR3ptVmdWeGZqTjFyX1hHbW9RblZ0ZWRQNzdIa1A5OWxTS0NfeTVqaVU4cEhNd0NEWndBR0FLSEgybTNZR3A2ZEd4ZVYyTXJScEtNLTlLWWY?oc=5",
-      "summary": "[뉴욕증시] 이번에는 오픈AI 실적 낙관론…강세 마감에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "호르무즈 인근 선박 피격…혁명수비대 “미승인 항로 선박 처벌”",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yaC1PXzZjT2ZyLVNNRi1raW9saFIzNEZCenpLcHdJRWJzbzQycEdaM1ZVY2RZc25HSEMtajJNeTA4LXFiMmxwQ2NtTGRIQ3IyeGgxTGtzcHlSR3FwTVZ3ZlNfeEgxYmxLOWMzbVhTRXU2NVHSAWZBVV95cUxNRGlnakRjbUd6VFJCT2dyUUp1akRWUHFNVmw2V1UwSnpnWXVOOTdzME9lWVBuMm45S0JyOE8xMmhoZlcxYUJVM2NRaklwdEhJZXQ3Ti00bVpCU1pUeUxOUFd6VkV2a1E?oc=5",
+      "summary": "호르무즈 인근 선박 피격…혁명수비대 “미승인 항로 선박 처벌”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "바이오주 '펩트론 쇼크'…실망매물에 줄줄이 하락",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11Y0FNRkFqMlBKM3c5QVBBeTYwSVBGOWFUTExLUjRHSGZ6VlUtUl9fSlRKaW9TZUlKRzk1cG9DZnZhSkpmVXFjMjFDd3c2T2FtOE9kaGJJQWVNdw?oc=5",
-      "summary": "바이오주 '펩트론 쇼크'…실망매물에 줄줄이 하락에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[산업이(異)면]‘하이리스크’가 ‘전략적 가치’로…트럼프 청구서에 끌려다닌 열흘",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JY05iSnRKVFItT1ItdVNlTjk5ejd1dlFWem9kT2hOWG14UTlXeTlSVTJfMndkUjQzU2lkTWFUOGZHRnRVSFBnTDlxV1RxWF9tM01LVDh5TnlxUdIBX0FVX3lxTFBwdWFfc25TcmVWa0J4TG14RERRbVpoU1Y3X3d1dVQzU1dGOWE3NzJneHZ2c0dmSjU5SzRYUGhuV3kyVmtJV1JZRGRhb3NpYWRQNVZRalM2UmhHNzJsVjJv?oc=5",
+      "summary": "[산업이(異)면]‘하이리스크’가 ‘전략적 가치’로…트럼프 청구서에 끌려다닌 열흘에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[동아시론/양수영]알래스카 LNG, 참여 여부보다 ‘투자 조건’이 중요하다",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HdHUzNFVBYmpIVEdoOWlYM0Jyc2RjVVV4d2hSWjY3bU9QeG5TamQzb0xZazFQbW42UWJ3WEYxcGNmYXJ3QkJtQ3pTYjlHMllVZEZXR05tLVoxRkNLbU9ET3dPRHNMOWtnQm5CZDR0WHFNX1hscUHSAWZBVV95cUxORzFvd0V3dnBDSGUxWnN4bVB1NmtEQkJRZWVPNXMxR0diVzNMcjBOUnVPR3NIb0pzNzItVVNVODl5RGNPV1NoMEU5TEtURjk2anREaUVtOVc5MU5YVEN5NzBzNWFtYWc?oc=5",
-      "summary": "[동아시론/양수영]알래스카 LNG, 참여 여부보다 ‘투자 조건’이 중요하다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "트럼프 \"이란전 곧 끝난다…경유 관련 대형 발표 있을 것\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hZGg4VW9iRElXSE5jdm5HMFkxSWszTkdiSkt1V0RlaFJKRU1qajBfMk1HNFU4TDh0dUNfdDNaak1IcVNNaklTM083dXc5c25CQjQ2LVFpeldINzjSAWBBVV95cUxNaDJOMG9BVG85eVJQT3dJNTh0SndkWmZBT1MwYVpnYW1xdF9JdnFiLUN2WmMwU2JaNU5LeE5OVXM5ZXY2d0hmS1kwZnRFZmwzS0tBNjdwQnJSTXY0aVpQd3M?oc=5",
-      "summary": "트럼프 \"이란전 곧 끝난다…경유 관련 대형 발표 있을 것\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "유례없는 경상수지 흑자에 8월 준비자산 증가액 신기록",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81dHlwYmo1TDZyMnc3cFNRVjUyUC10clVpMEhrZm0wVVZMZ0FYcmVqRkR1M1FIWTN5MU9MM0JldzN5SlFnaUJPc2ljSlI3Tm9Ia0doREN0V0xNLXdkaDdmbGFNbEhGdnoxM0JHS2IwckU?oc=5",
+      "summary": "유례없는 경상수지 흑자에 8월 준비자산 증가액 신기록에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
       "title": "‘접속 장애’ 쿠팡, 주문취소 고객 5천원 보상…쿠팡이츠 3천원",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfeWRSN29zbGlSR0s5eTM5aFZWc3ZPWmE3Rm9IeE9jQVFFTGs5Um5wOG5XLUlacG1POFZDOUxYWmJwbS02NnU5T0RfZ21RdE10XzFUb3hnTnRqTVJ1QlhxeGxXZ2g5Y2RWYzhsRlFYZkN2UQ?oc=5",
       "summary": "‘접속 장애’ 쿠팡, 주문취소 고객 5천원 보상…쿠팡이츠 3천원에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "델타에어라인스, 3Q 실적 부진·연간 전망 하향에 주가↓",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TQ3IwTUJQWTRtdXBqd1Q2R0tfN203WWZzOVhIc3pCX20tTk4wdlRRQmVGZ3RUcmMxVE9SMjRXZmNhd0ZNNHVVQkluQnZocVlsWHc1dzlwMWR0UHVUSkxOM1ItRHBLNmg3UUpwcmVzVmlUX0U?oc=5",
-      "summary": "델타에어라인스, 3Q 실적 부진·연간 전망 하향에 주가↓에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "휴매나, 240만명 MA 계약 별점 4점 상향..시간외 13% 급등",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fUEw0RUxDa2toR1Y4cGhaUE9jRWVWZkVfd1pFWU5Yd01yRlFvMFF0UjdoRFVPVEQtWkVxdnZRLXcxUHA3dWMzTF9XYnhJSzZEc2pIY2dkbE1GSDRVdmFFTWM3anFldWc?oc=5",
-      "summary": "휴매나, 240만명 MA 계약 별점 4점 상향..시간외 13% 급등에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11 23:25 KST",
+  "updated_at": "2026-10-12 09:57 KST",
   "indices": {
     "summary": [
       {
@@ -22,9 +22,9 @@
       },
       {
         "name": "코스피",
-        "price": "6,625.93",
-        "change": -177.97,
-        "change_pct": "-2.62"
+        "price": "6,474.57",
+        "change": -151.36,
+        "change_pct": "-2.28"
       }
     ],
     "candles_dict": {
@@ -15849,13 +15849,6 @@
       ],
       "코스피": [
         {
-          "time": "2026-07-10",
-          "open": 7552.49,
-          "high": 7704.93,
-          "low": 7429.51,
-          "close": 7475.94
-        },
-        {
           "time": "2026-07-13",
           "open": 7412.03,
           "high": 7529.07,
@@ -16267,6 +16260,13 @@
           "high": 6810.83,
           "low": 6625.93,
           "close": 6625.93
+        },
+        {
+          "time": "2026-10-12",
+          "open": 6578.17,
+          "high": 6589.69,
+          "low": 6471.51,
+          "close": 6474.57
         }
       ]
     }
@@ -16275,9 +16275,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,340.02 원",
-        "change": -2.97,
-        "change_str": "-2.97원"
+        "value": "1,333.88 원",
+        "change": -9.11,
+        "change_str": "-9.11원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -16294,14 +16294,6 @@
     ],
     "series_dict": {
       "원/달러 환율": [
-        {
-          "time": "2026-07-09",
-          "value": 1503.35
-        },
-        {
-          "time": "2026-07-10",
-          "value": 1505.91
-        },
         {
           "time": "2026-07-13",
           "value": 1498.48
@@ -16563,8 +16555,8 @@
           "value": 1342.99
         },
         {
-          "time": "2026-10-11",
-          "value": 1340.02
+          "time": "2026-10-12",
+          "value": 1333.88
         }
       ],
       "미국채 10년물 금리": [
@@ -17103,54 +17095,54 @@
   },
   "news": [
     {
-      "title": "호르무즈 통과하던 유조선 한 척 피격...선원들은 무사",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81MWZ6eHVVYmx1cFo3VWhWQ0VnYS1ON05GYk9WRWNQQkVvVDR0NVZybVh4aDVuS0FmVzVPN2hTZnQxU0tueFhGWW5MazJjd2licXhYS0t1QTdGRXNOVWc?oc=5",
-      "summary": "호르무즈 통과하던 유조선 한 척 피격...선원들은 무사에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[리포트 브리핑]삼성전자, '사상 최초 DRAM 분기 매출 100조원 상회' 목표가 530,000원",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93MF9sZU1jZDhaSnpNOGZROHBrTnVtZ1RnNWxtZWtTUUdWbTlrUE93bGhldzJxaEZISzFpd185N3FnUl91QWhIY3pIUWVBcm13em0yREVJOWx5Zw?oc=5",
+      "summary": "[리포트 브리핑]삼성전자, '사상 최초 DRAM 분기 매출 100조원 상회' 목표가 530,000원에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "\"국세 체납 116조 이상‥법인세 등 지연 가산세 5년여 간 22조\"",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GVEljeXRSdTZidWZ1Rmt5OW1KeTU5Qi0wbDF4cWFuZ3oxcy1tZFZ4R0owV3YzWXRJd2U2ek1iZ0pGMkRvcm1xcjdTN0FlUlBrcFp5NEdUNW5YdnQ4ZFR5SDRHNXlUMEd3QjlveUZRRmRUalFG0gF0QVVfeXFMUFNCNTRPNy1YRnlYXzJHUEZOQ0N0b3RvVVF6cEwzZHZhTE52TVVqVkd0bzFudldNZUp2Y2RyNGZjOTdDRUFId3NrU2hpdS1mZGtaOVJfNXRyb2NVbVJoNkg5NTBYcUdnQTVJVUtYdWFpYWFrd0E?oc=5",
-      "summary": "\"국세 체납 116조 이상‥법인세 등 지연 가산세 5년여 간 22조\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "실적은 폭증하는데 증시는 왜 주춤할까…韓증시 '감속의 시대'",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ucXpTd1BFX2J4ckMyUGhMc3FHTmhuMlpHQkpvRmRkMXZlM1p6TkJLVzRwSzBaUnRRV3dIMkY2bzVTZXZDQ19HS3pRM2JMSnZpSFF3OU5Gb3JiZ3FkbndxdkxRMng2YXQ0Tzdic0xSVXo?oc=5",
+      "summary": "실적은 폭증하는데 증시는 왜 주춤할까…韓증시 '감속의 시대'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "소상공인 \"손실보상\" 쿠팡이츠 \"취소주문 100% 보상\"(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VaGphcFVXWUllQk04ZndLd25uTThoWFZTUWpQZ1RqNnIzQTNkYjBKS21CY0tnTjZsXzVPSVdWZDUzNVRUUXZxU000SDVuVXU0bzlaRlFtQm8xVnfSAWBBVV95cUxOaUViemJxcWxqRzdIcmF4ZkkxZG5oWTYtRlptQ19jU29LZVpBd0tIRVJTRUViRjVTRThUdTVCY3BZOGhQYUpITE9YS3hZVEtGLU9mWk9fM25PSm83VG9tR0U?oc=5",
-      "summary": "소상공인 \"손실보상\" 쿠팡이츠 \"취소주문 100% 보상\"(종합)에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "지니너스, AI가 찾은 항암 신약 타깃 실험 검증 돌입…'기술이전 기반 다진다'",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWcW1GVFZOQWFQMW1kbVdpUWJkbEYwdUxDcVd2WE1QaWs0V2xCVWk5Q0ZKdHZadDlsa1hhejVTdXVBUEM3MEdnZmI4cndNcXJxdXV1UFFlNUdmcXhHUVNaMUt0a2FyYmJBM1FDazd3?oc=5",
+      "summary": "지니너스, AI가 찾은 항암 신약 타깃 실험 검증 돌입…'기술이전 기반 다진다'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "소득 4만달러 시대, 우리는 그에 걸맞은 품격 갖췄나",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zZElINTRVVDZ1RGRYV2lsRXhqTWVkdEdGcWgzb2ZNMUpZZE5uS2RuNWVOUXpMYkd4TElaRlpITnpmWUw3SXA4QTk3NndOTlNWU2hvMllhSF9oUQ?oc=5",
-      "summary": "소득 4만달러 시대, 우리는 그에 걸맞은 품격 갖췄나에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "LH, 수도권 신축매입약정 가속화…향후 3년간 2만호 이상 집중 공급",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wa29CQlVyWU9kWm84QjBUZnZSeUNuTHM1cm5wdWpRZ3hUdGp1blByZGtReWNrdVN6aG14Y2ZtTl9kSmxUOXdzUHk3R2FhT09kT3RsSm85VFJwTzhZdy1CQzVkUldZVUxhYkZ1MkhXWHowdw?oc=5",
+      "summary": "LH, 수도권 신축매입약정 가속화…향후 3년간 2만호 이상 집중 공급에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "금융권, ‘AI 해킹 공격’ 손 놓고 당했다 …2주 전 보안 세미나서 ‘피해 사례’ 공유",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nYkd5eHIxd2xhanBIcWJpbDJRQmVTclQ5TUxDSXNLYTdiRGliVl9EcEdtQ0xZSkg0ODdMN3c5dFp1R1ltMDU0YVktVUp1Vno0LUFWTlhianVVZ9IBX0FVX3lxTE54TDhGS0dxWHJmNjRPcV9FcjZROWl3eTI5ZXRoZG9MeDZ0NEppMDlMN3U2Mnp3eGxDbmhxUlFMOVhPVGQtRWJDMG1Wa21wYkRIZkp0N0hmeVdweWI5VTdr?oc=5",
-      "summary": "금융권, ‘AI 해킹 공격’ 손 놓고 당했다 …2주 전 보안 세미나서 ‘피해 사례’ 공유에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "SK하이닉스, 3분기 영업익만 80조…\"출하량·판가 복원 본격화\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mbldmalM1eTM0QkRIcFRDOXVTSXRiT2NBaXE4WGVvaVdyeHF2R2Rla2ZvSnNCMTJObmxTTVhqX1BsR21KOUZVdjQwTHpuWTUzSTFXa3JBS1RYX0h4cHg4cnQ4SDJablJrcFd3MGdYNGk?oc=5",
+      "summary": "SK하이닉스, 3분기 영업익만 80조…\"출하량·판가 복원 본격화\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "LH, 공공주택에 최대 9.5% 가산비 신설 검토",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJYUFfUDBEem5jOGhNVFNGc2xiWV9xa0dFbkVkRnpGMW1tSXJ0bkRRdGQ5LWRqaERXZTctcW9GSHBIVGk2eGtyRXBjNTRzU2RrM1J5UFpR?oc=5",
-      "summary": "LH, 공공주택에 최대 9.5% 가산비 신설 검토에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[시론]AI 해킹 경고장 무시하고 전산망 내준 은행들, ‘보안 불감증’의 대가",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94bkZQUkhBMmRoNXdpNHVoY1p2NzNWNVgwU0xxeUZUbjFtd0ZZb1UwN1RDbDI4YXdYSkJUWmwzdkEyWGJYbGNjOWlMN0UtYUZrVGFfcVBVMF82Z2FzZkt3dVV3M0pMZlBnRzZEZ09n?oc=5",
+      "summary": "[시론]AI 해킹 경고장 무시하고 전산망 내준 은행들, ‘보안 불감증’의 대가에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "연 6조 달러 매출 청구서 받은 AI DC...빅테크 현금·금융권 부채에 경고등",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RajNhUWhRN2hQb0pqb2FQMElSV1JjS1ZhNC1RX1JhVU83dXNaUEtuRGFteUs2bjFmZlVSRmt1SWdSZHRBSkk3Qy1xZzA1Uk5jOUdidWJTVkVuQdIBWEFVX3lxTE1Kc2VIeUxuQm9ZTEVGVGFVc0oyNkUxTjNJSjlWeHJkdjNfamVFZFE4Z3VfSUVoVi1yTVNncFF4SzdtbjJYazJRbGhDU19RMVVsazN2SjZKcm4?oc=5",
-      "summary": "연 6조 달러 매출 청구서 받은 AI DC...빅테크 현금·금융권 부채에 경고등에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[수소, 끊어진 사다리]①걸음마 떼자마자 악순환 말려든 생태계",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2T2cyRHlsLUZIemRRTUlpNDBOSnBWMmlpNG1xWUVNYXJWcXZ2SDM4RmwtUzVkUHRNcEs4VHhjaWp4OWhpTnZFZDZ3ZEN2VDR6WVJ3bW9zcWZzcmJxa09hSA?oc=5",
+      "summary": "[수소, 끊어진 사다리]①걸음마 떼자마자 악순환 말려든 생태계에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "삼성전자 외국인 지분율 금융위기 수준 '뚝'…최대 실적에도 17년 만에 최저",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0NVZrWnhQSTJ3VGkzd3R5WDlWUVJiSnkxa05VS0hLOXRNR2lmcUV5RVczTzVKNGUtSHpOekhGc0dqZ0xuYnA2TENBZlBkdw?oc=5",
-      "summary": "삼성전자 외국인 지분율 금융위기 수준 '뚝'…최대 실적에도 17년 만에 최저에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "“팹 건설 현장 문제 미리 준비해야”··· 임문영, 본보 보도에 선제 대응 주문",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxZkM5QTZsSjhHa3NHek96NGJFQnpUR2xjYXZ3TFFDMkVlazFkU3NjSVpEa3c1VW1NN211OElzM2VycDNUUjd4ZkNDYmVBLW5hNWE5eWpn?oc=5",
+      "summary": "“팹 건설 현장 문제 미리 준비해야”··· 임문영, 본보 보도에 선제 대응 주문에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "호남 반도체 불확실성 걷히나…광주 간 최태원, 조기 착공 의지",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41eXo3RmZzYnoyRnlNMktTSVQ3d2FxX1owUmNRRDV5TEpzWC12S0JrS1NheFhWZFRneEd3bHl6TkkyLVFGRWJlZnZVSjB3RUZTbjhNMVBEWGRmYWpoTy1XWg?oc=5",
-      "summary": "호남 반도체 불확실성 걷히나…광주 간 최태원, 조기 착공 의지에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[단독] 정보 턴 도둑은 500만원, 털린 회사는 4000억…개인정보 유출 처벌의 역설",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kbHZiUVo4RGVwWl9KQ29yV01MaGZVYll2SWVPTGFCaXJLM01JZjNHNWJEa1NfREtVLXBaYnU0eFJrMGtDbWxiRHNfeElta2J3OGEwUQ?oc=5",
+      "summary": "[단독] 정보 턴 도둑은 500만원, 털린 회사는 4000억…개인정보 유출 처벌의 역설에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "\"일하면 손해\" 젊은 공무원들 짐 싸고…의사는 분만실 떠났다",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81SmFVZFRpYnRpdlpHQmlBQzkwRDhZa21HTFRHOEJnM29fcWlRUWlfV0s2dW5KeU1IX2l3RklzQ05QWDNGMUI4a2Y3RXdnZGladk92ZnJycVpCdw?oc=5",
-      "summary": "\"일하면 손해\" 젊은 공무원들 짐 싸고…의사는 분만실 떠났다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "동작구, ‘대림삼거리역 역세권 활성화사업’ 서울시 심의 통과…“상업·주거·공공 복합거점 조성”",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02dThiZ0Y0WkdTNkI2Y01DbWVxeFBmMlVZdUZoR3VzOE1Mb2lvWHBYeVY3eG5jTEFFeHhoVHBWdTlUWGN1cTNZM1VrNGhHQUJz?oc=5",
+      "summary": "동작구, ‘대림삼거리역 역세권 활성화사업’ 서울시 심의 통과…“상업·주거·공공 복합거점 조성”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

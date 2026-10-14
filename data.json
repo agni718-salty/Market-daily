@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14 09:51 KST",
+  "updated_at": "2026-10-14 22:07 KST",
   "indices": {
     "summary": [
       {
@@ -22,9 +22,9 @@
       },
       {
         "name": "코스피",
-        "price": "6,120.44",
-        "change": 85.09,
-        "change_pct": "+1.41"
+        "price": "6,008.81",
+        "change": -26.54,
+        "change_pct": "-0.44"
       }
     ],
     "candles_dict": {
@@ -16223,8 +16223,8 @@
           "time": "2026-10-14",
           "open": 6062.08,
           "high": 6190.65,
-          "low": 6062.08,
-          "close": 6120.44
+          "low": 5944.65,
+          "close": 6008.81
         }
       ]
     }
@@ -16233,21 +16233,21 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,339.48 원",
-        "change": 5.35,
-        "change_str": "+5.35원"
+        "value": "1,340.75 원",
+        "change": 6.62,
+        "change_str": "+6.62원"
       },
       {
         "name": "미국채 10년물 금리",
-        "value": "5.22 %",
-        "change": -0.02,
-        "change_str": "-0.02%"
+        "value": "5.30 %",
+        "change": 0.09,
+        "change_str": "+0.09%"
       },
       {
         "name": "미국채 30년물 금리",
-        "value": "5.56 %",
-        "change": -0.03,
-        "change_str": "-0.03%"
+        "value": "5.61 %",
+        "change": 0.05,
+        "change_str": "+0.05%"
       }
     ],
     "series_dict": {
@@ -16518,14 +16518,10 @@
         },
         {
           "time": "2026-10-14",
-          "value": 1339.48
+          "value": 1340.75
         }
       ],
       "미국채 10년물 금리": [
-        {
-          "time": "2026-07-13",
-          "value": 4.61
-        },
         {
           "time": "2026-07-14",
           "value": 4.59
@@ -16785,13 +16781,13 @@
         {
           "time": "2026-10-13",
           "value": 5.22
+        },
+        {
+          "time": "2026-10-14",
+          "value": 5.3
         }
       ],
       "미국채 30년물 금리": [
-        {
-          "time": "2026-07-13",
-          "value": 5.1
-        },
         {
           "time": "2026-07-14",
           "value": 5.09
@@ -17051,60 +17047,64 @@
         {
           "time": "2026-10-13",
           "value": 5.56
+        },
+        {
+          "time": "2026-10-14",
+          "value": 5.61
         }
       ]
     }
   },
   "news": [
     {
-      "title": "“코스피 6천 겨우 턱걸이”…범인은 중국 반도체? [잇슈 머니]",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81LTZBQkc1a0xKWXZmaUxsUXNOenBBcERySmFId2dndW94MjBtLXZWOURVUkZ0WVpQYXluc0hydTdvcjAwSHhoWlhsU3VPZGd1YlFvU1dfckxfUFE?oc=5",
-      "summary": "“코스피 6천 겨우 턱걸이”…범인은 중국 반도체? [잇슈 머니]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "코스피, 하락 전환해 6000선 붕괴…23만전자·140만닉스",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOEdvU3d0VFZCOGRkRlJnZkFxLUl6Nk5MNVNUbTZvbGJYSEx4R25oNlBTYnNxZTFfV1lnMmdtU2NOanFZaWtwU21PQU1TMnVSSlU5aTZVNWxxdzRBQ0ZSekRzRGRSQ0l6UzFlY2ZJSFJSX19pd0dQNVNvenQ3TFJkcEVVYUFhamNJ0gGcAUFVX3lxTE9nSk8wZzZMa0h4c1ExRTRDRzJHRC04azlXcjdQTVMzcFYwckZVT21uVkN2N0lUQW0xYkNlT1VSQ2Jvak8xSHRsYjRFWHc3a1JuWElfSUFrQ1hzNjlWeUR3bUpuS0tmSlN0eklLQ1VzU25tZU1SOGtXbXJpWjNSWmlCOS1QWDVsWEx5SktNWWFQMlByY083enM4LWRDQw?oc=5",
+      "summary": "코스피, 하락 전환해 6000선 붕괴…23만전자·140만닉스에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "IMF, 올해 韓 1인당 GDP 4만弗 돌파 전망…명목 GDP 2.2조달러 관측",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sTGQ3OGV4TW55VElfaEZWN0FWak8tLTVXZHpOY0VKTVZkTzNCOXNHcEIzejFEYWYyVnU0d2dBQURsMlBIYWdKZ21ZenkwQlNCT0g0NkJLNGx3LVAxWWo5VERwZUJvTGtRcG5RYXd3SVg?oc=5",
-      "summary": "IMF, 올해 韓 1인당 GDP 4만弗 돌파 전망…명목 GDP 2.2조달러 관측에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "국민연금 국감 '자산 재조정' 여야 충돌‥\"시장 고려\"·\"국정 조사\"",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zSFJlU2dRNHY4Q0tLVlNSTWxQY1BjdGNlaUE1UUhQWXdyajQydE01RVNiek9zWmw5VkNka2psQUtyLS12T1dHZndPckg0S1BFOWN5eS1heUMza29aT0RKSlV4akZyZFAwNHRkLVJoVUpiMngyUXBJbNIBeEFVX3lxTFBUc1p5a3A1SjFwVWFUcEtLbi1naVBDeFdwT05MU2xIeUJGLXdTdi1NbWdidVJYN0d5Wnltdmh3NG9GRXNyclozZ1BZQ1Q0ZjFJMllabk01SzhzVDljSktXTHdpWVFxZE1QWjVpMFBDMlE5emNJa0dscg?oc=5",
+      "summary": "국민연금 국감 '자산 재조정' 여야 충돌‥\"시장 고려\"·\"국정 조사\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "靑, 초과세수 활용 국채 발행 축소에 \"부처간 이견 無\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jWi11SE4zRENIUHh1UmF3OS1ZYWN3XzZvLUVpcGs0enlWRncyRXd3UzFUT1JmNVkwVDZUUEdxU3VCNlRnOEFYeFQ0b1dacTVMWGdWZFdNT19MNzdVQ3RVbXBKSVhtYk5yRkZjUnRuU3M?oc=5",
-      "summary": "靑, 초과세수 활용 국채 발행 축소에 \"부처간 이견 無\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[단독] SK, 美 웨스팅하우스 지분 인수에 '兆단위 베팅'",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FTXRSaGJfYVJnQlU3REpEdTBUenk2QnJIblZPLW5MbEI4RnNWd25wbWJqZVRDLVlpS25tM2VuWkVxS0N3NVl3Z3pidDYzYi1LUms2bUhLS1hwUQ?oc=5",
+      "summary": "[단독] SK, 美 웨스팅하우스 지분 인수에 '兆단위 베팅'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[속보]홍라희 관장, 아들 이재용 회장에 삼성전자 주식 2.6조 증여",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGRllSNUNuOTVwTGl2OXM5a1RKazk3NnRwR2I2Z1ZqOTdveWpNZHYtLUZpVlZTOFlWS2FMNnNYLWpZbkFjTkM3RGNhY0I1UHgy?oc=5",
-      "summary": "[속보]홍라희 관장, 아들 이재용 회장에 삼성전자 주식 2.6조 증여에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "삼성전자, 차세대 '4F² VCT D램' 개발 재확인…CXMT 메모리 추격 대응",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XTnUzTzRROFhWMEo1ZEdsVHB4Y0JCUHVKS0RJa0RRckxFeXFQSHNuUTF1eDdBTE1JdnlzTTE1RXMtbjFOcGc0MERUdV9GQWRYNTAzaU9n?oc=5",
+      "summary": "삼성전자, 차세대 '4F² VCT D램' 개발 재확인…CXMT 메모리 추격 대응에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "필라델피아 반도체 지수 5일 연속 하락...7월 말 이후 처음",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByT3A4M2N1UEF1c211Rll3UHdCX2F6ZkttQ3YwY0U3OTlJSE00ZDlwR1Y2X1dRT09zakFLRnd6TEs0RlBCcVhUSURyNF9BLVBHeld6bERydDZUQmxLY1E?oc=5",
-      "summary": "필라델피아 반도체 지수 5일 연속 하락...7월 말 이후 처음에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "현대차, 인도 푸네 신공장 준공…2032년까지 155억 달러 투자",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXMWMxeGx3azdMZ1FxUG1HSlF3dmdwTHk5Nzhpc2lITzhlaWhQRDZ1eTZHbW41UnhsNlBNRHk0YTVLc3Y1VzJQWGZLdmIyNWdsSFNUMEc1T29RRjA?oc=5",
+      "summary": "현대차, 인도 푸네 신공장 준공…2032년까지 155억 달러 투자에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "주주환원 늘었는데 세금은 제각각…입법조사처 \"배당세제 정합성 손봐야\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tQlNOUERvNU54YVhIN2xOQ0lVdThfZmptd3AzY05SdlZxZ2FuZ0dvcXhnRXNqVEpBTk9yY3lNbkphd1pRVklkbTVtVnl2czZEWG0yZUdkS2tUNlJ5WXdyOTBPUWhvRDlXMlBMRDZPMUE?oc=5",
-      "summary": "주주환원 늘었는데 세금은 제각각…입법조사처 \"배당세제 정합성 손봐야\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "IEA \"경유 공급 부족 내년까지 계속\"",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UVjd6SVR2d29zMko1a3VaWV95U24zMktEc2dIdEFSOW4tV0J2RkZSWkVyeE1Xek1kdVRZekJJcWlXNEJIcFE3VXJma0FPdGRxNUxmbU9BWmh6dC1kTUE?oc=5",
+      "summary": "IEA \"경유 공급 부족 내년까지 계속\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "가족 연계 회사에 수년간 자문료…전 LG엔솔 사장 ‘배임’ 수사",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51dUxwVzFJQWd3UkxSOHlLWTZvVS0wQnltS0RwNnlYaHZjS1pod0pqQWpqZ0RvcVU5MUVJeG1XSnpBZTVsSk9DOXhJN1hkTFg1M3BrSXo5MWM3Uzg?oc=5",
-      "summary": "가족 연계 회사에 수년간 자문료…전 LG엔솔 사장 ‘배임’ 수사에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "대만 \"미 알래스카 LNG 개발사업 참여 계획\"",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IOURjdWswcGF5RDZpeXRWcmdKRlZ4SFkzS1pNeVFSdVl0WUQ5amo4U3FtaktaMWN3ZjF1emdTWlZhMkpsS0ZWdm1nU2Rtb3p1YjJFQjA5Z3pHZmxEWHZqc1loSjhHZ0k?oc=5",
+      "summary": "대만 \"미 알래스카 LNG 개발사업 참여 계획\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "삼성전자 '100조 잭팟' 뒤 서늘한 경고…\"한국이 흔들린다\" [테크로그]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0ybTlfNDRfSnlTM3l0VzBjYm5QNmpPeW9wLWJ6UGE1dTF2ZEd3Nll1LTA4dW0wVFlneHNqaWlMTzFDY21VbEF3eDluN2FVSXAyR0FQcVRuVm1kUQ?oc=5",
-      "summary": "삼성전자 '100조 잭팟' 뒤 서늘한 경고…\"한국이 흔들린다\" [테크로그]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "삼성전자 '반도체대전' 참가‥HBM4E 등 AI 반도체 기술 선보인다",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QLWl1VjBqYUpRc3BydE96Y1c1N2JQNUJ4TTdmazF6NmRlb01JaHpYa3NSX2llQkRyUFU3S1JYOUxVbkp3N3VMOUlITWFoUEk2YlpkTDdmUzE3MUJwbG9LclBOQzNYNzkzZnJLcDdveDZKMkFG0gF0QVVfeXFMUG52cWpIVDZJZFNKelIwTmczTFJmVUtRTjVBYlI0ZEJtNkJYWWVYaWVRR1plUFR0M3pQUVZUdmF6RDJRNm5qWjlHNUFzNlZ0d2N6TV8tNm1RUldCMVh3b3l4eWhkdlBUOGMtSVZwMm5YUTlGUzg?oc=5",
+      "summary": "삼성전자 '반도체대전' 참가‥HBM4E 등 AI 반도체 기술 선보인다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "반도체, 이익 전망 대비 과도한 하락…\"분할매수 대응“",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zZUN5TmF3dXFaQktYdkxDdlV6SUFTRndrcnVFZG1PcW92SUhkMzZpa3BLRDVZTFdHNzFRbDNfSWFjbEdUNnhZb2V0Zld6QmI0c3JjNzNPVWZCMXNpc2lpZTg3Y3BPSVRjTFE?oc=5",
-      "summary": "반도체, 이익 전망 대비 과도한 하락…\"분할매수 대응“에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "\"동탄 36세 맞벌이, 연봉 2억·순자산 7억\"…'다음은?' 물었더니",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwcXZscjVaY3ptTTBzcGNSaHRoWnpYN0JHSWFOZ2VZM2pKbFA4MVZUbDZCSGdvZndVTGdaR3lhalpuQXNWd05ZMjBESFlpWDc0QmtwTWJEMFJ0Zw?oc=5",
+      "summary": "\"동탄 36세 맞벌이, 연봉 2억·순자산 7억\"…'다음은?' 물었더니에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[단독]망분리 완화 금융사 10곳, 보안계획만 세우고 이행 안해···내부망 해킹 노출될 뻔",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IT2RzRnhNZmloc0luUTFHMi1iTnpuZWdra0NXdlFOdFBReEpLUFJtdkdOMV9reGJnaDZmTmJNVEdrbjZvbjczVndMZWhfajR5N201NF80bVZsUdIBX0FVX3lxTE1OclA5Q2EwWDN3b3paSUYwck9BRE5HM0doUE9ZWFladzduUlNuQVRNSExWWVgwR3dxbjVsR2tfZ1pKTEdUcEs5T1RTUTBKNHJ6X1gtTk54dTkzalI1SkZF?oc=5",
-      "summary": "[단독]망분리 완화 금융사 10곳, 보안계획만 세우고 이행 안해···내부망 해킹 노출될 뻔에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "은행부터 코인거래소까지 ‘금융권 AI 해킹’…최소 10만건 개인정보 유출",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PZjR3bU9tV0JTQ0NEUW1ET1hGWkx2d1hmYnhaOUhsc1VndTRDNHBrVGhsUGJTSGVkOHV2cFZ4MFNuYm1CODhUaFA5NjVmeExsSUxEd25zU2RFeTJvMGhPWXVhVzRmYmc?oc=5",
+      "summary": "은행부터 코인거래소까지 ‘금융권 AI 해킹’…최소 10만건 개인정보 유출에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

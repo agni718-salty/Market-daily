@@ -1,41 +1,34 @@
 {
-  "updated_at": "2026-10-14 00:19 KST",
+  "updated_at": "2026-10-14 09:51 KST",
   "indices": {
     "summary": [
       {
         "name": "S&P 500",
-        "price": "7,797.13",
-        "change": -10.11,
-        "change_pct": "-0.13"
+        "price": "7,805.45",
+        "change": -1.79,
+        "change_pct": "-0.02"
       },
       {
         "name": "나스닥",
-        "price": "27,189.45",
-        "change": -56.45,
-        "change_pct": "-0.21"
+        "price": "27,204.38",
+        "change": -41.52,
+        "change_pct": "-0.15"
       },
       {
         "name": "다우 존스",
-        "price": "51,777.36",
-        "change": -73.19,
-        "change_pct": "-0.14"
+        "price": "51,670.10",
+        "change": -180.45,
+        "change_pct": "-0.35"
       },
       {
         "name": "코스피",
-        "price": "6,035.35",
-        "change": -348.89,
-        "change_pct": "-5.46"
+        "price": "6,120.44",
+        "change": 85.09,
+        "change_pct": "+1.41"
       }
     ],
     "candles_dict": {
       "S&P 500": [
-        {
-          "time": "2023-10-13",
-          "open": 4360.49,
-          "high": 4377.1,
-          "low": 4311.97,
-          "close": 4327.78
-        },
         {
           "time": "2023-10-16",
           "open": 4342.37,
@@ -5290,18 +5283,11 @@
           "time": "2026-10-13",
           "open": 7795.27,
           "high": 7814.15,
-          "low": 7793.16,
-          "close": 7797.13
+          "low": 7786.11,
+          "close": 7805.45
         }
       ],
       "나스닥": [
-        {
-          "time": "2023-10-13",
-          "open": 13613.59,
-          "high": 13619.54,
-          "low": 13361.85,
-          "close": 13407.23
-        },
         {
           "time": "2023-10-16",
           "open": 13453.81,
@@ -10557,17 +10543,10 @@
           "open": 27138.73,
           "high": 27277.88,
           "low": 27116.08,
-          "close": 27189.45
+          "close": 27204.38
         }
       ],
       "다우 존스": [
-        {
-          "time": "2023-10-13",
-          "open": 33733.34,
-          "high": 33957.72,
-          "low": 33551.58,
-          "close": 33670.29
-        },
         {
           "time": "2023-10-16",
           "open": 33832.42,
@@ -15822,18 +15801,11 @@
           "time": "2026-10-13",
           "open": 52092.99,
           "high": 52317.32,
-          "low": 51738.44,
-          "close": 51777.36
+          "low": 51587.67,
+          "close": 51670.1
         }
       ],
       "코스피": [
-        {
-          "time": "2026-07-14",
-          "open": 6769.06,
-          "high": 6979.92,
-          "low": 6448.86,
-          "close": 6856.83
-        },
         {
           "time": "2026-07-15",
           "open": 7082.91,
@@ -16246,6 +16218,13 @@
           "high": 6198.46,
           "low": 5911.11,
           "close": 6035.35
+        },
+        {
+          "time": "2026-10-14",
+          "open": 6062.08,
+          "high": 6190.65,
+          "low": 6062.08,
+          "close": 6120.44
         }
       ]
     }
@@ -16254,9 +16233,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,341.22 원",
-        "change": -1.77,
-        "change_str": "-1.77원"
+        "value": "1,339.48 원",
+        "change": 5.35,
+        "change_str": "+5.35원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -16266,17 +16245,13 @@
       },
       {
         "name": "미국채 30년물 금리",
-        "value": "5.57 %",
+        "value": "5.56 %",
         "change": -0.03,
         "change_str": "-0.03%"
       }
     ],
     "series_dict": {
       "원/달러 환율": [
-        {
-          "time": "2026-07-13",
-          "value": 1498.48
-        },
         {
           "time": "2026-07-14",
           "value": 1497.7
@@ -16534,8 +16509,16 @@
           "value": 1342.99
         },
         {
+          "time": "2026-10-12",
+          "value": 1340.84
+        },
+        {
           "time": "2026-10-13",
-          "value": 1341.22
+          "value": 1334.13
+        },
+        {
+          "time": "2026-10-14",
+          "value": 1339.48
         }
       ],
       "미국채 10년물 금리": [
@@ -17067,61 +17050,61 @@
         },
         {
           "time": "2026-10-13",
-          "value": 5.57
+          "value": 5.56
         }
       ]
     }
   },
   "news": [
     {
+      "title": "“코스피 6천 겨우 턱걸이”…범인은 중국 반도체? [잇슈 머니]",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81LTZBQkc1a0xKWXZmaUxsUXNOenBBcERySmFId2dndW94MjBtLXZWOURVUkZ0WVpQYXluc0hydTdvcjAwSHhoWlhsU3VPZGd1YlFvU1dfckxfUFE?oc=5",
+      "summary": "“코스피 6천 겨우 턱걸이”…범인은 중국 반도체? [잇슈 머니]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
       "title": "IMF, 올해 韓 1인당 GDP 4만弗 돌파 전망…명목 GDP 2.2조달러 관측",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sTGQ3OGV4TW55VElfaEZWN0FWak8tLTVXZHpOY0VKTVZkTzNCOXNHcEIzejFEYWYyVnU0d2dBQURsMlBIYWdKZ21ZenkwQlNCT0g0NkJLNGx3LVAxWWo5VERwZUJvTGtRcG5RYXd3SVg?oc=5",
       "summary": "IMF, 올해 韓 1인당 GDP 4만弗 돌파 전망…명목 GDP 2.2조달러 관측에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "'장중 7% 급락' 코스피, 6천 회복하며 마감‥삼성전자 7%↓·SK하이닉스 10%↓",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sVndVemNfRk1HNTJjMmdsaEdEQWI4TUtUdmZzSGVmcGppWURybFloTFJMRXlFelRXME9vbzRfX2JsdkpiSjVrRWtrTnI3T2tQcjJaa0lObklFc0J4bXY5Rl9LR2RCb0V0ZGdqSEw2ZlE5M2dy0gF0QVVfeXFMTnpucFZ5c3lHeWlROUQ3WFlNQWtPczdaZnhNRzUwbDJFZnlwS0ZDdEFVX1BUV0JjeTg0M3hwczJXWUJTNUVueU9EcHNzQ0RKWFNTTlpsWFpzRi0wWmM5bXdBaG1MV1cyQWlHcHQ0dU1TMEhaWDQ?oc=5",
-      "summary": "'장중 7% 급락' 코스피, 6천 회복하며 마감‥삼성전자 7%↓·SK하이닉스 10%↓에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "靑, 초과세수 활용 국채 발행 축소에 \"부처간 이견 無\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jWi11SE4zRENIUHh1UmF3OS1ZYWN3XzZvLUVpcGs0enlWRncyRXd3UzFUT1JmNVkwVDZUUEdxU3VCNlRnOEFYeFQ0b1dacTVMWGdWZFdNT19MNzdVQ3RVbXBKSVhtYk5yRkZjUnRuU3M?oc=5",
+      "summary": "靑, 초과세수 활용 국채 발행 축소에 \"부처간 이견 無\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[속보] 홍라희 관장, 이재용 회장에 삼성전자 지분 2.6조 규모 증여",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13bEdIR2h1Zmp6eDRNWmRGREhtWWtJbWZfQ0paYm9NaUU4N3kxd2sycmhoRG5VaVhnUkFSQmY5RXZUTnQ3dFF4T0dZQUxlVDlmb3lmRDFRRWpKZw?oc=5",
-      "summary": "[속보] 홍라희 관장, 이재용 회장에 삼성전자 지분 2.6조 규모 증여에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[속보]홍라희 관장, 아들 이재용 회장에 삼성전자 주식 2.6조 증여",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGRllSNUNuOTVwTGl2OXM5a1RKazk3NnRwR2I2Z1ZqOTdveWpNZHYtLUZpVlZTOFlWS2FMNnNYLWpZbkFjTkM3RGNhY0I1UHgy?oc=5",
+      "summary": "[속보]홍라희 관장, 아들 이재용 회장에 삼성전자 주식 2.6조 증여에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "100엔당 843원… 원-엔환율 2009년 대비 ‘반토막’",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QR3FYYTZEWHJjel9sbjh5c1g3eTMtSEJYa3R6RGVqeUtqOGdaUWp0cm1MOUhiRDJZNGdQUko4c3U2S080dm8zN0h0U0hNZUNpcFRualVqUEVjRnFCTlA5VkR6ak83V0RYaldrdkVMVUJHa1c1WWfSAWZBVV95cUxNdTFpTDNHdW1Rc3dyM2xfbFFXdDdzalpnQV9vWTM4MFpuTmpERWlLVS1XRng2MGlsNV8zSDlvUUw4cmlFNlRpRkk1MllSY3c5c3hNcG9Nc3lfaF9pazFOam9EcDRwNFE?oc=5",
-      "summary": "100엔당 843원… 원-엔환율 2009년 대비 ‘반토막’에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "필라델피아 반도체 지수 5일 연속 하락...7월 말 이후 처음",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByT3A4M2N1UEF1c211Rll3UHdCX2F6ZkttQ3YwY0U3OTlJSE00ZDlwR1Y2X1dRT09zakFLRnd6TEs0RlBCcVhUSURyNF9BLVBHeld6bERydDZUQmxLY1E?oc=5",
+      "summary": "필라델피아 반도체 지수 5일 연속 하락...7월 말 이후 처음에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "계좌·주민번호·잔액·이름 털렸다…새마을금고 400명대 고객정보 유출",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hV2ZEdmlWMDF6TmU4d0FQLVFwZnZtVHBtcS1aY3ZrdURaV21vZHlQNTNqLTFNQXF0TEJ1OFdDaVgxRVFRTDhwelJhSHFCWkNLR2ZmOQ?oc=5",
-      "summary": "계좌·주민번호·잔액·이름 털렸다…새마을금고 400명대 고객정보 유출에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "주주환원 늘었는데 세금은 제각각…입법조사처 \"배당세제 정합성 손봐야\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tQlNOUERvNU54YVhIN2xOQ0lVdThfZmptd3AzY05SdlZxZ2FuZ0dvcXhnRXNqVEpBTk9yY3lNbkphd1pRVklkbTVtVnl2czZEWG0yZUdkS2tUNlJ5WXdyOTBPUWhvRDlXMlBMRDZPMUE?oc=5",
+      "summary": "주주환원 늘었는데 세금은 제각각…입법조사처 \"배당세제 정합성 손봐야\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "거침없는 외인 매도...반도체 역대급 실적에도 급락, 왜?",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84MU9jNnEweUVaeWZ5emd5RFNjQmdEd3N2RDUweDViQnBKTVJsbnJXWGlHaDQ1TmY2VzFyMm1aUkFoLVktTUJFY0pLcXlIREtSQ1dveEwxYVpUNDdiZWc?oc=5",
-      "summary": "거침없는 외인 매도...반도체 역대급 실적에도 급락, 왜?에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "가족 연계 회사에 수년간 자문료…전 LG엔솔 사장 ‘배임’ 수사",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51dUxwVzFJQWd3UkxSOHlLWTZvVS0wQnltS0RwNnlYaHZjS1pod0pqQWpqZ0RvcVU5MUVJeG1XSnpBZTVsSk9DOXhJN1hkTFg1M3BrSXo5MWM3Uzg?oc=5",
+      "summary": "가족 연계 회사에 수년간 자문료…전 LG엔솔 사장 ‘배임’ 수사에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "노벨경제학상이 주목한 '미래 기대'…기업들은 왜 환전을 미뤘나",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oQlhFUllqQ1AxTGd3NDliTF9NbGdmcGYxV3dDOVZtTFhHZDJ0SVhnaURkWmJOUzZKWmFSME5RVkFReGNnN2p3R2VQWk11V3R5VFI2T3lnVExXVVhOZnZadFV3TTBhS2tGcGRyOUlhRGs?oc=5",
-      "summary": "노벨경제학상이 주목한 '미래 기대'…기업들은 왜 환전을 미뤘나에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "삼성전자 '100조 잭팟' 뒤 서늘한 경고…\"한국이 흔들린다\" [테크로그]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0ybTlfNDRfSnlTM3l0VzBjYm5QNmpPeW9wLWJ6UGE1dTF2ZEd3Nll1LTA4dW0wVFlneHNqaWlMTzFDY21VbEF3eDluN2FVSXAyR0FQcVRuVm1kUQ?oc=5",
+      "summary": "삼성전자 '100조 잭팟' 뒤 서늘한 경고…\"한국이 흔들린다\" [테크로그]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "신현송, 중립금리 상승 가능성 시사…\"신기술, 금융시스템에도 영향\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tbDl6eWVrd0xaSUROY2lFV3gtNUZ0WmpkbGQzbHpOVTJaMW9iaFppb0NRMEpRS1EwRlNXR2p3WlRPRm9keEhDd1NWYThYQXZkSzNVODN5WDY3aHZNSTZxNHlMcWxHOHVPdV9qdk9velg?oc=5",
-      "summary": "신현송, 중립금리 상승 가능성 시사…\"신기술, 금융시스템에도 영향\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "반도체, 이익 전망 대비 과도한 하락…\"분할매수 대응“",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zZUN5TmF3dXFaQktYdkxDdlV6SUFTRndrcnVFZG1PcW92SUhkMzZpa3BLRDVZTFdHNzFRbDNfSWFjbEdUNnhZb2V0Zld6QmI0c3JjNzNPVWZCMXNpc2lpZTg3Y3BPSVRjTFE?oc=5",
+      "summary": "반도체, 이익 전망 대비 과도한 하락…\"분할매수 대응“에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "\"중국이 턱밑까지\"…반도체주 투매에 나스닥 '뚝'[뉴욕마감]",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OOElwdjNrT1ZzVDl3UWw2SjhkZk94dDczRG1ZTWVQRENhMEtONTBaMENUcmZvYU0zVXlZWWRGaWt4WW1lMG5WelhtT2dKWDdGb2gtcGZRc1haLVJaY19jN3g5UFJteXdy0gFuQVVfeXFMTlFPendkOGdKWWctRElKUVpCZXRPNkJ0Ri1ON21VSVBFMDdwT1RnalktNTY5U2t4ZF9nTlZ1TnA1U21WeTliMGtkX3ZURm1ZM0NOOE8zWVNQNG84bnRLN290a3VzcklrUTR4bHNEdlE?oc=5",
-      "summary": "\"중국이 턱밑까지\"…반도체주 투매에 나스닥 '뚝'[뉴욕마감]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "노동부 장관 “포스코 교섭 적극 지도…신안산선 사고 엄중 조치”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GdV9XNUJWZmtFQW82N2xHcVV5V184ZzFzcGVrdGVUVzJlZm1haWFPb2NXc0ZZRGtGWUQ2MmpNYTNlR3dyNldOQ1BkSnhieUdrZmhmNnR2aG9yWjQ?oc=5",
-      "summary": "노동부 장관 “포스코 교섭 적극 지도…신안산선 사고 엄중 조치”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[단독]망분리 완화 금융사 10곳, 보안계획만 세우고 이행 안해···내부망 해킹 노출될 뻔",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IT2RzRnhNZmloc0luUTFHMi1iTnpuZWdra0NXdlFOdFBReEpLUFJtdkdOMV9reGJnaDZmTmJNVEdrbjZvbjczVndMZWhfajR5N201NF80bVZsUdIBX0FVX3lxTE1OclA5Q2EwWDN3b3paSUYwck9BRE5HM0doUE9ZWFladzduUlNuQVRNSExWWVgwR3dxbjVsR2tfZ1pKTEdUcEs5T1RTUTBKNHJ6X1gtTk54dTkzalI1SkZF?oc=5",
+      "summary": "[단독]망분리 완화 금융사 10곳, 보안계획만 세우고 이행 안해···내부망 해킹 노출될 뻔에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

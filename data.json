@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15 09:16 KST",
+  "updated_at": "2026-10-15 21:54 KST",
   "indices": {
     "summary": [
       {
@@ -22,9 +22,9 @@
       },
       {
         "name": "코스피",
-        "price": "5,645.64",
-        "change": -363.17,
-        "change_pct": "-6.04"
+        "price": "5,554.22",
+        "change": -454.59,
+        "change_pct": "-7.57"
       }
     ],
     "candles_dict": {
@@ -16244,8 +16244,8 @@
           "time": "2026-10-15",
           "open": 5673.01,
           "high": 5751.45,
-          "low": 5645.64,
-          "close": 5645.64
+          "low": 5450.81,
+          "close": 5554.22
         }
       ]
     }
@@ -16254,21 +16254,21 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,343.88 원",
-        "change": 3.57,
-        "change_str": "+3.57원"
+        "value": "1,345.30 원",
+        "change": 4.99,
+        "change_str": "+4.99원"
       },
       {
         "name": "미국채 10년물 금리",
-        "value": "5.19 %",
-        "change": -0.03,
-        "change_str": "-0.03%"
+        "value": "5.07 %",
+        "change": -0.12,
+        "change_str": "-0.12%"
       },
       {
         "name": "미국채 30년물 금리",
-        "value": "5.53 %",
-        "change": -0.04,
-        "change_str": "-0.04%"
+        "value": "5.40 %",
+        "change": -0.13,
+        "change_str": "-0.13%"
       }
     ],
     "series_dict": {
@@ -16539,14 +16539,10 @@
         },
         {
           "time": "2026-10-15",
-          "value": 1343.88
+          "value": 1345.3
         }
       ],
       "미국채 10년물 금리": [
-        {
-          "time": "2026-07-14",
-          "value": 4.59
-        },
         {
           "time": "2026-07-15",
           "value": 4.55
@@ -16806,13 +16802,13 @@
         {
           "time": "2026-10-14",
           "value": 5.19
+        },
+        {
+          "time": "2026-10-15",
+          "value": 5.07
         }
       ],
       "미국채 30년물 금리": [
-        {
-          "time": "2026-07-14",
-          "value": 5.09
-        },
         {
           "time": "2026-07-15",
           "value": 5.08
@@ -17072,60 +17068,64 @@
         {
           "time": "2026-10-14",
           "value": 5.53
+        },
+        {
+          "time": "2026-10-15",
+          "value": 5.4
         }
       ]
     }
   },
   "news": [
     {
-      "title": "트럼프 “한국의 알래스카 500억 달러 투자, 나와의 무역·투자 합의”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZazBWaUstTGcwX0lOZjJVdEhzdUMxR2xVdFQ0eWk1eGczMFczQjNmeXJzaGstMVpSc2pvN0VRSERBNzBKOFY5UzJwS1I3ZmIzVDVXMHlKaTBXM0k?oc=5",
-      "summary": "트럼프 “한국의 알래스카 500억 달러 투자, 나와의 무역·투자 합의”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "AI 거품론, ‘닷컴 버블’ 재림인가…코스피, 7거래일 연속·총 20.7% 폭락",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwVkpoUzJNUWNnR2JBUWRLYktoTERpTnJnZ0tlOWU5eWRMeEptT2ZCTU9aME5yMlBKTWZhcE1QUUlpbFBrRzNMVF90d2FRb1ltY2FaR0lVMXl0WTFQM0FZY3pwZzF2cWc?oc=5",
+      "summary": "AI 거품론, ‘닷컴 버블’ 재림인가…코스피, 7거래일 연속·총 20.7% 폭락에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "\"갭투자는 막았지만\"…'토허제 1년' 허리 휘는 세입자들",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01aGNZZlBNV2JzMm54dGNnSW94c3BNdDNMQ1k2dW5mZTZwc2NNd0dmOUNvRUxzZ0tBRDZ2ZGpjUTkxSGdyS3k4bDA5QTYtZU9IWDJLNC1MdWxfdw?oc=5",
-      "summary": "\"갭투자는 막았지만\"…'토허제 1년' 허리 휘는 세입자들에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "판매 부진에 취소 문의까지…국민성장펀드 '완판 드라이브' 무리수 논란",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUWs5d3JHYWQwc3B1V2padkZvNVp1aERVNkJCMzhGNERnNEZpbmZabm5qRlNZZUdacHRUYnFzdFp3cGF6cFhleUxSSDZyQ2tZcXVkTTJmR2c1dDlzQzdnY1JyVldLNDdDcTNmd3VQa3dlYWFOTl9jSHZWSzlRVDdtNEU4aw?oc=5",
+      "summary": "판매 부진에 취소 문의까지…국민성장펀드 '완판 드라이브' 무리수 논란에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "CPI 상회·채권 부실, 미 증시↓",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ieFlTZm1yRUJva3E2LWZ0bGswYW9Sdk9lS1ctU3Q5VEdKWm4zdDMyaVdHME5FOFl2Qnh5U25DWFFTMi1kVHZRcjk2U0cxY3o0cWJMRGRyRi1zeW8zc0pQQVNwRkhsWWV1NlZpUQ?oc=5",
-      "summary": "CPI 상회·채권 부실, 미 증시↓에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "국토부 장관, 광주 군 공항 찾아 반도체 산단 점검",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpQXNiQlNKWjAxMUkycUl3bktyNHFuZXJlMExjOW5lYS1TaWEyUzZLR3cxdDlja1M3M1FjYnU1YTRHSVJKYkU0Umc5NEZpd2otb3hCSGVHMEN1SmpHZlE?oc=5",
+      "summary": "국토부 장관, 광주 군 공항 찾아 반도체 산단 점검에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "인도서 21조 투자하는 현대차그룹…국내 부품사 기회도 커질 듯",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSkphc2tGODM1ZlVlVjY2QTYwd0RHOTBiQllrOEhYR0tyVnFRRUVXYS1nWE1yejNCaW5kY2tZWXZjRHRZalRCVnd0d3kybl83SkpuQWhvQWJzeFNEQ3F6Uks1UmFwMmtySTdqLWxudVZSOGJCNXROSUc0Q3Y3MGVoU3ZMWk1ZMEwySWNZYUlKNTJLUmw3M3U2N0kxa1V6SU5ONjJqM3pjdjBPc2JxMmVjNi1vNXh5SkQ5aVpLTVlUclNZUmVTOGJtMURyc0JYeVdtekpOYUhB?oc=5",
-      "summary": "인도서 21조 투자하는 현대차그룹…국내 부품사 기회도 커질 듯에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "트럼프 \"한국, 알래스카 에너지 개발 사업에 500억달러 투자\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nMHRJdTc4UFM2NmtqcVcxR3JMcW5QZnhoS1gxcUhrRlFyWHZGVXN3ZEhVM3JRbG5NWUFGN2pJVzZTcWxKZ2ZSakhLbW02ZHJPc1diQUhKaGZ6elhXTUV3Q0diRjNsWUd3SURCc2dXVGw?oc=5",
+      "summary": "트럼프 \"한국, 알래스카 에너지 개발 사업에 500억달러 투자\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "“부모·자식 다 내 책임, 쓰러질 수도 없네요”…60대 연체율 4년새 두배로",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UNS1YY0NKRkI0d1BsdGtTTDdyUDVaWlZ0X21ocHBPNUxTa0tmM2dTVnNlUC01bWltVGVnelE2ZTZwN2MwbU41MjNHV2hKRzBhUlJRYg?oc=5",
-      "summary": "“부모·자식 다 내 책임, 쓰러질 수도 없네요”…60대 연체율 4년새 두배로에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "SK그룹, 웨스팅하우스 지분투자 검토…대형 원전으로 확장",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UMUlmRFR4ZjB4VXlubFlPTklsdkRfYWhtTW1WX3dZNnh3ZDFwX3oweHNneTRHV1VIVzBYeDgzMzZra2NhZG82YTdYNjJ6ei14a1B2b2ZtMTZKQlRON0d0NGZEWWMxSHM?oc=5",
+      "summary": "SK그룹, 웨스팅하우스 지분투자 검토…대형 원전으로 확장에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "코스피, 하락 전환해 6000선 붕괴…23만전자·140만닉스",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOEdvU3d0VFZCOGRkRlJnZkFxLUl6Nk5MNVNUbTZvbGJYSEx4R25oNlBTYnNxZTFfV1lnMmdtU2NOanFZaWtwU21PQU1TMnVSSlU5aTZVNWxxdzRBQ0ZSekRzRGRSQ0l6UzFlY2ZJSFJSX19pd0dQNVNvenQ3TFJkcEVVYUFhamNJ0gGcAUFVX3lxTE9nSk8wZzZMa0h4c1ExRTRDRzJHRC04azlXcjdQTVMzcFYwckZVT21uVkN2N0lUQW0xYkNlT1VSQ2Jvak8xSHRsYjRFWHc3a1JuWElfSUFrQ1hzNjlWeUR3bUpuS0tmSlN0eklLQ1VzU25tZU1SOGtXbXJpWjNSWmlCOS1QWDVsWEx5SktNWWFQMlByY083enM4LWRDQw?oc=5",
-      "summary": "코스피, 하락 전환해 6000선 붕괴…23만전자·140만닉스에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "TSMC, 3분기 순이익 31조…6분기 연속 사상 최대",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ1otZ3pKeTNoTWxXWS1CMWY2TXFFNHhkOUI3ZDFGQUFiZEpaWl9GMzVKNkpsVk1VcGtwanY0cUh0YkVDempiSGtBajJENXNmejh2WloyWHA5bGs2US1xdDZNNGo4VE5Ta1BQRFdIT0xhZTJfS0VCT0JjNzJYTGtrcmdJbw?oc=5",
+      "summary": "TSMC, 3분기 순이익 31조…6분기 연속 사상 최대에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "셀타스퀘어 \"약물감시 '중증도'까지 반영…시뮬레이션서 위양성률 65% 감소\"",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oSGtmZi1XdUdtREZCZGVoeURDNXBOVDFtNnh4T0c1VGdhbE9qbXhkd09taGdUQXJfQnZMUXhoV1Z3dzROM2wzd0NpVWJqOXJob2NNUDZEeFBlVEpodVpGQ3NEYVNjV2k4eDFyM1drTE9xVmM1b2c?oc=5",
-      "summary": "셀타스퀘어 \"약물감시 '중증도'까지 반영…시뮬레이션서 위양성률 65% 감소\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "미 소비자물가 3.7% 상승…추가 금리 인상 압박",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IenVxckJFRXMxVWVpbVVFb182dzhTRmVETWFwTGhGcU1sLUVOekVXRkNkQjhCZ1Y3WFJ5MlozWHphc1FHa21YTjJOcEdDbHdadE9SM285M281ZVE?oc=5",
+      "summary": "미 소비자물가 3.7% 상승…추가 금리 인상 압박에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "국산 비만약 에페 가격 책정 완료…양강 구도 깰까",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YTU12QUExOFUtNV9hVzRPNmlmR2t5aGxYQ2ROdF9mVFlNRHF5dkk5ZTliMzhIMl9mcFduQzNsQUs2d0ZmZ3U0VDRJazdTRzRLLTc5a1RsNXV4NkdhTTZLaXlyRFhnckVhR25faFFqdmY?oc=5",
-      "summary": "국산 비만약 에페 가격 책정 완료…양강 구도 깰까에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "“삼성 7만원·하이닉스 20만원”…이주완의 반도체 거품론, 과거 전망은 맞았나",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51dGVGeUg4eUdObVMzSG5iLXlEWnIxaEVlSFQyR0RobHpzaXp1RUk1bjJyM1ozd2dicXJRQmRFVkZXNHlUQ3hWUEYyT0NXM09HUzB2WWNWaGlrMHczZUE?oc=5",
+      "summary": "“삼성 7만원·하이닉스 20만원”…이주완의 반도체 거품론, 과거 전망은 맞았나에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "국채선물, 미국 CPI발 요동 속 혼조…10년물 5틱↑",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEZ0lxRXZRUjBXTDNfQVN0UWc0TmFDTVZ0YVRXenhTcTRLWTVQNHhyelItRmVBc3lKQlE0cjFOX2JOUS15Zk55aWk0T241b29DQ3o0aXdVQjVYVHJWNFFqUS1ibktVWUlfLXdzT0VlTGk?oc=5",
-      "summary": "국채선물, 미국 CPI발 요동 속 혼조…10년물 5틱↑에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "9월 서울 집값 0.84%↑...상승폭 두 달째 둔화",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBweHVxb1BGUHlLeGZpdVJqN0pZcDdoemcyR1F6NHVoeTJhenAxNVVzZkpjSnlOQUZVMWRiTmstT3hndDNGanJ1VDZXTWJTaTFhUlVGWkk4akdBMjR0YlE?oc=5",
+      "summary": "9월 서울 집값 0.84%↑...상승폭 두 달째 둔화에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "카카오, ‘모두의 AI’ 연내 공개 예정…월 이용자 500만 명 목표",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43NnU3MlhmZWZkcEdnRU1abkNDcHdIdG85YU9NZVBqVF90N3BXTHFCVlJIbDZQbkg3RGR5NWltZ29IaXNWNkdIWm1aYzBmLU4wbnVfd1hhVnlwdVk?oc=5",
-      "summary": "카카오, ‘모두의 AI’ 연내 공개 예정…월 이용자 500만 명 목표에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "'경영 난항' 홈플러스, 희망퇴직 접수 몰려 조기 마감",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56aU5wUDgxYjV4eWhRVmVDTk0wQnZ1eTRsZHFJWjgtSDQ0OHJGQXFiNmI2UUpQVThINWh2NnZSN1lBVVBKNlVRNkNjT0VSSVBKQVZtWUdXV3Y2aXNiZ3l6bXVuSDZibDRsYWtFSVh4S1pQRl8x0gF0QVVfeXFMTzdUNXpESVVIc05lc0RtR0wxeGtZb0NLR3JiaUYyUE1feEJrYWhiNnJKZWhFbEQ2TDVsYnBLZlJ6SEd4TmpOT2R6blRkTlhjelBTcGtxZ1Vzc3pMdUg4MXR5aEQ1TW9KeGQ4WGpQTGwycmJVQjc?oc=5",
+      "summary": "'경영 난항' 홈플러스, 희망퇴직 접수 몰려 조기 마감에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17 09:08 KST",
+  "updated_at": "2026-10-17 20:47 KST",
   "indices": {
     "summary": [
       {
@@ -16275,9 +16275,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,334.20 원",
-        "change": -6.75,
-        "change_str": "-6.75원"
+        "value": "1,329.60 원",
+        "change": -11.35,
+        "change_str": "-11.35원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -16564,7 +16564,7 @@
         },
         {
           "time": "2026-10-17",
-          "value": 1334.2
+          "value": 1329.6
         }
       ],
       "미국채 10년물 금리": [
@@ -17101,58 +17101,7 @@
       ]
     }
   },
-  "news": [
-    {
-      "title": "‘널뛰기’ 코스닥 5% 급등…어제는 매도, 오늘은 매수 사이드카",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNNW5pNVNMMDNFNi1Ta0V2anhmRjF1WU92czNzanQ2YlVVMVRIaEhMU2lfUEFmeWVBX1FtdEQyX1BLYnl5cEt0VUY3QVVaSUt1MC05M0lTRXhqaVd6Z2s4eWZOTFVaX2s?oc=5",
-      "summary": "‘널뛰기’ 코스닥 5% 급등…어제는 매도, 오늘은 매수 사이드카에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "벽 타고 공중제비 도는 테슬라 로드스터…“직접 안 봤으면 AI라 했을 것” [현장영상]",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJakdzM1dYT2xCcHpBN0UtN0puUEladU05TVFOQlFyZkN5VmVmcThwdmhFTnFDX1BOamVOY1Z1VXBCeWladmo2OUF2a2YtRkI1b2dBSkcxX3liSTA?oc=5",
-      "summary": "벽 타고 공중제비 도는 테슬라 로드스터…“직접 안 봤으면 AI라 했을 것” [현장영상]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "5년 만에 부활한 주택공급 정례 브리핑‥이번엔 다를까",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IN2hfMS1NTmJ5RnZqSDV0SVdUNVNOVnA3a2h4VlpWQko3Y1FZOUJiYndoek9jNjluSjQ4MjBLZjdvTF96SUozcjh6aTIzcWgzUXYzMU1sR2s0WnNDS0dReHFRSGZvYXUzMUZRVmZQelh2dWp20gF0QVVfeXFMTUJzb0FoZ3NiWTVxRWFfdUJZWE1BaFdKSGh0dUdHTFBJVU95X0p3ZVVqX2RLQzZCYV85bkI2SVFIOUF5N0dHSmtNemF5RnV3dGtzVmxoQmhvc3ItRkR4WGt0OTJyaDRBRFVhOEg5d2xSZkFGTms?oc=5",
-      "summary": "5년 만에 부활한 주택공급 정례 브리핑‥이번엔 다를까에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "뉴욕 증시, AI 경고등·유가 급등에 동반 하락 마감",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wRmkzYS1ZMHNOX2h2Q1V3aG41LVYyZzcwb2V0d0U4WDByaHZCSms3N2dxejdrb0o3YzNBeDB3SExEa0ZtNU85NjhoTTRMeF9wSTQzcnA0cHNmOUdkYkE?oc=5",
-      "summary": "뉴욕 증시, AI 경고등·유가 급등에 동반 하락 마감에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "결국 CJ도 중앙일보 인수 참여, 다우키움그룹과 컨소시엄 구성 진행",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwR3NRemRnNURHQjdZQ3psRGx5QnBWZEF4WnNISy02QW9nQ1U4aFIyWUVRalo3WGtZNWtSWENOR0pmay1fY1Z0bTBMeU9IM3NGVFFrZXpaX091ck42WnFjb1ExTVZDeUF3M012UmZLa0Y?oc=5",
-      "summary": "결국 CJ도 중앙일보 인수 참여, 다우키움그룹과 컨소시엄 구성 진행에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "“구리가 4천만원?”…‘또 역대 최고’ 찍은 경기도 아파트 분양가",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIdzZPZ3piQWptM0pPZXRLYTd3cUppTFlEVnFOeVo1TnQ1c3FncTJ2dUJ6LXExaHJqTmVLWWNUOXY0MjVWc2c1VWY0Mm5hSlJBME1OTV80WHUxVlE?oc=5",
-      "summary": "“구리가 4천만원?”…‘또 역대 최고’ 찍은 경기도 아파트 분양가에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "서울 중간 가격대 첫 11억…고가 아파트 2년 8개월 만에 최대 낙폭",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tR3J2Z0xKdm5JakJyRHM2TlJ0d0xJWWNqeHhHYm81eVJVS2c0WEhuSTJmQnRiSllTYkszSEM1cGJuLXQzWTJwSVYzUXJXWVZtX0c3Y1Rnc0FjbWM?oc=5",
-      "summary": "서울 중간 가격대 첫 11억…고가 아파트 2년 8개월 만에 최대 낙폭에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "OX 퀴즈로 알아보는 국민취업지원제도",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PWW1sZUIxRXpNem5YZWMwRGp2a1hPNnNsbUkyWFNmbUIzczBXMW9JcFU2ZzY0ZTBjaFBlQ2dyaUd3Wm81UDRyZDZnd0d2YmFwVHZxeHRVWlpYc2xhLWNNUEdzM1lCMkMxTDNHX0ZR?oc=5",
-      "summary": "OX 퀴즈로 알아보는 국민취업지원제도에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "(참고) ’26.9월 취업자수 11.3만명 증가, 제조업 취업자수는 27개월만에 증가 전환",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJR3VfRlFkNnhDMExIdGYwdzlyTTJhSlYzRTBfV2N1MDJRbkxaSElZLWRMLTNTaFZ6clVrTVJxUy15YkRadnhTWWNzbzZ2NjY0S0RlMUhvakhDZmJkaE8tRldHaGIyX3dUY1dhN24yaThNV0lORWFj?oc=5",
-      "summary": "(참고) ’26.9월 취업자수 11.3만명 증가, 제조업 취업자수는 27개월만에 증가 전환에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "솔리다임 프리IPO 50억달러 모집 마무리…해외 중심으로 연말까지 밸류 협상",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbXVsZUdqbEZUVWR4RHFSdzc3dk5zdXpXYkpMclZlZEdMU3RzWm5hcFJicWFJUEoyVmdPOE40SGxMNDd6YzZvQ0NZaktJdDBXX2wxNlozWVRla2s1NE5uVFJGR1RLcFRrVnlmRFlqdW01X3F1Zk9tVmxCZG9kR1RTZElpQQ?oc=5",
-      "summary": "솔리다임 프리IPO 50억달러 모집 마무리…해외 중심으로 연말까지 밸류 협상에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    }
-  ],
+  "news": [],
   "schedules": [
     {
       "title": "미국 8월 생산자물가지수 (PPI)",

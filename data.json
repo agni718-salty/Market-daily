@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18 21:12 KST",
+  "updated_at": "2026-10-19 08:54 KST",
   "indices": {
     "summary": [
       {
@@ -16275,9 +16275,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,329.60 원",
-        "change": -11.35,
-        "change_str": "-11.35원"
+        "value": "1,334.32 원",
+        "change": -6.63,
+        "change_str": "-6.63원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -16294,14 +16294,6 @@
     ],
     "series_dict": {
       "원/달러 환율": [
-        {
-          "time": "2026-07-16",
-          "value": 1486.2
-        },
-        {
-          "time": "2026-07-17",
-          "value": 1478.85
-        },
         {
           "time": "2026-07-20",
           "value": 1487.39
@@ -16563,8 +16555,8 @@
           "value": 1340.95
         },
         {
-          "time": "2026-10-18",
-          "value": 1329.6
+          "time": "2026-10-19",
+          "value": 1334.32
         }
       ],
       "미국채 10년물 금리": [
@@ -17103,54 +17095,54 @@
   },
   "news": [
     {
-      "title": "삼전닉스 급락에 국민연금 182조 증발…100일 새 무슨 일이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFaUxyS2RuQlJnMkNMZEV5b1hIMmFxZGlMUVhLbnNPanJJaXJsT19YaWNINTVYOXpNTTlwZmptWU9Gc2wxUGxGZWExWDlRVGt0VUgtVnk2Ny1zWGZCNDYzak9Bc1dJT1hvWXfSAW5BVV95cUxPTkEzZEdOaVpWWFo2aW0zYmdoZzE1ekhXQ3JCVFV6c1YwVC01Z2N2d1JkaW04clh0MFZqYnJzZTFldWl4SDgwTnBZSjVaNTBOUjVORGFQNWpfRnNiTTlSMkU0WFp3OS1ZbFRtX0hxQQ?oc=5",
-      "summary": "삼전닉스 급락에 국민연금 182조 증발…100일 새 무슨 일이에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "코스피, 급락 후 반등 이어갈까…美 빅테크 실적에 쏠리는 눈 [주간전망]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05ajFpRkJYSzRyTWRXTHlwX1A0VU1wWW1ybjJjdmtpY3BDUjFWeWZ2cUY2Y29PcWFpMy1VRm1pUUQ4bllQdGJSX01yc2xBaTZ6aVMyNU9hSENnUQ?oc=5",
+      "summary": "코스피, 급락 후 반등 이어갈까…美 빅테크 실적에 쏠리는 눈 [주간전망]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "IMF, 한국 잠재성장률 2년 연속 상승 전망",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45dGVvb2pzNFMwTEM4X1F6NzVXWjh2a29BT2syZ0FLUXRQcFVYanZ1eE9wVnd5bVNrMTJMUHNRQVI2OW1rbEVjVG14OHo1NEtqUzBJTEk0VnJKTEY0OThIbk1SdTltMk0?oc=5",
-      "summary": "IMF, 한국 잠재성장률 2년 연속 상승 전망에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[마켓인사이드] 미국 인플레 재점화…10월 FOMC 금리인상 카드 다시 살아나나",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rMjF0VHJQZVdmeEp1OVZodkc5LXVSWk5YUTUwSWthRjdvclptbnFoZWVPblU5YlBNMUZYMmZMNmZFWlhwdW5POVk1bmxzaWFiZ1dHaHVMQ192YS12cEE?oc=5",
+      "summary": "[마켓인사이드] 미국 인플레 재점화…10월 FOMC 금리인상 카드 다시 살아나나에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "대미 무역흑자 1천弗 눈앞 … 트럼프 통상압박 우려 커져",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KbkR6YTNHZ2diMHZuWWF5a0laczd4aDRXenVuWndEZkhTakVvOXFnUGs4M05LcTBrak5tVVZLVVdUbmZxOG9SY3pCb2R3VHpHS1E?oc=5",
-      "summary": "대미 무역흑자 1천弗 눈앞 … 트럼프 통상압박 우려 커져에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "韓 공장 있는 GM·폴스타 중국산 역수입…\"국내생산세액공제 절실\"",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRXJDMzlGcUFhSlZ1V2hWVnB6ZFJrWUlvb0wtQThVelZIUUpnVG5pSjJlamswcGY3LVo2R0tib0o5VmRJYUxXcDVWRmR2V1FVZDdYeWF0c2hCUmp3T2lVdTBYQ2hoT0dxT1ZDcEVnT2lKeWpLSHB3NUx2SGw3QjJzSQ?oc=5",
+      "summary": "韓 공장 있는 GM·폴스타 중국산 역수입…\"국내생산세액공제 절실\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "딥시크, 신규 AI 모델 공개…\"작업 빠르고 똑똑하게 답변\"",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95VXJJeUhmT1FOUXFURmJSMUktZzlDYXhEYy1XQldTRTZuTWd3cUJKa3M0MmdLYnRiOE5JN3J1b0NUSEl2WlV0RHlObVN4MFJDNTJvdEJR?oc=5",
-      "summary": "딥시크, 신규 AI 모델 공개…\"작업 빠르고 똑똑하게 답변\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[사설]석유 최고가격제 7개월, 연장이 능사가 아니다",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkM3pySmtkR0lEUTIyRWVjVkhfRGlIN08zUlZvRjZkNmtNaXhhLUxmOThaSEV6T0ptWlV0WnktTVdxTmt3cWN3Z1NONHhKVW4zV0ZuUmxaRWxaQdIBX0FVX3lxTFA5VkQ5bXJWam1uTUlDWUtqZmVVd2ltZ0JOWU9iVmxWRnQ0Q3RzZ3dXN2hKckZsR0gzLVZIVTVta2ExMWoyOWY1d2NaNmVScjg0Q2I4SHlqSVh3dEtSV3NR?oc=5",
+      "summary": "[사설]석유 최고가격제 7개월, 연장이 능사가 아니다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "IMF 총재 \"미래대응기금 등 한국 재정·통화 정책조합 접근법 적절\"",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZT2FLY2FLWktWamxEMHEtLTUwdG9KSXUwV1M4bHNVWFBBZkxvanE1QjN5c2E0SnBqMUVveE52ejZEVTNaRUhWanlTSmtwa2N6NkhCU2VzX1ViQThvdXRjajZBb21qOUxTakE?oc=5",
-      "summary": "IMF 총재 \"미래대응기금 등 한국 재정·통화 정책조합 접근법 적절\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "“자네 내 밑에서 일해볼 생각 없나?”…예약·결제까지 척척 ‘AI비서 시대’",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2NVZxaTk5M0U3QXJ0ZFJiU2NTNXZZZnhLQWVIaGpXZGhQREZGSV9pSWIwQ0pLdy1hMGVydWZJTENENTU0TFJCOHlRdkhHRE5VcW5PN1VB?oc=5",
+      "summary": "“자네 내 밑에서 일해볼 생각 없나?”…예약·결제까지 척척 ‘AI비서 시대’에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "이소영, 한국콜마서 'K뷰티' 성장책 모색…\"수출 지원 노력\"",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RTFdlZ1NWdzFKMXdNMzNaUEJFQnpHTXRITU9HekxpSFlZNUotRGtvZXpCaUN6R0hKMU04Q0RGbjFkdHU4Qm50OUVVTUlQekxQWEE?oc=5",
-      "summary": "이소영, 한국콜마서 'K뷰티' 성장책 모색…\"수출 지원 노력\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "‘반도체 호황’도 취업문 못 넓혔다…‘연 취업자 15만명 증가’ 목표 어려울 듯",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE81M1k5YjNkY3RlTVhfb1U1UjhUS2NlUzN5aGNtNUR1WElRTURZMm9McnpXZGxRVkdfSE5vUmxEUGJVM3Bxa0hpNVJ4ZndoeWZvX2JORjVkeWVUN2h4NWVNRGZvVEMxM2VPUHFmaVJ0c203QQ?oc=5",
+      "summary": "‘반도체 호황’도 취업문 못 넓혔다…‘연 취업자 15만명 증가’ 목표 어려울 듯에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "5대 은행장, 해킹사고에 국감장으로..4년만",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sb2RTWEx1bnQwUmZDYzBVWjR6NGdWeGFtQjZwSWdmQ3BpRUVuTjZTQUtIQmt6N29PTkowZFdxVTh2bmNFWjFsUDREdjI1NHZJZFNGbjc2aXZ6TnRac1dj?oc=5",
-      "summary": "5대 은행장, 해킹사고에 국감장으로..4년만에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[관풍루] 대미 무역흑자 사상 첫 1천억달러 돌파 눈앞인데, 트럼프 대통령은 연일 관세 앞세워 알래스카 LNG 투자 압박",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BRW9aOHlyVW0xOG9mRkVCOXZILS01UEZFZ1o1VWV1YnFGT05zS0RPcFAxeTZPWjBkUmVoSkdWWHJFdVU0cm90aGt0c2pvOGxtbEgxQ1BYaHY4bV9vVmJRYXV3?oc=5",
+      "summary": "[관풍루] 대미 무역흑자 사상 첫 1천억달러 돌파 눈앞인데, 트럼프 대통령은 연일 관세 앞세워 알래스카 LNG 투자 압박에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "러 에너지·中 시장·美 안보…다 잃은 유럽, 성장엔진 꺼졌다",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VQlFHRVdSZkM3SHRNRmFsdEhTMGRyTlpJLVpUeGE3Y0JpMkxxOHBLY0dCY0M3akRhTXItd3FMUllFaW9WdzMyWk5peHhzcU4wTnNtNWM5ZGlQZw?oc=5",
-      "summary": "러 에너지·中 시장·美 안보…다 잃은 유럽, 성장엔진 꺼졌다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "국내 증시 폭락에 국민연금 ‘휘청’…3분기 182조 손실",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfYzdaX3hvUGprWkVRZmZQMEVvTUdKYXNGckZjYml5bUdRMjhPUWloU192cm5aVlRvMWpKVkgwZG9yTDF3Q1BfaXNpSHkyMVNNWVJHLVg1cGZFSk0?oc=5",
+      "summary": "국내 증시 폭락에 국민연금 ‘휘청’…3분기 182조 손실에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "코스피 급락에 '강제 청산' 경고등",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GYW1NZm4yeXhSNm1nWHlrS2hhWkprTndIekMzMUhaVkZyQUhNZFJ1VFVZeTJlSTByb3F2VjA5RVc0LUY2bTUtZ3ZzMnhFT2xqRUE?oc=5",
-      "summary": "코스피 급락에 '강제 청산' 경고등에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "딥시크, ‘V4.1-플래시’ 업데이트… 코딩·추론 성능 향상",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOd3hUZUFlaFpFYk9ScGFYa0UtNnE5ZFVmeHYyRDM5QnBKbHhFQkl5bjNxTE9GOWRGM0MxVmVwdzR1ZkZmYlVJWF9YbHhHVWxrSGdTR09mNmpJa19DZFp4LThYeW9DZkhuczFlUlhXQ2w?oc=5",
+      "summary": "딥시크, ‘V4.1-플래시’ 업데이트… 코딩·추론 성능 향상에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "차질 빚는 올 주택공급 목표 물량···3개월도 안 남았는데 37→80% 가능할까",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ybXloeGh0c1lETkRkMDJfMmpJR3V5THA1Rzk1Y1hTNlFIaUwtTjhkdEtWQzdSUXNSS2NqY25LOXNtN2tNeDFFWmk4dWdtSmsxbHJqVUlDVzNlUdIBX0FVX3lxTE82U2tqY2o3aU9HWXRDYXNGcW55QTFOcGE1cFdlN1E1SDdhV0VXMEc5XzZGaW54NlU1OF9jaDVHazBkNU9Xd1JUX29BajI3bVRXdEF5TnRZSEJVSHJ5QnNF?oc=5",
-      "summary": "차질 빚는 올 주택공급 목표 물량···3개월도 안 남았는데 37→80% 가능할까에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "\"3억5000만원 냈는데 차값은 따로?\"…테슬라 신차 뭐길래 [프라이스&]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iMW45U0NoeWk1Z0JScDhFa0tGN2RPMzdfdjFTOXdyMFBZYkx3NXZzbWM1bG5qZWIxQUVkQ01YeVF0Zmc3Tm9lemw0NGdTRWRSOWtpeGI4aGxIZw?oc=5",
+      "summary": "\"3억5000만원 냈는데 차값은 따로?\"…테슬라 신차 뭐길래 [프라이스&]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

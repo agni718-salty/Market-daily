@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22 09:25 KST",
+  "updated_at": "2026-10-22 22:14 KST",
   "indices": {
     "summary": [
       {
@@ -22,9 +22,9 @@
       },
       {
         "name": "코스피",
-        "price": "5,697.36",
-        "change": -38.3,
-        "change_pct": "-0.67"
+        "price": "5,533.77",
+        "change": -201.89,
+        "change_pct": "-3.52"
       }
     ],
     "candles_dict": {
@@ -16243,9 +16243,9 @@
         {
           "time": "2026-10-22",
           "open": 5670.11,
-          "high": 5732.23,
-          "low": 5666.55,
-          "close": 5697.36
+          "high": 5740.28,
+          "low": 5485.98,
+          "close": 5533.77
         }
       ]
     }
@@ -16254,21 +16254,21 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,325.87 원",
-        "change": 1.93,
-        "change_str": "+1.93원"
+        "value": "1,325.34 원",
+        "change": 1.4,
+        "change_str": "+1.40원"
       },
       {
         "name": "미국채 10년물 금리",
-        "value": "5.15 %",
-        "change": 0.03,
-        "change_str": "+0.03%"
+        "value": "5.04 %",
+        "change": -0.11,
+        "change_str": "-0.11%"
       },
       {
         "name": "미국채 30년물 금리",
-        "value": "5.44 %",
-        "change": 0.01,
-        "change_str": "+0.01%"
+        "value": "5.35 %",
+        "change": -0.09,
+        "change_str": "-0.09%"
       }
     ],
     "series_dict": {
@@ -16539,14 +16539,10 @@
         },
         {
           "time": "2026-10-22",
-          "value": 1325.87
+          "value": 1325.34
         }
       ],
       "미국채 10년물 금리": [
-        {
-          "time": "2026-07-21",
-          "value": 4.63
-        },
         {
           "time": "2026-07-22",
           "value": 4.66
@@ -16806,13 +16802,13 @@
         {
           "time": "2026-10-21",
           "value": 5.15
+        },
+        {
+          "time": "2026-10-22",
+          "value": 5.04
         }
       ],
       "미국채 30년물 금리": [
-        {
-          "time": "2026-07-21",
-          "value": 5.13
-        },
         {
           "time": "2026-07-22",
           "value": 5.15
@@ -17072,40 +17068,44 @@
         {
           "time": "2026-10-21",
           "value": 5.44
+        },
+        {
+          "time": "2026-10-22",
+          "value": 5.35
         }
       ]
     }
   },
   "news": [
     {
-      "title": "오늘 한은 금통위 기준금리 결정…‘동결’ 전망 우세",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BNDlTV2xUSGJodlVRQzFTM3hBREJLUDVYODF0M1lHSTYwaWpLcm51UWRnRzlnbHNZMllyX01Hbm5FN1N4OTMwVU5WODZNVnNib1FHbUpLM2QyNVE?oc=5",
-      "summary": "오늘 한은 금통위 기준금리 결정…‘동결’ 전망 우세에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "\"PHP 치명적 결함 발견\"…KISA, 보안 업데이트 권고",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NSno5NnlpT2t5RlNtRGZ4dDFKVUJjVU5vWno3N3I0VFo2ZUktMVdJYVdfV1VVLUt0eGtOMkExMWxTNFZfSE5MUzRqckZ2YkZDbHdDLThIS2N2S2vSAWBBVV95cUxOdHZvb3hXZnlMTmFCcGFUS250UHNNSFNEcU11MGlGeHAxdVZkY2hvRXRIZUpfVXFrUlhIcDh6SmJINzRwOGo3SWE2WDNyVG8tRC01UHhIeDNyNUhxNVNkOFg?oc=5",
+      "summary": "\"PHP 치명적 결함 발견\"…KISA, 보안 업데이트 권고에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "웹사이트 해킹 비상에 유럽 주요 공공기관 접속 차단",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02cVVlMU13c2NnMHhqUHFnWXNsQ052UFNkY3pnUkdDeTNJTmRPU3BBdDdfeUZnaUZzNGxuTnlMem5ldU9pMEtNYUt5MHZGUVhmaW9XaW1zZjBFRHRDUTlWb0pHVU9nU3k1UE1GV3VvY3h6OTNw0gF0QVVfeXFMTVE3WDk3anUtRDZZUHlpdlVtbGlpWG1RaWp5bzBFWU53blVObTlwZFJfdENVOUFjS2g5RFVBOGk0MzFEZlUxTExQSnFNMEFDSzRuZlV1RGJzVld0WVhqaDRwQVVqYTJqRXVXU3laSkhVV3R5aHI?oc=5",
-      "summary": "웹사이트 해킹 비상에 유럽 주요 공공기관 접속 차단에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "신현송, 중립금리 상승 가능성 재차 시사…\"최종금리엔 열린 마음\"(종합)",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BYnI5a1R2MmNaQTl2Q1M0MHlBZFFuOHJDT21aMldRWHVNc3ZucTBobFJIOTlOV3BhZGVOU2VFVXZLSzRWRUtKRlhXQUY5NVdUS2hqaVFnRDI0YTZIc2U0UVRfM2NpZkVsVkZjOWRuX2w?oc=5",
+      "summary": "신현송, 중립금리 상승 가능성 재차 시사…\"최종금리엔 열린 마음\"(종합)에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "삼성E&A, 3Q 영업익 5천6억원·183.6%↑…연간 목표 조기 달성(종합)",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xbkhHY0syMm80T1djbnBmOWxSdlpBT0ZvWm9LLUh6UWJFa0d5SmZQQUZ5Zkgta2x6aHBQRFhTUVV1Z1IzZDhnZ2pUclhaOUJnaTJKNm5idnNNV2lieDdqLWhnX2VKNEpNcEx5YnZtMG1LUQ?oc=5",
-      "summary": "삼성E&A, 3Q 영업익 5천6억원·183.6%↑…연간 목표 조기 달성(종합)에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "\"환호는 딱 하루\" 냉온탕 오가는 코스피…찐반등까지 '산 넘어 산'",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80NVgyeXl5dFdTREJubGVLLVNPTjRrZ1VHQXFJX183YjVkMGpqQzFlSDJ4MmRrY3FVVU0tV3Y4RU1MbzByYzBhNTRWMWRfTnVMRFItSWFmV0pOQjYzYVF5RV9iZVc3UThB0gFuQVVfeXFMUHZjeGw3Z3hXcmVlYWpzbFdFQkJIY0dGdHFfVmcxNWx1RlNKMjItY0FINlFDeUdTdVBZZl9saHBlM1l3YUZXZGJDUmpJTWRjeGZDWHFXbmR5RWhFNEZYdmwxdWc3YW9HUEJlZ2g5S3c?oc=5",
+      "summary": "\"환호는 딱 하루\" 냉온탕 오가는 코스피…찐반등까지 '산 넘어 산'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "경제계, 내년 정책과제 10개 분야 119건 건의",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04UHVnY3lyUmZjMzU5b0lmWDZ4UDVad0c1TW83M3ZMeUxRV0FUcWlwczFVaGRHMFlIU3dsU0lXTHFvVTQ4MGo5UUdtUUxSdTJHc0hDdHhrQ2cwM1JleEJTek1LY3c?oc=5",
-      "summary": "경제계, 내년 정책과제 10개 분야 119건 건의에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "서울 아파트값 89주 연속 상승 '역대 최장'…외곽이 더 올랐다",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Pc01adURLZW9VV1lzQUF5S2VUZHJ1VzV3bkMxbXVpcHc1dFhyMGNjVkczT3hjTkpjbHZJaGZFd3FrRmRpT3lWZkdHTWlhNXpkX3dYTTRVTzBIdw?oc=5",
+      "summary": "서울 아파트값 89주 연속 상승 '역대 최장'…외곽이 더 올랐다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[뉴욕마켓워치] 美 국무부 걸프 전역 대피 명령 해프닝…주식↑채권·달러↓",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hb1JKTDB1eUtJc1h4b2ZmWVU2ZVZEX29GUmI2bjZyLU5sQXk2WkV4a2FKN0FHYlVLa0NXQVVvUlI4RU42cFFaUEc1aU5lVlhOTEd2S0Nma3FRMHlQMzBpQ3JielV0cE9ySTNXMHpTRy0?oc=5",
-      "summary": "[뉴욕마켓워치] 美 국무부 걸프 전역 대피 명령 해프닝…주식↑채권·달러↓에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "국감 도마 오른 '1조 사내대출'…이억원·이찬진 한목소리 \"규제 공감, 실무 검토\"",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUlnV1EyWXh5YmJrTXp4bWMySEh3T3d1b0Z5Rk4yR1R2ZVptUG9rclRSOFF3dVNWdHNZcC1qRTBTQW5XRW9tLV93ckZONHFJenBJdVhvaWZjWXFjbWc2UEJrY2VQRDRHU283QkpESkZoc3JsOC1yU0FUNTUzVzdSaVJzcw?oc=5",
+      "summary": "국감 도마 오른 '1조 사내대출'…이억원·이찬진 한목소리 \"규제 공감, 실무 검토\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "테슬라·스페이스X 합병 시동…'4600조' 초대형 AI 공룡 탄생하나",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oN3ozN0QwQmhwV1pXRE16NFo2RFNSbnNhVVdBYkZFVkdsdmFyT2FTdlpTUUMzc0d5UEl5T2YzWkJuSTJBTWF3cWt6ZjFrUV85ZTg5d2hUXzRjRE13YWNvaEQ0YjRud3Qx0gFuQVVfeXFMTXF5RTE5akp4U3NxbjA0VnVpa1EweC1PYjdQcG5MLXRyRmR6SGhlS3o5ZWpGbUJnRTd4MDEzSEZ5N1ZHOF9MdXI3ME1QNzlLdTBlRGlRWW91am9YMjNGZVhEOTJLSnk1ZWRNcnlGVlE?oc=5",
-      "summary": "테슬라·스페이스X 합병 시동…'4600조' 초대형 AI 공룡 탄생하나에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "코스피 5500까지 떨어졌는데... 與대변인 \"내년 1만피 기대\"",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV3R4T1VtajVLTXhhTmFxOHE0anU2dG5KRUY1Y25nLVBFSF9seVBJQ0Zva01VYkZlU0VrNS05N0JQNzdYT0tnSXA2c216b2pCTnFMbjQ1R0FkX0RmZFYwRVg1SUtoZEV5a2tQbF9HaURoSXkwcVhyLVZ3QU1DUTN4ekRreTJ2dw?oc=5",
+      "summary": "코스피 5500까지 떨어졌는데... 與대변인 \"내년 1만피 기대\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
       "title": "삼성전기, 엔비디아 핵심 공급사 됐다…AI 기판 장기 공급",
@@ -17113,19 +17113,19 @@
       "summary": "삼성전기, 엔비디아 핵심 공급사 됐다…AI 기판 장기 공급에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "김민석 \"가상자산 과세 여부, 올해 집중 논의해 결론\"",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE00ZXZYQm9kbC1aOGxUeVFqS000QmNqRDZ4SE5QVmZ0dEhvWERzVHdjZzV6MjlrQmVTWXJ1MWFYam45Z1pUQlpOeUdMZmxmZXZZY05LTGxMZUo5cm5jbkp4ZDhWeFdYU2pJTHB1YkkwX0twUQ?oc=5",
-      "summary": "김민석 \"가상자산 과세 여부, 올해 집중 논의해 결론\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "\"테슬라·스페이스X 합병, 내년 상반기 발표 움직임\"",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6N1BtZ2ZiLUFvdF9zelNOVVhLS2IyVmp2Q21zQnNLUDBEa2Z6SkVaZm5vMVN3TkhnQldhNHFqODYyOG90bHhFd19tS3RYeElMXzBfMmxJVGdXRlZKNXkyRjFyN3JXOFU?oc=5",
+      "summary": "\"테슬라·스페이스X 합병, 내년 상반기 발표 움직임\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "“성과급 말고 월급받고 싶습니다”…대기업 실적 잔치 속 이자도 버거운 中企",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0Y3A2MjAzLV85SWVxWlNnSUgwcGJ3SGRtREZGcVhtMVdPQWh6a3lWR250SU1rRTBnajd2NkFpemJlUWxBQk1INS05TFY4MlRMb3cwNw?oc=5",
-      "summary": "“성과급 말고 월급받고 싶습니다”…대기업 실적 잔치 속 이자도 버거운 中企에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "금융위원장·금감원장, ‘레버리지 ETF’ 지적에 재차 사과 “무거운 마음”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XWEhRSVI2VTBscVpvZ1VEQ0Q5ZGZQNFpDSDBoWTZzU3RUSXI0ZzVyS0dZRkhVbGdKR3RxMUZrTXVGTzJtWmRreVdCTlBwNjlyQ2Zsa0RETTFDUHc?oc=5",
+      "summary": "금융위원장·금감원장, ‘레버리지 ETF’ 지적에 재차 사과 “무거운 마음”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "AI 기업 호실적에 삼전닉스 7% 급등…코스피 '매수 사이드카'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UTUs2Qkp5azVHSUs1dFM4czhWWnk2Z01nX19MNXZNd2Z2bVRpeHNfZDRUbVhiN2dGMXhJUmtXNVVFaUtFcTYwbzYzZXd1cTFIU19QR1FaV040Zw?oc=5",
-      "summary": "AI 기업 호실적에 삼전닉스 7% 급등…코스피 '매수 사이드카'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "‘한국 국익’ 끌어다쓴 트럼프…\"70조 투자?\" 현지선 ‘되겠나’",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wV05oZU5icFNEdmpYZV9aM1J6M1MwTnA5enRoZGYyejFSdzFtRmFYQVpDdFNZV3FEeEsyREpySnM0SV9jZFZkd0lMcVB6MFhoaDgzWA?oc=5",
+      "summary": "‘한국 국익’ 끌어다쓴 트럼프…\"70조 투자?\" 현지선 ‘되겠나’에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

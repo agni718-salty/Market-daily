@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23 09:22 KST",
+  "updated_at": "2026-10-23 21:53 KST",
   "indices": {
     "summary": [
       {
@@ -22,9 +22,9 @@
       },
       {
         "name": "코스피",
-        "price": "5,373.24",
-        "change": -160.53,
-        "change_pct": "-2.90"
+        "price": "5,550.30",
+        "change": 16.53,
+        "change_pct": "+0.30"
       }
     ],
     "candles_dict": {
@@ -16264,9 +16264,9 @@
         {
           "time": "2026-10-23",
           "open": 5403.17,
-          "high": 5433.77,
+          "high": 5550.3,
           "low": 5305.98,
-          "close": 5373.24
+          "close": 5550.3
         }
       ]
     }
@@ -16275,21 +16275,21 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,324.48 원",
-        "change": -1.11,
-        "change_str": "-1.11원"
+        "value": "1,324.58 원",
+        "change": -1.01,
+        "change_str": "-1.01원"
       },
       {
         "name": "미국채 10년물 금리",
-        "value": "4.95 %",
-        "change": -0.19,
-        "change_str": "-0.19%"
+        "value": "4.97 %",
+        "change": 0.02,
+        "change_str": "+0.02%"
       },
       {
         "name": "미국채 30년물 금리",
         "value": "5.29 %",
-        "change": -0.15,
-        "change_str": "-0.15%"
+        "change": 0.0,
+        "change_str": "+0.00%"
       }
     ],
     "series_dict": {
@@ -16560,14 +16560,10 @@
         },
         {
           "time": "2026-10-23",
-          "value": 1324.48
+          "value": 1324.58
         }
       ],
       "미국채 10년물 금리": [
-        {
-          "time": "2026-07-22",
-          "value": 4.66
-        },
         {
           "time": "2026-07-23",
           "value": 4.7
@@ -16827,13 +16823,13 @@
         {
           "time": "2026-10-22",
           "value": 4.95
+        },
+        {
+          "time": "2026-10-23",
+          "value": 4.97
         }
       ],
       "미국채 30년물 금리": [
-        {
-          "time": "2026-07-22",
-          "value": 5.15
-        },
         {
           "time": "2026-07-23",
           "value": 5.17
@@ -17093,60 +17089,64 @@
         {
           "time": "2026-10-22",
           "value": 5.29
+        },
+        {
+          "time": "2026-10-23",
+          "value": 5.29
         }
       ]
     }
   },
   "news": [
     {
-      "title": "솔리다임 美 IPO 철회…블룸버그 전문가 \"중복상장 무조건 막아선 안 돼\"",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NV3liRnpPSVU4c2ZoMmFSYjNLb3JUTElxdlJWTmRrTmRlYzhWOGw5bVcwZzgyaWJNbDF0YTZ3dVY4YW1peDl4V1FoengyaUJUcEZHWTJkc3g2Zw?oc=5",
-      "summary": "솔리다임 美 IPO 철회…블룸버그 전문가 \"중복상장 무조건 막아선 안 돼\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "아마존 보안책임자 \"PHP 취약점 발견 나흘 전부터 해킹 시도 흔적 나와\"",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4WE5HZXE3c1diVnRNT0JGUGlSXzN6amNaeWxRLW9zdmNkcDY5ZnFScDhvSXFIR3VuUVdsUndoWjRaaXdkZU92S2I4aV9laTEyeEhTeHJ5OWV6X2l5Tzk5bnlHdG5uU3FyU0ZlbjFLUEh4S0400gF0QVVfeXFMUHZnUVpTekdFS21BcHlIMDQzOXVacl9aNVQzaWlrVWg0ZHhNUUduYUVWa2o3SjR1UlJia2R0enZIckxPMWJBVzRiZFJ5WFVTWGdEMFBPcDJibWpfSFhVa0Z6Y3AzSjFZd3MzMWVPU2szdDJiQ0E?oc=5",
+      "summary": "아마존 보안책임자 \"PHP 취약점 발견 나흘 전부터 해킹 시도 흔적 나와\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "PHP 취약점 뭐길래…악용 땐 서버 장악 위험",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96cnR1WEw1Y2M3SlJUSmdVZ3BDRUZIVHNaVy03Sm9kSFk1bWVXUWFTZURMY20xdkl3TUJOX3RIQ0dJMU41Q1NDTkZNTWdWVG1RT0tSX0pJeV9HQ00yVWs3ajQ3VUNlZw?oc=5",
-      "summary": "PHP 취약점 뭐길래…악용 땐 서버 장악 위험에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[속보] SK하이닉스, 솔리다임 IPO 검토 중단···“금융시장 상황 고려”",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95d2NwbldPeS1TUW1XU1AxRktkMEE0Q2xiX1QzbEJKU2hhVllEYzBNU1ZKY21ZODRPZHMwZXZzT2xaR0NUZUdCMVdGZV9nTXl4aXZZZllkT054QdIBX0FVX3lxTE1BU3hlUDk3OEx1MkF0MUFJZ1puVjIzX1RBNFQxREhYRkJmRmlnME5Xb3I4QmNCVmRCT21KZ3FzNXVpOXpFa2wyVWpCRGY5X2IwS0JBbWVIa0dKc1hjcGc4?oc=5",
+      "summary": "[속보] SK하이닉스, 솔리다임 IPO 검토 중단···“금융시장 상황 고려”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "나스닥, AI 불안 재고조로 4개월 만에 최대 낙폭",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIbVNOOE5NUHV2bTBGY3FiWUpyZ0FmMzl1WlBUeWdYN0QyVW1wUkM4b0hacm42QktneExIQWVfQi1OanhNRlVqRmJXd21YRHV0cjBmX2ZnUjdWbGh5bHc?oc=5",
-      "summary": "나스닥, AI 불안 재고조로 4개월 만에 최대 낙폭에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "신현송 \"원화 강세, 韓 신뢰 강화 반영…실효환율은 여전히 약세\"(종합)",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UaXhDRWxTVGh0SEo1aXZMQTUycHJ0LU5SaHl1T2ozTWlXZ2lrSDV4ZVY0bGZ4eXFtWVJWRzM1ZnprcThHdXBnVUlwaHAtdzlYcGE3UWlwTnFDZS1tX3UxSFNjS2pCeEtqNE9ETUo5Vkk?oc=5",
+      "summary": "신현송 \"원화 강세, 韓 신뢰 강화 반영…실효환율은 여전히 약세\"(종합)에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "신현송, 중립금리 상승 가능성 재차 시사…\"최종금리엔 열린 마음\"(종합)",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BYnI5a1R2MmNaQTl2Q1M0MHlBZFFuOHJDT21aMldRWHVNc3ZucTBobFJIOTlOV3BhZGVOU2VFVXZLSzRWRUtKRlhXQUY5NVdUS2hqaVFnRDI0YTZIc2U0UVRfM2NpZkVsVkZjOWRuX2w?oc=5",
-      "summary": "신현송, 중립금리 상승 가능성 재차 시사…\"최종금리엔 열린 마음\"(종합)에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "이 대통령, 한일재계회의 대표단 접견…\"공급망 협력 필수\"",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXd19DMmRFaU9jUlRKbVV0dVRid3Y4WTN1cklqN2FFSXlEV0lhdmsyeUduUnNHVnVoYlF5Vzhpbnc5U1NGdWN6bmZ3NU10bWJmZElFMzY5TlhwaGhEZVp6QTc3MThCUTQ?oc=5",
+      "summary": "이 대통령, 한일재계회의 대표단 접견…\"공급망 협력 필수\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "\"SK하닉 주주에 큰 선물 나오나\"…자사주 매입 끝, 반등은 언제쯤?",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95OUVDN1RfWVRDcmN5UUhrV0J2bDNham9YZFRTRnRBTmtFczFkZTQtc09BWTFfWnh6WnNRWmhNOFVhcUVFWjViQWhxNkhVcTk4LTF1RHlSQjMyNk0wRmNzOWFkNzU0UHJf0gFuQVVfeXFMUDRTVF9ybmFmNENsMDFzU0tPY0M2MXJKTzRCaTloQzZJSWpNSGtQbGkxNW1tWVp0emZOYXhXMXRJRW1Oa2Z3MmNlSEkycFRvRzRoU1VQd0dPelRld1dmd0F6aDhqRU94NDVXWjBYdlE?oc=5",
-      "summary": "\"SK하닉 주주에 큰 선물 나오나\"…자사주 매입 끝, 반등은 언제쯤?에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "'전약후강' 코스피, 급락 딛고 5500선 사수…코스닥 1% 넘게 하락",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oMUNETTZfc2tabGo3Y2hLYnFQenpuX1ViYkNDWnRKbm01dnNFODRaU2dUMUx1aFlyX1hnU0MtaUQwQjZxTG9BMUlNaTFBMG44cW50TTI1akUyUQ?oc=5",
+      "summary": "'전약후강' 코스피, 급락 딛고 5500선 사수…코스닥 1% 넘게 하락에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "스페이스X-테슬라 합병 검토… ‘머스크의 AI 제국’ 공식화",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KNFpFNFBxbnJqcEZCMDlJcnA3cWdHZGxyZzRiemdiLWFma201UW5aU3JjUjFkYkhXRTdPT3Z5dzB6TjNmQzMtWGE2cHJfQkoxYlp0UWNUazIzQ2dub0xqcmVmZzY0bUlrNFI4LXAxOERSZWdKeXfSAWZBVV95cUxOb05SeXI0N3BHWHRIN3pnU3ZVWnBNYUFLV3ZNMlc4MG5WR0owM0lpWkJkcUxKa1FBSDR6dHNidXpwdjZoR0NEMVp0NmNUenRuOHZKUXdDVlZOTE42YThfdDZEcmVlZEE?oc=5",
-      "summary": "스페이스X-테슬라 합병 검토… ‘머스크의 AI 제국’ 공식화에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "\"은행 대신 잔금 빌려드려요\" '집주인 대출' 매물 80배 급증",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80YTk3NlQ5SVhXWWVlZXVQWk5HM3BQVVVwQ0RheHlyYkpaSV9aaFBKMFdqQTNncHFZaUM2ZVpkTmJ5TDcwdmxPTkNjaUVyQXh5MkJSYw?oc=5",
+      "summary": "\"은행 대신 잔금 빌려드려요\" '집주인 대출' 매물 80배 급증에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "“외국인 38조 던졌는데 환율은 하락?”…코스피 반등 신호일까? [잇슈 머니]",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5veHMwUkFxRjNIS25aRkJWbkU0V1E2c0pkM19PZl9aM0RfdkVmTk4ybkh5d3FyZ183NTFFd1NEZlRxRk9XSmhxXzFyXzRobUVaQ1VlOTNVTk83REU?oc=5",
-      "summary": "“외국인 38조 던졌는데 환율은 하락?”…코스피 반등 신호일까? [잇슈 머니]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "국토부 장관 \"집값 상승폭 둔화...연말 시장 안정 기대\"",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5id1E1OUx4X3AwUHhEUUtDVkdkYnRHMHpjQlJqZ0pKN2l4OWNEaWs3OXBQTGZxZFJSMXhTSDdMT0ZxY1RsUXM3WW5Bcl9wUllIR3doZk52aTVsMUtkd0E?oc=5",
+      "summary": "국토부 장관 \"집값 상승폭 둔화...연말 시장 안정 기대\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "영풍, 고려아연 상대 주주대표소송 1심서 패소",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tX2pfcGF5aWREVTc4YnZIbzVtMkpHc3VCb0xfNm1MQUV0SGZBSng1d0RzY1RGNTMya2M3MkRmbEVQQktnOURSc19EaEc5RXZUMDU0ZnY5bUxCZUVNaGRaM1RnSm96ZFk?oc=5",
-      "summary": "영풍, 고려아연 상대 주주대표소송 1심서 패소에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "강릉 ITS 총회 폐막...\"미래 모빌리티 선도도시로\"",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kU1l6TlF4Ui1qS2dyTDQ4YzRSRVFYWjRFZ01iZkdDSENFTG1VS29Yc0FGdUJ5bV9BNUhDc3dKRXhDTjVraUkyWml3TzdsckcxNUREd2M3ZV93TE1EbXc?oc=5",
+      "summary": "강릉 ITS 총회 폐막...\"미래 모빌리티 선도도시로\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[단독] 발전사 \"6500억 손실 떠안을판\"…지방전기료 인하 추진에 부글",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNNnJFZFk5MXp3OGduYnV5eUl3TWZFaHFUM1VlLVlkdktFWmRBLThmRFRWQzhHdEpxMFFva3RVeDFaM3ZobTAyeDA4N2JTbFI4elBDVVBB?oc=5",
-      "summary": "[단독] 발전사 \"6500억 손실 떠안을판\"…지방전기료 인하 추진에 부글에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "‘흑백요리사’ 손종원 셰프, 신세계 임원 됐다…미쉐린 별 따내",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPSkl2NU90U0Y0Y3pDcjZjVkVoTlV2Vk9iOGNnYlo5X2FyazBYblV1bC1BZTlnQW5YWVZQVkxzQnpCWldndk5zN3BlNEIwX2ZSenF3Y0c0WER0UWFfLVpGU1ZtOFp6T25wZUFtN3BwUTN3Zw?oc=5",
+      "summary": "‘흑백요리사’ 손종원 셰프, 신세계 임원 됐다…미쉐린 별 따내에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "금감원 \"8월 은행 원화 대출 연체율 0.7% 육박\"",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42MmV0LVBFWlF2Mk41T0FuaG5lNjhhbERpcXpISkYya1ZsYUpJV3Z5blRKQmN3TEdVOUJzMklweDBWSlBWMkNPcjRWdUZVSFUtZHZmWEJxRHRVMnREUXc?oc=5",
-      "summary": "금감원 \"8월 은행 원화 대출 연체율 0.7% 육박\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "배경훈 \"AIDC 인허가 패스트트랙 필요‥세제혜택도 신속 협의\"",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rMUV0aXlFUG1kRGROaXdRRExxNEZRaGFRVTM3d09VbXF5NVlDejdnNnhfWWkwNHpnQ0w0S0xUZlR6b09LQ0x0R2t6MUVyVk42NmVoSjl0UUJBWE85VVBRVjl6MmdNdzNJZEM1QVdGZWlFQ1py0gF0QVVfeXFMUDVCbEN4UVdxQXFFbk0yR1NjbzMwYXI4M3c0Y2duZ05EdGdCTWJiTzlLNDdUeU03a2xaOXlweFFhZE5zaXNPaWdFWGo3cG1HcWxfQ3VRYkV3elFTdHFmSVk5WWVQY0lWc3UwdEZDVVU1c0drS2w?oc=5",
+      "summary": "배경훈 \"AIDC 인허가 패스트트랙 필요‥세제혜택도 신속 협의\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

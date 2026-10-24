@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-10-23 21:53 KST",
+  "updated_at": "2026-10-24 09:15 KST",
   "indices": {
     "summary": [
       {
         "name": "S&P 500",
-        "price": "7,663.43",
-        "change": -93.74,
-        "change_pct": "-1.21"
+        "price": "7,623.68",
+        "change": -39.75,
+        "change_pct": "-0.52"
       },
       {
         "name": "나스닥",
-        "price": "26,008.86",
-        "change": -694.0,
-        "change_pct": "-2.60"
+        "price": "25,955.34",
+        "change": -53.52,
+        "change_pct": "-0.21"
       },
       {
         "name": "다우 존스",
-        "price": "52,867.98",
-        "change": 11.89,
-        "change_pct": "+0.02"
+        "price": "52,215.16",
+        "change": -652.82,
+        "change_pct": "-1.23"
       },
       {
         "name": "코스피",
@@ -29,13 +29,6 @@
     ],
     "candles_dict": {
       "S&P 500": [
-        {
-          "time": "2023-10-23",
-          "open": 4210.4,
-          "high": 4255.84,
-          "low": 4189.22,
-          "close": 4217.04
-        },
         {
           "time": "2023-10-24",
           "open": 4235.79,
@@ -5299,16 +5292,16 @@
           "high": 7702.94,
           "low": 7637.36,
           "close": 7663.43
+        },
+        {
+          "time": "2026-10-23",
+          "open": 7637.18,
+          "high": 7660.15,
+          "low": 7612.07,
+          "close": 7623.68
         }
       ],
       "나스닥": [
-        {
-          "time": "2023-10-23",
-          "open": 12930.85,
-          "high": 13143.22,
-          "low": 12848.83,
-          "close": 13018.33
-        },
         {
           "time": "2023-10-24",
           "open": 13084.99,
@@ -10572,16 +10565,16 @@
           "high": 26359.41,
           "low": 25918.09,
           "close": 26008.86
+        },
+        {
+          "time": "2026-10-23",
+          "open": 25893.95,
+          "high": 26111.62,
+          "low": 25866.15,
+          "close": 25955.34
         }
       ],
       "다우 존스": [
-        {
-          "time": "2023-10-23",
-          "open": 32993.02,
-          "high": 33234.85,
-          "low": 32892.19,
-          "close": 32936.41
-        },
         {
           "time": "2023-10-24",
           "open": 33089.64,
@@ -15845,6 +15838,13 @@
           "high": 52927.88,
           "low": 52508.38,
           "close": 52867.98
+        },
+        {
+          "time": "2026-10-23",
+          "open": 52696.7,
+          "high": 52696.7,
+          "low": 52055.1,
+          "close": 52215.16
         }
       ],
       "코스피": [
@@ -16275,21 +16275,21 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,324.58 원",
-        "change": -1.01,
-        "change_str": "-1.01원"
+        "value": "1,323.66 원",
+        "change": -1.93,
+        "change_str": "-1.93원"
       },
       {
         "name": "미국채 10년물 금리",
-        "value": "4.97 %",
-        "change": 0.02,
-        "change_str": "+0.02%"
+        "value": "4.99 %",
+        "change": 0.03,
+        "change_str": "+0.03%"
       },
       {
         "name": "미국채 30년물 금리",
-        "value": "5.29 %",
-        "change": 0.0,
-        "change_str": "+0.00%"
+        "value": "5.32 %",
+        "change": 0.03,
+        "change_str": "+0.03%"
       }
     ],
     "series_dict": {
@@ -16560,7 +16560,7 @@
         },
         {
           "time": "2026-10-23",
-          "value": 1324.58
+          "value": 1323.66
         }
       ],
       "미국채 10년물 금리": [
@@ -16826,7 +16826,7 @@
         },
         {
           "time": "2026-10-23",
-          "value": 4.97
+          "value": 4.99
         }
       ],
       "미국채 30년물 금리": [
@@ -17092,7 +17092,7 @@
         },
         {
           "time": "2026-10-23",
-          "value": 5.29
+          "value": 5.32
         }
       ]
     }
@@ -17104,49 +17104,49 @@
       "summary": "아마존 보안책임자 \"PHP 취약점 발견 나흘 전부터 해킹 시도 흔적 나와\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[속보] SK하이닉스, 솔리다임 IPO 검토 중단···“금융시장 상황 고려”",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95d2NwbldPeS1TUW1XU1AxRktkMEE0Q2xiX1QzbEJKU2hhVllEYzBNU1ZKY21ZODRPZHMwZXZzT2xaR0NUZUdCMVdGZV9nTXl4aXZZZllkT054QdIBX0FVX3lxTE1BU3hlUDk3OEx1MkF0MUFJZ1puVjIzX1RBNFQxREhYRkJmRmlnME5Xb3I4QmNCVmRCT21KZ3FzNXVpOXpFa2wyVWpCRGY5X2IwS0JBbWVIa0dKc1hjcGc4?oc=5",
-      "summary": "[속보] SK하이닉스, 솔리다임 IPO 검토 중단···“금융시장 상황 고려”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "신현송 \"원화 강세, 韓 신뢰 강화 반영…실효환율은 여전히 약세\"(종합)",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UaXhDRWxTVGh0SEo1aXZMQTUycHJ0LU5SaHl1T2ozTWlXZ2lrSDV4ZVY0bGZ4eXFtWVJWRzM1ZnprcThHdXBnVUlwaHAtdzlYcGE3UWlwTnFDZS1tX3UxSFNjS2pCeEtqNE9ETUo5Vkk?oc=5",
-      "summary": "신현송 \"원화 강세, 韓 신뢰 강화 반영…실효환율은 여전히 약세\"(종합)에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "이 대통령, 한일재계회의 대표단 접견…\"공급망 협력 필수\"",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXd19DMmRFaU9jUlRKbVV0dVRid3Y4WTN1cklqN2FFSXlEV0lhdmsyeUduUnNHVnVoYlF5Vzhpbnc5U1NGdWN6bmZ3NU10bWJmZElFMzY5TlhwaGhEZVp6QTc3MThCUTQ?oc=5",
-      "summary": "이 대통령, 한일재계회의 대표단 접견…\"공급망 협력 필수\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "'전약후강' 코스피, 급락 딛고 5500선 사수…코스닥 1% 넘게 하락",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oMUNETTZfc2tabGo3Y2hLYnFQenpuX1ViYkNDWnRKbm01dnNFODRaU2dUMUx1aFlyX1hnU0MtaUQwQjZxTG9BMUlNaTFBMG44cW50TTI1akUyUQ?oc=5",
-      "summary": "'전약후강' 코스피, 급락 딛고 5500선 사수…코스닥 1% 넘게 하락에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "\"은행 대신 잔금 빌려드려요\" '집주인 대출' 매물 80배 급증",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80YTk3NlQ5SVhXWWVlZXVQWk5HM3BQVVVwQ0RheHlyYkpaSV9aaFBKMFdqQTNncHFZaUM2ZVpkTmJ5TDcwdmxPTkNjaUVyQXh5MkJSYw?oc=5",
-      "summary": "\"은행 대신 잔금 빌려드려요\" '집주인 대출' 매물 80배 급증에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
       "title": "국토부 장관 \"집값 상승폭 둔화...연말 시장 안정 기대\"",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5id1E1OUx4X3AwUHhEUUtDVkdkYnRHMHpjQlJqZ0pKN2l4OWNEaWs3OXBQTGZxZFJSMXhTSDdMT0ZxY1RsUXM3WW5Bcl9wUllIR3doZk52aTVsMUtkd0E?oc=5",
       "summary": "국토부 장관 \"집값 상승폭 둔화...연말 시장 안정 기대\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "강릉 ITS 총회 폐막...\"미래 모빌리티 선도도시로\"",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kU1l6TlF4Ui1qS2dyTDQ4YzRSRVFYWjRFZ01iZkdDSENFTG1VS29Yc0FGdUJ5bV9BNUhDc3dKRXhDTjVraUkyWml3TzdsckcxNUREd2M3ZV93TE1EbXc?oc=5",
-      "summary": "강릉 ITS 총회 폐막...\"미래 모빌리티 선도도시로\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "애플 첫 폴더블폰 '아이폰 듀오' 곳곳서 품절…흥행 우려 불식",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8ydHlJak44OGVBbzhYcUJLM0hoYmZ3XzJRb1BHdVk0T1c1MDdKRXUybHZUMVBFZDVDNld6VW9EZm1mZVYzSnJiSGZxME9aMlhCUWo3VUJ2dDRfS1ZIMExqaDhB?oc=5",
+      "summary": "애플 첫 폴더블폰 '아이폰 듀오' 곳곳서 품절…흥행 우려 불식에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "‘흑백요리사’ 손종원 셰프, 신세계 임원 됐다…미쉐린 별 따내",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPSkl2NU90U0Y0Y3pDcjZjVkVoTlV2Vk9iOGNnYlo5X2FyazBYblV1bC1BZTlnQW5YWVZQVkxzQnpCWldndk5zN3BlNEIwX2ZSenF3Y0c0WER0UWFfLVpGU1ZtOFp6T25wZUFtN3BwUTN3Zw?oc=5",
-      "summary": "‘흑백요리사’ 손종원 셰프, 신세계 임원 됐다…미쉐린 별 따내에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "테슬라·스페이스X 합병으로 일론 머스크 꿈 다가서나… AI 제국 완성해 화성 도시 건설 박차",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZU9wSW1kWkxzRFFycE5vVU1aYmtmbGRIQkVpbnZtSTBpQUY2TTNmdTVsUnBNUXNNNi1LeUtHdHJndWEtNW56cmFJOTNxNkFZSU84c1o4OTYxcFVIR2JBV3ZqdTY5QTRFTXF2SU9paG8tdUlYWUhybTlMSkNiRU9kbUFCWHFuU2xLN2ZybtIBoAFBVV95cUxQUDgwemlpcWVCLXZQaC1iVktqVjNSZUVSZlpPNzM5bUxVNEZHVmkyMWk2N3J0MVdLX1l5OFg1MktEa0FhVGlIZURhdkI1ZS1wVUFYQk42aXhSMm5Ha2FzX1FKTVh5TTcxUXFYRHV1c1I3SHlSVXo5UFZCbU16RTdTY2VaU3B3Y0J1TzJ5aGFKYjVYb0FnRXFpMWlVZExOLVNE?oc=5",
+      "summary": "테슬라·스페이스X 합병으로 일론 머스크 꿈 다가서나… AI 제국 완성해 화성 도시 건설 박차에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "배경훈 \"AIDC 인허가 패스트트랙 필요‥세제혜택도 신속 협의\"",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rMUV0aXlFUG1kRGROaXdRRExxNEZRaGFRVTM3d09VbXF5NVlDejdnNnhfWWkwNHpnQ0w0S0xUZlR6b09LQ0x0R2t6MUVyVk42NmVoSjl0UUJBWE85VVBRVjl6MmdNdzNJZEM1QVdGZWlFQ1py0gF0QVVfeXFMUDVCbEN4UVdxQXFFbk0yR1NjbzMwYXI4M3c0Y2duZ05EdGdCTWJiTzlLNDdUeU03a2xaOXlweFFhZE5zaXNPaWdFWGo3cG1HcWxfQ3VRYkV3elFTdHFmSVk5WWVQY0lWc3UwdEZDVVU1c0drS2w?oc=5",
-      "summary": "배경훈 \"AIDC 인허가 패스트트랙 필요‥세제혜택도 신속 협의\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "뉴욕증시 하락 출발…“AI 관련 종목 매도세 이후 신중한 분위기”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NSl9QZ2hna21RZ2RRcDUxRjBrWUZFZ3lZeGdaeHlMZjluNHRSN2VXUkk0YTJncW1sR0UzY0I1RkVndzFvX0lqS2dvMWJuRGhHdGJVQzkteVFvcnc?oc=5",
+      "summary": "뉴욕증시 하락 출발…“AI 관련 종목 매도세 이후 신중한 분위기”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "솔리다임 상장 접자 '환호'…SK하이닉스, 하루 만에 '급반등' [종목+]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80allNd3lpWC1pb1ZtVFY3czJNb2RlQklyMVJNZThmTFJNT3hFOFgtTDRLNHlpZDN2SlI4QXRIUFhJa25pcTJQMm1nVzJheER2T3pyd3NRVVFRUQ?oc=5",
+      "summary": "솔리다임 상장 접자 '환호'…SK하이닉스, 하루 만에 '급반등' [종목+]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "\"美 국채금리 박스권 이탈 임박 가능성…FOMC가 촉매될 것\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vWW4zT01nTm5PS1RuQ3FBcTZLRmc4LW1SR01EOV9fQXFFbVNrUzdMSEtaWXFESG5SN1BvbmwxUzNwNEV4c0N6RXdxZ2FmeE5BNXhaRjgyWTk4QmxBMzV4alNEaks2YV9sMHpyRlJmQUw?oc=5",
+      "summary": "\"美 국채금리 박스권 이탈 임박 가능성…FOMC가 촉매될 것\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "브렌트유 117달러 돌파…중동 전쟁 격화 우려",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PZXVBM2tBakpQT05tVnpLUnluWWp3eXNwR2FBRERON19KQXVOZ3lCMXpLSEVlaFV4dmNkZVlVOWIxYU9CWkNNZm9qS1Nvb0k1TWJZS1VOMmlMcnFROVBGVy15WFZJck0?oc=5",
+      "summary": "브렌트유 117달러 돌파…중동 전쟁 격화 우려에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "코스피 3% 급락에 5300선…AI 자금조달 우려, 빅테크로 번지나",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uMW85WFhaTl9PcVctN09ZRlpmUms4TzhrWHNia2x6Ykg3NExNc2NvOGVxYXl5d2UtYTBBblRNR3VkM1dhN01zOFktYzAwaXpNWVQyNUIwTWRKU0dadTZ5M2NLY3VuX1k?oc=5",
+      "summary": "코스피 3% 급락에 5300선…AI 자금조달 우려, 빅테크로 번지나에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "미쉐린 별 2개 품은 손종원 셰프, 신세계 임원 됐다…36명 중 유일",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uN3lpZmNnNDBwSVE2NEJmSnY1RVgyTlJ3UGplRllsanlJOGhEbHhyVW5rbFVWdkxCeE5IcVRKWUtvSFlBQWlzOVc0Vng1a3VZZnRiQndaTmpiN1RLd0VMTU9vWWJlSktBUkE?oc=5",
+      "summary": "미쉐린 별 2개 품은 손종원 셰프, 신세계 임원 됐다…36명 중 유일에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

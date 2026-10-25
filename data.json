@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25 21:48 KST",
+  "updated_at": "2026-10-26 08:47 KST",
   "indices": {
     "summary": [
       {
@@ -16275,9 +16275,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,325.40 원",
-        "change": -0.59,
-        "change_str": "-0.59원"
+        "value": "1,323.75 원",
+        "change": -2.24,
+        "change_str": "-2.24원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -16564,7 +16564,7 @@
         },
         {
           "time": "2026-10-25",
-          "value": 1325.4
+          "value": 1323.75
         }
       ],
       "미국채 10년물 금리": [
@@ -17103,54 +17103,54 @@
   },
   "news": [
     {
-      "title": "삼전닉스 3분기 영업익 180조원대 전망…‘추가 주주환원’에 쏠린 눈",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01N2RwVUtxeDhnUmttU05EeXdadllxSFRVSG1mN0hxdVUzQ2FLS2xldTdmQ2ZIanVYeWNKRDN1Q3VXdVd1SVY2bEUzY0pPdUQzZFZiV0p4UThQMjZJYUx5MlRMNXFPYmVVcWc?oc=5",
-      "summary": "삼전닉스 3분기 영업익 180조원대 전망…‘추가 주주환원’에 쏠린 눈에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "상하위 20% 집값 격차 300배 육박…다주택 등 포함하면 더 확대",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQYlR4SndQSklvS19PYWkwdlJQby1EMzhKSjhldldjSUg0Snh1NWxtYjNwdGdRM3BFWE01MDFXSXNST1Q1RmMtdk1ZVWZ5U056R3YyQW9yZFZXSVFoUGN2Nl9RV1g0dWc?oc=5",
+      "summary": "상하위 20% 집값 격차 300배 육박…다주택 등 포함하면 더 확대에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "CJ제일제당, 햇반 출시 30년...\"한국 전통 찰진 밥으로 글로벌 시장 확대\"",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZeXJKM2VlaUdEaHEyYnV3YXZtUk9UUlc5S2ttX0NNbWNrZ0N2WjlyUXhtVjFSZ1dhdFpPNTk3R2I1SmFfOUZPeE5nWW9yU3NYb2ZwZzEyZ3NKUlhGYnc?oc=5",
-      "summary": "CJ제일제당, 햇반 출시 30년...\"한국 전통 찰진 밥으로 글로벌 시장 확대\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "골드만삭스, 코스피 목표가 하향...\"60% 상승 여력\"",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZQzU2WVM2SWtfNEZ1cjd6ODNhc2R4ek1wSDRWQzFlc1NoaHpWdmxyZ0R0TDFYU3ozOUU5UkhPUEMzQndfazZSY18yV1JXRjZzLW8tQVhaUFdoQ1hwRnc?oc=5",
+      "summary": "골드만삭스, 코스피 목표가 하향...\"60% 상승 여력\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "포스코 노조, 내달 2일 무기한 파업 돌입 선언",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOT1RRdlBoSHZ0SmNHUm9aaW5CX0M0TW1hWkFrRkRpcWcxXzFJUkw0emRvLXhWUkN0VzBpTWw2MDJQT29XSi10OFJ6dEVKaXU4clQxTTVlY2VJTXBxZUVxYW1VR21FS0xPWWdDY3dXYVY?oc=5",
-      "summary": "포스코 노조, 내달 2일 무기한 파업 돌입 선언에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "“경상흑자, 독일·일본도 제쳤다”…그런데 코스피는 왜 안 오를까? [잇슈 머니]",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoSU5GNnZ5TkhLTVlnWmNmbkhoWG1BS0VlWnBXSXE2SnhfMzFhcUQ1SnFjOXp1Z3FFUDljQkg4VGZ5dFVnbktkNHJpNXF2dndrdVF0VnQ0YnJPMnc?oc=5",
+      "summary": "“경상흑자, 독일·일본도 제쳤다”…그런데 코스피는 왜 안 오를까? [잇슈 머니]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "한달새 10대그룹 시총 1100조 증발…‘삼전닉스’에서만 995조",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RWmdKT0dCVGFBNU5Gb3didEtkOUxhbzFWX0l6eXFSTElDSlg5Q0V1cVFHYWhqcGlFX19lY2tvRlZtRmpmaGU4Y1ItYnRvRWlu?oc=5",
-      "summary": "한달새 10대그룹 시총 1100조 증발…‘삼전닉스’에서만 995조에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "스페이스X, '슈퍼기업' 될까, 월가 줄호평...개장 전 알아야 할 5가지 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONE9KRjhMQlR5R05RRWNfdVVZbE95cGVRXzdLdXFrZFh1Um1rOFZlbTAtLTEwbk9QM3BJdzR6WGtRVHBneU04MzVvb0s3QXRsZzF4MzI4THpzZ0dYNlZ1WmNWS3RLZWFGWWRUaTZXeHI3VnFtVTRGbk03cXk5cXBVMw?oc=5",
+      "summary": "스페이스X, '슈퍼기업' 될까, 월가 줄호평...개장 전 알아야 할 5가지 뉴스에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "9천피보다 '이것' 더 좋다…주식·코인 '10조' 팔더니 결국",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPTHo3WEFZNnYybTlPV0pWbFBfdFAtZmdJQTNaMG93RnhIc2ZsTFptTGtDbTh0bGk4UEhfVUozdVBrd05oY3B5NUhNZ2FTdnZUTVNuYlZmZEtBUQ?oc=5",
-      "summary": "9천피보다 '이것' 더 좋다…주식·코인 '10조' 팔더니 결국에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "‘삼전닉스’ 실적에 주요국 금리 결정까지…이번주 ‘슈퍼위크’, 코스피 바닥 다지고 반등할까",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mOGdwalpPVC1rMlhzckQtSkRDdGFzNHpJTVVBMUFCYk52bHZESEdxaVpOdjNYdVdJZUFKc0Y4UHotVEdzSjJxNzRLenVKRGVqZEFucjNoQ1BsQdIBX0FVX3lxTFBEdGphTE5fNkFqdEdUbFpDSFJ2dlRRM21Ua3IwOTk1ZmVLRGNoWUt5WEtWVWt2bUZuekdOb1VIRGl6ai1Ic2gyWnVzTURQSThUTlFEbzloNmJDNUxfbXM4?oc=5",
+      "summary": "‘삼전닉스’ 실적에 주요국 금리 결정까지…이번주 ‘슈퍼위크’, 코스피 바닥 다지고 반등할까에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "(주간증시전망)솔리다임 상장 철회 촉각…코스피 반등 시험대",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6eTJRXzZEYVE1QndVd3Jqai1QaS1nMVI1RWx2c2xCTEV2NF9IWnZzRDYtVU1HNVNtTVVpYzVZM0lrbzF3OTFrWmNhczVuZWpoRGsxVzJnT3UwOFQ0RjN3?oc=5",
-      "summary": "(주간증시전망)솔리다임 상장 철회 촉각…코스피 반등 시험대에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "금감원, AI로 불법사금융 조직 추적‥등록 대부업체 불법영업 정황 포착",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YZkhXOE5zQm5PdW80VEp4aHJGemN4ejgySW51Q1lqUUR6dm5QcmdLVzBlX3ZSSFlhc1Jlbks2RWxrUXF1QUI1MWFOLXZkYV82TEw0TTJ0MG5uRDFWUmpOT0NwVDZKeEJJNjFpYllDTkg3WVdW0gF0QVVfeXFMT0ppQ2JIN1Fyb3FhQTh1bW1JUDdJaFNLWGlVNmFlcjFTcWhQcEdLdHZJSnNWbmlROUxwZDNNNU5KZmxpRDdKdVpYTDFmbndacVl0UFpYQ0Y3c19OSm5SZDdPRmhRV1lHNlhrX2plTm1JTzBrRlE?oc=5",
+      "summary": "금감원, AI로 불법사금융 조직 추적‥등록 대부업체 불법영업 정황 포착에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "골드만, 코스피 목표 1만2천→9천…“그래도 60% 이상 상승 여력”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54QlhwLVJEY2plU1ZxZnN3UFVicXZnbVFSa1hwbUt5OEZ6TE44R1kyTnRSaGU5Qm5pM25yWDhhck92TlU0b1B0a1ZPQXppQk9pbThpWktRUVRZdTQ?oc=5",
-      "summary": "골드만, 코스피 목표 1만2천→9천…“그래도 60% 이상 상승 여력”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "삼전닉스 197조 던진 외국인…조용히 쓸어담은 '종목' 뭐길래",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0ybzl6RUJuak5QWjhmdVJEeGpKb080RU5OOHlqcW83dDhPc0kxSnJWOFRhZFVlY3BVN3U0TWk2c1NzUnRhcExrV3Q5Y3I3QlB1NGx0WFRqTk1sdw?oc=5",
+      "summary": "삼전닉스 197조 던진 외국인…조용히 쓸어담은 '종목' 뭐길래에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "제조업 경기전망 둔화 속 반도체 ‘독주’…철강은 반등 기대",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HZjlUcGJ3YUdxNmlodG1TaHV1SW9zMy05Q0R0TllhUS1vakVsNTVZWXNwbkg5eE9xQTJFOUtybzZmMlA1R2JUOXVKMnJmaHd6YUVST3A3Y0J6UdIBX0FVX3lxTFBXWDk3aTEyQkRQQW1EN042QklRWmpMbHNHWUwyMmM3YW5IZnhNSk5RMUJwbldtREpXQmZyak5Ob0dYMDJVem1DOGlGZ0tkbUZFZUdQY0NId1BfNkU3VnNZ?oc=5",
-      "summary": "제조업 경기전망 둔화 속 반도체 ‘독주’…철강은 반등 기대에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "가상자산 과세 또 ‘유예’…청년 여론 의식해 조세원칙 허무나",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KTWF1dkcwOVRWWk5UbFhkVURNcG5XRWFaNUF4Z2RhQUZSNDI1bkNpbExNdDFKeURJQWdrOUgzSXBIbXBUMW9aSFJFSVZwbTRteDRqWXdxUW9hSndMMkUxYV9rSzl0OENXTnEtUTA4UzFuUQ?oc=5",
+      "summary": "가상자산 과세 또 ‘유예’…청년 여론 의식해 조세원칙 허무나에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "이 대통령 \"경상수지 흑자, 독·일 합친 규모 넘어서…기회의 물결\"",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sVHg2SkZVU0d4cnlXTUFDdks0S01oUnV6cUZJdlhrZkRhdDFqeHVNS3Ezcjd0clRRdnV1ZF9WVWFKUEowdXZJNWtfRWhyTmxGSXR4QnZlR0xIbjJGWjAzVks1ZXVXS1RZZnc?oc=5",
-      "summary": "이 대통령 \"경상수지 흑자, 독·일 합친 규모 넘어서…기회의 물결\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "단독 배달 하청구조가 키운 '먹튀'...\"책임도 검증도 없어\"",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsQ1JKVndtcFI1bTFUS3NYMWk1SkJHZDh6bWVnQkx5bUdRT181NDY3RmhleWtpWEZYamN0V3l5NUtzbHZtY0oweHVvRmF3T1RMLXJ4dDhuUFVNNl9YRmc?oc=5",
+      "summary": "단독 배달 하청구조가 키운 '먹튀'...\"책임도 검증도 없어\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "높아진 금리, 주식 투자자 대응은?",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VODR1LUNpQXE1eTdxQ3NOTHFReUdOSExVc3pGRFpzZ1I0ajMxNHY4Y2JObkNmU1U5YUI5WnJSTTE3clBKUVR2TDhuS0IwblNrQ1o5NXNWYmVLQ0ZDb2N3QXp3MzFmajA?oc=5",
-      "summary": "높아진 금리, 주식 투자자 대응은?에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "SK하이닉스, 솔리다임 상장 전격중단…\"시장여건 변화\"",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EdEZBSjJrTlAyV200YUp0dHNjUjN4dW1qQ3FsOXZCS3hMeG1FOEFDMVhhM0RCbmJodk5LRkN0R3RvMWpQbzhJbXJIZVRRVXIyT0VUM1ozb2p4eVpBR2FHakhn?oc=5",
+      "summary": "SK하이닉스, 솔리다임 상장 전격중단…\"시장여건 변화\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

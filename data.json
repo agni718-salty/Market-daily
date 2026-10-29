@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-10-28 23:34 KST",
+  "updated_at": "2026-10-29 10:31 KST",
   "indices": {
     "summary": [
       {
         "name": "S&P 500",
-        "price": "7,735.53",
-        "change": 12.93,
-        "change_pct": "+0.17"
+        "price": "7,743.98",
+        "change": 21.38,
+        "change_pct": "+0.28"
       },
       {
         "name": "나스닥",
-        "price": "26,481.04",
-        "change": 3.23,
-        "change_pct": "+0.01"
+        "price": "26,549.85",
+        "change": 72.04,
+        "change_pct": "+0.27"
       },
       {
         "name": "다우 존스",
-        "price": "52,490.34",
-        "change": 112.77,
-        "change_pct": "+0.22"
+        "price": "52,475.10",
+        "change": 97.53,
+        "change_pct": "+0.19"
       },
       {
         "name": "코스피",
-        "price": "6,012.44",
-        "change": 374.1,
-        "change_pct": "+6.63"
+        "price": "5,880.76",
+        "change": -131.68,
+        "change_pct": "-2.19"
       }
     ],
     "candles_dict": {
@@ -5289,9 +5289,9 @@
         {
           "time": "2026-10-28",
           "open": 7735.56,
-          "high": 7742.75,
+          "high": 7758.43,
           "low": 7718.37,
-          "close": 7735.53
+          "close": 7743.98
         }
       ],
       "나스닥": [
@@ -10555,9 +10555,9 @@
         {
           "time": "2026-10-28",
           "open": 26541.61,
-          "high": 26582.01,
-          "low": 26434.34,
-          "close": 26481.04
+          "high": 26587.34,
+          "low": 26414.92,
+          "close": 26549.85
         }
       ],
       "다우 존스": [
@@ -15821,19 +15821,12 @@
         {
           "time": "2026-10-28",
           "open": 52335.43,
-          "high": 52541.49,
+          "high": 52634.32,
           "low": 52335.43,
-          "close": 52490.34
+          "close": 52475.1
         }
       ],
       "코스피": [
-        {
-          "time": "2026-07-30",
-          "open": 5681.77,
-          "high": 5976.82,
-          "low": 5547.41,
-          "close": 5593.56
-        },
         {
           "time": "2026-07-31",
           "open": 5657.79,
@@ -16246,6 +16239,13 @@
           "high": 6032.28,
           "low": 5745.51,
           "close": 6012.44
+        },
+        {
+          "time": "2026-10-29",
+          "open": 6017.22,
+          "high": 6100.11,
+          "low": 5880.02,
+          "close": 5880.76
         }
       ]
     }
@@ -16254,29 +16254,25 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,342.17 원",
-        "change": 17.4,
-        "change_str": "+17.40원"
+        "value": "1,332.58 원",
+        "change": 5.77,
+        "change_str": "+5.77원"
       },
       {
         "name": "미국채 10년물 금리",
-        "value": "5.02 %",
-        "change": 0.03,
-        "change_str": "+0.03%"
+        "value": "5.05 %",
+        "change": 0.05,
+        "change_str": "+0.05%"
       },
       {
         "name": "미국채 30년물 금리",
-        "value": "5.31 %",
-        "change": 0.01,
-        "change_str": "+0.01%"
+        "value": "5.36 %",
+        "change": 0.06,
+        "change_str": "+0.06%"
       }
     ],
     "series_dict": {
       "원/달러 환율": [
-        {
-          "time": "2026-07-28",
-          "value": 1464.44
-        },
         {
           "time": "2026-07-29",
           "value": 1453.16
@@ -16539,7 +16535,11 @@
         },
         {
           "time": "2026-10-28",
-          "value": 1342.17
+          "value": 1326.81
+        },
+        {
+          "time": "2026-10-29",
+          "value": 1332.58
         }
       ],
       "미국채 10년물 금리": [
@@ -16805,7 +16805,7 @@
         },
         {
           "time": "2026-10-28",
-          "value": 5.02
+          "value": 5.05
         }
       ],
       "미국채 30년물 금리": [
@@ -17071,61 +17071,61 @@
         },
         {
           "time": "2026-10-28",
-          "value": 5.31
+          "value": 5.36
         }
       ]
     }
   },
   "news": [
     {
-      "title": "하이닉스 “2030년까지 반도체 공급부족”…4분기 ‘영업익 100조’ 전망도",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00RUxjTWZVMUZlVXBmT2U5LVpKRmNrd2VyNlpiSkdmTDduajBVVjNmMjVFTlVSVE1XdFRkRDZWWXRrYjZZQUVpTEdXMjhJSnJtbGVFOGdTdWpJMzFHeTctZ09xT3pHbVowV3c?oc=5",
-      "summary": "하이닉스 “2030년까지 반도체 공급부족”…4분기 ‘영업익 100조’ 전망도에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "연준, 금리 인상 한달만에 다시 동결…2명 인상 반대표(상보)",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44cllIbzlTbDlHZlFJMjUxcGJ6X0xFVGFVQ2Z2VGpzX0l0X0lxcV8yZ0o4Tzc2Q0NNdHpoN2dyWkxIc0xaTDA5Q2FDSkNzb1E0RUktWkxLNEZYMV9sdlV0Nmx0d1VEUnFhRjlwX3k3Z3I?oc=5",
+      "summary": "연준, 금리 인상 한달만에 다시 동결…2명 인상 반대표(상보)에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "대신증권·빗썸·미래에셋운용도…금융권 전반 해킹 확산",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yRkM4SDRZSjZtd3hjWjFna3JGTDlPTDlTdDVHTERxeThPRVhmSjNfLW9uQVIxSnVIc1RUUTh5M0Z3cUJmMG5UTTg2bTJLRnlzeG5NWFZVb3VHNDg?oc=5",
-      "summary": "대신증권·빗썸·미래에셋운용도…금융권 전반 해킹 확산에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "속보 삼성전자 올해 3분기 영업이익 107조...매출 195조 원",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1Zm1fc1Q0UllRQWV0Qkt1eUpJaFhoV0pfVkJFd1l0eE1xNHRHUDlmdi1NY0xOU1RFd1RvTG5LVVNZQ2VqdjI5REZjQ0Vyd1ZPYmtabDFoYW5iZG5adnc?oc=5",
+      "summary": "속보 삼성전자 올해 3분기 영업이익 107조...매출 195조 원에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "정부, 엘리엇 국제투자분쟁 최종 패소‥1천530억 배상책임 확정",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGNm5qTHVkUm9fd1RtU1VodDFZdV9JaHpzeWdSeWFGR3FlTmtUdmlrTHNaTnBYRi0wdENOMFdQallmczc3cjg2d0xlX2ZFQXpGc3d3d2t4RDB0X21aQTF3dmxoaWQ4U2xIUG1EeXJiWHIxTDE0M3Bv0gF3QVVfeXFMT0Z6cEhPNmtJRDVIejd0V1FnUjBjUFpSVkczXzNFRjJNM29XcTNwanV2R1diNjkzZHotQ05rMzhRdEhBalQ4Q2JXamp0V3BRSGtGLThESm02dS0zQ2pmdUwtRk5uelE2dHdsT1Fvc2dxRkJaTEU1OEU?oc=5",
-      "summary": "정부, 엘리엇 국제투자분쟁 최종 패소‥1천530억 배상책임 확정에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "SK하이닉스 ‘100조 환원’에 코스피 6000 탈환… ‘삼성전자 30조 배당’이 바통 이을까",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVTM1RGNsMlo5NE1zNFFKYmxOUDI2OEdvRHJUWnFhdmFQU1M0S1ZaTUd2ajZoRkU3TFNuUV9hODFzbHRXdEk3RHFOM0lSQ1d2RFAtYWhyQXVWYnRvcndPczg4ZjFXUmhIRDBaVVhiMEdFekhzYmh0a0UzTUtLcENrV1VZVGtiMHJM0gGcAUFVX3lxTE5wSDA0eFR4QWNTZU03SHk1UFNwOVp2d21kWXFCd19uN1FNMy1DLUNPdU9DWE1aOTFTb3R3cjZnTmU2ZVNldGUyZWtibVEwLWFwVDMxZS1qNEZ2WUFQR0tVYkdDdXU5eHRUVDlkSG5yQ19kNHJMQ1hvbThXMGhoelFCMUNQRDNOSzNBNkRLT08yYVU0LXhCbVZuYnMzUA?oc=5",
+      "summary": "SK하이닉스 ‘100조 환원’에 코스피 6000 탈환… ‘삼성전자 30조 배당’이 바통 이을까에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "곽노정 SK하이닉스 사장 \"솔리다임 IPO 중단…성장 투자는 지속\"",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBORVRVY3ZLR09aalEzQW51Tmt3dHpLSjhaa3oyXzR0bF9vWVhrVXZ0QS1LWEZVTzkyTW91MU9SX2RFZUwtZ3ZBa1IzTWxJODdoU0JYTFZkM0M0UQ?oc=5",
-      "summary": "곽노정 SK하이닉스 사장 \"솔리다임 IPO 중단…성장 투자는 지속\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[속보] 김포·구리 등 수도권에 7만6천여 호 공급",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1QTJHXzNYeXBpYjZZbXNWUlhHU2dmSF9qZDB4dDRUUm93OTlkQ0FQNmFaMTNhUjU2bVdXRnU1S0FMSFNXOFdkYTdZVGRORmJ4d1M5clE3NmpXd3c?oc=5",
+      "summary": "[속보] 김포·구리 등 수도권에 7만6천여 호 공급에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "\"메모리 부족 2030년까지\"… 삼전닉스 급등에 코스피 6000선 회복",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPem9JRVRaOEZyaUJ1Y0M4Umh5TU43ZWYyaFRfMHN2SlVSQUhYdk5XSjVCYlFwY3kxMEM4WWZLSnliWnNOY2E3OHlaQTcxc1ZYbzd3VDdmNnl4SDZQb0RCQzhIU01DQ1pFdXo1Z0w3ajNKU1FielpkYTZOZXdZR1Z2VFFCTXFqSmJrOVZV?oc=5",
-      "summary": "\"메모리 부족 2030년까지\"… 삼전닉스 급등에 코스피 6000선 회복에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "크레이머 \"SK하이닉스 실적, AI주 반등 해법 보여줘\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rUW84OWF1bnlsZEJjcDhDeUhrUHBwNGdpWHVHcUV4YWlfZUhNeGdzRFNDMDhWQjRUcTEweWw2UU5TTUotRVRzd1Rmc2tCWDVWTU1Pd0FFaTc0YnpwZWpwQ3V5UmtEdTlhQzBDZjM3SGk?oc=5",
+      "summary": "크레이머 \"SK하이닉스 실적, AI주 반등 해법 보여줘\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "키움證 \"내년 달러-원 평균 1,355원…원화 강세의 역설 주목\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RT0JXOURQeWM1ci0zaU9Ba0xBbktQSFpEV2tHeGIwWllCVWZja3k2ZXdKV1dIenZHSnQtd0N1YjdBdU4yMHRuUUZTOFhGS1NrYmdHcVlpMjdUSGhVRDJYWDFfNTlGZWdSRVpiZklTdjA?oc=5",
-      "summary": "키움證 \"내년 달러-원 평균 1,355원…원화 강세의 역설 주목\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "LG전자, TV 적자 3000억 털었다…다음 승부처는 'AI·로봇'",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uUU5Eb2R1MmVhZTVGYjYzQmd4ejlHcUlJUlhxQmxtUUgtU1RkUmZPeVItZVZxQ2RySXh5eXdQNjd1TlBxbFdLMXNhc0FlWWhwZnN3b1AyQUVxa3ZpYzZJTV8wZkhHR3JweFh5cw?oc=5",
+      "summary": "LG전자, TV 적자 3000억 털었다…다음 승부처는 'AI·로봇'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "위고비·마운자로 다음은?…'월 1회 사용, 근육 보존' 경쟁",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RNi1NcURqQ3BPOVBSTlZ0RzA4RDZGRFZwZjByUjdqdG13SFN4TWNnRnVLeVJobEp3bGNvaXk5T0NnMEctZE9CX2docm9oM0dNRGZ5TQ?oc=5",
-      "summary": "위고비·마운자로 다음은?…'월 1회 사용, 근육 보존' 경쟁에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "한수원, 체코 두코바니 원전 시공계약 협상 결렬…새 시공사 선정한다",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tOHU5VzV2c2pERlBDNlR1M0JnYmJBYUxNa1JCeFZFY2FWUDdCMjRsNzVSNXRtTXBWSjlfek9Td0xUVXA2RkFmUkxTc28yczRpc2hWMEZpZERfVmVabFVVczBpX3VsTzA?oc=5",
+      "summary": "한수원, 체코 두코바니 원전 시공계약 협상 결렬…새 시공사 선정한다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "‘인앱결제 강제’ 구글·애플에 600억대 과징금",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UV0t1UDJHZFNiYzlJTkJRWEl3VUlHemdnc3pnXzNpU01xUFNIOHlkYldMUFRfOVN4azItZGZObEdEZDUxVHhianY2SHlqaXpxUmJnYUpCQlVNd1M4YU9HcHItOUVBZw?oc=5",
-      "summary": "‘인앱결제 강제’ 구글·애플에 600억대 과징금에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "전세 갱신했더니 월세 생겼다… 매달 38만원 더 낸다",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaVZvRy1sUU12Z1pxODVDQjRNUUdYMkZiS3U1RXhPVnZrX3pNbGhjNDNOODBwcWhRdm02RWVWT2lfTnY0Ym5mMW9mTURGeUp6b2RKZ0Z1YzJ3aXVsQVlESTg2cTkzZFdzeU5ZdU1KbmJSY3BWNDlhMjRRSGhmb3hLSWNTUUFCQUZ6SmZrbmlTLVc3SlJIZEc5b9IBrAFBVV95cUxNTzROOUg4QzJ2bV9kczZxV3d0ZVFsU2dEZ1F1LWxNX004VVMybkhaN1VRU0dTMjZINHFrM05zdzI0bUdlY3Q5SVdkVjVIeHMxaVpMeVZSY2tuaWo4eGNPZ211RmF3bTNVRmxsYzMxWkN6b0stb01qeGN0SlZwak1GQTBDRk9xQy1zVWhwdDRJMkEzSWhHb004M0FZeG9DR0xXY0dUajJHdzB4VXFz?oc=5",
+      "summary": "전세 갱신했더니 월세 생겼다… 매달 38만원 더 낸다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "100만 달러 요구한 해커…일본 IT기업 ’100만 달러 현상금’ 맞불",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByMFY5cUMwWVZFOW9qdVNWNzdyOHJzMnBMUFNBS0trUXk3S0tnazhtbDd1NmI4cnNHdVhjOEJnMGtCMnBzMG5BNGZDV0NKbll3dS1ya21TT3A5Qnh5UDdhT25UTnlLVEk?oc=5",
-      "summary": "100만 달러 요구한 해커…일본 IT기업 ’100만 달러 현상금’ 맞불에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "미래에셋증권, 오카산 산하 산코증권 인수···일본 주식 시장 진출",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jdmdwSGtiazJhLW4yNUkzR1Jpa05abGhjSVlna0NGeF84dWFJb0p0LTQ3RkJkc1dRbWo0a01rcU5Vb0lORklEekpUTTdVN0VuSWh2UkZCOFpOZ9IBX0FVX3lxTE0yNGhfYk5GUFlrek5JM1U5OWtKT1R6TUMxRmNfdXpYNFNYbnBwYkdldVJVb3Vlc19JZzU5N3I4WGNCYmE1UUZfeklja0lhdE00Qi0zeTFvZHNJNC0yUEFR?oc=5",
+      "summary": "미래에셋증권, 오카산 산하 산코증권 인수···일본 주식 시장 진출에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "김민석 “당정 협의서 ‘가상자산 과세 유예’ 의견 많이 나왔다”",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuX2lLRWpGMEUyU0NMUm1nbjNWXzFJeU1sUDFNT05pRGIzY2hJeGZPYVlOZnVObGYySlV6eTZRZmcwNWlNRERaNjdUZEJmLXVzSDlKem9PRUV2SE44OWNuVTN1ZXl4ZWxFcnNFU1pOMDJpU1F5?oc=5",
-      "summary": "김민석 “당정 협의서 ‘가상자산 과세 유예’ 의견 많이 나왔다”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "뉴스 : 삼성SDI, 2026년 3분기 실적 발표",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50R2FQRlVnM1lubGNiOVIzRU1BOEloMjVqYS15RWQ5Szl1RTNtRk9iNDZjR1pzdTNSRXZUWl91WEkzekhNb3ZFOUVRVXlsYTROaWp4VnNaQlNWXzhNWXVaRkY3VVdidw?oc=5",
+      "summary": "뉴스 : 삼성SDI, 2026년 3분기 실적 발표에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

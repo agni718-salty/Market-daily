@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-10-29 10:31 KST",
+  "updated_at": "2026-10-29 23:41 KST",
   "indices": {
     "summary": [
       {
         "name": "S&P 500",
-        "price": "7,743.98",
-        "change": 21.38,
-        "change_pct": "+0.28"
+        "price": "7,716.62",
+        "change": -27.36,
+        "change_pct": "-0.35"
       },
       {
         "name": "나스닥",
-        "price": "26,549.85",
-        "change": 72.04,
-        "change_pct": "+0.27"
+        "price": "26,190.58",
+        "change": -359.27,
+        "change_pct": "-1.35"
       },
       {
         "name": "다우 존스",
-        "price": "52,475.10",
-        "change": 97.53,
-        "change_pct": "+0.19"
+        "price": "52,325.54",
+        "change": -149.56,
+        "change_pct": "-0.29"
       },
       {
         "name": "코스피",
-        "price": "5,880.76",
-        "change": -131.68,
-        "change_pct": "-2.19"
+        "price": "5,937.66",
+        "change": -74.78,
+        "change_pct": "-1.24"
       }
     ],
     "candles_dict": {
@@ -5292,6 +5292,13 @@
           "high": 7758.43,
           "low": 7718.37,
           "close": 7743.98
+        },
+        {
+          "time": "2026-10-29",
+          "open": 7699.61,
+          "high": 7726.78,
+          "low": 7695.75,
+          "close": 7716.62
         }
       ],
       "나스닥": [
@@ -10558,6 +10565,13 @@
           "high": 26587.34,
           "low": 26414.92,
           "close": 26549.85
+        },
+        {
+          "time": "2026-10-29",
+          "open": 26201.82,
+          "high": 26243.12,
+          "low": 26053.16,
+          "close": 26190.58
         }
       ],
       "다우 존스": [
@@ -15824,6 +15838,13 @@
           "high": 52634.32,
           "low": 52335.43,
           "close": 52475.1
+        },
+        {
+          "time": "2026-10-29",
+          "open": 52086.13,
+          "high": 52405.88,
+          "low": 52086.13,
+          "close": 52325.54
         }
       ],
       "코스피": [
@@ -16244,8 +16265,8 @@
           "time": "2026-10-29",
           "open": 6017.22,
           "high": 6100.11,
-          "low": 5880.02,
-          "close": 5880.76
+          "low": 5817.92,
+          "close": 5937.66
         }
       ]
     }
@@ -16254,21 +16275,21 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,332.58 원",
-        "change": 5.77,
-        "change_str": "+5.77원"
+        "value": "1,338.58 원",
+        "change": 11.77,
+        "change_str": "+11.77원"
       },
       {
         "name": "미국채 10년물 금리",
-        "value": "5.05 %",
-        "change": 0.05,
-        "change_str": "+0.05%"
+        "value": "4.99 %",
+        "change": -0.05,
+        "change_str": "-0.05%"
       },
       {
         "name": "미국채 30년물 금리",
-        "value": "5.36 %",
-        "change": 0.06,
-        "change_str": "+0.06%"
+        "value": "5.33 %",
+        "change": -0.03,
+        "change_str": "-0.03%"
       }
     ],
     "series_dict": {
@@ -16539,14 +16560,10 @@
         },
         {
           "time": "2026-10-29",
-          "value": 1332.58
+          "value": 1338.58
         }
       ],
       "미국채 10년물 금리": [
-        {
-          "time": "2026-07-28",
-          "value": 4.6
-        },
         {
           "time": "2026-07-29",
           "value": 4.62
@@ -16806,13 +16823,13 @@
         {
           "time": "2026-10-28",
           "value": 5.05
+        },
+        {
+          "time": "2026-10-29",
+          "value": 4.99
         }
       ],
       "미국채 30년물 금리": [
-        {
-          "time": "2026-07-28",
-          "value": 5.1
-        },
         {
           "time": "2026-07-29",
           "value": 5.14
@@ -17072,60 +17089,64 @@
         {
           "time": "2026-10-28",
           "value": 5.36
+        },
+        {
+          "time": "2026-10-29",
+          "value": 5.33
         }
       ]
     }
   },
   "news": [
     {
-      "title": "연준, 금리 인상 한달만에 다시 동결…2명 인상 반대표(상보)",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44cllIbzlTbDlHZlFJMjUxcGJ6X0xFVGFVQ2Z2VGpzX0l0X0lxcV8yZ0o4Tzc2Q0NNdHpoN2dyWkxIc0xaTDA5Q2FDSkNzb1E0RUktWkxLNEZYMV9sdlV0Nmx0d1VEUnFhRjlwX3k3Z3I?oc=5",
-      "summary": "연준, 금리 인상 한달만에 다시 동결…2명 인상 반대표(상보)에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "2030년 퇴직금 사라진다…'기금형 퇴직연금'도 도입",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85X21JZVdVRXRkQWZDMkt6c0tXcGI2WmdXVkhYakxwQ1hPSTk4d3IxVGVaQlpoM0JaLVR5a2hpN3dGdG94WUFHb2I5d2pqekFLRTVyUzVhTWJGQQ?oc=5",
+      "summary": "2030년 퇴직금 사라진다…'기금형 퇴직연금'도 도입에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "속보 삼성전자 올해 3분기 영업이익 107조...매출 195조 원",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1Zm1fc1Q0UllRQWV0Qkt1eUpJaFhoV0pfVkJFd1l0eE1xNHRHUDlmdi1NY0xOU1RFd1RvTG5LVVNZQ2VqdjI5REZjQ0Vyd1ZPYmtabDFoYW5iZG5adnc?oc=5",
-      "summary": "속보 삼성전자 올해 3분기 영업이익 107조...매출 195조 원에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "삼성전자 \"메모리, 2028년까지 수급 빠듯...내년 HBM 완판\"",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpRFJMVXEyRmNLa3phYngxVU1Gakw1SGpsY1BheFNGWWp1V2doQTVJYm9HN3B1VENiRS1hN0RkeTdJLUVQSHJrUFJnWGhmSlpMNWtZUVNR?oc=5",
+      "summary": "삼성전자 \"메모리, 2028년까지 수급 빠듯...내년 HBM 완판\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "SK하이닉스 ‘100조 환원’에 코스피 6000 탈환… ‘삼성전자 30조 배당’이 바통 이을까",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVTM1RGNsMlo5NE1zNFFKYmxOUDI2OEdvRHJUWnFhdmFQU1M0S1ZaTUd2ajZoRkU3TFNuUV9hODFzbHRXdEk3RHFOM0lSQ1d2RFAtYWhyQXVWYnRvcndPczg4ZjFXUmhIRDBaVVhiMEdFekhzYmh0a0UzTUtLcENrV1VZVGtiMHJM0gGcAUFVX3lxTE5wSDA0eFR4QWNTZU03SHk1UFNwOVp2d21kWXFCd19uN1FNMy1DLUNPdU9DWE1aOTFTb3R3cjZnTmU2ZVNldGUyZWtibVEwLWFwVDMxZS1qNEZ2WUFQR0tVYkdDdXU5eHRUVDlkSG5yQ19kNHJMQ1hvbThXMGhoelFCMUNQRDNOSzNBNkRLT08yYVU0LXhCbVZuYnMzUA?oc=5",
-      "summary": "SK하이닉스 ‘100조 환원’에 코스피 6000 탈환… ‘삼성전자 30조 배당’이 바통 이을까에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "깊어지는 체코 원전 갈등…대우건설, \"한수원, 조단위 추가공사비 40%만 반영\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DampzOExQNU1aOE9TdUJlV3UxdXI3RklQY2l0UFI0amRKWk1ERzZtSjFHMzFHeUdJQWJ1bVQ5ZnF1XzNucmdKR0lLSHE5N2hXWmFHTkY3R1V6Q1JsX0RKSmdfSDcwRlFtTWt6cDlTbmI?oc=5",
+      "summary": "깊어지는 체코 원전 갈등…대우건설, \"한수원, 조단위 추가공사비 40%만 반영\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[속보] 김포·구리 등 수도권에 7만6천여 호 공급",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1QTJHXzNYeXBpYjZZbXNWUlhHU2dmSF9qZDB4dDRUUm93OTlkQ0FQNmFaMTNhUjU2bVdXRnU1S0FMSFNXOFdkYTdZVGRORmJ4d1M5clE3NmpXd3c?oc=5",
-      "summary": "[속보] 김포·구리 등 수도권에 7만6천여 호 공급에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "뉴욕증시, 알파벳 실적 소화하며 하락 출발",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14c2hPTU5Da0wxZ3NMVGl5d3RUVTRRMTRSb1lxMnczVXMwaXhrd245SWFiWXFNVlZJV3Rqa0JwM0lpby1FakJESWdHMjMxejZ5STNDTElFb3hqallTbzd3VmlMbDFwNDJuMEtKdERhaVE?oc=5",
+      "summary": "뉴욕증시, 알파벳 실적 소화하며 하락 출발에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "크레이머 \"SK하이닉스 실적, AI주 반등 해법 보여줘\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rUW84OWF1bnlsZEJjcDhDeUhrUHBwNGdpWHVHcUV4YWlfZUhNeGdzRFNDMDhWQjRUcTEweWw2UU5TTUotRVRzd1Rmc2tCWDVWTU1Pd0FFaTc0YnpwZWpwQ3V5UmtEdTlhQzBDZjM3SGk?oc=5",
-      "summary": "크레이머 \"SK하이닉스 실적, AI주 반등 해법 보여줘\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "한성숙 국무총리 \"제약·바이오 유망기업, 2030년가지 200개사 육성한다\"",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SNHEzTWRYbjRsel9tVTNxQy1YWG95QVd4QlgtWnFSOGN2WW9wREczVVppQnY1dzBGempWMGhkZ2lHbEZ3WjJHTi1IdHgyS0FSYlBrZTlIVQ?oc=5",
+      "summary": "한성숙 국무총리 \"제약·바이오 유망기업, 2030년가지 200개사 육성한다\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "LG전자, TV 적자 3000억 털었다…다음 승부처는 'AI·로봇'",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uUU5Eb2R1MmVhZTVGYjYzQmd4ejlHcUlJUlhxQmxtUUgtU1RkUmZPeVItZVZxQ2RySXh5eXdQNjd1TlBxbFdLMXNhc0FlWWhwZnN3b1AyQUVxa3ZpYzZJTV8wZkhHR3JweFh5cw?oc=5",
-      "summary": "LG전자, TV 적자 3000억 털었다…다음 승부처는 'AI·로봇'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "삼성전자 3분기 30조 배당에 주가 ‘뚝’…하이닉스와 왜 엇갈렸나",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FN0JQWDZjdmU3ZkFMNWJNN19IWW91U1dLTzJqRTRvWlpxTkw2Y1NsX0k2dEd3OVhqUDhaTzNpdU0tVnZ4VGpaNzM3V1dGbjlXMmNBMjN2SkxicGM?oc=5",
+      "summary": "삼성전자 3분기 30조 배당에 주가 ‘뚝’…하이닉스와 왜 엇갈렸나에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "한수원, 체코 두코바니 원전 시공계약 협상 결렬…새 시공사 선정한다",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tOHU5VzV2c2pERlBDNlR1M0JnYmJBYUxNa1JCeFZFY2FWUDdCMjRsNzVSNXRtTXBWSjlfek9Td0xUVXA2RkFmUkxTc28yczRpc2hWMEZpZERfVmVabFVVczBpX3VsTzA?oc=5",
-      "summary": "한수원, 체코 두코바니 원전 시공계약 협상 결렬…새 시공사 선정한다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "미 9월 PCE 물가 전년대비 3.6% 상승…예상치 소폭 하회",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BRG14dkhBcjdsLWw2YTVtUlE0cEFqMExtekEyQy1PdzMtNUFqN2ZubDFFSXAxZjVGYUdZLUNnUWhHTWd2SlNwWXNYOHZIR0hjQzhILWxQcG9uTzNYSHFGTm1SSUF1VTg?oc=5",
+      "summary": "미 9월 PCE 물가 전년대비 3.6% 상승…예상치 소폭 하회에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "전세 갱신했더니 월세 생겼다… 매달 38만원 더 낸다",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaVZvRy1sUU12Z1pxODVDQjRNUUdYMkZiS3U1RXhPVnZrX3pNbGhjNDNOODBwcWhRdm02RWVWT2lfTnY0Ym5mMW9mTURGeUp6b2RKZ0Z1YzJ3aXVsQVlESTg2cTkzZFdzeU5ZdU1KbmJSY3BWNDlhMjRRSGhmb3hLSWNTUUFCQUZ6SmZrbmlTLVc3SlJIZEc5b9IBrAFBVV95cUxNTzROOUg4QzJ2bV9kczZxV3d0ZVFsU2dEZ1F1LWxNX004VVMybkhaN1VRU0dTMjZINHFrM05zdzI0bUdlY3Q5SVdkVjVIeHMxaVpMeVZSY2tuaWo4eGNPZ211RmF3bTNVRmxsYzMxWkN6b0stb01qeGN0SlZwak1GQTBDRk9xQy1zVWhwdDRJMkEzSWhHb004M0FZeG9DR0xXY0dUajJHdzB4VXFz?oc=5",
-      "summary": "전세 갱신했더니 월세 생겼다… 매달 38만원 더 낸다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "라가르드 ECB 총재 조기 사임…\"내년 2월 7일 물러날 것\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91TlBCZUt4ZzJDVE94djI1UWo2V2x2bE8xN2xoVFVaZkVlcnhBdi1sVnJrRzhMU3hxdUJWdXZFcFJEc04yNUZrSEl0d2VXMHF4MTNGb3phay1qMWR0Rk9aaVRlM1c0QzhDdEpPNmxEVzQ?oc=5",
+      "summary": "라가르드 ECB 총재 조기 사임…\"내년 2월 7일 물러날 것\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "미래에셋증권, 오카산 산하 산코증권 인수···일본 주식 시장 진출",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jdmdwSGtiazJhLW4yNUkzR1Jpa05abGhjSVlna0NGeF84dWFJb0p0LTQ3RkJkc1dRbWo0a01rcU5Vb0lORklEekpUTTdVN0VuSWh2UkZCOFpOZ9IBX0FVX3lxTE0yNGhfYk5GUFlrek5JM1U5OWtKT1R6TUMxRmNfdXpYNFNYbnBwYkdldVJVb3Vlc19JZzU5N3I4WGNCYmE1UUZfeklja0lhdE00Qi0zeTFvZHNJNC0yUEFR?oc=5",
-      "summary": "미래에셋증권, 오카산 산하 산코증권 인수···일본 주식 시장 진출에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[단독] 홈플러스, 희망퇴직도 취소…밀린 월급 줄 돈도 없다",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaDA2bGhTbnQzSzNWTVVMUXFwMkRnMEptUm5EdldvZGlvMDRCYkZ1bXdSRHBxZnFSX1d4VWRSdTFjRXE0UUhaY1FDaGlYdHBHV2U1aEYzNXktaEo5RGxwdXUwVG1nRE5LRV9DekpUS1otVUJDd2YyNE9uMDZyNkUwZ0swSUJkczNTVVHSAZ4BQVVfeXFMT3NxWUZ1UTJpMmhzaThFN1ViVlNFSXNFWWRaQU1WQmdPT3hnMWQwLVJjTjRpcFJJSmxuOFM2UWROYTdEdG9Lb2I0cDdsTGt6ZTg3UWE1dl9GTEE5ak9FVGNxdlJzajZZRWJTQkpyUlFfNmRhd3ZfeHdtU1M1ZnM3WXRHX0NOTW45dmxhbGlSX3duTVI0WW82bjMtSFVGVUE?oc=5",
+      "summary": "[단독] 홈플러스, 희망퇴직도 취소…밀린 월급 줄 돈도 없다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "뉴스 : 삼성SDI, 2026년 3분기 실적 발표",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50R2FQRlVnM1lubGNiOVIzRU1BOEloMjVqYS15RWQ5Szl1RTNtRk9iNDZjR1pzdTNSRXZUWl91WEkzekhNb3ZFOUVRVXlsYTROaWp4VnNaQlNWXzhNWXVaRkY3VVdidw?oc=5",
-      "summary": "뉴스 : 삼성SDI, 2026년 3분기 실적 발표에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "빗썸 고객 정보 유출 뒤늦게 확인…사내 시스템 해킹 사고",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jRzAwdTNNd1ctWS1mMlhpRTVFR241OGdNLWVHNDZ5Wk1XczZoRzhmSDZNa2otNjhqRnpFNU0zcGw1RUF4bF8xeGpfUWJuOTdMVE5TQVJEbFZWV0HSAWBBVV95cUxQMlFDU2hNZFNheWgtbzZ2WnlZeGVVaTBMWlRqTGlTUEI3YW5seGx6anExUXB0anEwbWE1UU41MWJzMVlVbEJZQ0lCc2E4bzZ6WXppWExseW1tV18zYWpjOE0?oc=5",
+      "summary": "빗썸 고객 정보 유출 뒤늦게 확인…사내 시스템 해킹 사고에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-10-29 23:41 KST",
+  "updated_at": "2026-10-30 10:32 KST",
   "indices": {
     "summary": [
       {
         "name": "S&P 500",
-        "price": "7,716.62",
-        "change": -27.36,
-        "change_pct": "-0.35"
+        "price": "7,720.39",
+        "change": -23.59,
+        "change_pct": "-0.30"
       },
       {
         "name": "나스닥",
-        "price": "26,190.58",
-        "change": -359.27,
-        "change_pct": "-1.35"
+        "price": "26,184.72",
+        "change": -365.12,
+        "change_pct": "-1.38"
       },
       {
         "name": "다우 존스",
-        "price": "52,325.54",
-        "change": -149.56,
-        "change_pct": "-0.29"
+        "price": "52,342.56",
+        "change": -132.54,
+        "change_pct": "-0.25"
       },
       {
         "name": "코스피",
-        "price": "5,937.66",
-        "change": -74.78,
-        "change_pct": "-1.24"
+        "price": "5,643.79",
+        "change": -293.87,
+        "change_pct": "-4.95"
       }
     ],
     "candles_dict": {
@@ -5296,9 +5296,9 @@
         {
           "time": "2026-10-29",
           "open": 7699.61,
-          "high": 7726.78,
-          "low": 7695.75,
-          "close": 7716.62
+          "high": 7732.21,
+          "low": 7690.94,
+          "close": 7720.39
         }
       ],
       "나스닥": [
@@ -10569,9 +10569,9 @@
         {
           "time": "2026-10-29",
           "open": 26201.82,
-          "high": 26243.12,
+          "high": 26286.46,
           "low": 26053.16,
-          "close": 26190.58
+          "close": 26184.72
         }
       ],
       "다우 존스": [
@@ -15844,17 +15844,10 @@
           "open": 52086.13,
           "high": 52405.88,
           "low": 52086.13,
-          "close": 52325.54
+          "close": 52342.56
         }
       ],
       "코스피": [
-        {
-          "time": "2026-07-31",
-          "open": 5657.79,
-          "high": 6630.77,
-          "low": 5629.76,
-          "close": 6595.45
-        },
         {
           "time": "2026-08-03",
           "open": 6358.27,
@@ -16267,6 +16260,13 @@
           "high": 6100.11,
           "low": 5817.92,
           "close": 5937.66
+        },
+        {
+          "time": "2026-10-30",
+          "open": 5760.35,
+          "high": 5784.98,
+          "low": 5629.55,
+          "close": 5643.79
         }
       ]
     }
@@ -16275,15 +16275,15 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,338.58 원",
-        "change": 11.77,
-        "change_str": "+11.77원"
+        "value": "1,337.38 원",
+        "change": -2.96,
+        "change_str": "-2.96원"
       },
       {
         "name": "미국채 10년물 금리",
         "value": "4.99 %",
-        "change": -0.05,
-        "change_str": "-0.05%"
+        "change": -0.06,
+        "change_str": "-0.06%"
       },
       {
         "name": "미국채 30년물 금리",
@@ -16294,10 +16294,6 @@
     ],
     "series_dict": {
       "원/달러 환율": [
-        {
-          "time": "2026-07-29",
-          "value": 1453.16
-        },
         {
           "time": "2026-07-30",
           "value": 1442.28
@@ -16560,7 +16556,11 @@
         },
         {
           "time": "2026-10-29",
-          "value": 1338.58
+          "value": 1340.34
+        },
+        {
+          "time": "2026-10-30",
+          "value": 1337.38
         }
       ],
       "미국채 10년물 금리": [
@@ -17099,54 +17099,54 @@
   },
   "news": [
     {
-      "title": "2030년 퇴직금 사라진다…'기금형 퇴직연금'도 도입",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85X21JZVdVRXRkQWZDMkt6c0tXcGI2WmdXVkhYakxwQ1hPSTk4d3IxVGVaQlpoM0JaLVR5a2hpN3dGdG94WUFHb2I5d2pqekFLRTVyUzVhTWJGQQ?oc=5",
-      "summary": "2030년 퇴직금 사라진다…'기금형 퇴직연금'도 도입에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "AI 투자 우려 재점화…뉴욕증시 일제히 하락, 알파벳 13%↓(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Ba3ZKaGFkSlJXNUZZTHBlN1FfS1NHSE83U0t4azJpbzRQVENxREoyZEZVMmh6U19qNTBHM2JGdkRZNDQ3T0hnWVN0ZS0tOEl4RzhpWFl4cF9jbmvSAWBBVV95cUxQT2pjbGZHY2M5OEQwQzNCX3hEdlFkTTBkOWY4aFNvNzM3RlNoUmV4MlI4V0lvVV91Tlg2QUd6MDlCRTc3eG1iUEVMdDlHY3p3aFRMQ19YTDRYWjJOaHFHSGM?oc=5",
+      "summary": "AI 투자 우려 재점화…뉴욕증시 일제히 하락, 알파벳 13%↓(종합)에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "삼성전자 \"메모리, 2028년까지 수급 빠듯...내년 HBM 완판\"",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpRFJMVXEyRmNLa3phYngxVU1Gakw1SGpsY1BheFNGWWp1V2doQTVJYm9HN3B1VENiRS1hN0RkeTdJLUVQSHJrUFJnWGhmSlpMNWtZUVNR?oc=5",
-      "summary": "삼성전자 \"메모리, 2028년까지 수급 빠듯...내년 HBM 완판\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[속보]코스피, 장중 4%대 급락...'매도 사이드카' 발동",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yOFZaWE9sY2JEUlRfMjZVbThpZVZkX0tRd0trMmtMT2NnZGpRWFJULVJkSVZjRmo1Y2tDQjNMQjh4SmZJY2JjaVBaZDBoTGp3MzFPSUFBVDNaRHpDRDRmTzJ3?oc=5",
+      "summary": "[속보]코스피, 장중 4%대 급락...'매도 사이드카' 발동에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "깊어지는 체코 원전 갈등…대우건설, \"한수원, 조단위 추가공사비 40%만 반영\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DampzOExQNU1aOE9TdUJlV3UxdXI3RklQY2l0UFI0amRKWk1ERzZtSjFHMzFHeUdJQWJ1bVQ5ZnF1XzNucmdKR0lLSHE5N2hXWmFHTkY3R1V6Q1JsX0RKSmdfSDcwRlFtTWt6cDlTbmI?oc=5",
-      "summary": "깊어지는 체코 원전 갈등…대우건설, \"한수원, 조단위 추가공사비 40%만 반영\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "9월 생산·소비·투자 모두 증가‥산업생산 3% 상승",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wZExNb2ZQYUh3LTEyMGh5QnF0UUt4elVqZkRHd1VLSE90SW1TV0pRcTI1dTBDOVI1NTU0UEt4c2d6Um13a0pNWGIwVDRGaVNsd3BIMENlT2JFMEl1NmdSWUJYT282OXdKZm1pRER2TXZrMWs40gF0QVVfeXFMUEJTcGZCR0cxZXJfcDVOSnMxaGs4WjhtbG1OM1dwQUtWa1ZmUk1iUHAwX1daNnNOTjJvM2ZrZFY3bkJ1TnpQcTZfbUxwZ0s3ZzlYNXlvemVuSVlrdnZPd3VjSHlHX3VocFIzOXVHa0dPSkRCd2Q?oc=5",
+      "summary": "9월 생산·소비·투자 모두 증가‥산업생산 3% 상승에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "뉴욕증시, 알파벳 실적 소화하며 하락 출발",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14c2hPTU5Da0wxZ3NMVGl5d3RUVTRRMTRSb1lxMnczVXMwaXhrd245SWFiWXFNVlZJV3Rqa0JwM0lpby1FakJESWdHMjMxejZ5STNDTElFb3hqallTbzd3VmlMbDFwNDJuMEtKdERhaVE?oc=5",
-      "summary": "뉴욕증시, 알파벳 실적 소화하며 하락 출발에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "블랙록 릭 리더 \"연준 금리 인상이 인플레 해결하는가\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XVEhhYWxvMERfazE2NFN0YWhnX000UWYxNHFXZm9DZ1VxZFZKWFQ2RjJyZklOTlNOOXN5ckhPRHo2ZjE1ZTBQbjVNNVlrWEowV2gzX0tvdXdULW13Y1l1dzQ5SmpWTkl0R1Rvc1pNTlI?oc=5",
+      "summary": "블랙록 릭 리더 \"연준 금리 인상이 인플레 해결하는가\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "한성숙 국무총리 \"제약·바이오 유망기업, 2030년가지 200개사 육성한다\"",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SNHEzTWRYbjRsel9tVTNxQy1YWG95QVd4QlgtWnFSOGN2WW9wREczVVppQnY1dzBGempWMGhkZ2lHbEZ3WjJHTi1IdHgyS0FSYlBrZTlIVQ?oc=5",
-      "summary": "한성숙 국무총리 \"제약·바이오 유망기업, 2030년가지 200개사 육성한다\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[외환] 美 기술주 약세에 상승…1,330원대 후반",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GcFpLd2U3UHV3c3JkcldOS00yd2psT0lhMGlQQkpNNUpIMHZJSDBoUU0yeUYwVTFuMWNhNnQ3UjE5Qnh2b0JPTEdOcUFtNWJyTktHd3pKZnZ1ZXVsT0dIaXlBTEM5Rnh5dTRBR2ZySUTSAXRBVV95cUxQdjRfSHVFTWNFcTQxVHZpMWNQMUx1ekZFaHlMbUhWRG84WlNSXzFiNjI5VmZmMm5mRUE5amlFOUdyWDBoNGVBRG1SRkx3am1iMndncVF2d1FJdVpPM3FXM3hoS193c2J3UkpaeWplYUhheWp6cw?oc=5",
+      "summary": "[외환] 美 기술주 약세에 상승…1,330원대 후반에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "삼성전자 3분기 30조 배당에 주가 ‘뚝’…하이닉스와 왜 엇갈렸나",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FN0JQWDZjdmU3ZkFMNWJNN19IWW91U1dLTzJqRTRvWlpxTkw2Y1NsX0k2dEd3OVhqUDhaTzNpdU0tVnZ4VGpaNzM3V1dGbjlXMmNBMjN2SkxicGM?oc=5",
-      "summary": "삼성전자 3분기 30조 배당에 주가 ‘뚝’…하이닉스와 왜 엇갈렸나에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "엔비디아, 네이버 주주된다…다음달 10억 달러 투자",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlR2lWMGFhY1pEQnpSTmFmQ2hLX29FVHRTanlmTU5GUGRDZmtoZjFfRzhTdHgxUndFYndsbGZVY1NuRTlxaDRPVnRFRF9HSGdsX3pIQUtKV3FQdGVQelJScmpKUmttdDA?oc=5",
+      "summary": "엔비디아, 네이버 주주된다…다음달 10억 달러 투자에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "미 9월 PCE 물가 전년대비 3.6% 상승…예상치 소폭 하회",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BRG14dkhBcjdsLWw2YTVtUlE0cEFqMExtekEyQy1PdzMtNUFqN2ZubDFFSXAxZjVGYUdZLUNnUWhHTWd2SlNwWXNYOHZIR0hjQzhILWxQcG9uTzNYSHFGTm1SSUF1VTg?oc=5",
-      "summary": "미 9월 PCE 물가 전년대비 3.6% 상승…예상치 소폭 하회에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "삼성전자, 역대급 실적에도 주주환원 발목…목표가 35만원으로 낮춘 IBK",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ObnJ1U0FVdURhYXZHVldvNkxYYkdFYm9lcFdVWVFHVVBOZHJpWlZUU2JVV1ZSLTNSUWxLX0EtZWw3dEloa1hNZERlTU02Z0pOTGE4ZWhrRllMUUVIdElTVlpMd2VnYndsN2c?oc=5",
+      "summary": "삼성전자, 역대급 실적에도 주주환원 발목…목표가 35만원으로 낮춘 IBK에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "라가르드 ECB 총재 조기 사임…\"내년 2월 7일 물러날 것\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91TlBCZUt4ZzJDVE94djI1UWo2V2x2bE8xN2xoVFVaZkVlcnhBdi1sVnJrRzhMU3hxdUJWdXZFcFJEc04yNUZrSEl0d2VXMHF4MTNGb3phay1qMWR0Rk9aaVRlM1c0QzhDdEpPNmxEVzQ?oc=5",
-      "summary": "라가르드 ECB 총재 조기 사임…\"내년 2월 7일 물러날 것\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "“해탈했다, 살 길은 많겠지”…청년층 ‘소득 상향 이동’ 역대 최저",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qOGhQYm5NYlItcXdXWXM4VDZEZl9lemZ0bkliN3IzR09KMzFyZ2dKeFVxYzctN0VCR3hjZnZkanNCWDE3SEp2cFhRRFlGaFhuazBsdWp5anpwNk5ZMmRjMWg5VFFKUk1lNEdoOF9EWF9LQQ?oc=5",
+      "summary": "“해탈했다, 살 길은 많겠지”…청년층 ‘소득 상향 이동’ 역대 최저에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[단독] 홈플러스, 희망퇴직도 취소…밀린 월급 줄 돈도 없다",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaDA2bGhTbnQzSzNWTVVMUXFwMkRnMEptUm5EdldvZGlvMDRCYkZ1bXdSRHBxZnFSX1d4VWRSdTFjRXE0UUhaY1FDaGlYdHBHV2U1aEYzNXktaEo5RGxwdXUwVG1nRE5LRV9DekpUS1otVUJDd2YyNE9uMDZyNkUwZ0swSUJkczNTVVHSAZ4BQVVfeXFMT3NxWUZ1UTJpMmhzaThFN1ViVlNFSXNFWWRaQU1WQmdPT3hnMWQwLVJjTjRpcFJJSmxuOFM2UWROYTdEdG9Lb2I0cDdsTGt6ZTg3UWE1dl9GTEE5ak9FVGNxdlJzajZZRWJTQkpyUlFfNmRhd3ZfeHdtU1M1ZnM3WXRHX0NOTW45dmxhbGlSX3duTVI0WW82bjMtSFVGVUE?oc=5",
-      "summary": "[단독] 홈플러스, 희망퇴직도 취소…밀린 월급 줄 돈도 없다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "\"165만원~400만원 갑니다\"…SK하닉 전망에 개미들 '분노' [분석+]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pTkJEbm5GNTVHNEFDcGVVdEFHNHV4Qno3djBWWk12bURCWkt4RkFVZFNjbE02UF9IRVBMVU00R2tockJncktaZHlFQWMxMml2c3lab3AwVTc2QQ?oc=5",
+      "summary": "\"165만원~400만원 갑니다\"…SK하닉 전망에 개미들 '분노' [분석+]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "빗썸 고객 정보 유출 뒤늦게 확인…사내 시스템 해킹 사고",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jRzAwdTNNd1ctWS1mMlhpRTVFR241OGdNLWVHNDZ5Wk1XczZoRzhmSDZNa2otNjhqRnpFNU0zcGw1RUF4bF8xeGpfUWJuOTdMVE5TQVJEbFZWV0HSAWBBVV95cUxQMlFDU2hNZFNheWgtbzZ2WnlZeGVVaTBMWlRqTGlTUEI3YW5seGx6anExUXB0anEwbWE1UU41MWJzMVlVbEJZQ0lCc2E4bzZ6WXppWExseW1tV18zYWpjOE0?oc=5",
-      "summary": "빗썸 고객 정보 유출 뒤늦게 확인…사내 시스템 해킹 사고에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "현대모비스, 3분기 영업익 9,141억원…\"로보틱스 부품 확대\"",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4UWNibG1ZYURveHJrRmZLaXBaTmI4Y3RhdEJsemU4RF9pYUdtV0Y1ZFBZWXB2VUZhaTVvVWp0TG01eURGZVM0Y1RlekhzWWZiZTlXWkRYc21SWHY4QVFiTUNNVGllUkU?oc=5",
+      "summary": "현대모비스, 3분기 영업익 9,141억원…\"로보틱스 부품 확대\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

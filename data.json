@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-10-30 23:37 KST",
+  "updated_at": "2026-10-31 10:25 KST",
   "indices": {
     "summary": [
       {
         "name": "S&P 500",
-        "price": "7,608.54",
-        "change": -111.85,
-        "change_pct": "-1.45"
+        "price": "7,580.07",
+        "change": -140.32,
+        "change_pct": "-1.82"
       },
       {
         "name": "나스닥",
-        "price": "25,558.21",
-        "change": -626.51,
-        "change_pct": "-2.39"
+        "price": "25,437.00",
+        "change": -747.72,
+        "change_pct": "-2.86"
       },
       {
         "name": "다우 존스",
-        "price": "52,026.58",
-        "change": -315.98,
-        "change_pct": "-0.60"
+        "price": "51,770.31",
+        "change": -572.25,
+        "change_pct": "-1.09"
       },
       {
         "name": "코스피",
@@ -29,13 +29,6 @@
     ],
     "candles_dict": {
       "S&P 500": [
-        {
-          "time": "2023-10-30",
-          "open": 4139.39,
-          "high": 4177.47,
-          "low": 4132.94,
-          "close": 4166.82
-        },
         {
           "time": "2023-10-31",
           "open": 4171.33,
@@ -5304,18 +5297,11 @@
           "time": "2026-10-30",
           "open": 7631.07,
           "high": 7637.48,
-          "low": 7596.62,
-          "close": 7608.54
+          "low": 7527.56,
+          "close": 7580.07
         }
       ],
       "나스닥": [
-        {
-          "time": "2023-10-30",
-          "open": 12750.47,
-          "high": 12842.96,
-          "low": 12691.56,
-          "close": 12789.48
-        },
         {
           "time": "2023-10-31",
           "open": 12786.62,
@@ -10584,18 +10570,11 @@
           "time": "2026-10-30",
           "open": 25592.49,
           "high": 25673.0,
-          "low": 25478.0,
-          "close": 25558.21
+          "low": 25177.33,
+          "close": 25437.0
         }
       ],
       "다우 존스": [
-        {
-          "time": "2023-10-30",
-          "open": 32537.54,
-          "high": 33002.97,
-          "low": 32537.54,
-          "close": 32928.96
-        },
         {
           "time": "2023-10-31",
           "open": 33029.11,
@@ -15864,8 +15843,8 @@
           "time": "2026-10-30",
           "open": 52383.9,
           "high": 52383.9,
-          "low": 51919.56,
-          "close": 52026.58
+          "low": 51563.76,
+          "close": 51770.31
         }
       ],
       "코스피": [
@@ -16296,9 +16275,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,334.79 원",
-        "change": -5.55,
-        "change_str": "-5.55원"
+        "value": "1,337.98 원",
+        "change": -2.36,
+        "change_str": "-2.36원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -16308,17 +16287,13 @@
       },
       {
         "name": "미국채 30년물 금리",
-        "value": "5.30 %",
-        "change": -0.03,
-        "change_str": "-0.03%"
+        "value": "5.31 %",
+        "change": -0.02,
+        "change_str": "-0.02%"
       }
     ],
     "series_dict": {
       "원/달러 환율": [
-        {
-          "time": "2026-07-30",
-          "value": 1442.28
-        },
         {
           "time": "2026-07-31",
           "value": 1420.6
@@ -16581,7 +16556,7 @@
         },
         {
           "time": "2026-10-30",
-          "value": 1334.79
+          "value": 1337.98
         }
       ],
       "미국채 10년물 금리": [
@@ -17113,61 +17088,61 @@
         },
         {
           "time": "2026-10-30",
-          "value": 5.3
+          "value": 5.31
         }
       ]
     }
   },
   "news": [
     {
-      "title": "단 20분 만에 9조원 털렸다…세계 최대 코인거래소 '발칵'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81RmtTdVJwRTlZNTJFbVFFd3VuYWRqN2pXTDAzNEs3TllMZUJMX20tOU00bUxTampXQVhjczNXU0tkdEJkMFpFZWxKa055c1ZuYkhxSnVKLVdMZw?oc=5",
-      "summary": "단 20분 만에 9조원 털렸다…세계 최대 코인거래소 '발칵'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "트럼프, 바이낸스 해킹 북한 소행 여부에 \"모른다‥살펴보고 있다\"",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHNDJjY01OX3dQOEZwWElFejEwNEdfb1RTeTNyS3IyZXktS01VQjQ5QnRqM3VJb1E0OVJmSWNaRGs2VE01bGJkQnJjNl80b0xFRU9ucWdMSUJqeVRVcE5BNk8wT0UwSXdJSHk4OHU0cW5ZNnlZ0gF0QVVfeXFMTjAzbHg0VFpGX1BVdGdwRjdwNlA1U09DSFFaMTRnTzBSd0ZySXRoYmhPSWJjQmZsRFlndW51TEZONzI2QzQwT0M1cng3Vl9NLXpUYWFXOGo5bHlPT0tnWTNlbmpfTDR1NU1oZXRBc3lKODlNdGQ?oc=5",
+      "summary": "트럼프, 바이낸스 해킹 북한 소행 여부에 \"모른다‥살펴보고 있다\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "코스피 5%대 급락…매도 사이드카 발동",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0RDQzOGF4ZzJ3d1F3bk0wZlJtYVpzeGFOVEJKVkVEV0lieHlzYzNOZHdMVEVlVzkweF9vaGZpQm1IVFoxWlVNbnE2eV9MRmJ1dkFEeWkxWHEtTlA5LWpqcnlmMHRnMzl5YWJ5Y2NJdHFoUQ?oc=5",
-      "summary": "코스피 5%대 급락…매도 사이드카 발동에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "어닝 서프라이즈에도 주가 폭락한 인텔…시장의 시선은 '현금 흐름'",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ta1k0aFc4ZC1LTjUzRzhkeW5zMllaMlBoZV96ZzVoNlBzcURJU25WeEp0TW5WT0RfMzF0bDVsR29feWtSc0RmNm9OTUh1YUhLSU5NYXcxWEtYQXJJdXpKMzM0cmJCX0JYSlV4ejZBOUQ?oc=5",
+      "summary": "어닝 서프라이즈에도 주가 폭락한 인텔…시장의 시선은 '현금 흐름'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "‘구글 쇼크’가 삼성전자·SK하이닉스에 미칠 영향은… “내년 실적까진 맑음, 2028년이 관건”",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY2hnVFVSV0xvbGU5SUxCZnhUb2JRSU9NQS1OZmNXd0VWRUx0R1VVa2pmWXluZWU4TDIxTmNrWGl5UkZMb0puajN1MW9MeUtmSjRDbDc1MnpHYUZmMzUtRTJBOFo0ZjhVYTJIU3pVNWJLRXVmcFpXekE2ZEJ1WFMtd0R30gGWAUFVX3lxTE5iRzFrNnZ2NEhRamI5NkhUU1ZCb1l6WkNlc3ZWRU9oXzRvaXJBN0RoLVhlTnhBeU5tYWhubDhjY08zMEdnYWgwd1VobTBKN0Y4TDdGRnB1bks3YVRtdVB3ZzIwVDFSN0dKV0NLQ21oNDRycjdnalR6WlZzZ1ptZTRDc2JNWjRKekxoMENoX3dibTVfWXU2UQ?oc=5",
-      "summary": "‘구글 쇼크’가 삼성전자·SK하이닉스에 미칠 영향은… “내년 실적까진 맑음, 2028년이 관건”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "한화디펜스USA, 미 해군 ’중형상륙함’ 첫 수주",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxcFphQWRVRTRwRjBpcXNuRFVMOGRQa1pWZ29kS055a3Q5MG5LSXJVZVhkOGZCemhIS3M2R2MtZmFTWTljcUs4N3BhVld4UERScnpVZ3pEcE15QVpjZ2p4eXhpQVExSXc?oc=5",
+      "summary": "한화디펜스USA, 미 해군 ’중형상륙함’ 첫 수주에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "AI 투자 우려 재점화…뉴욕증시 일제히 하락, 알파벳 13%↓(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Ba3ZKaGFkSlJXNUZZTHBlN1FfS1NHSE83U0t4azJpbzRQVENxREoyZEZVMmh6U19qNTBHM2JGdkRZNDQ3T0hnWVN0ZS0tOEl4RzhpWFl4cF9jbmvSAWBBVV95cUxQT2pjbGZHY2M5OEQwQzNCX3hEdlFkTTBkOWY4aFNvNzM3RlNoUmV4MlI4V0lvVV91Tlg2QUd6MDlCRTc3eG1iUEVMdDlHY3p3aFRMQ19YTDRYWjJOaHFHSGM?oc=5",
-      "summary": "AI 투자 우려 재점화…뉴욕증시 일제히 하락, 알파벳 13%↓(종합)에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "세인트루이스 연은 총재 \"추가 긴축 조만간 필요할 것\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16a1I2cGFvQ3VINEplTEpDNXdhQjlqS0N3NENpdzI4TXB6LVJnYVktUWZXMlhFYUxheGpMaE5GWE16dFRRZURMcXdrc0NZdzVfSWd0TDFUVlFjSTd4MWw5VWZKZXJhbzlVd0hpNTdBM00?oc=5",
+      "summary": "세인트루이스 연은 총재 \"추가 긴축 조만간 필요할 것\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "\"삼성·SK 반도체 못 구할 수도\"…'AI 공룡' 앤트로픽이 걱정하는 이유",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UY044aWJxNC01Z2xPYkpoUTl5X0NvQm0xcWdYNE52b3dKTklXeHgydFlQc1owdVpmS0hXSjFzTHo1dXZwNi1weE0wZEp1TURpUHZLcDF3TU9hbGpGWVo3NjRn?oc=5",
-      "summary": "\"삼성·SK 반도체 못 구할 수도\"…'AI 공룡' 앤트로픽이 걱정하는 이유에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "\"삼전닉스 호실적, 원화 강세 뒷받침…수출대금 환전 비율 높게 유지\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZcTNkNEJZdVZjQmc0d3dMSU92QTdtcjhKbkpLS2N4R3NZZllUekl3S2k3bGIxNURWOFBHcnp2UjAzd1BTdjFYSlREVU00S2F2QUswbHRjMWJGSXFQdzNDbExnN0RRNUg5NDZaU2N3ZnA?oc=5",
+      "summary": "\"삼전닉스 호실적, 원화 강세 뒷받침…수출대금 환전 비율 높게 유지\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "현대차그룹 새만금 현지사무소 개소…9조 투자 본격 실행",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RV3MzLW9HZlB2bERYa2R3dG1ySnFNaklZcTBHTEZuRHJydzBoQnNkY1hIbmsxZlJza0xvMHU3bTBFSEFqNjNUbzA1MUhPOTdtejNMVDYtRVdhUGhGanJBanR1ampFTmo0VVJPRA?oc=5",
-      "summary": "현대차그룹 새만금 현지사무소 개소…9조 투자 본격 실행에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "미-이란 확전 우려에 국제유가 2%대 급등…브렌트유 지난 4월 이후 최고 수준",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RXzNfazdGN3J5ODlrOUFVd2pPb195dFYzVThJT2JiOTNFZ21ZSmtmUzR0c1NZdmJuNnc0Y2xKd1lKQkdPbWlrSENUV25xcWVnbXhONTFPcDN4QXc?oc=5",
+      "summary": "미-이란 확전 우려에 국제유가 2%대 급등…브렌트유 지난 4월 이후 최고 수준에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "포스코 노사 임금교섭 잠정 합의…기본임금 2.6% 인상",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KZnFXYjY3Tk5MVVU2aHhHc2xYUk9Ea3k2VWVWd1ZzQ3g1a25RUTRNRU9URHE2TjlLRG5GMnlNcXkwVU5yTUpRejRaWVJxNWxqUmNLMWtVYUpFczd6LWVDdENVWmlnd1U?oc=5",
-      "summary": "포스코 노사 임금교섭 잠정 합의…기본임금 2.6% 인상에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[마켓뷰] AI 투자 우려에 코스피 ‘직격탄’… SK하이닉스 7% 하락",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWQ2Z1I3ZEVkeXYtT0g2a1I1TUUydUZqU0pzVXlmMjNfUE9ha2ljYVZnQ04waENDQ3Y2TkQyS1BJNTJHbVM3eFFGTUs5UXdBRmhsSTE0YWxXcHBlV0VJSUpoQmhhYWx3WjVmcXliYmZ2RWp1OV8zajA5YnRjR3NiamJkY3NOcktx0gGcAUFVX3lxTE5KT0ZEcjFBX3lfYjFISXlJS0Y3Y0JQRG9kMTFteUVGeDNWS2c5Ym5rX2ZwX25JRW8wWmplMTUzWEFHaktjakNoaHRYNk14aE5GeXU2dXJ6NGRyZm40Q1g1LVdWSi1FbG03QnpRRWxMS3ZpQ0Y4c215M0tzeWliblpiRHRGTGJtd3lNZm9jd3JTeEU2bXYtRUZIMTFsTQ?oc=5",
+      "summary": "[마켓뷰] AI 투자 우려에 코스피 ‘직격탄’… SK하이닉스 7% 하락에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "종근당, 3Q 영업익 15% 증가…위고비·아일리아 매출 가세",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Wc2Z3RjNrQTMybG1sQlJWRENBdk1mdHo0TU1aNjJFUVFGeGttWVpudXFBNE9LSnJGV3NjSXNKSlRzQlh3b2pMb0hJZXJ5TmRyUTJkeGw1SF9xWFB4RWhoYUdHZWRLcGdlT0thcnd3QQ?oc=5",
-      "summary": "종근당, 3Q 영업익 15% 증가…위고비·아일리아 매출 가세에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "북한 해킹조직, AI로 한국 겨냥 피싱 문서 대량 제작",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkX3ZHQUE3b0xZS1N5U0prbGhBM2lqNHROcGlNajdlMWk2M0ZGbWIwNjBDMkZGbWhiM0U3YjMwcU56N05xZXlkM0FBWUhVNzZRNkZYWWE4Q1hhMjVwejlDbF9hOEVTdEU?oc=5",
+      "summary": "북한 해킹조직, AI로 한국 겨냥 피싱 문서 대량 제작에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[속보] 일본은행, 기준금리 동결…1.25% 유지",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFVk1RSC1fSFVJaFJFamxWZEN4aC11Y25vNE9SR0V6eWNrbDh2azlDZHdHeU9RRDdJWVhLOW04M3Z6UG9KbzQtVHF3d1NVS3YtdVE?oc=5",
-      "summary": "[속보] 일본은행, 기준금리 동결…1.25% 유지에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "“젠슨 황 옆에서 술 마시던 女사업가, 중국 스파이였다”",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxU3dkaEh1YUFycUNJRE5qUHk1N1NnQzB3cU51RTEtT1lNdlZXSFRCYW1fcGZqRjZCY21uV1RPSmlaWjNKcGFpT3NYSVhSOTFTdHRlc2lYRGJST2RraEFiV052VWlac1N3THJ5aUVEVXowT1nSAWZBVV95cUxNaXVjeEFWQWZ6QWFoakFGSGZVRFZQcUt6d0FRdzdMbWhSdktHQXpzVEZHR3RxN0dXWl8xVFZsT2ZKRFREZkRpdzBkZWZQbkV5bXBzaEp1Z29Ub3JuMzBRdnZROFFDMXc?oc=5",
+      "summary": "“젠슨 황 옆에서 술 마시던 女사업가, 중국 스파이였다”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "7명 숨진 붕괴 참사…‘엉터리 계산’에 검증도 없었다",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mOWNrWHltYnpJU1JfVWZiMll6VENNdl81WGFKWEJZbC1nV2FfUldkS00tcndtcmctMERFYmxnS05nejhqNF9Oa09oUy1UdTV6WlV2QVlMWGJaR05BVFQxSzMxcEVEdw?oc=5",
-      "summary": "7명 숨진 붕괴 참사…‘엉터리 계산’에 검증도 없었다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "파업 위기 넘긴 포스코…임단협 잠정 합의",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KUXNINXR2Xzd6NmJMZ29vU3U5SE9FZHgxZy1CNW4waFkybTJpTGU4UHBCM0U5SHJON1pPVjl5X0VNUzhZQ09kclZOcDYwdFI5WFNCbWlaRHo4cnhaYkU3cDVDTDFqa09QaWZENjAwRTc?oc=5",
+      "summary": "파업 위기 넘긴 포스코…임단협 잠정 합의에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

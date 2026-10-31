@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 10:25 KST",
+  "updated_at": "2026-10-31 22:56 KST",
   "indices": {
     "summary": [
       {
@@ -16275,9 +16275,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,337.98 원",
-        "change": -2.36,
-        "change_str": "-2.36원"
+        "value": "1,335.10 원",
+        "change": -2.88,
+        "change_str": "-2.88원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -16557,6 +16557,10 @@
         {
           "time": "2026-10-30",
           "value": 1337.98
+        },
+        {
+          "time": "2026-10-31",
+          "value": 1335.1
         }
       ],
       "미국채 10년물 금리": [
@@ -17095,14 +17099,19 @@
   },
   "news": [
     {
-      "title": "트럼프, 바이낸스 해킹 북한 소행 여부에 \"모른다‥살펴보고 있다\"",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHNDJjY01OX3dQOEZwWElFejEwNEdfb1RTeTNyS3IyZXktS01VQjQ5QnRqM3VJb1E0OVJmSWNaRGs2VE01bGJkQnJjNl80b0xFRU9ucWdMSUJqeVRVcE5BNk8wT0UwSXdJSHk4OHU0cW5ZNnlZ0gF0QVVfeXFMTjAzbHg0VFpGX1BVdGdwRjdwNlA1U09DSFFaMTRnTzBSd0ZySXRoYmhPSWJjQmZsRFlndW51TEZONzI2QzQwT0M1cng3Vl9NLXpUYWFXOGo5bHlPT0tnWTNlbmpfTDR1NU1oZXRBc3lKODlNdGQ?oc=5",
-      "summary": "트럼프, 바이낸스 해킹 북한 소행 여부에 \"모른다‥살펴보고 있다\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "삼성 사장단 만난 올트먼‥'AI 키보드' 선물도",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Vc1JPZU5IdlN1Sm5FMnJUQklZSXdZZVpReFpIdXBjcEh3ZkV2R3Fobk83UFhCVnRSZWU4a2FXUG1fQnhJRTVab2hqYWFaZ0JzNGdCOWloMW1Lam5QS0t0VXhEVE5uX2l4Q2luOTBzVzg2Y2E50gF0QVVfeXFMT2dQTm9KUlZDenp4TmszbW9sVjhxMUxTU181MUN2M1dPOEs2bEgzci12SEVwb3RwcDFka08wZXhvUDNuRUdWemJhME9QV3BfOFY0V2JpNHdnR0hySUFtWWl4MmV1b191VHdZc25XQ3lrUHBJTjQ?oc=5",
+      "summary": "삼성 사장단 만난 올트먼‥'AI 키보드' 선물도에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "어닝 서프라이즈에도 주가 폭락한 인텔…시장의 시선은 '현금 흐름'",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ta1k0aFc4ZC1LTjUzRzhkeW5zMllaMlBoZV96ZzVoNlBzcURJU25WeEp0TW5WT0RfMzF0bDVsR29feWtSc0RmNm9OTUh1YUhLSU5NYXcxWEtYQXJJdXpKMzM0cmJCX0JYSlV4ejZBOUQ?oc=5",
-      "summary": "어닝 서프라이즈에도 주가 폭락한 인텔…시장의 시선은 '현금 흐름'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "트럼프, ‘8.4조 바이낸스 해킹’ 북 소행 여부 “살펴보는 중”…FBI 조사 착수",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBudmxUX1NwdEpROGJKdFRnUUxqQmV1aEdIeVNwMElpTkRGRWZ0WDZLUFNKblVZRnZ2WlpOSjFLN0txQVV2Q3hHWU00V1ZBR2trZWozVHFISzVkUkNLUHB1S1BGMVEyLW8?oc=5",
+      "summary": "트럼프, ‘8.4조 바이낸스 해킹’ 북 소행 여부 “살펴보는 중”…FBI 조사 착수에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "인텔 실적 쇼크 '28% 폭락'...AI 투자 불안 반도체지수 7%↓[뉴욕마감]",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFekl1TnVSSExPdGNma2NQSTdhOFNVVDBVaGt4NmktN2tTMjY2RDhxZXYzdmprU3VYVi1RYWVVdjBHa3VFM1VNVEVCVWR1bHB6RU00U3VTQjRkQ1MxS3pXZWtDR0ZleWlK0gFuQVVfeXFMUEFHZ2VBQkluTGRKcnRfcnZCNzg4blduVW5PTFliaHItek9EY1owdjhod2prZ3ZVLXpjemE3V29NbHVZSHpNN3V2YlllLXlmWFR0RWdmdzdheFVLc1MyLTJBUEFsclYzS08tbktQR3c?oc=5",
+      "summary": "인텔 실적 쇼크 '28% 폭락'...AI 투자 불안 반도체지수 7%↓[뉴욕마감]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
       "title": "한화디펜스USA, 미 해군 ’중형상륙함’ 첫 수주",
@@ -17110,19 +17119,24 @@
       "summary": "한화디펜스USA, 미 해군 ’중형상륙함’ 첫 수주에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "세인트루이스 연은 총재 \"추가 긴축 조만간 필요할 것\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16a1I2cGFvQ3VINEplTEpDNXdhQjlqS0N3NENpdzI4TXB6LVJnYVktUWZXMlhFYUxheGpMaE5GWE16dFRRZURMcXdrc0NZdzVfSWd0TDFUVlFjSTd4MWw5VWZKZXJhbzlVd0hpNTdBM00?oc=5",
-      "summary": "세인트루이스 연은 총재 \"추가 긴축 조만간 필요할 것\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "“급하게 목돈 필요했는데”…소득 없어도 가능, ‘저리대출’ 더 나온다는데",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YSk1idnYyQllkVnY4X1FTODhRQXQ0NXBrLTFRZ0RSUTdOazIybTk1M2Q5S1JncXI1TEZ6OU44ZHZKRkRoU0RNVmY4endOUm40bTVGRw?oc=5",
+      "summary": "“급하게 목돈 필요했는데”…소득 없어도 가능, ‘저리대출’ 더 나온다는데에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "\"삼전닉스 호실적, 원화 강세 뒷받침…수출대금 환전 비율 높게 유지\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZcTNkNEJZdVZjQmc0d3dMSU92QTdtcjhKbkpLS2N4R3NZZllUekl3S2k3bGIxNURWOFBHcnp2UjAzd1BTdjFYSlREVU00S2F2QUswbHRjMWJGSXFQdzNDbExnN0RRNUg5NDZaU2N3ZnA?oc=5",
-      "summary": "\"삼전닉스 호실적, 원화 강세 뒷받침…수출대금 환전 비율 높게 유지\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "피치, 프랑스 신용등급 전망 '부정적'으로 하향",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wUDNUT21YSEF3QkpqZVlQaVU0S3hUbUhUX3lzdEhseGxYQmI1TUZlN3hBSDZKUnZDNWtOZk40UzZuWDN5Mk5CRXl3Q25zQkV5SWRJYUdRMmQyNV9aVmZHeE9zenVfSjlfb0tXVnNSNWs?oc=5",
+      "summary": "피치, 프랑스 신용등급 전망 '부정적'으로 하향에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "미-이란 확전 우려에 국제유가 2%대 급등…브렌트유 지난 4월 이후 최고 수준",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RXzNfazdGN3J5ODlrOUFVd2pPb195dFYzVThJT2JiOTNFZ21ZSmtmUzR0c1NZdmJuNnc0Y2xKd1lKQkdPbWlrSENUV25xcWVnbXhONTFPcDN4QXc?oc=5",
-      "summary": "미-이란 확전 우려에 국제유가 2%대 급등…브렌트유 지난 4월 이후 최고 수준에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "현대차, 새만금 '기회의 땅'으로…투자 본격화",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Pd05vUlgwQlNNYUM4U2tCdV9tSm16MGJjbzVaRGJkLVBtdU16UGNWNlBTelRQbG5xT2RoWmdiSDdUYlQyRE95SDI2QVlyaG1QYWJOU0dhWUdUR0NZTGtmcHRBTVdZMWNmWFloSA?oc=5",
+      "summary": "현대차, 새만금 '기회의 땅'으로…투자 본격화에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "\"후회말고 삼성전자 사라\"…100조 '뉴노멀'에 개미도 들썩 [강경주의 테크X]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wVm82ZFlpaUlPQ09xdUlvZThoeEtXSFRvRDZoVkNQQjRySVhiQS1QQWktMUh6OGtxZDlWeE9McG40OWhfWWJNN3BWRkN2YV9PVnRCbjlqN1Nsdw?oc=5",
+      "summary": "\"후회말고 삼성전자 사라\"…100조 '뉴노멀'에 개미도 들썩 [강경주의 테크X]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
       "title": "[마켓뷰] AI 투자 우려에 코스피 ‘직격탄’… SK하이닉스 7% 하락",
@@ -17130,19 +17144,9 @@
       "summary": "[마켓뷰] AI 투자 우려에 코스피 ‘직격탄’… SK하이닉스 7% 하락에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "북한 해킹조직, AI로 한국 겨냥 피싱 문서 대량 제작",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkX3ZHQUE3b0xZS1N5U0prbGhBM2lqNHROcGlNajdlMWk2M0ZGbWIwNjBDMkZGbWhiM0U3YjMwcU56N05xZXlkM0FBWUhVNzZRNkZYWWE4Q1hhMjVwejlDbF9hOEVTdEU?oc=5",
-      "summary": "북한 해킹조직, AI로 한국 겨냥 피싱 문서 대량 제작에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "“젠슨 황 옆에서 술 마시던 女사업가, 중국 스파이였다”",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxU3dkaEh1YUFycUNJRE5qUHk1N1NnQzB3cU51RTEtT1lNdlZXSFRCYW1fcGZqRjZCY21uV1RPSmlaWjNKcGFpT3NYSVhSOTFTdHRlc2lYRGJST2RraEFiV052VWlac1N3THJ5aUVEVXowT1nSAWZBVV95cUxNaXVjeEFWQWZ6QWFoakFGSGZVRFZQcUt6d0FRdzdMbWhSdktHQXpzVEZHR3RxN0dXWl8xVFZsT2ZKRFREZkRpdzBkZWZQbkV5bXBzaEp1Z29Ub3JuMzBRdnZROFFDMXc?oc=5",
-      "summary": "“젠슨 황 옆에서 술 마시던 女사업가, 중국 스파이였다”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "파업 위기 넘긴 포스코…임단협 잠정 합의",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KUXNINXR2Xzd6NmJMZ29vU3U5SE9FZHgxZy1CNW4waFkybTJpTGU4UHBCM0U5SHJON1pPVjl5X0VNUzhZQ09kclZOcDYwdFI5WFNCbWlaRHo4cnhaYkU3cDVDTDFqa09QaWZENjAwRTc?oc=5",
-      "summary": "파업 위기 넘긴 포스코…임단협 잠정 합의에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "국민의힘 배준영 \"민주, 가상자산 과세 유예 결정해야\"",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKWk1TZFFYTHJYNTM2RkFlejFUZEwySVlPWmJEeGxKZXpHMXd4Q0k3bHZIN1JTSjI4S19GUWsycC1hU0ZPMHI0UHZnamIxZ1RwOVBaLXhXRUNYd2hjR2c?oc=5",
+      "summary": "국민의힘 배준영 \"민주, 가상자산 과세 유예 결정해야\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

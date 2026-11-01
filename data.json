@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01 09:40 KST",
+  "updated_at": "2026-11-01 23:33 KST",
   "indices": {
     "summary": [
       {
@@ -16275,9 +16275,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,335.10 원",
-        "change": -2.88,
-        "change_str": "-2.88원"
+        "value": "1,333.44 원",
+        "change": -4.54,
+        "change_str": "-4.54원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -16559,8 +16559,8 @@
           "value": 1337.98
         },
         {
-          "time": "2026-10-31",
-          "value": 1335.1
+          "time": "2026-11-01",
+          "value": 1333.44
         }
       ],
       "미국채 10년물 금리": [
@@ -17099,54 +17099,54 @@
   },
   "news": [
     {
-      "title": "한국 수출 첫 9천억달러 돌파…연 수출 1조 달러 확실시",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwLVFab2l0bGRXTWNReXZkMWhPakltWXJxRXNvVEd3RmV3RWRTVi1FdGdWSEZEUEI2VDV4a1VDbnVqZVByM09aMjNrd2dGQ2MwTHhVU2hjRGxfMG5fNndteHk0dEJsU0U?oc=5",
-      "summary": "한국 수출 첫 9천억달러 돌파…연 수출 1조 달러 확실시에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "FBI, 바이낸스 8조원대 해킹 배후 북한 지목…트럼프 “북한 연루 사실이면 대화”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FZU91Q0dXR3B3ZzhqblhtTXVoc1dJQ2o4bGxWM3BwZk9zdmgxTXEtXzVaSDFRZjlXcW1XMkthSU5pMkVvanF3bm9fczB1RldseDFOYzJLY3h2M2s?oc=5",
+      "summary": "FBI, 바이낸스 8조원대 해킹 배후 북한 지목…트럼프 “북한 연루 사실이면 대화”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "인텔 주가 29% 폭락…AI 거품 공포 확산에 미 증시 ↓",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6bVhrbWV2Q24zMlJHTGhWbWRsUzZfbmVrRE1UQUJhaklXc3hfVDF1X1FlZTlvblAycFhkTGRseWdsV1hWMjRiSTBYNlZ1ajNzU0hjQlRZa0V5YWc?oc=5",
-      "summary": "인텔 주가 29% 폭락…AI 거품 공포 확산에 미 증시 ↓에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "연 수출 ‘1조 달러’ 달성 눈앞인데 마냥 웃을 수 없다···반도체 쏠림 등 숙제 ‘한가득’",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iM1hWbHpfc3VvZlFTUE4xMm5wS2tNVEZwbmROLW5TSUo0eDUxLUJzVkNaSTEzeG05ZmRTZTBXT0UxTk9rdmRuWmRmZDl6OUJLck9fc0k5djlSUdIBX0FVX3lxTFBaYXdvbWhMQWF6M1RlSDh0WTBPYjZBbGNGUWdaeGRwSm9Rbk5GQ0piY2VweVJvWmpVRzBwVWM5U3dCYm1UTmdPR3RDMmM3X1lobHdrN2xtMGZ0eVBXa244?oc=5",
+      "summary": "연 수출 ‘1조 달러’ 달성 눈앞인데 마냥 웃을 수 없다···반도체 쏠림 등 숙제 ‘한가득’에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "미 FBI \"북한, 가상화폐 63억 달러 탈취 배후‥이더리움 전환 포착\"",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JUnlhUnVhYkhlN2N0VXc2UU1IbzFkRWhhaC1xRmhXSXlkSmt0M0NyMjFxMXd2cmJhQjlDRjZIeGpGZ2Q4anZnVFBoWEVyb1BEdWJsZkdaNzRXbmVNOFZ5ZUhObUxoMEQyOUNHN0E0bzE3ZWpR0gF0QVVfeXFMTmk1ZzNqR1NiWWRRVlNYVTBFRjJ5OTZHOHhudjQtMEgxbmxITFktRnpPUlNDejNMX0FDUzY1MS1XLTFIT1FZSjRkS3dJc2JpWGVBYWdEV2QxZWxDem55VDRwMU1VZzJQTmFtQzlIdGxxTnRsczQ?oc=5",
-      "summary": "미 FBI \"북한, 가상화폐 63억 달러 탈취 배후‥이더리움 전환 포착\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "커지는 AI투자 '둠스데이' 공포…호실적에도 주가 무너졌다",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EMVlNX0Nxc1l2RjU4UVEya1ZmME82ZUNXc0dOMjlhdk8yamYzTldZVnJ4VGQxRHlzT2Jxcm5kTl9RZnpOTXdaUTRTSVFOWmtKNjhocEVWalp6WE9Wb0YtYjJkNjUtaFpK0gFuQVVfeXFMUENpbjlhMG1jc2ZyV19BRlVNTUtQUVNTRVMxS1l2aEQ5bDFEbFNtQjFocUhhX0xya2d4YjI3VU5iM3B4ejloSDkyZm45cWNQdVlBbkpIeHBTVWNpRlJ6Z3F4RXg5LVhLeWU2TWNWaVE?oc=5",
+      "summary": "커지는 AI투자 '둠스데이' 공포…호실적에도 주가 무너졌다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "'가치 1700조' 오픈AI, 40조도 못 모았다…\"투자심리 악화\"",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02bF9FM3ZDUGwxZWg1b2ZxU0xrNDdqWV9aR0I3SnE4SlJldjVyZGRPdVdXb2g4R0R6Rl9qY0EzTkRXbEpENjY1b00tUWY4c3NOTEVKcVY4QnFGMWRBMFhrazVUZ0huTDRS0gFuQVVfeXFMTUNaWjgwTlM0azlsOUw1YVBLdjBpNXJlaTBYb0VRYkZEMEhKaTNsMXdZZzFnVkdRWmkxR3pHTHgxX1RwbTZGSDhSeEhac0hxVUpITGU5WnRiR1g3di1lc3oyTXZxSmxqQjgtalQzTkE?oc=5",
-      "summary": "'가치 1700조' 오픈AI, 40조도 못 모았다…\"투자심리 악화\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "체이널리시스, “올해 가상자산 해킹 피해액 89% 北 연계 추정”",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ydXlLRDFnSkVXTGp1NjVZaXh0NmdnTTdsZ2lzNnRXemNYd2Rsdll0RmZpUm0wcUZoS0wxN2dWb3pJVlZ5R2p5VWJ3YzNGZw?oc=5",
+      "summary": "체이널리시스, “올해 가상자산 해킹 피해액 89% 北 연계 추정”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "블랙스톤 “앤트로픽, 상장 이후에도 정크등급” 전망… ‘투자적격’ 기대 후퇴",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTXNLQVVkZFk4ZVpBWDRxdUcxc3hIUUlFSnM4X3lBSFRZS2JrMmZSSXZtRUpvbDNfZndNejN1ZTZxdmdJRkRrdXVONkVNMmlzY01YMEU4aEZrSzlIR2ZKTUp1YWMxaHR2OGRxYWZZcVRYcFVhcUtwX0pmcHQteVlOZ0xB0gGWAUFVX3lxTFBjRWo4MlppUnJiWU9QWlFVbGJ0Ykp3RHk1SEtkM3NkZ2tKQy16eXJILUVMS3RYUHFvNnNIQVFMYm9JLXpUaXpYZlBXU1BPMHNnOGUtbHd6UDYzYmFHR3pOaEpDQ3phY0dUdDRBVVdMcWlDTDlZc3hORWlDTE05cFpsRzJiSnlpVmk3S0o0Y2d6VjlENXp0Zw?oc=5",
-      "summary": "블랙스톤 “앤트로픽, 상장 이후에도 정크등급” 전망… ‘투자적격’ 기대 후퇴에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "대국민 AI 서비스 추진단장에 김세웅 전 카카오 부사장",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pRUtzX2c3cWdJUFQ0al9BdXY2S2JmVTRlRlpLcVJULXgxUExKdDNlcENTd0toaTlNOWtMTjRvenJWYU5zSmotTHJ3UXBFZTZCaTUzX1hCaXlZRFZCVDRWZm9LSW1hYTg0NTFLSnlPWWpCcU9Q0gF0QVVfeXFMUHhURlZVdThwcUdVRWZyQXVDbzZReE9TeDVGQldIYnBpS0phbWkzSFhja2k4bUR0SGFOTnZ3SWtFZzcxNzZLcEE3Ujc5OGIzUU1fWGhfU1ZkbmYzWjJFdjJ1REVsakV5NGx4dXJSaWFGV1JlSjk?oc=5",
+      "summary": "대국민 AI 서비스 추진단장에 김세웅 전 카카오 부사장에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "5700선에서 하락 멈춘 코스피...연기금 매수했지만 외국인은 여전히 ‘팔자’",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FMndtc3NSbXFGT2RVUW5vZmhKV2ZxQkpZZTY1SGloMnRXU210cEdnSGEya21UVnhHellET0dOS2JtNFo5THplb1VLb0VFUndCOXdVd0RCSE8?oc=5",
-      "summary": "5700선에서 하락 멈춘 코스피...연기금 매수했지만 외국인은 여전히 ‘팔자’에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "한국투자, 10조 펀드 조성…日과 AI데이터센터 짓는다",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85SkhIdHNqRHVxWVpoZmlKSHM1QjNQdmFQNmFnMXd5Y056c0V4aVZEZEVRZDI5SHU4VjUwQkFfU3liYzktTmI0TC15VjZnam40YVIxbnQ4ZERzdw?oc=5",
+      "summary": "한국투자, 10조 펀드 조성…日과 AI데이터센터 짓는다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "'아파트 한채 가격' GPU랙 냉각 검증 어떻게…KT, 자체기술로 뚫었다",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HZndCX201em85LUhDNkd6NjlUS29LQjB4RkdKVmZUd0dFMXFMc09mYlpNbGVaZUhPNjdhMFRaOFBQM3dLa0huMUZhT1VBR2pBNGtYQVVsZUhCQnlJNGdYOFpSQ20zNmoxMGd2S0JxTjY?oc=5",
-      "summary": "'아파트 한채 가격' GPU랙 냉각 검증 어떻게…KT, 자체기술로 뚫었다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "한섬, '시스템 파리' 일본 진출…2030년까지 매장 10개 목표",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fVzBsT1NHYmJ3YjYxbUpKQmNDNnpNemNkLWtXVzg2ZklfdlBJemJ2MjBnV0hwdlRnZzFCc2taRUIwZW0tVm84X3dOcXpNUkJ2ckFSd2RIWk5RX1lX?oc=5",
+      "summary": "한섬, '시스템 파리' 일본 진출…2030년까지 매장 10개 목표에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "삼성전자 창사 첫 2개 창립기념사…최대실적 속 '원삼성' 물음표",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4b09iVWVQMWEyWnVfd2sweGpmSi0xR1BJZzFHUkplYmhyZ2dsd2dFSWJZbnRpOGp4amFRYmNxZC1BNGktcExsTkR5NkVIVXQ0T3hFVkFYSUlFV1nSAWBBVV95cUxOSHExWkpoLUNXeTI2UDBYUk5oZUJ4RjZVQkpqN2lYTW1oallzQUFOaURWZmE0QlR2UnR3RG14OFRCMmotZkE5WTJlN2d5ZjFhR0txdW5ESzBqZG44RWo0T2g?oc=5",
-      "summary": "삼성전자 창사 첫 2개 창립기념사…최대실적 속 '원삼성' 물음표에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "코스피 절반 넘는 AI 공룡 앤스로픽 상장… 내 주식 괜찮을까",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTk80Y2dQaXZ6bVhDTXRzNXp2RXdudFpSeTV2dDE4Q2FOM2pXU3RjMzZTeGNxYU9jUHlQWERpOTRJMDBoRjBmS3c0UWhGZ3E4eWZnVUFLSS1iMnVYU0s2VkNGS2dSSHI1ZDFRSEVlekFPQUZITnNvUzgxWlMwbXJtdVdkUlZveWdfNnZoLUJn?oc=5",
+      "summary": "코스피 절반 넘는 AI 공룡 앤스로픽 상장… 내 주식 괜찮을까에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "한달 새 '압구정신현대 -6억', '레이크팰리스 -2억'?",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16emk4Yk5RRlI4RnJmaThlUzBIMllRbmJjeEVRM0d6Q0lGYVUzXzlxN3ZXaHVJcTRNa1B6a2pPM1pvT3F2RkY3bFRLNXRFcFp6eHNPR3dfWkZMcFpBZTN5SEpEQWJ1Q04xR3dYOEVCNUs?oc=5",
-      "summary": "한달 새 '압구정신현대 -6억', '레이크팰리스 -2억'?에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[단독] 1년간 묶였던 공공자산 매각 재시동",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03V3dldWNZVjE4Ukp4MXFlV1loQmEzS2VTU1FfbU5FZFZXX3ZOb1hCMVVkVEZxTlZwdnE5Y0t4d2NYSXI4eFRaMFY3dnB4djFRc2hTdQ?oc=5",
+      "summary": "[단독] 1년간 묶였던 공공자산 매각 재시동에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "한화디펜스USA, 미 해군 ’중형상륙함’ 첫 수주",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxcFphQWRVRTRwRjBpcXNuRFVMOGRQa1pWZ29kS055a3Q5MG5LSXJVZVhkOGZCemhIS3M2R2MtZmFTWTljcUs4N3BhVld4UERScnpVZ3pEcE15QVpjZ2p4eXhpQVExSXc?oc=5",
-      "summary": "한화디펜스USA, 미 해군 ’중형상륙함’ 첫 수주에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "한화, 국내 기업 최초로 ‘미 군함’ 건조",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CeGM4T1JhZ3p5SndKTGN2X0tCTlFuSDJWd1lVZExfblNqRmRQSWdVUElMWGY3QVpBeUFvZnVocms0Q3FRemdkSmVweHNpcFZyc3VlR2ZjOWZxZ9IBX0FVX3lxTE1aXzBJRUVXNU1RSkNpTEs3alVFVlJ6eFEwM3dnTkgyV0dlaGFjcVJJUFo1MmxkSFpDNWR5aDQwQm5uVW5EeGNKTkM1Mnp4al96MlVjNlBQVUhmUWN4R0NN?oc=5",
+      "summary": "한화, 국내 기업 최초로 ‘미 군함’ 건조에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

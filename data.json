@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-11-05 00:48 KST",
+  "updated_at": "2026-11-05 10:59 KST",
   "indices": {
     "summary": [
       {
         "name": "S&P 500",
-        "price": "7,677.81",
-        "change": 108.89,
-        "change_pct": "+1.44"
+        "price": "7,688.62",
+        "change": 119.7,
+        "change_pct": "+1.58"
       },
       {
         "name": "나스닥",
-        "price": "25,797.79",
-        "change": 425.78,
-        "change_pct": "+1.68"
+        "price": "25,736.51",
+        "change": 364.5,
+        "change_pct": "+1.44"
       },
       {
         "name": "다우 존스",
-        "price": "53,033.92",
-        "change": 1247.2,
-        "change_pct": "+2.41"
+        "price": "53,356.12",
+        "change": 1569.4,
+        "change_pct": "+3.03"
       },
       {
         "name": "코스피",
-        "price": "5,683.80",
-        "change": 35.01,
-        "change_pct": "+0.62"
+        "price": "5,462.43",
+        "change": -221.37,
+        "change_pct": "-3.89"
       }
     ],
     "candles_dict": {
@@ -5289,9 +5289,9 @@
         {
           "time": "2026-11-04",
           "open": 7635.81,
-          "high": 7709.87,
+          "high": 7715.57,
           "low": 7635.81,
-          "close": 7677.81
+          "close": 7688.62
         }
       ],
       "나스닥": [
@@ -10557,7 +10557,7 @@
           "open": 25652.78,
           "high": 26048.83,
           "low": 25602.14,
-          "close": 25797.79
+          "close": 25736.51
         }
       ],
       "다우 존스": [
@@ -15821,19 +15821,12 @@
         {
           "time": "2026-11-04",
           "open": 52410.23,
-          "high": 53057.48,
+          "high": 53492.4,
           "low": 52410.23,
-          "close": 53033.92
+          "close": 53356.12
         }
       ],
       "코스피": [
-        {
-          "time": "2026-08-06",
-          "open": 6478.75,
-          "high": 6550.94,
-          "low": 6238.32,
-          "close": 6296.38
-        },
         {
           "time": "2026-08-07",
           "open": 6365.07,
@@ -16246,6 +16239,13 @@
           "high": 5828.13,
           "low": 5421.72,
           "close": 5683.8
+        },
+        {
+          "time": "2026-11-05",
+          "open": 5580.09,
+          "high": 5586.46,
+          "low": 5386.29,
+          "close": 5462.43
         }
       ]
     }
@@ -16254,29 +16254,25 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,340.79 원",
-        "change": -4.02,
-        "change_str": "-4.02원"
+        "value": "1,342.38 원",
+        "change": -0.52,
+        "change_str": "-0.52원"
       },
       {
         "name": "미국채 10년물 금리",
-        "value": "4.94 %",
-        "change": -0.01,
-        "change_str": "-0.01%"
+        "value": "4.89 %",
+        "change": -0.06,
+        "change_str": "-0.06%"
       },
       {
         "name": "미국채 30년물 금리",
-        "value": "5.32 %",
-        "change": -0.0,
-        "change_str": "-0.00%"
+        "value": "5.28 %",
+        "change": -0.04,
+        "change_str": "-0.04%"
       }
     ],
     "series_dict": {
       "원/달러 환율": [
-        {
-          "time": "2026-08-04",
-          "value": 1428.5
-        },
         {
           "time": "2026-08-05",
           "value": 1428.43
@@ -16539,7 +16535,11 @@
         },
         {
           "time": "2026-11-04",
-          "value": 1340.79
+          "value": 1342.9
+        },
+        {
+          "time": "2026-11-05",
+          "value": 1342.38
         }
       ],
       "미국채 10년물 금리": [
@@ -16805,7 +16805,7 @@
         },
         {
           "time": "2026-11-04",
-          "value": 4.94
+          "value": 4.89
         }
       ],
       "미국채 30년물 금리": [
@@ -17071,61 +17071,61 @@
         },
         {
           "time": "2026-11-04",
-          "value": 5.32
+          "value": 5.28
         }
       ]
     }
   },
   "news": [
     {
-      "title": "한진칼 최대주주, 조원태 회장 측서 호반건설로 변경",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ndi12eVV1R0cxenhvaks5Z0lSbmhXT3lBYkxCTkpaTzFqcXFvbWxyLWt4bFNxaDJUZmdXaHRoQ3VWVVZmcHd1TnBiQ3Qydmh0NkxwNVhsQWVXQ2fSAWBBVV95cUxPNHNya1g2RlZRdzF5Q2JiZkNaYVNMZE8tLWRCRmZiMkZzX3ZIVGJ0YXhEU0FoUzREU3ctYlgzUkZuLS1acHpJMW0xcVA4MkFBRkdtOHJxUEhJczllQ1NNT0U?oc=5",
-      "summary": "한진칼 최대주주, 조원태 회장 측서 호반건설로 변경에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "코스피, 장중 4%대 급락…매도 사이드카 발동",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRVWkyRHBpajd0eXUtZ2NpTjg5akdXYXFBWGtVb2hpalo4Z09oM29DTnFoNk5tMWlUUHRMWU9RZEJ2SlY1Q1hPTXQ5SnZpRy1XSTZpTkJxaFdwMEE?oc=5",
+      "summary": "코스피, 장중 4%대 급락…매도 사이드카 발동에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[중간선거] 블루웨이브에 금융시장 긴장…\"변동성 확대\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jOGdRUkdqTVZWa2lFR2lvdmZsaE9KWlBmcng5cDlablFQdXZNRDZYSXRJVHR4QXNZaHI5T3YwdDYtRDdEWjlQR2xDQkRiX1FDOEc3VV9PcjQxVFNGZ3BWcHRMZXpRUmllWkNJNFNUcHU?oc=5",
-      "summary": "[중간선거] 블루웨이브에 금융시장 긴장…\"변동성 확대\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "美 데이터센터 관련주 쓸어버린 '블루 웨이브'…배경은",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LaF9Hd0Q3N3BGY1k2OW1feGJybWJ6WDg2cm9GUm1UTDRQdUFWUC1yaTVpcklmLUtLVzVmMGhSZjg1aDFPVGJOazRVNXpWZjJMY1JxcFBjd1AyVWxnNFNJYm5MZFk3UkkwbzBIcmw1Slk?oc=5",
+      "summary": "美 데이터센터 관련주 쓸어버린 '블루 웨이브'…배경은에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "“고물가가 결정타”…반트럼프 표심 결집해 국정 심판",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16OHpfTFhDSVBDM25ndXJZbUhWYU9lQ3lYOC05OHZLMmkzQ2tzVFlNWG5WYVpqNFpVRUxLZTlvUFdtWE9zbFFlaXI2aWx6dWpha1BpUmhwVzVNdlE?oc=5",
-      "summary": "“고물가가 결정타”…반트럼프 표심 결집해 국정 심판에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "미 민주 압승 '이란전 종식' 기대에 국제유가 폭락‥WTI 8.29%↓",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FcWdUbmxMSV9kUl9YUm4tc2JZUllnZkhBb0xEN1RGR0ZKaDFoM3kzMEoyeUd1bHkydzJwWTM0SUVndC16WkYtT2ItSE82TUNCRDZ4T1ZaN1padlY5Smg5ZlZQNUlldDBpOFhWcnZoWl9QV1JW0gF0QVVfeXFMTm51bkVWQVpsSl9PTGM5dGRoRjFvMnotQXhpd1BIakZlQWdNQUZVMzkyaHZtYTlIOW1HajNtaFhVRjdLcGxpQnJHX3l5RE9KYklJcGFrRnI3aVNDeThlYmxxUUNVcUo1bVlaaTE3UFFqbXUzQmI?oc=5",
+      "summary": "미 민주 압승 '이란전 종식' 기대에 국제유가 폭락‥WTI 8.29%↓에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "김범석 쿠팡 \"3분기가 수익성 저점…복귀 회원 구매액 역대 최고\"",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zMjdNNEVjMGQzUVQtNHdpTXl3MHVKUXRYYzhtTmlUZVRURnkzTWxWTERsOTBwVERXSUtuV0Z1OGRUSnJ5LUpaQTJXNDc5S2hhczZhZmd3?oc=5",
-      "summary": "김범석 쿠팡 \"3분기가 수익성 저점…복귀 회원 구매액 역대 최고\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "금감원, 금융권 보안 전수점검 내주 착수…체크리스트 배포",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5Tk5Qc3hpRU1IclE1SHJiSXNzenNXWHJOS1VHVDhaX0tjbnFva2lEY3N2QTNoWGJyZHAzVFBGWF9LYW1Talo4SmI4TjlyTEVSNWxhQkVrRW1JNVVFbXRGRzFLTmNuZzJYbU5nTzNJMUQ?oc=5",
+      "summary": "금감원, 금융권 보안 전수점검 내주 착수…체크리스트 배포에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "코스피, 내내 출렁이다 0.6% 상승 마감‥코스닥도 1.5% 올라",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rR3E3WGtYcDZ2TTllTjltbHhQbS11ZDlNdmdqQWExeVdDSmVpcWdWc3pHc1paLWtJN0ZaaEROZ21IR1g2dUx5NjBGeFJkcV9mT1ZOWnEyVXpmUk1ZR0lRb3ZmenlvT1VtVEZoVUVPSVZocUFf0gF0QVVfeXFMT2xzcXpWdkhIWmZTNG8zUDJxRDJDb0NyaWM4eGt6Z1Z2NVVpOG5NUGxSWDBScGVFNFE1eGxTZFFSaVpKMkdjWjNmajBxNTdaYm9XbWgtQ183aDQ0ZE9EdDJiR01wYldyX2RaSVE1b0VtLXZHeTU?oc=5",
-      "summary": "코스피, 내내 출렁이다 0.6% 상승 마감‥코스닥도 1.5% 올라에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "금융위 '역대급 5위' 자평에 거버넌스포럼 \"샴페인 터뜨릴 때 아냐\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxc2ZNY3REeXBKQ3JxZ1BWU0tnaHluXzVaX0s5YUYxUFpzYXdwcmhVMGJQY3JacXU4aWtKZTlfWUdJal94WXkzQzZZci1yanlFSkdNT3pJdGllOHRXdTJNU1Q2MlZvUWJWenRsSWR4bEQ?oc=5",
+      "summary": "금융위 '역대급 5위' 자평에 거버넌스포럼 \"샴페인 터뜨릴 때 아냐\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "프랑스, 냉장고 이어 혈액원도 공격받아…\"혈액 손상은 없어\"",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sWTRXWDlXc1NLWTd1RHk4RTFjNmxLemlveV9CclRvYXByQUhDSENVd0x6S0FUWjZWNGlYdUx2ek1WdkZuMUxfN2ZmTTJYcG9vRjZUem50WlZzaFJnSW44T19VWlJJTDQ?oc=5",
-      "summary": "프랑스, 냉장고 이어 혈액원도 공격받아…\"혈액 손상은 없어\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "청주 두 단지 하루 청약 15만건… 지방 95곳 9개월치 넘었다",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY3lUYTNFZG1UWGZnV2NlNjA4bDVaTjExdHZaSHEwaVE0UkZhYkpxTmZfVVZfZmc0OU5Cb3RwTHdQem9Ob18tdDhGOXNhVWYtVWNmUXVVamFrb1poakhxZEZudlg5UUhVZ0RSb0diX1NkMHdnaGM2LUwwMmRVRXh5NXZGbVZ2OU10alg0cGtfaG82cS1lT28wWdIBrAFBVV95cUxPOVlLODJVOFcwWXgyN1RuM3M0MUNfYW1USWRYSXlreFlpd0VBMWJEamdsRmZDT25wUFVnZUFPOWVxYk9OcktQTkxmNUlvUE0xV1dlV1VrdHotcXZXV0F3bi1ZZjZXcEdkdlF5UWZlY2Jka2hpT3p5SzJwam5kc1N0N0FqbGltbFlBS21JM0xRSVAtVjU4YW96M0NfaDRrSHdhZ1hOS1NYdXR0TmdP?oc=5",
+      "summary": "청주 두 단지 하루 청약 15만건… 지방 95곳 9개월치 넘었다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "면접관도 CEO도 가짜였다···북한 해커들 ‘위장 채용’으로 엔지니어에 접근, 5개월간 다단계 공격",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1scWdlbFVQSFhxa0szQ1NIOU9IWkxSd3pFdEtqOU1pU3Vsc0JoMmczbmgtOENNQzFwb0JXR2RzMll1Tjk0WHE5Qm4ycy1lTkNXdUFfOUhEWmhEQdIBX0FVX3lxTFByZmNBc0J2M3dVbHhYekVBWGlib0VGaFpOR0dVcUNlWjRuZ3IwclpzWWFoZWE1WW1fMjZRS1F4bmdlUURUbDhmWHVtZTZXeXZkSEZWQVg3SGpfYVR0OGVR?oc=5",
-      "summary": "면접관도 CEO도 가짜였다···북한 해커들 ‘위장 채용’으로 엔지니어에 접근, 5개월간 다단계 공격에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "미국 중간선거 최대 패배자는 ’일론 머스크’…사업 타격 받을까",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iTzFja05KcV91bWVhTHBOSDhpUlpvR1BzV0hUanVIcFpub2lPU3NkSW5VU3pxaUlzTGlJVlBjUWhlYzVfTDdpLWs4bFpOSkdWbnl0aC10eWJRa0piNTlPam5Sekl4dEU?oc=5",
+      "summary": "미국 중간선거 최대 패배자는 ’일론 머스크’…사업 타격 받을까에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "다우·CJ컨소시엄, '5200억' 중앙일보 신주인수계약 체결",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd3NWWllpNlRKMndrRlN6NjNiQlliS2p3VktOeEtFM0RGeU15S2x1dlpMcXFoaEZHVDJPM2Y5T215Z1A0REhYaE9iQ2dwaWVwajRYYTVrQVd5VHh5RWhXZlFRMDkzS01vdTVDamVSMGFnVlRjMTNaVTE1Rm5WRjZEcFlmUQ?oc=5",
-      "summary": "다우·CJ컨소시엄, '5200억' 중앙일보 신주인수계약 체결에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "산은이 한진칼 지분 '경쟁입찰'로 일개 건설사를 도와줄 이유가 있나",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ295bUE1Q1doZDJ2U3M4LXVtTlg4QVN3TzQxcjVjT1p3WmdLc213OS1nZXd5UzNQM1Y5R1NjTk5XVDVJTDJpUVY3YUNkNWpDQWhJNnNyWFUzRHdjUU05eW5nUTNpamxMUWF0cGw2VlJxMkE3NGkxZmhaRUlMOTRuWm8tbw?oc=5",
+      "summary": "산은이 한진칼 지분 '경쟁입찰'로 일개 건설사를 도와줄 이유가 있나에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "벽 타고 짐 나르고…산업현장 넘보는 로봇들",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tRjZjMGFmTkV1bWRoZ2dkNjhkQlVHRDRtb1lWX0NUVFRncGFQXzR5T2hGS0NnZTlhZ1FRcWF2alpORE5tTG5TbUZIbW93UjV3eWVvbHNwN0M2R04zaUxmUGtRTU5pQQ?oc=5",
-      "summary": "벽 타고 짐 나르고…산업현장 넘보는 로봇들에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "이바나 수소위원회 CEO \"韓, 수소 비즈니스의 좋은 선례\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FUUQzSVIzQVNmeUNtMlZYYVdCVk05bXowZ0lUQWVJZnNjazhxUlRGQjNkYU5aSUJmNjVjbWtIejJYYXZ5b25DdTZmUXVySENCYjJSdEpTalUtNnBmZnpMYzJxZFNFd2U4R3g3V1lmbm4?oc=5",
+      "summary": "이바나 수소위원회 CEO \"韓, 수소 비즈니스의 좋은 선례\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "홍콩ELS 불완전판매 과징금 3700억원 최종 확정…1조원 넘게 감경 By 알파경제 alphabiz",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HbENSZi1DZWJNdEhkaWRXYXJnaGpvQS04cW1EZmtSLVlHb0l2enV4WnM1UzV6dkZhQ0h6TGMwVDdQcHlOWGdLVHFiQzhwQjFvRUUtV0xrcFoxYUNGaUxaWTYwWW1GU2FuekMxMDRBTkU?oc=5",
-      "summary": "홍콩ELS 불완전판매 과징금 3700억원 최종 확정…1조원 넘게 감경 By 알파경제 alphabiz에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "냉장고 이어 이번엔 혈액 관리시설도…프랑스 혈액원 ‘초고온’ 공격",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93bTl0ZUp6QzZVUEpRcEFBZ19NM0hteGZQc2pkcWpWYkpXbE9pTTdZMkNiT3d6U0ZGMkM3bG9ZaWZwM3BrUG9YbHE0LWhaMXVIejdnZkMwTjNqckl0QW9mUGNFcWRQdw?oc=5",
+      "summary": "냉장고 이어 이번엔 혈액 관리시설도…프랑스 혈액원 ‘초고온’ 공격에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

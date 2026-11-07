@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 10:35 KST",
+  "updated_at": "2026-11-07 23:26 KST",
   "indices": {
     "summary": [
       {
@@ -10,8 +10,8 @@
       },
       {
         "name": "나스닥",
-        "price": "24,579.42",
-        "change": 264.42,
+        "price": "24,579.43",
+        "change": 264.43,
         "change_pct": "+1.09"
       },
       {
@@ -10571,7 +10571,7 @@
           "open": 24602.48,
           "high": 24825.55,
           "low": 24507.63,
-          "close": 24579.42
+          "close": 24579.43
         }
       ],
       "다우 존스": [
@@ -17095,54 +17095,54 @@
   },
   "news": [
     {
-      "title": "5천선 간신히 지킨 코스피…‘서킷·사이드카 몸살’ 연기금이 방어",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10ZEJTN1F4Qjdfakk0blVCZUtZTnNham9CX1owTDlGM2NFazRjMC1WVHVhazAtQ1RxNDBBemNXS01tSnpZY28tdk1SQWFYLWwyUEVkdkZMdTdrTkNJbDkzZWVWZEh2Mzg?oc=5",
-      "summary": "5천선 간신히 지킨 코스피…‘서킷·사이드카 몸살’ 연기금이 방어에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "블루웨이브 쇼크에…세계증시 시총, 하루 만에 4773조원 증발",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QNFVQWTN0elJ4OEROeTd0ZEdwWFlVbWc4ZHRQNEl4M3BuQXlFQlpvLWR5M2N0VFBsc0lFaHN2cFJlaEQ4ZEZESVdYQm5MLXlLamN2QnV5QWVidHJfZTh4b3BpYV94bEk?oc=5",
+      "summary": "블루웨이브 쇼크에…세계증시 시총, 하루 만에 4773조원 증발에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "미래에셋증권, 고객 3천800명 계좌번호·임직원 3만5천명 정보 유출(종합)",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KelJ4TnNlRWxtZVRMcGRHLXpxN2lyeV9fdTZobDMyUHlsLUJxakRjdl9fdHc4MnNKMjQ4eUVsQURiRlhZMzdNZ1RIdEV0VlhHMXhLemNEQTdtVVR6WUE4N1I5N1pEbVYxTXRMcWJOSW4?oc=5",
-      "summary": "미래에셋증권, 고객 3천800명 계좌번호·임직원 3만5천명 정보 유출(종합)에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "미래에셋증권도 뚫렸다…3만 9천명 정보 유출",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OaXdWQllGWS1LQlJIc28xcmRUUzluUlJ4cjhpbmlmMW96bnY5MndNM0E5U1hBLUR3djNrWGc2VmhVVVFNNHNVcVZTMFNZVjlna3l3V0Y0UUk5bkU?oc=5",
+      "summary": "미래에셋증권도 뚫렸다…3만 9천명 정보 유출에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "오픈AI CFO, 美중간선거 결과에도 \"AI 데이터센터 투자 계속\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LRHlGMnpUTjkxcmMxaFZmcGVtVjEyMlhZN1NIM1BOdDJ1X09meDFmX1ZNS3k2Qm9uQm5jWUlfS0dzelg4ZEFaUEd4emdoZ3RPb1d6N3l5SU9Pejg?oc=5",
-      "summary": "오픈AI CFO, 美중간선거 결과에도 \"AI 데이터센터 투자 계속\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "포스코 노조, 임협 잠정합의안 부결",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd2RrWjM1cEpRZVVlUmNvU3NHZkhUMGF6aDdDWnZLOEh0ZC1WQ0czekN4UlhMYWpTTV8wZXZEVVJpcWhjMWZKZXlxd1cwZmdEVDh1RkRuU25GTEppVzEwMktwQm9TNllXN2c3Q1dvNmE4eEJubFFBU0hDZHpoN1l6MEJ1VQ?oc=5",
+      "summary": "포스코 노조, 임협 잠정합의안 부결에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "국제유가, 중동 정세 주시 속 보합권 마감…WTI 0.34%↑",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EYmk4OG5FLUd6c2FBWTZ2Tm9kMk82cHB1R1BTbFUyU19aWXVBZmNZQnBMekRWeklrcTRnN0hpbnIyblpiNlk1QUZ4NUE2ejZVSkxKem9yZUlFT1lsZ2xzVFJmcF9QZw?oc=5",
-      "summary": "국제유가, 중동 정세 주시 속 보합권 마감…WTI 0.34%↑에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[ET시선] 가상자산 과세 유예, 이번에는 달라야 한다",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNam02RGxYTng0MmZWQUMtR2MwYnBFOGFvaHNPNEdBQ1RKc1l0ZkRkZzBZVEhtOVZLM1hDNjlKNmJfeWIwTWNWVjZMS2pGdw?oc=5",
+      "summary": "[ET시선] 가상자산 과세 유예, 이번에는 달라야 한다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "\"'AI 오아시스' 문 닫히나\"…텍사스, 데이터센터 신규 승인 중단 예고",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoMS1WdUFZTzN5Z3dUdV9DMnZjeFh1ZG1wODFIdEs5WVJ4R0NGeVhWazdWdkRPUkFNaUxiQmFwODJ2WDhUb056U25SaTVlaDIzbllxOFBhVGQ4dw?oc=5",
-      "summary": "\"'AI 오아시스' 문 닫히나\"…텍사스, 데이터센터 신규 승인 중단 예고에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "국내 증시 급락하자 미국 주식으로 달려간 서학개미들···11월 첫 주에만 3조원 순매수",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tMDJ6dU9DOFRjVExkTk5YUU9jakRXXzdJQnd6VTNReHJDbXc3NWx1cWVpcU5sUkxwcjFoek5WbkV3djRLbm5PTTFqODRFRXdYRGs4THpjU2xUQdIBX0FVX3lxTFAyd2R5YTlTRmI4MnhELXlsNTgzcFpQY1RXb19EaU43ODdHczhEaVdvZFBvMS0xNF8xYzloT2sweXRiR09hMXZxenp6ejVVZFVYNXVyM2xpekt5X0pQZFpn?oc=5",
+      "summary": "국내 증시 급락하자 미국 주식으로 달려간 서학개미들···11월 첫 주에만 3조원 순매수에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "테슬라, 사이버트럭 생산 중단키로…머스크 “한 시대의 끝”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtejIyQ0JqdHRRY1lVUUdMNHdsX3NWSGJocGFiRGxINTlyekFDWG5GY1Nmb1dRa1pDR0RDblU4REtqaGlNV0NuTG5XSlQxYkJIZlZWYXVlSHlwN1E?oc=5",
-      "summary": "테슬라, 사이버트럭 생산 중단키로…머스크 “한 시대의 끝”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "젠슨 황 장녀 매디슨 황, 방한 하루 앞두고 취소…\"가족 사유\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SbmdsZlBOU21UdDNBTU0yUHNLYTVGUnJMbUNOV3p6WldOUERSWWIyMzQ3TzNacTAweEI5dWtGLTZBcy1vYVZEZXl2ZXhlemtJbncxeEZSb281cjjSAWBBVV95cUxORGJ5QjYweFF4UTZNX1p1UEtyUHc0S2hHQV9mc2VFOF9FcDVsMGxpNmdacGZWWnRXRkYyWENGbHJxRHBXRWRnM3JhYnk0MzExU1hpbEFxSmFiZWZ3X3dfcTc?oc=5",
+      "summary": "젠슨 황 장녀 매디슨 황, 방한 하루 앞두고 취소…\"가족 사유\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[다음주 한국은행 및 금융위·금감원 일정]",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiQ3lSZWhraDZzc3cycnJRZ3BtSW80SFFaQ3RXck5mT1d4elN6NDFldWFST1BWMDlHSGJnd24wWGtFWmVEVG1ubGdyVURrQWpFYmdHUVNpWkkyNzV2VHVLeDhsQ3liZjU4SGlkbE5TUXHSAXRBVV95cUxPSWs3THZHT1puUlF1UnYxcUx2UGYtakZZVXA2MkpmQ2Rpa1RvNkJQRVZsRnphTlVzOTRVVzVIY19RYlFqekIzakFzTG1KQkRkdTA3UWxzQS1iMW5mUkVoeUhMYllyeENTZUVHclU1OUZDaU5GMA?oc=5",
-      "summary": "[다음주 한국은행 및 금융위·금감원 일정]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "오픈AI CFO “AI 데이터센터 투자 계속”…‘반대 표심’ 돌파 의지",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsa004ajdCNm1YNzZTRmdqWWs2aXBtRG9FaWctWk5LVnkwRURGeEQxYUJkVlFMbmtfQnVNSlYxeWRldnIxeEpPTmJlSkdoLUNHbnhXUFZzMFBVZlBuUUZYNzFTSEJPbWlKRzZpVDJkMWR6SzhDNjJz?oc=5",
+      "summary": "오픈AI CFO “AI 데이터센터 투자 계속”…‘반대 표심’ 돌파 의지에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "코스피 급락에 F4 회의…“신용융자 담보비율 140% 유지의무 석달 면제”",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtSzJEbVlJRXZFNXhRZFE4V2Q5MnpvQkctMHpjYUR4bC1uNkpROGpOTmNRc2l0d2JjY0FwTmdaQUt1MDk5RFZ2b3pIYU5TcFZXSHVsT2VIQXVLZUl5WFlmaU5BdEFLRVZFb01HQzA1M2RSdw?oc=5",
-      "summary": "코스피 급락에 F4 회의…“신용융자 담보비율 140% 유지의무 석달 면제”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "연 4% 예금·연 10% 적금…다시 은행으로",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvLVZlVW1PLXFBMEs1NENBOUt0TUdQYkpaOHY5T0NZcms4a3FWZkdGc3V6YjhzVjZjUThMd0JEckkyajBHS2x4UDQtSVRhTTRmWXJtZ1ptUFlDWGs?oc=5",
+      "summary": "연 4% 예금·연 10% 적금…다시 은행으로에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[중국증시 마감] 美 기술주 투매 쇼크 전이…AI·반도체 테마주 무더기 급락",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfOGV1Qkw1VndpaDZualpkUFAzVTJFdGFQM0Z5SUkzM19LWXNpdjJXaFpaNWVtRG5TNXk2d05QN0gtZDFsbEhwaHJpS3d1b004a3N0dllRZzktTHFM?oc=5",
-      "summary": "[중국증시 마감] 美 기술주 투매 쇼크 전이…AI·반도체 테마주 무더기 급락에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "레버리지 물탄 개미 '쪽박'…하락 베팅한 외인 '대박'",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9remdMZkZPd1hzaWJtQ3lpNG1VOVhDMWtEQzZrU05qOXc4TmhCTVQ4UVV6Yi1WQmhLVW1DOTNsV0h4dTFDdlJubTNORC0wSy1GU3c?oc=5",
+      "summary": "레버리지 물탄 개미 '쪽박'…하락 베팅한 외인 '대박'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[단독]“1300억원 코인 세탁 완료”...北, 바이낸스 장물 ‘中 환치기상’에게 넘겼다",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBQVR4SlBMaEpQNDVOYmgtVXpSM0Q3TzN3LUxRSDF0SjZLaV9XbEtqSXFTUUItR2NnZlZYbkt3WkRGVnJqTnhPV0NJMkx3a25UaHc?oc=5",
-      "summary": "[단독]“1300억원 코인 세탁 완료”...北, 바이낸스 장물 ‘中 환치기상’에게 넘겼다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "코스피지수 12% 급락…골드만삭스 “중간선거·기술주 매도 영향”",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lMEtQU1dDMk5QSFJheG1CRk14V2FpbGZ1X2lyaHpNMG1LYlA2eVdWVGN6M1JOejB0S2pVZzJ3ZDdkX2ppNVVUM1ozdmstRHNpRDhqU04wU1NnY3dhR1ZLbDU3ck5kNVJrMnR5UXRRVWhON2Z0Q3dV?oc=5",
+      "summary": "코스피지수 12% 급락…골드만삭스 “중간선거·기술주 매도 영향”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 23:36 KST",
+  "updated_at": "2026-11-09 10:24 KST",
   "indices": {
     "summary": [
       {
@@ -22,9 +22,9 @@
       },
       {
         "name": "코스피",
-        "price": "5,059.69",
-        "change": -324.11,
-        "change_pct": "-6.02"
+        "price": "5,068.04",
+        "change": 8.35,
+        "change_pct": "+0.17"
       }
     ],
     "candles_dict": {
@@ -15849,13 +15849,6 @@
       ],
       "코스피": [
         {
-          "time": "2026-08-10",
-          "open": 6306.33,
-          "high": 6394.06,
-          "low": 6232.45,
-          "close": 6299.66
-        },
-        {
           "time": "2026-08-11",
           "open": 6240.06,
           "high": 6405.81,
@@ -16267,6 +16260,13 @@
           "high": 5269.1,
           "low": 4911.28,
           "close": 5059.69
+        },
+        {
+          "time": "2026-11-09",
+          "open": 5034.2,
+          "high": 5123.21,
+          "low": 4990.66,
+          "close": 5068.04
         }
       ]
     }
@@ -16275,9 +16275,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,356.34 원",
-        "change": 16.27,
-        "change_str": "+16.27원"
+        "value": "1,360.20 원",
+        "change": 3.86,
+        "change_str": "+3.86원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -16294,10 +16294,6 @@
     ],
     "series_dict": {
       "원/달러 환율": [
-        {
-          "time": "2026-08-07",
-          "value": 1422.3
-        },
         {
           "time": "2026-08-10",
           "value": 1407.0
@@ -16557,6 +16553,10 @@
         {
           "time": "2026-11-06",
           "value": 1356.34
+        },
+        {
+          "time": "2026-11-09",
+          "value": 1360.2
         }
       ],
       "미국채 10년물 금리": [
@@ -17095,54 +17095,54 @@
   },
   "news": [
     {
-      "title": "데이터센터 건설 제동 우려에…코어위브, 美민주 텍사스 주지사에 협력 요청",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOU52b0g1TW1IZjB0ZEFNZlpMNEtvd3ZjWElEd2J5ajU2bGpHYUMwNGtiOWlId3h3clVwTjJCZzQzRW83UE5DeUdCWWlzSHFNUUhDQmxuTDhYNEQ1V3RpekUxLWIzdm9SOTh0VmNKelk4WjFyQ09QUThWUlE0dFdwVl9B0gGWAUFVX3lxTE96N2lRY1dQSGVNczc2MUIweUR1bjdSclNWYk5ZeDg1bkJob2ZGTmlHV3pfQk5zemJ4cGt4bHJvQVc1VUJoLUdMVFVQTkpxcjhnM1pka1dkQ3I5aVBhd2t6NnEzdHRDckl1ZHAzVnRCNlpvZjZKdEFaV1BSekpGcngwdUNoSnRlNm95bk9WNnhQYnZERTdaQQ?oc=5",
-      "summary": "데이터센터 건설 제동 우려에…코어위브, 美민주 텍사스 주지사에 협력 요청에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "“며칠 새 연봉 날아갔다”…AI 규제·금리 인상 우려까지? [잇슈 머니]",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlZFNWZDNnWFR2U1RpNUN6UFc5R1ktdEtBalFuUjhsNVpqbHdFbjk0eEM0Q2NUQjN1YzFWRFFQaDhkRmlxY0tFQ21nbzBXRW9Yd2lDd1hUMWpQU2s?oc=5",
+      "summary": "“며칠 새 연봉 날아갔다”…AI 규제·금리 인상 우려까지? [잇슈 머니]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "젠슨 황, 中 스파이와 연인 관계 의혹…美 의회 조사 예고",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wUzl4S2R6OExFS1VkMHFaTFF3enhSa1N2Y2hkdm9JSXBGZHgtOE5CMGx6Q1BkT0lwRU5XUDBON016RjBtMEpaTjk0VkxsVlNYRXBDMTdwNWUwZl9jQWdUc21WeUJnRUdxQk1fZWhtdjM?oc=5",
-      "summary": "젠슨 황, 中 스파이와 연인 관계 의혹…美 의회 조사 예고에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "“미 국무, ’젠슨황-中스파이 관계’ 기밀문건 작성 직접 감독“",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YZUFRa0JOYnZiUDN5SDE1em54cXFRVDFLRE9yX2tGLUpkMmtvWk5rMzNVc2dCN0tIYm5idnhZNE93cUZjcXJmbjJwVEZnY3oxeW1xNlZESFhDMURwREhyQ1FkR2dZcUU?oc=5",
+      "summary": "“미 국무, ’젠슨황-中스파이 관계’ 기밀문건 작성 직접 감독“에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "‘블루 웨이브 쇼크’에 코스피 5000선도 아슬아슬···이번 주 관건은?",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mdTEzaGVhZlZ3RkswQWgzNnVyWGN0cUpVWFFZYi03SUx5X1RmdlpvZTZxU0lEYnRIRDdiNnFDMVZZbFFpLWlrSVRUZFBWLURXYkQyQ0JRbmNaUdIBX0FVX3lxTE02TS1KOXNNeG1wZndaa3ZNdDlKcWRvM1plNWxWUmFTRENOSXRHQ3hwUFVCSzNOZTQwcDVuZTJxeXZual9NOE1qYXZoVFozQmhuaFI2VDR1cGxPYjM0blRz?oc=5",
-      "summary": "‘블루 웨이브 쇼크’에 코스피 5000선도 아슬아슬···이번 주 관건은?에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "美 데이터센터 규제에 반사이익?…메리츠證 \"네이버·삼성SDS에 기회\" By EBN",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJdGlPZEMzWVpENmo0V2RWX3lMdGFKaW0tMS1sV21CajdEN0hxNnBEcXpLOXd1RzZaa2V3OXM1TDBrY1ZIalJHV0ludzZjb0hON0tKbGMtRkRCWlptTW91ZmRFQU50OVNQbHBtY3pNVTk?oc=5",
+      "summary": "美 데이터센터 규제에 반사이익?…메리츠證 \"네이버·삼성SDS에 기회\" By EBN에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "미국 데이터센터 제동 우려, 내년 한국 성장률에 변수 되나",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeTdubFJuWkZ3MUZLNHlNaGdLQ21aN09kb2hWeU5Pb1dTX19iQTVuSVJkVGFEenByb2pKQlBtZEx6Qk5DWVFrUVJ3XzBLYjBvZlZBMThCQzJ5SnlMc183QnJUS3JtLXU2UVBfOHlHaktvZnZocS0yWVVfNW9qaVFHMEJjOUVRN2tLb0xEVHFhekxwbmlwYnZoSUZHa21fTGVqXzFDSFN0QmwzcHNnenJ2X0ZtQWxuc3ZIVFo4dHZyYW5pSkxkVEFOU211OHNiMm5QWjA0YlBn?oc=5",
-      "summary": "미국 데이터센터 제동 우려, 내년 한국 성장률에 변수 되나에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "107조 벌고도 20만원 깨졌다…삼성전자 이틀 새 폭락한 이유 [숫자 뒤의 진실]",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SQTdTSU5PSDZZeXZYRTd1OWpVazBzeURERVJsc0dvcVFxZjJfSS1oSk5vYjhJUkRTSUY2NkRkV0hkMVpiTUtiVzBnemVSU0tnTzZvZ2VnWHPSAVRBVV95cUxPaHlUbUg4YU9aTUNydFFoamFDUE9xQjA2NWtUeklnUmstLTJjUmhNZ3JDZEpnZE1qQm1kNVd2a0VFSzN6bkZtNDB5aGJ1VDVWT3Q3QjA?oc=5",
+      "summary": "107조 벌고도 20만원 깨졌다…삼성전자 이틀 새 폭락한 이유 [숫자 뒤의 진실]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "농심, 부산 녹산 수출공장 본격 가동…연 60억개 라면 생산체계 구축",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtN3ZxbjFiNTlHT01LNmNDZUp4dHBRdmpFQlJHNjJlVkZLTXZNOEJFTzBtcVgyNEZ4NzByS0YzcXZ5NU9CZ1hpdHVfNUt0Y0pmWlB3ZXNIS1RmdHRn?oc=5",
-      "summary": "농심, 부산 녹산 수출공장 본격 가동…연 60억개 라면 생산체계 구축에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "“삼성전자, 지금은 반등 가능성 주목할 때”…비관론 정점 속 돋보인 리포트",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04U1NpOS1kelgycWN3NzZidzNIWHRKTlN5akxWOXJfcFZmODdSZFlNVXNtbGQxY2NqS1Z3MDRpRXo2OFJ1OVhtbWlHYmk3WXpSMWc?oc=5",
+      "summary": "“삼성전자, 지금은 반등 가능성 주목할 때”…비관론 정점 속 돋보인 리포트에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "근로소득이냐 복지혜택이냐 … 건강검진 지원금 '뜨거운 감자'",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEU0ZsNG9keG4yQlZHcXV4aFF3UXJFZHFzZHloc1VNY0wzdXFUenhHd1VJRXJENVByaGpRaE5pcUdCRVdETUN0Y3djdFhzT09mOURTSQ?oc=5",
-      "summary": "근로소득이냐 복지혜택이냐 … 건강검진 지원금 '뜨거운 감자'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "유럽 덮친 냉장 시설 해킹 주의보... 정부, 국내 관련 사업자에 보안 점검 권고",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11OHhMLV9jazdQMFVlUy1qUGl5Q1VoVlZ1dnZxRm1pWnVWblZ3MzF0Z3dtcTVSaURVYzNiNERCRHQtTVo4WEQ2OG44RUVrYjZfS2Z1aHAtZXFTYnZTeEJCVE5NRTVINkxIaHZN?oc=5",
+      "summary": "유럽 덮친 냉장 시설 해킹 주의보... 정부, 국내 관련 사업자에 보안 점검 권고에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "미래에셋證, 연이틀 해킹 공격… 3.9만명 정보 유출",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96ZFNRMzRSZ2NGdEVfNFlUSFk4S045S1ctYWdfaEg4N2tJQkl0ckZ3QnNSaWdxNTJidXI2LWJWb3pQY3MxWk9NQ0lmQVFiVFdoTmpEUHRhLXPSAVRBVV95cUxOUUJpWmljeC1sX0xpejJ3ckhvWi1FcWtrWnhyeTNaSjdNMkw3RWVKYnRnZ1Qzc3ROc2hXVDNGR3l1cG5lejg4Zld2ZFlUaHQwT1hnTkM?oc=5",
-      "summary": "미래에셋證, 연이틀 해킹 공격… 3.9만명 정보 유출에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "\"AI 투자 시험대는 2028년\"...센터장이 보는 반도체 미래는?",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUWDBURjRweUdNNDdlSkp6QXZRSkp1UlBfdkJGVVF0azNzcGpwUUZwejRnSVQ2SVlaLUtvWGU4M1FaTzNXMDQ1UHgySWNiVTFtZV9CREFOQl9idw?oc=5",
+      "summary": "\"AI 투자 시험대는 2028년\"...센터장이 보는 반도체 미래는?에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "미국발 데이터센터 규제 쇼크…삼전·닉스, 장기계약이 방어막 될까",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jNVF6RVNMeGJfRnp5MGdoYjZudFJvYVdZOUR6YWhzLUdOS1JUbnhmUTd6WjN1alhNdW80T291Z3ZiQlNfWWJfdXJROFItd0hVV0R0OEs2WXktU3Bhcm5EUmh0cDdOUDFSUXc?oc=5",
-      "summary": "미국발 데이터센터 규제 쇼크…삼전·닉스, 장기계약이 방어막 될까에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "영화 속 가상세계가 현실처럼…CJ올리브네트웍스, 제작 혁신",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUJaZnhVQlNxSWwyQ3R2amZvbkNpV2ZfNVFCbF9zTDVkNDdxNVVQdnk2WTVzM29nTWQtbWh1ajdWVTVHa3pMZzI2Y3VrZEY4dzlzajFfSzJRRzFvcXFSTWZGR05DdkdCX29Ub1RZNTVjcktwNnlTdVpMNC1EeHdBNA?oc=5",
+      "summary": "영화 속 가상세계가 현실처럼…CJ올리브네트웍스, 제작 혁신에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "서울 아파트 매물 석달 새 33%↑…집값 안정으로 이어질까",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmdUVmNFFGVWRMTmJna2gtS0QwTkxfc2o5YnhJeFYwUDRENUNLeTNLb1BYUUhVVFZJWkczOW5CSmstdWNVeERNSXRrWThUa0F4cm1nTGlVS1JHcE3SAWBBVV95cUxOcUxXMGY5alVCRHgyUHMzTXZvX01CemhBQWJUSXJFSlh0RkFLdDVIU3hzeDZ6NXp4T3NkTGJJRmtXSVJsUDVxYlNCRXpMTTVEaHhJRFQ2QVhnSml4RDlmbGc?oc=5",
-      "summary": "서울 아파트 매물 석달 새 33%↑…집값 안정으로 이어질까에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "“밤 10시 이후 씻지도 말라고?”…아파트 공지문에 ‘시끌’ [잇슈#태그]",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1UEhzSmUtQk8tTk1FMDhQcXBrbXFtR1dERTRXUlkwWThjcy1ZamNOZF9XMkNEVWhSUzBqTG9HaHdmTVFoRUphbV9ja1dWZ05OckFwaTZpVXRJd1U?oc=5",
+      "summary": "“밤 10시 이후 씻지도 말라고?”…아파트 공지문에 ‘시끌’ [잇슈#태그]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "포스코 임금교섭 잠정합의안 부결…노사 갈등 장기화 우려",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FaFp3Zl9UZElUUW80aFFpbTNWeG9Kd0F2VWtDbEZaZ1JnOWhxQXFQT1hNVjd3bVlWdzhpTzd0NWtvaENlc3g5VWlmc3ZHNEFxYWd3WTB0SkMxWGhnQkN4elVhbks0b1E?oc=5",
-      "summary": "포스코 임금교섭 잠정합의안 부결…노사 갈등 장기화 우려에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "미래에셋증권도 3만9천명 정보 유출…금융권 해킹보안 '밑빠진 독'",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NWktCLURLUHFDRU93TkVlQWZxWGtoSkdhSnFnbHJnLUFNUWVDRGdUZFhTVFg4LXBIT2h6elFhOE1LUUJBMjRuZTlKZDJYVGNIYVE?oc=5",
+      "summary": "미래에셋증권도 3만9천명 정보 유출…금융권 해킹보안 '밑빠진 독'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

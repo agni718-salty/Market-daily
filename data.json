@@ -1,41 +1,34 @@
 {
-  "updated_at": "2026-11-11 00:51 KST",
+  "updated_at": "2026-11-11 10:41 KST",
   "indices": {
     "summary": [
       {
         "name": "S&P 500",
-        "price": "7,488.03",
-        "change": -61.91,
-        "change_pct": "-0.82"
+        "price": "7,520.93",
+        "change": -29.01,
+        "change_pct": "-0.38"
       },
       {
         "name": "나스닥",
-        "price": "25,002.52",
-        "change": -250.62,
-        "change_pct": "-0.99"
-      },
-      {
-        "name": "다우 존스",
-        "price": "52,001.96",
-        "change": -387.79,
+        "price": "25,065.88",
+        "change": -187.27,
         "change_pct": "-0.74"
       },
       {
+        "name": "다우 존스",
+        "price": "52,231.89",
+        "change": -157.86,
+        "change_pct": "-0.30"
+      },
+      {
         "name": "코스피",
-        "price": "5,239.13",
-        "change": 220.28,
-        "change_pct": "+4.39"
+        "price": "5,311.20",
+        "change": 72.07,
+        "change_pct": "+1.38"
       }
     ],
     "candles_dict": {
       "S&P 500": [
-        {
-          "time": "2023-11-10",
-          "open": 4364.15,
-          "high": 4418.03,
-          "low": 4353.34,
-          "close": 4415.24
-        },
         {
           "time": "2023-11-13",
           "open": 4406.66,
@@ -5290,18 +5283,11 @@
           "time": "2026-11-10",
           "open": 7513.09,
           "high": 7543.92,
-          "low": 7482.52,
-          "close": 7488.03
+          "low": 7470.43,
+          "close": 7520.93
         }
       ],
       "나스닥": [
-        {
-          "time": "2023-11-10",
-          "open": 13571.19,
-          "high": 13802.53,
-          "low": 13556.35,
-          "close": 13798.11
-        },
         {
           "time": "2023-11-13",
           "open": 13745.96,
@@ -10556,18 +10542,11 @@
           "time": "2026-11-10",
           "open": 25047.45,
           "high": 25286.83,
-          "low": 24958.31,
-          "close": 25002.52
+          "low": 24816.1,
+          "close": 25065.88
         }
       ],
       "다우 존스": [
-        {
-          "time": "2023-11-10",
-          "open": 34020.82,
-          "high": 34310.36,
-          "low": 33905.62,
-          "close": 34283.1
-        },
         {
           "time": "2023-11-13",
           "open": 34259.25,
@@ -15821,19 +15800,12 @@
         {
           "time": "2026-11-10",
           "open": 52163.21,
-          "high": 52291.77,
+          "high": 52316.89,
           "low": 51977.08,
-          "close": 52001.96
+          "close": 52231.89
         }
       ],
       "코스피": [
-        {
-          "time": "2026-08-12",
-          "open": 6438.5,
-          "high": 6668.43,
-          "low": 6413.5,
-          "close": 6579.04
-        },
         {
           "time": "2026-08-13",
           "open": 6773.92,
@@ -16246,6 +16218,13 @@
           "high": 5300.92,
           "low": 5174.55,
           "close": 5239.13
+        },
+        {
+          "time": "2026-11-11",
+          "open": 5209.71,
+          "high": 5314.12,
+          "low": 5207.44,
+          "close": 5311.2
         }
       ]
     }
@@ -16254,15 +16233,15 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,343.98 원",
-        "change": -18.72,
-        "change_str": "-18.72원"
+        "value": "1,337.18 원",
+        "change": -6.66,
+        "change_str": "-6.66원"
       },
       {
         "name": "미국채 10년물 금리",
-        "value": "4.99 %",
-        "change": 0.13,
-        "change_str": "+0.13%"
+        "value": "4.98 %",
+        "change": 0.12,
+        "change_str": "+0.12%"
       },
       {
         "name": "미국채 30년물 금리",
@@ -16273,10 +16252,6 @@
     ],
     "series_dict": {
       "원/달러 환율": [
-        {
-          "time": "2026-08-10",
-          "value": 1407.0
-        },
         {
           "time": "2026-08-11",
           "value": 1417.31
@@ -16539,7 +16514,11 @@
         },
         {
           "time": "2026-11-10",
-          "value": 1343.98
+          "value": 1343.84
+        },
+        {
+          "time": "2026-11-11",
+          "value": 1337.18
         }
       ],
       "미국채 10년물 금리": [
@@ -16805,7 +16784,7 @@
         },
         {
           "time": "2026-11-10",
-          "value": 4.99
+          "value": 4.98
         }
       ],
       "미국채 30년물 금리": [
@@ -17078,54 +17057,54 @@
   },
   "news": [
     {
-      "title": "금융보안원도 털렸다…개인정보 등 수백건 정보유출(종합)",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SSF8tZlk5X2llZXhYZEkzVlpIOXk2QUo3R2EtTzhtWXRaWjhZX0tWWTQ3VWlUazZNU3BUREVWLTVQOXRWMVhfVDBZM24tVkF2Q0dKbzJuZFM2ZWtiZWlDTXkydjBpMU91Z3pPbjlXUXY?oc=5",
-      "summary": "금융보안원도 털렸다…개인정보 등 수백건 정보유출(종합)에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "\"젠슨황 연인 앨리스황, 10조원 엔비디아 AI칩 중국 밀반입\"",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5abEVValJfQ3p1cFRHTGIwWEJwUEpQOXQ2cjJwZC1fWk9xZTQwZFNlOU4wcTdnWjhoTkZkbDJaM1NwVmVlWlNsaHVkZWROUjNyWHdBMEFwODc5dzR0Q3BZNVVENXIzcms?oc=5",
+      "summary": "\"젠슨황 연인 앨리스황, 10조원 엔비디아 AI칩 중국 밀반입\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "4거래일 만에 반등…코스피·코스닥서 매수 사이드카",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tRi1wWGJkVVAwZnVJR3oxTkE3VURRRUVVOXRsb3FTTjlLWVRIN3dTVl9PWVZiVHVGTFFNNVRZUHNYbktwMmEtM2Q0NmxRekVQSUxNWFBQR215ZTg?oc=5",
-      "summary": "4거래일 만에 반등…코스피·코스닥서 매수 사이드카에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "금융권 해킹 한 달 뒤 보안원도 뚫렸다…외부 침해 왜 못 막았나",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wVnVOZ0g4cWdqSDEyRlNiUVlVQjNPMm1OXzBsRXlhMTBRUHhIQ0tSa1lOdmJQeVpmWTQ1NzU4NU1rMWtRd0dOMDFJNGVLWkw4RDgzWlJoZnYwbEc3QjI5QUZ4b1NlZE5QWVFTZm1yeEU?oc=5",
+      "summary": "금융권 해킹 한 달 뒤 보안원도 뚫렸다…외부 침해 왜 못 막았나에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "“사무실 불 항상 꺼져 있어“…’젠슨황 불륜녀’ 회사 정체는",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lYWh4QTBJLW9ISVFHSllBNC1ON3dMWnA3a19SZy1qRzgzYjlucXB0MEE4RzZ1Wjg4V0NKd25Fa1R6NGFhME03cFZCLUMxdW9VOXc3S3NLcU9Od0JUSWdULXVfczV2ZjQ?oc=5",
-      "summary": "“사무실 불 항상 꺼져 있어“…’젠슨황 불륜녀’ 회사 정체는에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "코스피·코스닥 ‘매수 사이드카’…“AI·반도체 주가 낙폭 과도”",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xRzI3Z1UtNnpWa3VHQTJnRERPM3o3cEZOZ09HMF9IRDJ4VEJHaEtXQWRNajFyQm1lS3JWc2xYVmhTNXU2MmktZFBBQ0ZQTF9wVlZpMU1mWENhcmc1NkxUeVFsNkxHbVk?oc=5",
+      "summary": "코스피·코스닥 ‘매수 사이드카’…“AI·반도체 주가 낙폭 과도”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "Anthropic IPO, 최대 644억 달러 조달 목표",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQVGFLZUZQdWJvLVpHR3c1MGc0WlFmVFZ4XzlYbG9HaG01XzR5VjZzVlpGWC0zY0hNMjM1NGJyVFllSXV4dzA1azV2eWozSC04ZTk4c1lYSjBCajBpMDcxT0Z2bjlYSDNZek5FbUxZeS12eUMzTENSMA?oc=5",
-      "summary": "Anthropic IPO, 최대 644억 달러 조달 목표에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[속보] 美 10월 CPI 전월보다 0.4%↑…핵심 CPI는 0.3% 상승",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnUFBXc2xpSHJJQWYwM2ZiOU9od18zbjRMeFg1MjJEX0hWcTNtWVBEV3AzUVhOR2NSX05LUXl4Tlk4QjI4ZWRqb0tjeEkza2JWSEtJMkxyLS14Zw?oc=5",
+      "summary": "[속보] 美 10월 CPI 전월보다 0.4%↑…핵심 CPI는 0.3% 상승에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "신현송 한은 총재, BIS 지급위 의장 선임…비서구권 처음",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mNkNxYmRoUzBLSkRjbzQ2MTJTU2tDYmFkaWJfcG93WTRfR2tjaUpiNmJrZ0w3U0tmNjQxZFBTWW91d0l4aVR2ZHZOYnNxNDY0djlZSjdPRTRUY1k?oc=5",
-      "summary": "신현송 한은 총재, BIS 지급위 의장 선임…비서구권 처음에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "앤트로픽 가치 최대 1.4조 달러…엔비디아·구글도 13조원씩 투자",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xNEFFUV9MSXNXNzdQbTdkZ1RVRjBDTjN3MlJBU0dlZloxNjlrVGhOblpBUGpBNl9DaFA5YTltb29XRTNWUkZxUnBKX2JLNG5NNm9GYXJMSGRLZ1U?oc=5",
+      "summary": "앤트로픽 가치 최대 1.4조 달러…엔비디아·구글도 13조원씩 투자에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "TSMC 10월 매출 23.8조원·59%↑…AI 수요에 34개월째 증가",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd25QajhVel9LM20ySkZUUXN0WnM1WkZZclN2cWFpOTJhR0x6QzNmb0NWSzNrNWZRMW9Vc2szcWkwN3NHZ3pnYkVBcFNoMWdaWlZkbG1RNnlZRElCclBOamdoSmxwcXNuSVFsTjJyNUlxMElHN0EyU1M3Sjk4emVYVkgzejNtOE9YYmh0MC1TcTB1ZWRzYnE2bmRWU0dGQnFRZkVoQUt4Tkd5aG9ZOEhWSHhXOWxZay1ZZkNJc0QxNmZvbmp4SEE5VEpKa3RjbnhGRnk3N25B?oc=5",
-      "summary": "TSMC 10월 매출 23.8조원·59%↑…AI 수요에 34개월째 증가에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "CJ제일제당, 식품 특화 제조 AI 개발…산업부 'AI Factory' 참여",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aQkJEdkFIY1NwMFRNNDNId1R4alBXS0dPVUxJZEY4WVROTTdzTG5BazhKM1Z2QlFQbXVuaFlJa2QtMVdaaTdJQzNLQkRXbWh5bkFVbXY4QzJPZGtYTUVVZzNqOHYyOTNUTld5UHoyTkQ?oc=5",
+      "summary": "CJ제일제당, 식품 특화 제조 AI 개발…산업부 'AI Factory' 참여에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "의사 부부 허위 퇴사·유공자 자격 매매…부정청약 354건 무더기 적발",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NQlpIcXZuV2RNb19aaHltZ1VndWJQcjJoRlptRTA1SGRHWnAxSW9fYmZ6RDNLX2cxMGY3R0stVFhkcG1sRkU4VUV0c2dDSDh5STdhTmd1UDM2QdIBX0FVX3lxTE1IR085TlJvS2ZCeWlwU05ISTMzWTZkbjlEVS0wUzdXNlNRdUhHVWNjeEJodjlXQ3Z3d3VjU1ZoSmJKZE1BUjcxZGJ5REE3RlN6bEUzWHJVZm1iN2xPdXZB?oc=5",
-      "summary": "의사 부부 허위 퇴사·유공자 자격 매매…부정청약 354건 무더기 적발에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "‘주식 털어 집 샀는데…’ 주가 폭락에 부동산 시장도 얼어붙었다",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONUx6cjBTeF84cWdmb1dNVWFqN3BGNlhOMGgtWl9YX1UtUzU5S19FVlZvVC1tRnRoc2xHbm95ZlhFaG1MVHQxXzRkUFlmSDFjVG1zd1VrbDY4ZEJVTV9JS3lMY2dQYjBDeXFqMzJTNDZWLUJnNVJlaFhtSExPYjRmMVJXd2JGY3I5?oc=5",
+      "summary": "‘주식 털어 집 샀는데…’ 주가 폭락에 부동산 시장도 얼어붙었다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "유가 하락에 증시 반등...'젠슨황 불륜' 엔비디아만 급락[뉴욕마감]",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83amctR0o3YXBSeDk4WnV4WHo4NmJTcVVCdWpCUGhueTZzd19sZU4yLWFlc1BQX0hiWklUNUNfWjhsaEFIOEVaRjhIZnI3b3JERkpLWjZVMHpkdU1HdHo0U3FPc0RGZXZj0gFuQVVfeXFMT0tMeFRHa2Vick5nd0VBaGhJVE9GamZoUG00Uk5vQWhhSll5NGRnNGdWMDV0MENzeDJYcDhDb2dDZUN2dG1KN3dZX0tGSWtIeE5kZmJFa01NcTVaeV94aFI3OTE0amduRXlGUG43RWc?oc=5",
-      "summary": "유가 하락에 증시 반등...'젠슨황 불륜' 엔비디아만 급락[뉴욕마감]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "‘퇴사 뒤 재입사’ 꼼수… 의사부부 등 부정청약 354건 적발",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvaC1HdUhma0RJX2FOR2FkdmF6aHBtamlEMzE1aTJ0RkhTb2JmVVF1cGd4OWlxT0NzMjFfcEZINmZsVjVZX0xjWVh2b1pieWVSbnRYZV9tekM0cDJjWjNib0xramgteXJmQk5wSXVtbXBHRF82T2dR0gFmQVVfeXFMUHFheU1TN1hDT1gxNzlpbkdRbEVaN1NxT2M3RTk0Z0Q4alA0YmVCOWRlOE1Na0ZpWWtPazBiTnJIelIyQ01mc19LQUpvSnptbGZ1eUtScnJRdHJHWUpQdTNsSWJVanpn?oc=5",
+      "summary": "‘퇴사 뒤 재입사’ 꼼수… 의사부부 등 부정청약 354건 적발에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "같은 ‘매운맛 라면’이라도 맵기 천차만별…“최대 7배 차이”",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0b0hLbkZfdmJPekVwSGZyUTJjcnVFZHdEQjh5Q0E2N212MjZVRzZxWjJQSlBCenRUNWpKZ0pZMHY0bkZuR0FRWFg3ZnZ6bXlNVVhJZUVOcF9FYktfZGM3YXptOHpVUQ?oc=5",
-      "summary": "같은 ‘매운맛 라면’이라도 맵기 천차만별…“최대 7배 차이”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "“2028년 반도체호황 꺾…” 모건이 낮춘 삼닉 목표가",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPYlViNmltZzFfVzhwcWRCa05NMGltaVlaUjd0Tm9rMlp5bldMcGgzQ2FOcDlWMHJycy0xV0JUSnZ0RWFSRnUwNjBVd05JVVAy?oc=5",
+      "summary": "“2028년 반도체호황 꺾…” 모건이 낮춘 삼닉 목표가에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "코어위브 CEO, 신임 텍사스주지사에 DC 입장 요청…주가 5%↑",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mZU1RMlM1bzEwV0lsUlYzLWdvaXpJR2xocENpRExkb2VYR0JKSWZQWFNxUmdaLW1tYzhtS2hoZUwzNkZ2WFl6RlNjTk5wNUxaVm03T19ybUpialhWaHNla1FhMXlnWE51V3E2SGozS3k?oc=5",
-      "summary": "코어위브 CEO, 신임 텍사스주지사에 DC 입장 요청…주가 5%↑에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "美 ‘비만약 실명 위험’ 경고에…식약처, GLP-1 안전성 서한 배포",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1V1RjNUQ0N1c5ZmtfaFV3N0IwUk1EZGQ4aE54YVlHS095cmVGZktyR3F6Q1MtZC0zT2dMd214S2tnRmx4bHRiRDMwM0lHUkYzXzRhb2IxdmZwcEp2YWI0N2pMcmtTYXNhckpOYXJR?oc=5",
+      "summary": "美 ‘비만약 실명 위험’ 경고에…식약처, GLP-1 안전성 서한 배포에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

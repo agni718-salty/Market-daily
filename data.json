@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-11-13 01:23 KST",
+  "updated_at": "2026-11-13 11:22 KST",
   "indices": {
     "summary": [
       {
         "name": "S&P 500",
-        "price": "7,649.18",
-        "change": 29.8,
-        "change_pct": "+0.39"
+        "price": "7,592.40",
+        "change": -26.98,
+        "change_pct": "-0.35"
       },
       {
         "name": "나스닥",
-        "price": "25,581.87",
-        "change": 115.68,
-        "change_pct": "+0.45"
+        "price": "25,366.09",
+        "change": -100.1,
+        "change_pct": "-0.39"
       },
       {
         "name": "다우 존스",
-        "price": "52,726.57",
-        "change": 240.08,
-        "change_pct": "+0.46"
+        "price": "52,297.09",
+        "change": -189.4,
+        "change_pct": "-0.36"
       },
       {
         "name": "코스피",
-        "price": "5,342.73",
-        "change": -32.63,
-        "change_pct": "-0.61"
+        "price": "5,420.25",
+        "change": 77.52,
+        "change_pct": "+1.45"
       }
     ],
     "candles_dict": {
@@ -5296,9 +5296,9 @@
         {
           "time": "2026-11-12",
           "open": 7550.84,
-          "high": 7652.65,
+          "high": 7652.76,
           "low": 7550.84,
-          "close": 7649.18
+          "close": 7592.4
         }
       ],
       "나스닥": [
@@ -10571,7 +10571,7 @@
           "open": 25092.11,
           "high": 25597.22,
           "low": 25068.28,
-          "close": 25581.87
+          "close": 25366.09
         }
       ],
       "다우 존스": [
@@ -15843,18 +15843,11 @@
           "time": "2026-11-12",
           "open": 52427.94,
           "high": 52751.22,
-          "low": 52363.55,
-          "close": 52726.57
+          "low": 52271.16,
+          "close": 52297.09
         }
       ],
       "코스피": [
-        {
-          "time": "2026-08-14",
-          "open": 6995.67,
-          "high": 7010.86,
-          "low": 6848.43,
-          "close": 6977.94
-        },
         {
           "time": "2026-08-18",
           "open": 7127.77,
@@ -16267,6 +16260,13 @@
           "high": 5458.84,
           "low": 5293.05,
           "close": 5342.73
+        },
+        {
+          "time": "2026-11-13",
+          "open": 5452.41,
+          "high": 5504.44,
+          "low": 5411.28,
+          "close": 5420.25
         }
       ]
     }
@@ -16275,29 +16275,25 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,334.52 원",
-        "change": -7.39,
-        "change_str": "-7.39원"
+        "value": "1,332.98 원",
+        "change": -3.28,
+        "change_str": "-3.28원"
       },
       {
         "name": "미국채 10년물 금리",
-        "value": "5.07 %",
-        "change": 0.07,
-        "change_str": "+0.07%"
+        "value": "5.10 %",
+        "change": 0.1,
+        "change_str": "+0.10%"
       },
       {
         "name": "미국채 30년물 금리",
-        "value": "5.41 %",
-        "change": 0.05,
-        "change_str": "+0.05%"
+        "value": "5.43 %",
+        "change": 0.08,
+        "change_str": "+0.08%"
       }
     ],
     "series_dict": {
       "원/달러 환율": [
-        {
-          "time": "2026-08-12",
-          "value": 1412.18
-        },
         {
           "time": "2026-08-13",
           "value": 1416.46
@@ -16560,7 +16556,11 @@
         },
         {
           "time": "2026-11-12",
-          "value": 1334.52
+          "value": 1336.26
+        },
+        {
+          "time": "2026-11-13",
+          "value": 1332.98
         }
       ],
       "미국채 10년물 금리": [
@@ -16826,7 +16826,7 @@
         },
         {
           "time": "2026-11-12",
-          "value": 5.07
+          "value": 5.1
         }
       ],
       "미국채 30년물 금리": [
@@ -17092,61 +17092,61 @@
         },
         {
           "time": "2026-11-12",
-          "value": 5.41
+          "value": 5.43
         }
       ]
     }
   },
   "news": [
     {
-      "title": "[속보] 로이터 “젠슨 황, 엔비디아 CEO직 사임…임시 CEO에 콜레트 크레스 CFO임명”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lNzZSOFdkMEl0cVBNbmQtWU9RcHliZm9IT1NQcjVoUG81VEV4alRHMVRMaXJzekt5M1NrcDhjVUFxazhmUGdhalhzNWpLMVZwN21kZ2lnOFBtZ0k?oc=5",
-      "summary": "[속보] 로이터 “젠슨 황, 엔비디아 CEO직 사임…임시 CEO에 콜레트 크레스 CFO임명”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[속보] 젠슨 황, 세 번째 불륜 의혹…또 다른 엔비디아 직원",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zRkpzZTRTbUJyd3R1bmg3WF9FREtoTkZLSlZ0MjVMc2FlUmRsR0dnYi1yLUhsYWJyVGNDWTA0RGdLdzRCY0QxbnhMMDNqazhSVlZlOWxZMUNMNnBpSEdjNmpfVHFnTElnQ3NUMUwtUQ?oc=5",
+      "summary": "[속보] 젠슨 황, 세 번째 불륜 의혹…또 다른 엔비디아 직원에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "이 대통령 \"메가프로젝트, '모두의 성장'으로 완성되도록 역량 집중\"",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54ZUdnaTJXSVV2UVhKNFRTQzRpem5aV3R0STlOajNGb2xlTVdDRjl2R1VsbzRhSVNxWjAydURNZVhBRkpabkhSNmNlT1dXWGU3bVd0OGRUSjhZZ1ZuZTJlZDJ2UnpHY1NHUTRoS3R3aFRSM2ZvdlctN1ZOOGI?oc=5",
-      "summary": "이 대통령 \"메가프로젝트, '모두의 성장'으로 완성되도록 역량 집중\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "李대통령 \"욕먹더라도 M&A 활성화해 시장 키워야\"…의무공개매수 즉석 투표까지",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12cmVlY0RKendELW9HZnZzbk5FVGlTaXVwTlV2LXhRazF5OUd5Q3VTVXBLdkp4bkJObEhSNXhTM0hIbEhzNjAxNDRtQVJzbDhDSjVlLVBKTkR2MXBEc0FiWG5kTXhWSTVsdW5QdUdqZjI?oc=5",
+      "summary": "李대통령 \"욕먹더라도 M&A 활성화해 시장 키워야\"…의무공개매수 즉석 투표까지에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "美, 中 반도체 규제 전면전…삼성·SK 중국공장 '초비상'",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qdWZueV8yZFhHWE9jdjdtY08xcTNhNnRzX3NpaTRWQS1vb1NPYVdDbldFamFtNE9oRzZJLXRuN3ZjSm1oTWt6Y2x6ZDdFYmluWjJ4dDU0QlpBVzVyUkpBUUJoV3RFUnRmdXRPag?oc=5",
-      "summary": "美, 中 반도체 규제 전면전…삼성·SK 중국공장 '초비상'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "윤종규 전 KB회장 복귀하나…은행연합회장 후보 6명 압축",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55a0tVemJCX1hmcFJQR3ZNNTJ2bG11UE13UnZFXy1jWGhNb1RLRURDT3FCMzhzRWpJQ3FjRWM5VlY3c1hEa1hPckRyWWNjakNwTzlVVENSX18yN0Z4?oc=5",
+      "summary": "윤종규 전 KB회장 복귀하나…은행연합회장 후보 6명 압축에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "삼성전자, 구글 AI 탑재한 스마트 안경 30종 공개…내달 국내 출시",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wWXpxeFJsOVlvRDh6NFQ4OW42QThYM2ZSZ25LWUIySERVR1dJUmRBNUl5bi02MlBRNUZRQmtaY011MFBPQk1kTGZxN183TFRKeDkyV2VHNHJVdjU3cGd1MQ?oc=5",
-      "summary": "삼성전자, 구글 AI 탑재한 스마트 안경 30종 공개…내달 국내 출시에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "“싱가포르가 앨리스 황 수사 협조 요청했으나 미국 정부가 묵살”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxbmQ4dVZLa1lCUG1nYUxoeXpfSUdXRUFnNFB1T1hpTHNoTXJZRjFCeUp3blFTTnlGZ2FzRlc3TXV3MFJXUVdxVy1xS09GdVNubGpjcDY5eE4ybWc?oc=5",
+      "summary": "“싱가포르가 앨리스 황 수사 협조 요청했으나 미국 정부가 묵살”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "‘젠슨 황 스캔들’ 여파에 국내 증시도 휘청…코스피 5342 하락 마감",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE04X1F5Yks1a0dtRkREbXJ0TnZrNnNHZUR6aTl1VThLcGV0OFZQN2RDY3ptQWtJWEFMOHNnay1tUkFRbE9MQjFfU2JvdmJYTlFlZDNGMXNQWU9NMmhadWJfTjlGTDZMTlJaRU5XOUFxQWtNdw?oc=5",
-      "summary": "‘젠슨 황 스캔들’ 여파에 국내 증시도 휘청…코스피 5342 하락 마감에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "10월 수출물량지수 역대 최대‥\"AI 인프라 관련 품목 증가\"",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IcGJyaUpxNzlrMDhYbGtpQ0NmVlNpWUp5ZUhySENndWJMX0xKclMwcmtFWUJwTXBldTNUWWhBc0FpaXJzbWRaU0E2aXNMOG5UNEVTOHlIWUItbDJON0x5cnF0YXZvRHFjSkpBTFo0RnhvNDVn0gF0QVVfeXFMT2JIcVV2Y1N2Ql9Uc1BYNVpEcWYwOHdrcXd2cUgteEFuTDdibVJVaFVMWm9aU3hwX3JNWG5xT3FMQWgzWUdGeDk1UXhRMkpReWFxS3NyMnFTNlB4cGZPNkJNaVNlTTdCb2dIdXliVjBzd0E0M1Q?oc=5",
+      "summary": "10월 수출물량지수 역대 최대‥\"AI 인프라 관련 품목 증가\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "코인거래소, 해킹 의심만으로 입출금 차단…24시간 감시 강화",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hNVRla2cweDFEUldKZVRqVnllaEtwbkV6eXdrTFN4T3pmSjdWbnBmSlZ1aXFvb3RPNHJKR05XaHRaa1k3djFOYXVrZkRoc2N2NDZwRl9vNDlVd1hvd2ZEazZ5dkp0c1U?oc=5",
-      "summary": "코인거래소, 해킹 의심만으로 입출금 차단…24시간 감시 강화에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "\"다음 주 삼성 면접 봅니다\"…이재용 빵 터지게 한 대학생 [영상]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FalpfV21mX1I3b1YyX1h1dWNKTW1mbVV6UFo0V0RUejJzUmJ3ZGo1ZldSeU1EWW1BTmRON2JkODZxZjh5ZFdqdmd6WTRpRjcya29BUnhqb0c2Zw?oc=5",
+      "summary": "\"다음 주 삼성 면접 봅니다\"…이재용 빵 터지게 한 대학생 [영상]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "세제 개편에 재초환 부담까지…강남 3구 하락세 지속",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6T0E3VnhycW5ETlAxMl8wRFJlYlVmUDBhMHIza0pTb01fdE1CU21EXzFxcXlFaVF0c0IwaFljWThlbE1UTGVUc3RMTkhqVlFsVHpfRFFJLVdvU0lsVm9qdVgxWTJHUQ?oc=5",
-      "summary": "세제 개편에 재초환 부담까지…강남 3구 하락세 지속에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "한국 간판주 버리는 외국인… 현대차 26년·삼전 17년 만의 ‘지분 최저치’",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY3hmTFBUZnAwUzViaFMyU19rWWVyOE9sQWo4YUJobDBLTklLZEstUFA1S3poSHBvZzh5TTNUQlRiNmRiYmZEUHlycktabk9OYUdob0J4YUczNXZhMFBTeXh0dXR4QmdxbzhOblhieWRjVHRIR20xTVpZdmMxVllGZ0pveEU1WDc20gGcAUFVX3lxTE15WU5weG9wdjhhY2RPcC1mQ2c2VEV6akNfVFhXYXlpWXZQTm1QYWNJZTRnM2ZraWo5TG9mYlduT215QkM0NUxDLW0tclpLSndWNU9iRXAwbE43TXdnWE10cXR0dC1EYmd5N1M2dG5WWjBhLXcxWkEzWms4UWItZXdNNmtqREpMTUswN2FEeVJUNUdvdXFCY2gyNDg3SA?oc=5",
+      "summary": "한국 간판주 버리는 외국인… 현대차 26년·삼전 17년 만의 ‘지분 최저치’에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "은행지주 CEO 연임 문턱 높인다…주총 의결요건 단계 강화",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM05hb2ctQ25kSE01NkVDQjhnX1NvMi1LUkdCdzFxam5qMlJlMUItYXRKWnJFTmt1QXVLYVVNb1dPWmN3bFhnOVpNWUZaRjI2YUJwWERYWkx0VnBVRGk1cTMtVHlfN3FZd2k3eFlTeC1mQ2dZOGhBNUczV0RXakxxZ3hCWS01em5hWkE?oc=5",
-      "summary": "은행지주 CEO 연임 문턱 높인다…주총 의결요건 단계 강화에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "미 ‘AI칩 통제’ 강화한다는데…중국은 반도체 자립 ‘속도’",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KcG9PUWhqT3B1RzlJckxxd203LXFIdFpyTTJlMXRabGlIVTRRak9vMVh0ZTJXVE9nVGp0SklWaVotSDR0RGtIb2tCczlxcElXZ3pwcWp6SGEyNFU?oc=5",
+      "summary": "미 ‘AI칩 통제’ 강화한다는데…중국은 반도체 자립 ‘속도’에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "지수와 눈맞춤·이부진과 손하트…'디올의 여자들' 총출동 [영상]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsRmN3YklqaXQ3SmczWkFhaXROWnkwX2pHVlVFWWtRWFdRMTM4M2NoUHVMbzFia2d2NXNHX1ZvNDdKSkdFc1I2cU1ieW84TW5rOU00MVplZlBVdw?oc=5",
-      "summary": "지수와 눈맞춤·이부진과 손하트…'디올의 여자들' 총출동 [영상]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "상반기 은행 기술금융 잔액 355조…1위 하나은행",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDS3psaWkzamtYRHdMX2xuakxTMFhlLUZaODFfY0w4S3FjNmdRRFRwbWUxMF9XNmVydFFPczFfdXRfVEtmZmxlUFBmRGV6aHNLQUNBenNsX1Nlb2MtVVFMdUpicEdQTk1rbGNIVVdpZ0rSAXRBVV95cUxQX3ZuS0l4dWI2X2d1Q2dJWXU4cnRaZGFZbzNXOGNubDRLUGwyQ0wxcVpDSEN6WDRacTdXUEZmcFBKa25kYTgwQXhKYjMyemlsdDhpMmo2N0hSTEZFVFNNODlRdldjRDRrdjdqWG5BbWdGbktPNA?oc=5",
+      "summary": "상반기 은행 기술금융 잔액 355조…1위 하나은행에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "금융보안원장 \"보안전문기관 해킹 송구, 재발방지책 마련할것\"",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxNDN2b0tDQlhCa0xINFc1TEpidEdNZE5XWm1iZTB0YVlha2ljN2JXRWdJbDFfcnV6Tl80OXRRYUgzOFJoOE9BYUtQc3E3dU9vWEVsSWs0OEVCWlNrVmc3aW0zREJRb3F4RDdNZ0dnMHJrc29t0gF0QVVfeXFMTTgwc0dsXzU1LTNfYzZzZU5BaG9YdnNzWDd0d3Y5c0l6eXNLcG1yU3ZtMHNLaGhRdkdycGlNNFhsNVhPUnJPRWxsc0Y1N3FnOUxIaElmb09CYWdCTWs4SkJvT1RKQW1TUTBQdzNHcEw3cndLcEk?oc=5",
-      "summary": "금융보안원장 \"보안전문기관 해킹 송구, 재발방지책 마련할것\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "코스피 장 초반 2% 상승‥'젠슨 황 사임' 여파 주시",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uNm12VDJrSHY3djVXaW5TdE9yenhGRm5lZTVXTjM0SGJHQnpfZHB5QzlyQnVBSWpRN3JiY0hFdmY4RG9rUWlSek5iaUdjR3pTRGw1SklaU2hOMy04UGNGUUZXS2FJc3JNOXdtdG1NTkFJZHBZ0gF0QVVfeXFMT24xbGNyX1ZYdURBSEVDSXRZeGk2eHVWTHpNczE0M21SVmozT21zY1NIQ1BKZWNnX295ekFkSUk1RlRid0gwV2J1WFNqWXFXZUN6dThZQWp2UXF3SkRkemVFRjR4UGlveFRpVVA3OVdUV0I2cnk?oc=5",
+      "summary": "코스피 장 초반 2% 상승‥'젠슨 황 사임' 여파 주시에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

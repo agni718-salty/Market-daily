@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 10:57 KST",
+  "updated_at": "2026-11-14 23:34 KST",
   "indices": {
     "summary": [
       {
@@ -16275,9 +16275,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,333.78 원",
-        "change": -2.48,
-        "change_str": "-2.48원"
+        "value": "1,336.20 원",
+        "change": 2.42,
+        "change_str": "+2.42원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -16557,6 +16557,10 @@
         {
           "time": "2026-11-13",
           "value": 1333.78
+        },
+        {
+          "time": "2026-11-14",
+          "value": 1336.2
         }
       ],
       "미국채 10년물 금리": [
@@ -17095,14 +17099,24 @@
   },
   "news": [
     {
-      "title": "트럼프 뜻 따랐다는 러트닉…젠슨 황 비호 의혹에 '경질론' 위기(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xcERsLTNGVlZNdWpsd0g0M21zSTR2anBaTWljc096SkpTaF85c0t0RGRoXzZmQU5OSV9Udjg3U1lSc0otbU9XNWNiZE0xaVk5NGg2Ukt6Q2FnYmPSAWBBVV95cUxNMTc0a1kxSjUzeTVncmZtcDg0cEdVUm5pR3dSTS1Nck00NXRxNWxYMjF2MVpMQ2Z6dTBnUU0xZlhHbDNFU0xUS2g4ZER0UGlIbzlfMnVPdGQweWtVTXJVVG0?oc=5",
-      "summary": "트럼프 뜻 따랐다는 러트닉…젠슨 황 비호 의혹에 '경질론' 위기(종합)에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "젠슨 황 몰락이 남긴 역설…“이사회 누가 머스크·저커버그에 맞설 수 있겠나”",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxSkg4S2lxYnlrSmNUMWY1ZWpyUzdPRVE4NGZGV2lzbE1fRml1dWVtZ1I3NHNXazhnVXNSS0lCOWpjYnBNMFZ2MzdPRGtkUnV1QVhzWUtyaFZEYmVlX2xFOGVwaXBrQ25nZS03X0N4QWJNYWZibDZn?oc=5",
+      "summary": "젠슨 황 몰락이 남긴 역설…“이사회 누가 머스크·저커버그에 맞설 수 있겠나”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "미국 전역 항공기 운항 전면 중단...\"관제 통신 시스템 장애\"",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HQUE4cVVaTWZfYmpIZ3Jwc3g4RDZzdmRldVNxMnNLbFFZdTFXQTh0ZDRjTjBzVzFlY2t2cndpcUNpLVZ6ZkRCYVhsNHAxQVJpMV9XQUxHcW03NjlMMVE?oc=5",
-      "summary": "미국 전역 항공기 운항 전면 중단...\"관제 통신 시스템 장애\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "인천공항 대한항공·아시아나 미국행 결항 취소‥운항 정상화",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uMWN3TzUydHQ3dzhTbVFxcndkNTN3eS1pWlBDQjU2QXhIUk9SWk9LYkhiTG9BaWJnY1QyaWFUVFU0VGdPRlV6Nlg4bzBPYWNIYzRWc3hGTjRnWWhFQlJWTTB6dGNYdlBDMHM3N1haSGZ6SlIz0gF0QVVfeXFMUHBoRzYyeDdSLUNvR1dqN1NUbnRXY2RYNVJuV2ZkR1ViLUpEQkZHWnY5cnZLSE9CUGpFYXFJaXM2MGxfaHVTRl9kLUhuc1hLQklWLVliQmh1ejFGOWU5ejNoSmtNbEw3dkJZQl9malhkTExZYkw?oc=5",
+      "summary": "인천공항 대한항공·아시아나 미국행 결항 취소‥운항 정상화에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "트럼프, 엔비디아 주식 최대 67억어치 사들인 뒤 AI 반도체 규제 폐지 논란",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0YXdRUnRlZGJWS1Q0Sjh5RmRsSFczM2FtcDBoOFBVOEpGZm5Tc2tiVmt6N196cXZFbzRfMXUyUEY1N3NKdkxLNkNmMzNrb0VJZE1LTG1MWEh4UVU?oc=5",
+      "summary": "트럼프, 엔비디아 주식 최대 67억어치 사들인 뒤 AI 반도체 규제 폐지 논란에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+    },
+    {
+      "title": "MS 365 대규모 장애 근본 원인 해결…일부 고객·지역 복구 지속",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xQXdaWU1Dc2lLZldHNHg5TUEzaDR5SGpxWGJuMVp4bzlHWVZLZ2YzTFJlQ3pTUnQ5NmZqTGFYNmRHckhJNUdpbW1YZlBsTFplZHlzRHF3?oc=5",
+      "summary": "MS 365 대규모 장애 근본 원인 해결…일부 고객·지역 복구 지속에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
       "title": "[뉴욕증시-1보] 젠슨 황 스캔들 여파 지속…혼조 마감",
@@ -17110,39 +17124,29 @@
       "summary": "[뉴욕증시-1보] 젠슨 황 스캔들 여파 지속…혼조 마감에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "MS, 이틀째 장애에 “깊이 사과…사이버 공격 무관한 기술적 문제”",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IWXVjbEpZbWRjdjZQbG9qM2JlWmFtVVBBb0V5bVdFNFFCc0Z3S0pZTjV2dF92YmlScjBYSVVZRFMzcXc2ZENZckVRS1p5WVFFNWsyMnVoUEtERzFuMXVnMjBKM0tzUQ?oc=5",
-      "summary": "MS, 이틀째 장애에 “깊이 사과…사이버 공격 무관한 기술적 문제”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "주유소 기름값 26주 연속 하락…소비자 체감은 '글쎄'",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2b0RzRGY0cVFhamU0eU4yQ3Fya0d3a3dPbGdsaDdZSkRrd2JDSVBnVXVWRUpUbmMwbDF0SWxScGRHRUlmaEdGdXFCc3NjVTYwdHgwSnI2dWVjUQ?oc=5",
+      "summary": "주유소 기름값 26주 연속 하락…소비자 체감은 '글쎄'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[속보] 중기부 “2차 ‘모두의 창업’ 참가자 지원 기업서 개인정보 유출”",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RV0MwNWNsVFhKUnEzb280dzB4bmZmNFRES25kYjN1M3htY0lyRkpRUWZYellEWm9UMkZ1X3RnS0dFVHJrVkR1bDAzYmstUWx1aHgzS3NITm9WUdIBX0FVX3lxTFBPSHRzcmxmalZ3QmJ3SmUzNnRiRjQ0OUp0U1QxUHhWa2hlOUNCQkkzNUVldVphbWR5d2JRLTM5WHY5Mzk3MmF5YlVnV05UVHYzaC1aLTB0RUxqYVRERFNv?oc=5",
-      "summary": "[속보] 중기부 “2차 ‘모두의 창업’ 참가자 지원 기업서 개인정보 유출”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "비트코인, 6만7000달러도 붕괴…석달來 최저",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iVU9qY1hWMjZJRkdDSjg0ZU1ndFY3ZFZ2dFJmTXNWSXFmNDVtWl9YR2xPNVhSZm9Oel8zc05nTW02Yms3UWpSQlU2d1l5Y2xZ?oc=5",
+      "summary": "비트코인, 6만7000달러도 붕괴…석달來 최저에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "'성동·강동구 하락' 한강벨트까지 냉기 번졌다",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VMkRrcUhla1VVUHk4Wm91ZnF1WkhIMTZqdWk4OEJPRl9WbGJIRFBxX3ZYMVdCd0V6MjhnM25tNUktVzFYWm81Mk10bS0xRnlnSVU2UEcyRWp0WEs1Y3JteG9tZTN2dGtXSjZrdEZsOWg?oc=5",
-      "summary": "'성동·강동구 하락' 한강벨트까지 냉기 번졌다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "이마트 가양점 부지, 지식산업센터 대신 27층·645가구 주상복합 추진",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWJ0S29EbkVXNUxUZ2Y2ZVkyaVFqSk15eGpyekRDQ2hrME9Db2R3T2lxemRjaTF2ZW5relBEeENhQk4zNUdtZjdSdk9zM3hSN3piR1ZPUXFuWVhlbGV5Q09Xek4wa2hiMUNpa3VOa1dZMWpaQXdKVW1KZm1iSEppZExISGFSazM2Q3VuVXhUdFV3MmlDQnNULdIBrAFBVV95cUxPSUtYU0Y4Q19YSjZWdHczdG5VbnNoU0dIanVMX2k4ZkRIcENSRjRITDZFUkRlcWR5Smhqb2VOeEdvTEUydF9VNDdRSWhYRWNITjdTX1JoUG5SNEFtZTl0MnZoQllxc1NxTUJGeDh1eHNFUC0tRm9mMmF5M3JxTml1QXE4QjF4VV9FMDA5OU92TWlLRkNDZjV4ZzFpb3AwallvNUpfbUw0VGVPRTNf?oc=5",
+      "summary": "이마트 가양점 부지, 지식산업센터 대신 27층·645가구 주상복합 추진에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "한수원 \"체코 원전 내년 4월 건설 허가 신청 일정대로\"",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zN0V4SmRPME55S1ZyX0xPYl85YlJpcGFoQmp3MkVhUzRJVVY4bTBjeWdsMzFMazBCb3hkck5xbUlfZ0dvakJMOXZMX3dvaXVmOW1Qa0RhdTVkQVl2MW83Ukw2RXU0QTRoVzE2NzhjODE4UlVj0gF0QVVfeXFMUE5CTlg5ZHdQUWtROFc3aGRXcmJ2WG16Q1Z1LUhMdW5QQTNyNVhqSTJIZXZhMFZWdmVndDdUbmF6cmt2dlFPVE15aVUyNTMzYjY2QTJzcWJ4Z0t0MWI1VlYtM3lTdXZSTUpPQURlY1pZdkRMSHA?oc=5",
-      "summary": "한수원 \"체코 원전 내년 4월 건설 허가 신청 일정대로\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "중기부 ‘모두의 창업’ 또 개인정보 유출…한번 털리고 모집까지 미뤘는데",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WSVFTRmtjRGNhclNSQmlqSTVUc0dFOTRfaDJTTjJkWlVlZDliZ2trZUJhQ1puTWZLdFQyajFhY2Qtc2VJVXlCM3R2UnZzNFBYV2FJWEFrN1lKc3hCT3Q1eWdHemZoYXZHMVZsU2dhQjZ2QQ?oc=5",
+      "summary": "중기부 ‘모두의 창업’ 또 개인정보 유출…한번 털리고 모집까지 미뤘는데에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "둑 터진 대중 반도체 규제… 美, 수출 우회로 틀어막는다",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS0NwMmN0czRONXBFUUlLajMtUVJURVd1Wm1GUDNGRG1vakF1Z01aQ0E3eTFfWGFJdl9wWm5XYlRtOTZXRHJGcnBoeUpjYzl1ZnN5anN0RXRCSFFmc2ZmOGtWb01oWUlheHFJTnZXT2xGN0dFNGJhUzJtd09qMUM4NlFOQQ?oc=5",
-      "summary": "둑 터진 대중 반도체 규제… 美, 수출 우회로 틀어막는다에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "영진약품, 한국ESG기준원 ESG 평가 통합 A등급 획득",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iZ1p3VGhXRVN3Nkh2LUhRNHFibjBVSWJ5Wk1NbDV3SW41MVdKUm9fNzFCTHlyeWRjdkFET3drSC1LdmxiSVFrV2FKZDBGSmRRLVNSV3FRaw?oc=5",
-      "summary": "영진약품, 한국ESG기준원 ESG 평가 통합 A등급 획득에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
-    },
-    {
-      "title": "이 대통령 “주식시장 저평가 불합리·비정상…‘자본시장 정상화’ 확고한 목표”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DU292QmVPR3hQdlkxNGFULXhEbXpyZFpCWl8tSXZnUXJSb3R1dmJTaVZHd3BnQmpqdU81NVFzUi1XNVo4MDhjSWhfSkpSWkt5TkR1T3BmdjBObm8?oc=5",
-      "summary": "이 대통령 “주식시장 저평가 불합리·비정상…‘자본시장 정상화’ 확고한 목표”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "\"파격가에 의료통역 지원까지\"…비만약 원정처방 마케팅 확산",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LUW1JR0RDakgzS0dvQlZNXzhJbU5zdlhKejB2cmxYbkdqb2dwakNNRjU4TVdheVdtbXgxRFg3NUFyWjhRRmZ1LWxROVBGdEdhcUFmUVBMd09KTHfSAWBBVV95cUxOWU1oLXJSdndubVMtZFlVSm5hTjhpV3dKTkFMbTRTVDcwcnh3UmJLTy1fcnF1NTJaYkZOcXUwWkZEc01EWnZDMEx4Y3Q3eC1XWGVsaVJGMWhNMHZVN2lneVY?oc=5",
+      "summary": "\"파격가에 의료통역 지원까지\"…비만약 원정처방 마케팅 확산에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

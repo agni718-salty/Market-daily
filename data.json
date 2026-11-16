@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 00:02 KST",
+  "updated_at": "2026-11-16 10:33 KST",
   "indices": {
     "summary": [
       {
@@ -22,9 +22,9 @@
       },
       {
         "name": "코스피",
-        "price": "5,290.53",
-        "change": -52.2,
-        "change_pct": "-0.98"
+        "price": "5,152.40",
+        "change": -138.13,
+        "change_pct": "-2.61"
       }
     ],
     "candles_dict": {
@@ -15849,13 +15849,6 @@
       ],
       "코스피": [
         {
-          "time": "2026-08-18",
-          "open": 7127.77,
-          "high": 7216.62,
-          "low": 6788.78,
-          "close": 6869.83
-        },
-        {
           "time": "2026-08-19",
           "open": 6528.77,
           "high": 6614.39,
@@ -16267,6 +16260,13 @@
           "high": 5504.44,
           "low": 5259.09,
           "close": 5290.53
+        },
+        {
+          "time": "2026-11-16",
+          "open": 5305.4,
+          "high": 5327.99,
+          "low": 5130.25,
+          "close": 5152.4
         }
       ]
     }
@@ -16275,9 +16275,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,336.20 원",
-        "change": 2.42,
-        "change_str": "+2.42원"
+        "value": "1,335.28 원",
+        "change": 1.5,
+        "change_str": "+1.50원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -16294,10 +16294,6 @@
     ],
     "series_dict": {
       "원/달러 환율": [
-        {
-          "time": "2026-08-14",
-          "value": 1416.85
-        },
         {
           "time": "2026-08-17",
           "value": 1415.37
@@ -16559,8 +16555,8 @@
           "value": 1333.78
         },
         {
-          "time": "2026-11-15",
-          "value": 1336.2
+          "time": "2026-11-16",
+          "value": 1335.28
         }
       ],
       "미국채 10년물 금리": [
@@ -17099,54 +17095,54 @@
   },
   "news": [
     {
-      "title": "엔비디아 실적·앤트로픽 상장…이번주 증시 향방 최대 가늠자",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SZVdJWHN6ckFBUF9ZX3FSaF9IODdhcXVac0RBSnpaUWM1WUlNSzNJeXBYQlhwb1NjV3VZcDRFbmo5WkVBY0Q5ejNiUFhhWmxGNmdiRlZKWUMyUdIBX0FVX3lxTE1TbVBySFpmcnV2TXBIVzJ3RGw2cU43NC0xNV9vbENuZlpDbW85cVdfUE1HRm5nOVlIZ1NpMl8zenZESkpDUngwTTNGVDhON2dVeFhROHpuWDhYWjNGTl9B?oc=5",
-      "summary": "엔비디아 실적·앤트로픽 상장…이번주 증시 향방 최대 가늠자에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "\"러트닉, 가족 회사와 연관된 반도체 수출규제 완화 추진\"",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mZ2RBRlJsZXJ6TVE4ZG1FQTVPOTN4ajFSTlBNUk51eTdpaW1OYkt3b2FMazhaMXREM24yNVRzY1VJaHdPa2JVbkt0SWZVMGUzdHhVTzMySFJRUU5hMWFBSmpzYlVCMWNPMkdzNDVfLWxKLUYx0gF0QVVfeXFMTWdCZEl2dGtydl9wLTJkeWtSOFBmWVN6VjJlX3ZTdjBldDBVV0RlLWQ1d0NDeWVyNFBnYXBSVHhLTWYtSU5fM0N6N2tOYkxOc2xuQWxDT1hGZm9MaElEWnJYQW9JN1gwbHpQMTNrMW96c3FNMnM?oc=5",
+      "summary": "\"러트닉, 가족 회사와 연관된 반도체 수출규제 완화 추진\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "“보스 돌려줘” 12만명 젠슨 황 복귀 청원…“타락한 실리콘밸리”",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOXzNHUHUyOTl2c29DemVQa0pJNmt1amV1bTdIT1NLaWt4UGJrLXNmMmVwUHN1NFBXODNKUWoxMDVCR3lFSUxuZjR6WUR5QncxNGFJYXFoMFpCZjNkcndQNmFCVk1FTF9IZEhTZFFzS3VKS3JJLVltMGFFNjY1MHlHcXNB?oc=5",
-      "summary": "“보스 돌려줘” 12만명 젠슨 황 복귀 청원…“타락한 실리콘밸리”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "방향 잃은 코스피, 개인 홀로 '사자'…5,300선 반짝 회복",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOZ3BULVZYWUQ4clZxZGpNeE9ZZ0x0U1lWZWRiSDlhVEcyZ0cwcmhHTFN3OE9PQU80ci1WSThNMWVibGh3YTRWeG00bXlUR0dxdnI1RGRxVWI5OEhaSGFzM3FyRGxVX2ZMOXdlN2tUb04?oc=5",
+      "summary": "방향 잃은 코스피, 개인 홀로 '사자'…5,300선 반짝 회복에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "스페이스X, 사상 첫 우주선 본체 회수…완전재사용 로켓 예고",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UWUNaLUFkSzdkQld1YUFJa2lBcjluVkhSU2VWS1UwNzJYWjhZMUlCN2p5QXc1S1FRTmt6bG1ZXzJWbmlfTXFtNlhKaE4zTHo3ZFc1TTNvQXRnbjDSAWBBVV95cUxQajB2LWFxUC1KRmp1NHRFQUFMX3dRVW10S1UxcmNSN2dlU1hhWEt1Ynp1cUwtTkwtUHNxOEZITmV4ZXY1QU4tdXdvOXFidlQ2MzJHdHNacmNwbHk1cFB1bXU?oc=5",
-      "summary": "스페이스X, 사상 첫 우주선 본체 회수…완전재사용 로켓 예고에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "이번주 코스피 ‘젠슨황 쇼크’ 벗어날까···앤트로픽 상장까지 ‘AI 신뢰’ 시험대",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wYkw0UXFiS1BWaUJVTGYzTFVqQld3eDVYZG1Ia1l3dW8yeC1yMzYzS2pDQ2NqZVJyUGR0Q3hpSFUxU3JtQTZvLThmVHZXTXN5OHozb2VNT2tqUdIBX0FVX3lxTE45alVROW9ESDFpcHp0Y2hsdU9CeEs2bGpjTUo2N1RhVHpVeWNyaWg1WVBydXRhM0pqcWlkVEpTOVdYXy1rNUVTekVmUmtmRVRpam5EMjNqS0pmbFYtZVJV?oc=5",
+      "summary": "이번주 코스피 ‘젠슨황 쇼크’ 벗어날까···앤트로픽 상장까지 ‘AI 신뢰’ 시험대에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "비반도체 수출도 두자릿수 성장…호주 1위·네덜란드 2위",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtLWV0MWI2RXlfOW9qNGNIS01GM2dmYUw0Q0NHMTVyOG1RcUxRSF9IaUY2UUt0R2VkanZzQk9BWl94NmNzZU5lbjlWaFlkQ0dMeDEzSEhqSDM5LXo3N2h0dmM5NldmSERaZ2hNN3RGTTA5NzhN?oc=5",
-      "summary": "비반도체 수출도 두자릿수 성장…호주 1위·네덜란드 2위에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "스페이스X, 사상 첫 우주선 상단부 회수 성공",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02RlJPUW9ZS2hRM2NkRHlSU3piaXQ2NzBvSTBhMFlUYnZWd1AyTUtlNUozLThiLTRJcV9RVnNZWXRIUEtCWHZManNaYk9PU2Z5Q3llcW91dTNpb3Y0R3V2RnNrZm5EWmFQaXN1blN5NWNySVlj?oc=5",
+      "summary": "스페이스X, 사상 첫 우주선 상단부 회수 성공에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "줄잇는 AI 해킹…로펌에 대응 문의 4배 급증",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14c3FXNWFzUW1iU2NwbHVycXZEY1diRG9uYzVPeGxOUnN3dnlGMGRZcG1QQzlKbFExSy1BMGR6c1hJYWhPYW84Qk9uZFdNR0tKd0YteFI4Tk9lUQ?oc=5",
-      "summary": "줄잇는 AI 해킹…로펌에 대응 문의 4배 급증에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[단독] 과세관청, 서학개미 이의제기 첫 인정…美 커버드콜 분배금 환급 잇따르나",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPVUN6Ml85RmtISTRob2EzSEgwZWwteEdwNVFOS0Y4MnNnbkNyakRxZHU1cmQ3YWFzeHZXLTdrU3JzSUFwRFNILXRZRVFFTzBfZEVMalh5TkdSQQ?oc=5",
+      "summary": "[단독] 과세관청, 서학개미 이의제기 첫 인정…美 커버드콜 분배금 환급 잇따르나에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "미국, 이틀째 항공 대란 와중에 화물기·여객기 충돌",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WR1VVS1VfNkZSNTAzcXNENENzWXZqUWhrT0Y1OHM1TGkwWDlGMWZuQnV2MkFBSDJiYTFGenB1Wkp0ckxSMk9qa0h3MUNMOGRmblZjVmZNUkxKaW5FUzlJNzRXOUFuMXlja0c4SjVEZEV4SnYy0gF0QVVfeXFMUGpqbEZDQ2RpM3VXWk53eDZHTFctakZtYlhFYzA0S2JYQlk0N2NYN1pVeVFOWUQ0ZDF2OHM4MDFrZEEwczBjWUNQajRxYU5RWDB1R0NialIzS0FqVkdQUE5QQkI5M3A2N2ZRTjJ0VzNjU19NWjI?oc=5",
-      "summary": "미국, 이틀째 항공 대란 와중에 화물기·여객기 충돌에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[비즈톡톡] HBM 하나에 500만원 주고 밀수하는 中… 반도체 굴기에도 못 넘는 ‘메모리 장벽’",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWlpfMXZFVUxIdEpiU2RlbzJQY0U2UUFHSFlhLVNrc194d0t3dzNTcVpPdWNmaXpYaW43RExRNElUM0hlMTA3S01tcHoyOVdFekZnWlB6OTJxU0NNZmZZeVFqYXd2WEljWDkyN2ZUWjRoYTVZVWxRRk9QV1IwZmF6aHFR0gGWAUFVX3lxTE5Dc3AxcUx3WWNtenowcUV2ek5CX21rY0JNR2lsOU5NNVRXd24xNU5meVVGcUZlSmpsUHQ5OEctQTgyVFpDVVFCbkVaNnF0R2hWX3hqWk9BY3dPcHo3M0FqNG81NGlEWkloVE0xOXR3U0lBczh0SkFnVnQ4aWNIdl9HTXN0ZGs2WjZ4ZFlEdERBWVJwMmpfUQ?oc=5",
+      "summary": "[비즈톡톡] HBM 하나에 500만원 주고 밀수하는 中… 반도체 굴기에도 못 넘는 ‘메모리 장벽’에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "LGU+, AI 토큰 비용 90% 절감 '최적화 레시피' 내년 사업화",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lRS1zZWdiQmFtSnd1YmJ4Y3hwREJLNnNhTXN3Z3BYaWtZb0lvekdUdkQ4dVRUTEhlanlEYWtGQ2dQT01EX2Z1TzhSVEtGbnR4b09wbVFJYWt3N0VlVXBObXN1dEVnWjBwdXhHbHdjVjQ?oc=5",
-      "summary": "LGU+, AI 토큰 비용 90% 절감 '최적화 레시피' 내년 사업화에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[모닝 리포트] \"농심, 에스파 글로벌 광고에 비용 부담 확대…3분기 영업익↓\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lelQ4aHNabFNQOWV1WGJmM08wQnJ2RWZxZ1BYXzljTFFGX0hXYzRuTzVfYmgxRmRLYWRRdm51MFpOSmFzTmVfdEljRDRQeTFQa0h0RjJtdVlTQQ?oc=5",
+      "summary": "[모닝 리포트] \"농심, 에스파 글로벌 광고에 비용 부담 확대…3분기 영업익↓\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "산업장관 \"석유 최고가격제 연장은 불가피한 선택\"",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92RU53enVFTWg5VWM1UE9VcDljck81MWxDWFNYWmhENlB4amZLZXVWRllmaEhJeHJERkxRVFhWTERNdjRnMXY5b0F0aHItZWowTFVjRTJuN3E4TlV2THc?oc=5",
-      "summary": "산업장관 \"석유 최고가격제 연장은 불가피한 선택\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "’수능 고사장 쾌적하게’…삼성전자서비스, 시스템에어컨 긴급 서비스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53Vm0yOWF5SEFnQXlZY3JCNVhSaEpwUFpFSU9IY25EWlVuSWdtUXJCM1dCcFpqNmd6NjB6WXZoY1ZsOG9HQTdwNHlYcTVJaDVlOVR2NVVXWFV1ZDhXci1mOVhLYWpSeEU?oc=5",
+      "summary": "’수능 고사장 쾌적하게’…삼성전자서비스, 시스템에어컨 긴급 서비스에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "이형일 부총리, 경제현안간담회서 물가 관리 방안 논의",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5meFc0MnFaanM2THowQnNZTGNBcTNpQVBrMUEzUUlJTDNkV0NpZVJSVUI4ZFAxNWFnbU9VUUJ1djdERGdBalRmRGVjTTlCYUJqXzVNSDZtVjNRSGvSAWBBVV95cUxPLUFiX1ZaTXJhang4TmtKUlZoaWVXTHdTZnY4S3pISE9pYkFtVjl5TEIwY0Nyc0lTeXBuVU42UnN0V053V0h4R213aG1CenltYUdINE8wd2hHRHFBd1hKT3I?oc=5",
-      "summary": "이형일 부총리, 경제현안간담회서 물가 관리 방안 논의에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "북한 김수키, 국회의원실 사칭 공격…신종 악성코드 포착",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02aVBtQzFSVTFnMzNnZ3MwcGZpUkZTVXlzNVotdEhxN3pWbGxKSXVyb2lqVFB3RjA0c1JhNDF0OUcxUEZwTGNwMXNTQnhpR2lUclNFVmo5b2xIUDTSAWBBVV95cUxOcDBLbGM4VzV1aWNyWUd1ZzhPdlFPYURLcDRYc3VNdV9BNmVsZUtiS2lzQmJQTDVGcDVzd21vdW9iZUlCMC1nZ1VqTE9zOTg4eEFCYUNHYXNYVkRJVUVIQ3k?oc=5",
+      "summary": "북한 김수키, 국회의원실 사칭 공격…신종 악성코드 포착에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "코인원 고객상담 수탁사 해킹…주민번호·계좌번호 등 개인정보 유출",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pQTFnYW95el9zM2o4X1Z5SUY0cWVkX2p3TzI2UU1La2t5LUhKaGNOYXBVeURaRGlEZHBPUS1maXpNV2ludkFIZklXUjVZYzFIdExXNWxB?oc=5",
-      "summary": "코인원 고객상담 수탁사 해킹…주민번호·계좌번호 등 개인정보 유출에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "李 '자본시장 챙기기' 2라운드…증안펀드 존재감 바뀔까",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VczhsUUdJclJrcmlpMktmaTZzNXRfQmZoMEZIX3huWEphU1hOLU1HZ0dFRjhSR0JpcDZubXNmeFhmd2VDSlVLcFR5WkxOdUUwZXhpYzc1R1ZjWDdtV1Vnb08xWFNMcHpiMzYzTWtnNnU?oc=5",
+      "summary": "李 '자본시장 챙기기' 2라운드…증안펀드 존재감 바뀔까에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

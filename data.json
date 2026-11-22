@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 10:53 KST",
+  "updated_at": "2026-11-23 00:43 KST",
   "indices": {
     "summary": [
       {
@@ -16275,9 +16275,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,334.79 원",
-        "change": 4.39,
-        "change_str": "+4.39원"
+        "value": "1,346.13 원",
+        "change": 11.34,
+        "change_str": "+11.34원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -16557,6 +16557,10 @@
         {
           "time": "2026-11-20",
           "value": 1334.79
+        },
+        {
+          "time": "2026-11-22",
+          "value": 1346.13
         }
       ],
       "미국채 10년물 금리": [
@@ -17095,54 +17099,54 @@
   },
   "news": [
     {
-      "title": "올해 수출 ‘1조달러’, 1달러 지폐로 이으면 지구 3897바퀴…1분에 42억원어치 수출",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vZmhLQ0ZWdWZqZmM1UnkxQVpFV19fSXpaUU1ndnFqTGtWeUIwQWcwdVJlNzFBTzBaanJGdzNFbHdYWktDRWVfR3hjQUZMNV9KdHVKR2JOTS1xZ9IBX0FVX3lxTE5jZTBwSFBpLXdnVzhDMWxGQjVnY0g4QTlGUVdrbkNTOW9hSFY0cU1TTXd0RVZRV1ZUM0RrMzdhVERRM1RvUTV0Uk1WRm9JWjRlcldsRzkwNGJHekVtT2NF?oc=5",
-      "summary": "올해 수출 ‘1조달러’, 1달러 지폐로 이으면 지구 3897바퀴…1분에 42억원어치 수출에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "‘AI 투매’ 검은 월요일 공포…정부, 증안펀드 가동 준비 착수",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QdWo0ZG5hNkswOUYwcHNTX0xoR2phd08yd0pPZ0prZVVtTUR4LVdSWHFwQkhmREJZMGZ4cHF0SXRDVzFfU01zNk5kM0llSVFHR0F1NENZenlvY0FSY0xTcVE3eEZqb0U?oc=5",
+      "summary": "‘AI 투매’ 검은 월요일 공포…정부, 증안펀드 가동 준비 착수에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "젠슨 황 퇴출 뒤엔 반복된 거짓말…“네 뇌에 오줌 누겠다” 폭언도",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUFBWWDFheXB5VnpDUDA5NEJlWUpXbHhmVXI1NkxNMWM2WVF1TVFhaTFvVG9zRUpOWGgyUkkwMUNNRDIySjhrbGgzZXVud3JPdEVDcUNPaVpRam53Tk5lOUt4cF82aGRnTy04Uk9JX3hnU2JLTlE3LXlwbU51b3g5ZW9n?oc=5",
-      "summary": "젠슨 황 퇴출 뒤엔 반복된 거짓말…“네 뇌에 오줌 누겠다” 폭언도에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "외인매도에 5,000선도 깨진 코스피…호재에도 '받아줄 돈이 없다'",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81ZDh0elpqUkM4eDZESjljQWZ4RnluVHVVY2xIN1pnVjhrOTh4YWctcndoNTBUSEppNy1UMFhwY3ZCNU5mTHNoa2VpeFNHRUlxZ1Y0T05zY2EyTVIzZjZFUWxiVmN0TUFVWFdoYnNMNVQ?oc=5",
+      "summary": "외인매도에 5,000선도 깨진 코스피…호재에도 '받아줄 돈이 없다'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[주간증시전망] AI 쇼크 이후 관건은 금리… 美 물가 지표 주목",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbmVBNWdPRW5LSm85Q1J0UHJpNGduUG5PTUlWUEh6SUpsUUxPeEc0TTVWLXhFZWNxY0hZOHFuZVJtVGExbnBCSm85MmdOZmpqaXRlcmROak9RZThGXzhUWlZxRWlOVE4wRFlvclBERHJBejBVSVItODhZTUNuaUdLZ0RfOWNGbmpo0gGcAUFVX3lxTFBoV1RiX01zVTVhQTNJTHlCOHB2elBoZ1Y3TW9uSjk5bXhrbVlqZEJLTFJ1ZVFnMEh5bmVjTmctLVhrTlJjVTEzbzNxU2Z3YkoxUmt1aDZXU1JVMkVmNUYwY0NxNkxTUW43LTFlTU56OEhiM2FRWjBHcDJ0bm9Ed3RJekNMeFUxMFZaek5zdlQyemJnWU9xNzdrWEFaaw?oc=5",
-      "summary": "[주간증시전망] AI 쇼크 이후 관건은 금리… 美 물가 지표 주목에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "한전, 개인정보 150여만건 유출…주민·계좌번호도 포함",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iZFNGaTFKX3dneG1nUi1oclRLYkVnLVRWd3pWQUlsR01wc3pRX2ZueGdCbElSeDJWRm1mOWRCOF8zVnMwQzFWcDB0VTdaTFVxTHFEWmF3NThhTU0?oc=5",
+      "summary": "한전, 개인정보 150여만건 유출…주민·계좌번호도 포함에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "냉랭한 증시에도 앤트로픽 담았다…액티브 ETF, 상장 첫날부터 매수",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRVExIZndVVDB2WXJRWmdROTZlcE41aEV4OGRIMWVXcW9ESFpaaG5DX1NOQkNnZjhrUkhxeHdoWThKTDQ4OEdtUGRoTXgySmpIYkVGV0p1dEh5YlhaM1dIN2hfNXRpUXZPdUFJeTVESml5dw?oc=5",
-      "summary": "냉랭한 증시에도 앤트로픽 담았다…액티브 ETF, 상장 첫날부터 매수에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "AI 동맹 맺는 머크·문턱 막힌 중국산 신약… 요동치는 글로벌 항암 판도[클릭, 글로벌 제약·바이오]",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aYTAxNGxYOVZ4RlRNLUhzYTI5blBqQkJPRy11YWtQY3hMZFBQRk1zX3pwdkdvSlZ6c29Rb3Y2MERZejhrWE56NVdPQjE0Y1BfdmtRcThZdG8zbk9sSXZMc1J1RGFXNzlfd0NQcUR3?oc=5",
+      "summary": "AI 동맹 맺는 머크·문턱 막힌 중국산 신약… 요동치는 글로벌 항암 판도[클릭, 글로벌 제약·바이오]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "최태원 \"韓·日 기업·대학, 함께 AI 인재 육성하자\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rLW5QdjJGUGZRZTE0d252LWpoMlU5THNhblRwMk1kNGJFSXlwR0hLelFQRk5XemhlcGtlaUR6VWNMLW9PbzQ4MHJ5c1h4UWJzbFR2MjROM2s5RHpLQjhkUElmSWE4aXVyZjFSOWZGaWs?oc=5",
-      "summary": "최태원 \"韓·日 기업·대학, 함께 AI 인재 육성하자\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "\"내 노후자금이 AI에 몰빵?\"…美 401k 가입자들 '벌벌'",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MUWZYLTlQUGVTeUVkREY2OVkzSlBocVNvdVUwM3BSeXRxRGxHazhKb3AxX29FNjlLRXluX3lSODNRVWxvUTM3VHZuUWdVRHU3ZXJGUXY3ZGoxLWpzVDR0YTQ2a0g4SWRDNTJCTEdEZ0lscTA?oc=5",
+      "summary": "\"내 노후자금이 AI에 몰빵?\"…美 401k 가입자들 '벌벌'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "남직원도 생리수당?…월 7만원 따박따박 받아가더니 '날벼락' [사장님 고충백서]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkWXNyOXJHUmdmNE5nb1B4OW04cUxyQ25ic252UWl3eFZOazZHMFBJampINExuVFJiN2RmNWtWYTBibFBVM1hkTnhDekpRUFhsdDdKRlZBY3dZUQ?oc=5",
-      "summary": "남직원도 생리수당?…월 7만원 따박따박 받아가더니 '날벼락' [사장님 고충백서]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "“엔비디아칩 중국 밀반입망, 앨리스 황과 캄보디아 범죄조직 인사로 이어져”",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTWU9Fd2lUdEVBcE1sNnZqNFlwM0VqZlFFWWtQSnlmNjlOaTBNLVdsLS1kNGc1VXVFTmpjcC0tbGIxVDRKWUM3MHp4RkVSdWx5RGUzNGNCYU14QdIBX0FVX3lxTFBZSnNYMGU0VGZ5QVBNdldGNWxna3l3cFFLNEFOT2VnSERpdWhCMHQ2eVhtT1NGQ1VrUVNZcXIteWhMMmN5dDF4SjR6Tmh2NXFPa1EyNE5XeU1aOEZGSE1r?oc=5",
+      "summary": "“엔비디아칩 중국 밀반입망, 앨리스 황과 캄보디아 범죄조직 인사로 이어져”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "대만, 잇단 급락장에 “직전 거래일 종가 미만 공매도 금지”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aV2JJMUdHN29NcGRFWWFoUlVRYTl0bWh2Y0N5YU1iTXplcWU2dHdsOHp4YzEzYktRWXE1VDUwUXZrd25PUWRndDY3SVBEbmhwSEk1emVJeEJVWUE?oc=5",
-      "summary": "대만, 잇단 급락장에 “직전 거래일 종가 미만 공매도 금지”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "이재명 대통령, 울산 전통시장 방문",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xY092TXRfX1h1LS1keGRUYVlMMkRtTlVLN0FITFNSMXJ4TjkwZ184dEg1QUJlYl9pY2NjZmg0UDNpZG4zQ2djNFdmLWpmU3Rqc2FrM0NKeFd2d0I0?oc=5",
+      "summary": "이재명 대통령, 울산 전통시장 방문에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "골드만삭스 패닉지수 최고치 근접…다음주도 매도세 지속 경고",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByalZYMFhtc1hudTUwbTV5WVFjay04THBrVk5relRQV001YlpEMmlqeWticC1nWC1EYmU0WWZReGhmMmVuQlBiV25tSDRzeWRKS2FmZFhYVEJWb2PSAWBBVV95cUxNLWphYlNiQWxlV09xV0ZOSUtYRHZEc3RIMjZ0Z2RwWmNEMWd6czVjNFJpR1pWZk9UUXVSX3VGdlpjU29BcUo5WlpNQ0ViSEdfNGZQQlBFSWRPS3RuRzVzNjI?oc=5",
-      "summary": "골드만삭스 패닉지수 최고치 근접…다음주도 매도세 지속 경고에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "앤트로픽 상장 하루 만에 ‘147조원 증발’…업계 낙관에도 시장은 불안",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtZXFQTzZ4bVFReThFbmo1WEhzeUhreXJDN3ZDZXRhWXo1NWZ5eGI4NjQyM1FBcGZlcFEta1ZSZ3JhMVdVRVNpWk9Ra3ZvallwQjZpRGtwbnpOc1YzbGtnd3NBaTgybXRaVlBoU3RfOW83c3VzSF93?oc=5",
+      "summary": "앤트로픽 상장 하루 만에 ‘147조원 증발’…업계 낙관에도 시장은 불안에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "‘주가 계속 떨어지는데, 믿어도 될까?’…무디스, 삼전닉스 내년 전망 들어보니",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vQTlUZjk1YzdBQ3phNU93TFFudjAzRWFQQzEzNkdXbEt1MldjTGZHSEMyQjNrMHZ4TThKQThZaGY5X1NIWjRneHdjY0RfS3Bm?oc=5",
-      "summary": "‘주가 계속 떨어지는데, 믿어도 될까?’…무디스, 삼전닉스 내년 전망 들어보니에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "\"이사회의 젠슨 황 축출 이유는 외도보다 상습적 폭언·거짓말\"",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOE40V1RLaUcxMkFiNGZrS1JLUWEzM2lrR3ZrMUc4aElxbDdiTVRydHVqcEFvQWNnejRFWUkxNDZBSktRckhseURPYmhMYnJ4TXVScnZWRmZLWTRrS19ZMy1oeDVwcG11TUp3MlktczJzUFRQTzF0Z3JLYW54NmVhbzVrTQ?oc=5",
+      "summary": "\"이사회의 젠슨 황 축출 이유는 외도보다 상습적 폭언·거짓말\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "젠슨 황 떠난 엔비디아, AI주 매도세 겹치며 아마존 시총만큼 증발",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZUlyelBkN0tucVotWUQtNlN1Yml3Z0ZybGZ1SzQ3NUtYdDhwRGNoeWlIYjZDSkh2MU9DVGhXRnREY1VUbHp1T2lsTE9JSHJMNFFxN2FXWW1reFEwQTYwcm16MEFXOFZFZWxudklxbEhZc2ZJZ0VuWGVpZ2wxNmxlMnFoZlppWTdfZWZEV1hR?oc=5",
-      "summary": "젠슨 황 떠난 엔비디아, AI주 매도세 겹치며 아마존 시총만큼 증발에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "수출 1조 달러의 역설…최대 무역흑자에 美·인도·튀르키예 통상 압박 우려",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Lb3hKZTRDOGRyYmlVRHFTNC1tb2VvRlJ5cVNrQVIwemx4eFFwVXotWmV2Z05ZVEhuUXZNREotVW9ha2hueWE4clpVUnV6VTE1bDVDRlRMM0NMbFV4aHRz?oc=5",
+      "summary": "수출 1조 달러의 역설…최대 무역흑자에 美·인도·튀르키예 통상 압박 우려에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

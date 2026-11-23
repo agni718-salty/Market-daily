@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 00:43 KST",
+  "updated_at": "2026-11-23 11:12 KST",
   "indices": {
     "summary": [
       {
@@ -22,9 +22,9 @@
       },
       {
         "name": "코스피",
-        "price": "4,869.96",
-        "change": -267.93,
-        "change_pct": "-5.21"
+        "price": "4,669.82",
+        "change": -200.14,
+        "change_pct": "-4.11"
       }
     ],
     "candles_dict": {
@@ -15849,13 +15849,6 @@
       ],
       "코스피": [
         {
-          "time": "2026-08-25",
-          "open": 6535.93,
-          "high": 6747.16,
-          "low": 6408.82,
-          "close": 6742.74
-        },
-        {
           "time": "2026-08-26",
           "open": 6727.25,
           "high": 6887.18,
@@ -16267,6 +16260,13 @@
           "high": 4971.31,
           "low": 4831.69,
           "close": 4869.96
+        },
+        {
+          "time": "2026-11-23",
+          "open": 4734.9,
+          "high": 4759.65,
+          "low": 4656.76,
+          "close": 4669.82
         }
       ]
     }
@@ -16275,9 +16275,9 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,346.13 원",
-        "change": 11.34,
-        "change_str": "+11.34원"
+        "value": "1,347.18 원",
+        "change": 12.39,
+        "change_str": "+12.39원"
       },
       {
         "name": "미국채 10년물 금리",
@@ -16294,10 +16294,6 @@
     ],
     "series_dict": {
       "원/달러 환율": [
-        {
-          "time": "2026-08-21",
-          "value": 1390.79
-        },
         {
           "time": "2026-08-24",
           "value": 1384.98
@@ -16559,8 +16555,8 @@
           "value": 1334.79
         },
         {
-          "time": "2026-11-22",
-          "value": 1346.13
+          "time": "2026-11-23",
+          "value": 1347.18
         }
       ],
       "미국채 10년물 금리": [
@@ -17099,54 +17095,54 @@
   },
   "news": [
     {
-      "title": "‘AI 투매’ 검은 월요일 공포…정부, 증안펀드 가동 준비 착수",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QdWo0ZG5hNkswOUYwcHNTX0xoR2phd08yd0pPZ0prZVVtTUR4LVdSWHFwQkhmREJZMGZ4cHF0SXRDVzFfU01zNk5kM0llSVFHR0F1NENZenlvY0FSY0xTcVE3eEZqb0U?oc=5",
-      "summary": "‘AI 투매’ 검은 월요일 공포…정부, 증안펀드 가동 준비 착수에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[증시 AI충격파] \"코스피, 이미 IT버블 붕괴 수준…급락주 반등 가능성\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LVVJRZXl0b01sMmE0Y0JwdEQzelYwclh1WWVtTm5xajlmT3pFY1JnOFZrMjRaTXdEdGxqcUVVbTUtVjZucjNpNDBHcjBVY2dWdFg2NTd0RFlpRURCUHQ0S2tJZTlNQXkydjlJSlBuYmQ?oc=5",
+      "summary": "[증시 AI충격파] \"코스피, 이미 IT버블 붕괴 수준…급락주 반등 가능성\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "외인매도에 5,000선도 깨진 코스피…호재에도 '받아줄 돈이 없다'",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81ZDh0elpqUkM4eDZESjljQWZ4RnluVHVVY2xIN1pnVjhrOTh4YWctcndoNTBUSEppNy1UMFhwY3ZCNU5mTHNoa2VpeFNHRUlxZ1Y0T05zY2EyTVIzZjZFUWxiVmN0TUFVWFdoYnNMNVQ?oc=5",
-      "summary": "외인매도에 5,000선도 깨진 코스피…호재에도 '받아줄 돈이 없다'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "‘블랙먼데이’ 우려 커지자…정부, 증안펀드 즉시 가동 준비",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ubUZFMmlRTjR3blJ3X05OMnowOHJlcTlDRnVpTmJHSld1THp0SkhLbGpULXZnMVptbjc3VzhXZGdtS2FLYWo5MkcwLTNubExUMVRjbQ?oc=5",
+      "summary": "‘블랙먼데이’ 우려 커지자…정부, 증안펀드 즉시 가동 준비에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "한전, 개인정보 150여만건 유출…주민·계좌번호도 포함",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iZFNGaTFKX3dneG1nUi1oclRLYkVnLVRWd3pWQUlsR01wc3pRX2ZueGdCbElSeDJWRm1mOWRCOF8zVnMwQzFWcDB0VTdaTFVxTHFEWmF3NThhTU0?oc=5",
-      "summary": "한전, 개인정보 150여만건 유출…주민·계좌번호도 포함에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "미 재무 “엔비디아 수출통제 준수 여부가 핵심”…젠슨 황 복귀 가능성 배제 안 해",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TNzlnZW9NdzY3UzVXdUZERURvR2Yxb1QxbWRGVkg5VnNoUkZFT1lEQ09SV0RfTV9DUVhpRGRIeEpvT2dwbVltVkVwdk5xY0F5WDU1dGU2YmRLeTQ?oc=5",
+      "summary": "미 재무 “엔비디아 수출통제 준수 여부가 핵심”…젠슨 황 복귀 가능성 배제 안 해에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "AI 동맹 맺는 머크·문턱 막힌 중국산 신약… 요동치는 글로벌 항암 판도[클릭, 글로벌 제약·바이오]",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aYTAxNGxYOVZ4RlRNLUhzYTI5blBqQkJPRy11YWtQY3hMZFBQRk1zX3pwdkdvSlZ6c29Rb3Y2MERZejhrWE56NVdPQjE0Y1BfdmtRcThZdG8zbk9sSXZMc1J1RGFXNzlfd0NQcUR3?oc=5",
-      "summary": "AI 동맹 맺는 머크·문턱 막힌 중국산 신약… 요동치는 글로벌 항암 판도[클릭, 글로벌 제약·바이오]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[금통위폴] 전문가 전원 “11월 금리 3.25%로 인상 예상… 내년 3.5%까지 오를 것”",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVUh1ZWtBM0Zjd3pzdERTSXJrbHVmWGNpdld2THZLQm1UTnAtYV9hTjB6eTlGMlJQMzdGT2J6WjhLUEp0SnpWaHZnVU1lUVpiTnNyalZ6eldncmJPR3RHQ1FDWUZEWFdtbkVLSDlrSExqaUlyTzhuVzdoYkVlQTBSV2x4NjA2UdIBmgFBVV95cUxQMDV1NDFjZWtGMFQ3UzQtdTc1Q1R2aHhpTUJKQUdmazlwOVJKOHIxUjVTS1pFS3Z3RUw4ZUtoamZkQ0pETE5lZ3dmS0ZlQy02RmlIMDJ1dnpWN2xnVjBmTERYYW5JbUw4aFJWMlNBOXNmenNoM0F2OWczYnhqcWFDMHB3Vl9PRmZFMTdOZDJRRTh5WjVtaVg4M2Jn?oc=5",
+      "summary": "[금통위폴] 전문가 전원 “11월 금리 3.25%로 인상 예상… 내년 3.5%까지 오를 것”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "\"내 노후자금이 AI에 몰빵?\"…美 401k 가입자들 '벌벌'",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MUWZYLTlQUGVTeUVkREY2OVkzSlBocVNvdVUwM3BSeXRxRGxHazhKb3AxX29FNjlLRXluX3lSODNRVWxvUTM3VHZuUWdVRHU3ZXJGUXY3ZGoxLWpzVDR0YTQ2a0g4SWRDNTJCTEdEZ0lscTA?oc=5",
-      "summary": "\"내 노후자금이 AI에 몰빵?\"…美 401k 가입자들 '벌벌'에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "'1조 달러' 한국 수출, 이번 달도 역대 최대치‥반도체 수출 4배 급증",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1cFJuWkJXVVp4dElON05kQTNvb2xOdEV6c2RBM3VWNHMtQmE5aWhxOXVmZHoxd0VpRHdBS001ZWp3UERmTXhWYlVTb19TbFVFdFZ6TmpuejR4Nk1UTGJ5RXdHNV80Unl5aGNrdDBFUndjTGxi0gF0QVVfeXFMT25qZ2tzOXoxMUllS2w2NmVzQ0pTckRHbUNubV9aaElLTW5nT2tHSURTZVBJcUtqVGVuRE9HaTMyNDhCQWM1Nk1Od0ZZa1lFTmVmQ3ZWa1RpOVpYVGsxYnlqX09TNlFzSGtaLXRacENONEpGWXI?oc=5",
+      "summary": "'1조 달러' 한국 수출, 이번 달도 역대 최대치‥반도체 수출 4배 급증에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "“엔비디아칩 중국 밀반입망, 앨리스 황과 캄보디아 범죄조직 인사로 이어져”",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTWU9Fd2lUdEVBcE1sNnZqNFlwM0VqZlFFWWtQSnlmNjlOaTBNLVdsLS1kNGc1VXVFTmpjcC0tbGIxVDRKWUM3MHp4RkVSdWx5RGUzNGNCYU14QdIBX0FVX3lxTFBZSnNYMGU0VGZ5QVBNdldGNWxna3l3cFFLNEFOT2VnSERpdWhCMHQ2eVhtT1NGQ1VrUVNZcXIteWhMMmN5dDF4SjR6Tmh2NXFPa1EyNE5XeU1aOEZGSE1r?oc=5",
-      "summary": "“엔비디아칩 중국 밀반입망, 앨리스 황과 캄보디아 범죄조직 인사로 이어져”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "내년 공시가 현실화율 동결…비강남·경기남부 상승률 비상",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RQy1xLW1UOXJVRWhMejNYOUZLa0g4dFNjUzhfelUyMnJCTzduZXdzbjNuMTRiQ011NksxU3ZCTkQzRDVkR2JZM1Z0WF84djFtTkFTSzktSDNsWEnSAWBBVV95cUxPcTFVdjlMWWpyczFVaUZHd2NHVkNvQ3VRRGg0bDZsa2hrZXYxYUtQTThoS0VZLUtQTElvNjlRUGdPamtPVUxIcmNlVUYzdE5GQzE0alBvU3JJMEpKSzI2UU4?oc=5",
+      "summary": "내년 공시가 현실화율 동결…비강남·경기남부 상승률 비상에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "이재명 대통령, 울산 전통시장 방문",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xY092TXRfX1h1LS1keGRUYVlMMkRtTlVLN0FITFNSMXJ4TjkwZ184dEg1QUJlYl9pY2NjZmg0UDNpZG4zQ2djNFdmLWpmU3Rqc2FrM0NKeFd2d0I0?oc=5",
-      "summary": "이재명 대통령, 울산 전통시장 방문에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "HMM, 미국 넥스트파워와 온실가스 감축량 이관 거래 계약",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1THhEaEFYemMtb28zOVM1WlZEWGNxWGpaQjhwMWM0R1M1S1NNVW1lLUVkMThLaHRzM1ZBaFduY3B6S3JFRk1waHVZX1poc0FzUGE1Y1JRb0k4VzTSAWBBVV95cUxORUhOR3lncXRVYTdIRnBiX2NMN1h6QUhCLVFNZGMwc3dwMi1MZkg0VktUME1UTWh6Mm1GWU11UnJ5SDlIcW9GbTY1WnlTSUlmaEstR1RXS0wyaF9QZVpYMkk?oc=5",
+      "summary": "HMM, 미국 넥스트파워와 온실가스 감축량 이관 거래 계약에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "앤트로픽 상장 하루 만에 ‘147조원 증발’…업계 낙관에도 시장은 불안",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtZXFQTzZ4bVFReThFbmo1WEhzeUhreXJDN3ZDZXRhWXo1NWZ5eGI4NjQyM1FBcGZlcFEta1ZSZ3JhMVdVRVNpWk9Ra3ZvallwQjZpRGtwbnpOc1YzbGtnd3NBaTgybXRaVlBoU3RfOW83c3VzSF93?oc=5",
-      "summary": "앤트로픽 상장 하루 만에 ‘147조원 증발’…업계 낙관에도 시장은 불안에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "“위험 피할 곳 현금뿐”…주식 이어 비트코인, 금·은 가격 모두 폭락",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9icEdPTEYxT1REZmRfQ0dLRVNOOHdzLUdRSjZPeF9Wd0xNRWx4TzQ0OE0zN0NsTjAyQVN5Q3dsTW5Sd1pVVENjUER1VnM5QXVYNUVtcUoxbGFaakRVTnhoaHZYXzlaVzg?oc=5",
+      "summary": "“위험 피할 곳 현금뿐”…주식 이어 비트코인, 금·은 가격 모두 폭락에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "\"이사회의 젠슨 황 축출 이유는 외도보다 상습적 폭언·거짓말\"",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOE40V1RLaUcxMkFiNGZrS1JLUWEzM2lrR3ZrMUc4aElxbDdiTVRydHVqcEFvQWNnejRFWUkxNDZBSktRckhseURPYmhMYnJ4TXVScnZWRmZLWTRrS19ZMy1oeDVwcG11TUp3MlktczJzUFRQTzF0Z3JLYW54NmVhbzVrTQ?oc=5",
-      "summary": "\"이사회의 젠슨 황 축출 이유는 외도보다 상습적 폭언·거짓말\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "SK바이오팜 뇌전증 신약 '세노바메이트' 소아·청소년으로 확대",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DUUdvZEFudzY1NnZLWV82M29fakVmTTVNTW1mN0Vfd3lQa2tXQ3ZhUGljT0ZHNlN1bEdPM0NTb0Q1eXRpYnhfQnRLajZaSTgwRHhxTXNYN3lLazZrd2NDSQ?oc=5",
+      "summary": "SK바이오팜 뇌전증 신약 '세노바메이트' 소아·청소년으로 확대에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "수출 1조 달러의 역설…최대 무역흑자에 美·인도·튀르키예 통상 압박 우려",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Lb3hKZTRDOGRyYmlVRHFTNC1tb2VvRlJ5cVNrQVIwemx4eFFwVXotWmV2Z05ZVEhuUXZNREotVW9ha2hueWE4clpVUnV6VTE1bDVDRlRMM0NMbFV4aHRz?oc=5",
-      "summary": "수출 1조 달러의 역설…최대 무역흑자에 美·인도·튀르키예 통상 압박 우려에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[단독] 공급 늘리려 만든 서울 주택진흥기금, 내년 절반은 전월세 보증금에",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUFk2aXFBYmFpdjYzTVhLMWkxMXJTRFRoMDNESzhKQmVVWjlxUncxbWt3dG9Fak4wUndNV1FWeGNHV3RpaDNYOU9mclV5TXpDQ05yY1hENUtMcVJ1dHoyNUZ3akZzT3hadzdsRlJ3d2NjR1JNTmhxVVJoRlhMOGlJYk16NDdaSmxDNmU4YlY4bjQ0Y1JrZHU4aNIBrAFBVV95cUxNQi14cjNvV2lpX2Y0X2lhdXRVOVUyc2wwSmVTR1ExM0o5a094VktYYlJ0d19XTlZsRFFhUUxRTGdwSUJ5bGZYSElkeUlMRFZxQ2NiR1luVkdpWk13aUtEVHBGS0NGOHdzdl81b2lwRy1aajUzRmtSNDI5c3N4VU90ZFpfbmpDOHp0alNfdldqeTRSTDdLa1lzTkxzcGFUOEF4UnZza3hYNDNhTEVn?oc=5",
+      "summary": "[단독] 공급 늘리려 만든 서울 주택진흥기금, 내년 절반은 전월세 보증금에에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [

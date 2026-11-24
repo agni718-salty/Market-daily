@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-11-24 04:32 KST",
+  "updated_at": "2026-11-24 14:43 KST",
   "indices": {
     "summary": [
       {
         "name": "S&P 500",
-        "price": "7,250.34",
-        "change": 339.95,
-        "change_pct": "+4.92"
+        "price": "7,237.17",
+        "change": 326.78,
+        "change_pct": "+4.73"
       },
       {
         "name": "나스닥",
-        "price": "24,123.58",
-        "change": 1505.85,
-        "change_pct": "+6.66"
+        "price": "24,089.56",
+        "change": 1471.83,
+        "change_pct": "+6.51"
       },
       {
         "name": "다우 존스",
-        "price": "49,710.30",
-        "change": 1562.97,
-        "change_pct": "+3.25"
+        "price": "49,595.31",
+        "change": 1447.98,
+        "change_pct": "+3.01"
       },
       {
         "name": "코스피",
-        "price": "4,708.54",
-        "change": -161.42,
-        "change_pct": "-3.31"
+        "price": "5,050.28",
+        "change": 341.74,
+        "change_pct": "+7.26"
       }
     ],
     "candles_dict": {
@@ -5291,7 +5291,7 @@
           "open": 7227.41,
           "high": 7295.6,
           "low": 7152.66,
-          "close": 7250.34
+          "close": 7237.17
         }
       ],
       "나스닥": [
@@ -10557,7 +10557,7 @@
           "open": 24269.75,
           "high": 24353.65,
           "low": 23794.96,
-          "close": 24123.58
+          "close": 24089.56
         }
       ],
       "다우 존스": [
@@ -15823,17 +15823,10 @@
           "open": 49239.91,
           "high": 49810.26,
           "low": 49033.31,
-          "close": 49710.3
+          "close": 49595.31
         }
       ],
       "코스피": [
-        {
-          "time": "2026-08-26",
-          "open": 6727.25,
-          "high": 6887.18,
-          "low": 6704.1,
-          "close": 6808.21
-        },
         {
           "time": "2026-08-27",
           "open": 6996.12,
@@ -16246,6 +16239,13 @@
           "high": 4759.88,
           "low": 4586.8,
           "close": 4708.54
+        },
+        {
+          "time": "2026-11-24",
+          "open": 4880.16,
+          "high": 5065.74,
+          "low": 4880.16,
+          "close": 5050.28
         }
       ]
     }
@@ -16254,21 +16254,21 @@
     "summary": [
       {
         "name": "원/달러 환율",
-        "value": "1,341.05 원",
-        "change": 6.26,
-        "change_str": "+6.26원"
+        "value": "1,342.73 원",
+        "change": -1.58,
+        "change_str": "-1.58원"
       },
       {
         "name": "미국채 10년물 금리",
-        "value": "4.93 %",
-        "change": 0.02,
-        "change_str": "+0.02%"
+        "value": "4.92 %",
+        "change": 0.01,
+        "change_str": "+0.01%"
       },
       {
         "name": "미국채 30년물 금리",
-        "value": "5.30 %",
-        "change": 0.0,
-        "change_str": "+0.00%"
+        "value": "5.29 %",
+        "change": -0.01,
+        "change_str": "-0.01%"
       }
     ],
     "series_dict": {
@@ -16535,7 +16535,11 @@
         },
         {
           "time": "2026-11-23",
-          "value": 1341.05
+          "value": 1344.31
+        },
+        {
+          "time": "2026-11-24",
+          "value": 1342.73
         }
       ],
       "미국채 10년물 금리": [
@@ -16797,7 +16801,7 @@
         },
         {
           "time": "2026-11-23",
-          "value": 4.93
+          "value": 4.92
         }
       ],
       "미국채 30년물 금리": [
@@ -17059,61 +17063,61 @@
         },
         {
           "time": "2026-11-23",
-          "value": 5.3
+          "value": 5.29
         }
       ]
     }
   },
   "news": [
     {
-      "title": "젠슨 황 엔비디아 CEO 즉시 복귀...이사회 만장일치 결정",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPUlMwVFhibDRLOWpPOC1OdnFhRjlHY3M0Rk1WNTVFaVJiRG9XTDdqN3M3OXF3MVI2VFMwTmdkZVRjZW1HMFNOdHZoc2pGR1MzR3l4SkNzclNQeXRFeTZBbjI5cDFfRkw5NnBiTXltUQ?oc=5",
-      "summary": "젠슨 황 엔비디아 CEO 즉시 복귀...이사회 만장일치 결정에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "젠슨황 복귀시킨 트럼프, 엔비디아 급등에 최대 221억 원 수익",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14bVpDX2gtbDdLelFSUkhZbkdtX2ktRTVWVWNGUjhMdVdGa0I4bjZra3JBVV92el9KanFWLU5mV1pybEs0UWhwem50RTFPUEpLd2M4dzFGT3pLdThqUWlGajl1ci1ZWUVWTlF0MXBMeldLT24x0gF0QVVfeXFMUGNTZlNGeG5NbkUxTk4zNXJSYWxaZXBvWGhXRVYwVFNBZWVDNVNzZjdCeUtqMzlJQmNTRXdzVXFNdnVmRWszcGRsRXJ0eF9jX1VkM0FEVkwtSTdYMjl0OVF1V0hjakpnUXNDS1ktbVp4ajBiMTY?oc=5",
+      "summary": "젠슨황 복귀시킨 트럼프, 엔비디아 급등에 최대 221억 원 수익에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "코스피 5% 폭락에 매도 사이드카…장중 4500선까지",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91Z1EyaE0xU2ttdmZsYW11ZkkzZU9IdmRVZWp1am0xbjY1Y0FJN2w0UE5nRmJrS2pYSV9EbkNvUFFpRkVKREF2NFNFTEJNcGU4bTlabnhHN0JCVmZ4Qk9BbS1OejZUcjA?oc=5",
-      "summary": "코스피 5% 폭락에 매도 사이드카…장중 4500선까지에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "코스피, 젠슨 황 복귀에 6% 급등... ‘매수 사이드카’에 장중 5000선 회복",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdDBaQnIyQ183NHZwN0laLVNFamo5OWo1Q3o3TG90SlI0amVCX1hiaHVtZ2I4Nm1tTm1hNF82YnZpTWt3cjRUaVR0Qjk0aFQwa05ia2NoZU1FbXlvQkdZa2w5Vi14MHF1d3pPNVFZMll4Si1TRU81NW5yZ09PZUhBZA?oc=5",
+      "summary": "코스피, 젠슨 황 복귀에 6% 급등... ‘매수 사이드카’에 장중 5000선 회복에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "이형일 \"전기차 생산세액공제 종합 판단…근로소득세 개편 신중\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0N3I2X0JDTHc3R01tWG54a2J5SDZHNHFnbmctR0NyZzJwbkFKSmdrenhPclJuckRmb1dVSExzUE5JQkVmWHB5RmhWNU5WeHJ0dDcwMXZNNXlyLVnSAWBBVV95cUxPR2NndGQtREhfS0JFQUFsX1dPbko1VlhvUlJSNkhPdGZqVDdSa25aOW9WdGFrQ056NmVqOGR5SVNEeWhBd25RdS1zZlVzdTRUb2lnT3BoTG9ELUFyNmNmX2E?oc=5",
-      "summary": "이형일 \"전기차 생산세액공제 종합 판단…근로소득세 개편 신중\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "젠슨 황 복귀 몇시간 뒤…미 상무부, ‘불륜 상대’ 회사 제재",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWWRmLWR5V2lXaTFpYm1ISU5WaktIdE03VHZuWWI5dGJJZG5ENjFZa0t5UlZzeUVYdDBNbktJVmxFUW8zRmR3cF8wREhybDBIVlhMdG1pOXRlbXBrWW13MXlNd2lxd1FVQU5kYnpiNHRKU0Z5NWx2aU54Y2xtNDFWdmp3?oc=5",
+      "summary": "젠슨 황 복귀 몇시간 뒤…미 상무부, ‘불륜 상대’ 회사 제재에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "법원, '경영난' 외식업체 놀부 회생신청 기각",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PLXhmLUZJQmVrcjFabG9kaTc2UndPazFYNWx4RnN2eXlpeTJ1VXBtRmVHbS04cHRfdERjX2dmX0c0TjU0Y2l0aGx6amNJUXRGMWZoV294UDFoc000R3VQNkZyRXN6N0RHejFXc0hNOEMtSDJqblRN0gF3QVVfeXFMUDZDc01yZWxvMlAxZ2tnVnJFbFJrcHY2SV9tSXhOS05yak40NjAzMHNaU2QzU2REWUdEQlNuNXFoQi1xVS1PUUt6bVBlNDlzVnZNMTJxWGMtVXQ2ZXg2TDFOSGNvcUliNkhGS0xIaUtOQ2NXeF9lUHM?oc=5",
-      "summary": "법원, '경영난' 외식업체 놀부 회생신청 기각에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "대구·경북 11월 소비자심리지수, 전월보다 2.9p 하락",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqSERfTUE5U1huelUtTko2RGQ0c3JvbTlneG03QWtnZGdOaFk0M28xQXJ6cFhtMkpHSG9XWWkyeGRCWEhIS2lWUHRjWUd1UUllai01T3hmMm1yM3PSAWBBVV95cUxQWkI2WGJmQnRycW5qTE8yeE9welNSRmxxUkhhWU1IaGR6cVBON0l2azI5QThEeGJ6Nnk4a3J0ZEFFaHA5eFVyNWRsdndZVlk0SjU5TjdLT25jc3U2TlFDc2k?oc=5",
+      "summary": "대구·경북 11월 소비자심리지수, 전월보다 2.9p 하락에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "\"앨리스 황, 1년 넘게 中 국가안전부와 접촉…젠슨 황 불륜 시기와 겹쳐\"",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBULWRLcTkwTy1qZnZpNEctd001WEtSSGI0NktuVkFpYVZBZVFLVnZYTnFad2ctaWRXUjVpVUp0WUFLNFRaanlBTHV5ZFdQMHU4VTUtUlBscUoxckF6M2JrN0JYelMyTjVI0gFuQVVfeXFMTV83REE0RFI2eU94RWZZMVNELVZkNFZ3WGVlaWl3YjdPenZxckNWWmtINmFnd2pUb2k3VG02TGIwMGpqZFIwWDNmdEJNSldQZ0FkVEpJV2JOdjMyVFRRWlBKLW5oQlIwQ2pyVEx1dWc?oc=5",
-      "summary": "\"앨리스 황, 1년 넘게 中 국가안전부와 접촉…젠슨 황 불륜 시기와 겹쳐\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "현대차, 산림청과 전기차 ST1 기반 산불 대응 차량 실증사업",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YYmN0bWZxcWFNUFJtMEdtaUFoVDl2STNaNUE1S2dCelUzNVNnRGNZSWxlWml2SmhpMXJmMWI5bW9ibnFIZkNRemtFTHlDMG1QeDJ1cWFOWG5tRFXSAWBBVV95cUxPT09qRUNHcVhnZFpGX21vT3Y5cnhHb21iel81WHNSMTVPZmlkX1NoZnZtWkJ3LU1vLWJCRWYwOG1pR3VfVWs2Q3dKTnIwYnM2R3JJM2tPS1YtZGRWYUJYekI?oc=5",
+      "summary": "현대차, 산림청과 전기차 ST1 기반 산불 대응 차량 실증사업에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "“9440억 모두 지급”…최태원, 9년 이혼 소송 끝내나",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uY2hjeUllWlhCZEhVczJheXFBaHVUQ2hnZHF5Z3Y0SXpzRVp5b1BKTVZaYzVveWtOempibVJxMG16WmlDT2RQX1U4T2V6SFJOVGJwRkE4QXQ5d9IBX0FVX3lxTE1hZ0MtMktsSU03bWlVQzZoZVNNbUg2R3ZLZzBLdzJCdC02aGJEVUpZX2gzUzVjcFBXRnBJQ0p2WU1fZlhpbGU4TE5ISXo5V1FQRmF5NzZkX0FmTTdjWjQw?oc=5",
-      "summary": "“9440억 모두 지급”…최태원, 9년 이혼 소송 끝내나에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "전체 가구 ¼은 '월세살이'…0.8%는 \"결혼 안 하고 연인과 산다\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzUE1MRGR5eVZUeC05VXljSVNRZ0kwWmVLT0wzY05HbWhfZ1RLZzBUTWlvaElTYWljTXJqcnlFSWV0ajZ3TzR3VWFMRmhXeUZRRmF0LVlKd09iUEHSAWBBVV95cUxOa0RTQnotREY4d3prZmQ1VEJ5TXViZ0Jnbll2TFFJaWtxNWFrWFJ1MUhkaVl2RWJLZmdzY0NsVnBqS1RwNmpYSnJCNWgxelcwUmkwdWlpcWNZbzBZeGIyaFQ?oc=5",
+      "summary": "전체 가구 ¼은 '월세살이'…0.8%는 \"결혼 안 하고 연인과 산다\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "\"최악의 경우 코스피 3000대까지 밀린다\"…전문가의 경고 [분석+]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53bzU3Xy03aGlrTkdZWGtyanE2ekNhWU5IVllzVHlNa2M4T2g2WXBNTVBTUTNiT1VES1RyWTdrM3RFSE9CMk4wMUttSDNsejBPbDcyVlQyTFVlUQ?oc=5",
-      "summary": "\"최악의 경우 코스피 3000대까지 밀린다\"…전문가의 경고 [분석+]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "'경제성장전략' 다시 '경제정책방향'으로 바뀐다…민생·양극화 대응 방점",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyQ2FtVDRHOGZRMU1fR1ZQZnltU3dNNlBOYkJRUlpxNzhxQ0t1dFhqNzM0bjNlTVhkeDFRTFFYbE91WXZWVHctcTZuX292SC1yRF9Lc1JqRV9CeDhQcElMaHZrb2hnaUhNVG5EaG92c0I?oc=5",
+      "summary": "'경제성장전략' 다시 '경제정책방향'으로 바뀐다…민생·양극화 대응 방점에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "AI 업계 '후폭풍' 예고한 머스크…\"심각한 자금난 닥칠 것\" [지금이뉴스]",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vdmxlMW9zM1Y2OERCRThxNVlJY1V0bGhfYVJpaHpqS1VFLTNEVUd0NnJOOFp5QzFPc2VOcEtzQjhFc1lyUFJJOTJNRVUxR0ZCQ3d0N1lDRkdKUWZhTFE?oc=5",
-      "summary": "AI 업계 '후폭풍' 예고한 머스크…\"심각한 자금난 닥칠 것\" [지금이뉴스]에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "이 대통령 “부동산 시장 조정 일반적 예측…미분양 불안감 해소 핵심”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YcTFCdExjV1VpRldlaTE0aF80WXNuSnd5a19uNUhxVHBrblFEZEhkNUtLa09KRU9fVzhfM3RUNHVkZFBKcHF4TVQ4VlNZWk12Z1RFVmJabExCX2s?oc=5",
+      "summary": "이 대통령 “부동산 시장 조정 일반적 예측…미분양 불안감 해소 핵심”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[세모경] AI 거품론 재점화…미국발 ‘블랙 먼데이’, 한국은 선방?",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfUW1mZ05JV25GcExLbDBJVW12TlFZQ1djSkptb0k3SmdWNXExNzlmM25hLWtVVm9URUMta1dQR0F2UmF1NVBUNWNrWmZQVENxMm9UNXBGMWd1T29uTjQwWmMwaW1wQkNRMWc?oc=5",
-      "summary": "[세모경] AI 거품론 재점화…미국발 ‘블랙 먼데이’, 한국은 선방?에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "[속보]코스피, 매수 사이드카 발동…올해 100번째 사이드카",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UcmIyUE9RWEdXbWl4WmMtRV9UZE0tSThHTFAyOGoyd01iamU1WVdfbGpnX1ZHd05xWElGTWQ3djRyblRfdTM4NnQtQXk2SVZpUjlVUlRaMUZrckVjWDBLdlN1VmhxRjAt0gFuQVVfeXFMTS1ySU1RZm5zY2ZiXzJLQkk5bUIzd1dEZ2tPZHFxY09CRkdVbkN0ZUNrdTVEMUVzZWFpdEw0WjIzVlkyY092cHJTbF9lVldWUWJaTml0UWQzSk1NeS1QdUNUaVpNbzVaNFZqb1o2eWc?oc=5",
+      "summary": "[속보]코스피, 매수 사이드카 발동…올해 100번째 사이드카에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     },
     {
-      "title": "[단독] 다크웹에 올라온 한전 유출 정보…해커 “입찰 정보도 있어”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBISkF6a2lkNkpJOVc1NTg2djhDYnNDTXJncE1FUUJBcnlMY292clMwaEptMk1LdWkxLVRsbkZWSzVtbTQxSXZaWkpyUy1BTHdnbUl4dUtnbm8tRnc?oc=5",
-      "summary": "[단독] 다크웹에 올라온 한전 유출 정보…해커 “입찰 정보도 있어”에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
+      "title": "정점식 \"지방선거용 증시 부양‥'이재명 버블 특검' 추진\"",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhTXBfbGh0UTJleXVUVnpnRl9HcksxSVdxR2x4cFB1MWMzeFVSb0dfMnc2QU5jRXhkUG14QUk2dndEWG5hOUY0TkFlMUM1SjhwY3hIUmo2YmtWWXFSQ3htS2FGX3hacWpVckpMVU9CSGZJWU13Z094eNIBeEFVX3lxTE95R3A0cE10RmRXVjNmTnM1MTBZaUd0SDZtNVAzWXdmV0dURWRXZ0tsdWk3ZTB0Ullzek9vRTN3R0paZHA0T0tZbjRwOVFGTG5qekF1N3U3NS1ScE1UWURnMVliYTNLeEt4a1lWclZnQndYOC1FcXN2RQ?oc=5",
+      "summary": "정점식 \"지방선거용 증시 부양‥'이재명 버블 특검' 추진\"에 대한 상세 취재 보도입니다. 금융시장 및 국내외 거시 경제 환경에 미칠 주요 변수와 산업 전반의 동향을 다루고 있습니다."
     }
   ],
   "schedules": [
